@@ -5,17 +5,25 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
 const EXPORT = path.join(ROOT, 'data', 'export');
-const MIGRATION = path.resolve(ROOT, '..');
-const INVENTORY = path.join(MIGRATION, 'inventory', 'urls.json');
+const INVENTORY = fs.existsSync(path.join(ROOT, 'inventory', 'urls.json'))
+  ? path.join(ROOT, 'inventory', 'urls.json')
+  : path.resolve(ROOT, '..', 'inventory', 'urls.json');
 
 function readJson(file) {
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 function urlPath(link) {
   try {
-    return new URL(link).pathname;
+    // Cloudflare Pages يفك ترميز مسار الطلب قبل مطابقته للملفات الثابتة،
+    // لذلك يجب تخزين المجلدات بالاسم العربي المفكوك مع إبقاء الروابط في
+    // خريطة الموقع والـ canonical كما هي في الموقع الأصلي.
+    return decodeURIComponent(new URL(link).pathname);
   } catch {
-    return '/';
+    try {
+      return new URL(link).pathname;
+    } catch {
+      return '/';
+    }
   }
 }
 function xmlEscape(s) {
@@ -85,7 +93,7 @@ if (missing.length) console.log(`مفقود من البناء: ${missing.length}
 const inventory = readJson(INVENTORY);
 const authorUrls = inventory.filter((u) => u.sitemap.includes('author-sitemap')).map((u) => u.url);
 for (const url of authorUrls) {
-  const rel = new URL(url).pathname.replace(/^\//, '');
+  const rel = decodeURIComponent(new URL(url).pathname).replace(/^\//, '');
   const dest = path.join(DIST, rel, 'index.html');
   if (fs.existsSync(dest)) continue;
   fs.mkdirSync(path.dirname(dest), { recursive: true });
@@ -148,7 +156,7 @@ fs.writeFileSync(
 
 // 5) تحقق: كل رابط في خريطة الموقع يجب أن يكون له ملف
 const missingUrls = inventory.filter((u) => {
-  const rel = new URL(u.url).pathname.replace(/^\//, '');
+  const rel = decodeURIComponent(new URL(u.url).pathname).replace(/^\//, '');
   return !fs.existsSync(path.join(DIST, rel, 'index.html'));
 });
 console.log(`خريطة الموقع: ${inventory.length} رابط — المفقود: ${missingUrls.length}`);
