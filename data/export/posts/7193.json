@@ -1,0 +1,215 @@
+{
+  "id": 7193,
+  "date": "2025-06-27T22:17:40",
+  "modified": "2025-06-04T22:18:20",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/",
+  "title": {
+    "rendered": "سورة الانفطار مكتوبة بخط كبير"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">سورة الانفطار (Surah Infitar) | وهي السورة رقم 82 وعدد آياتها 19 &#8211; مكية &#8211; وتقع في الصفحة رقم 587 من المصحف الشريف , و تعني بالانجليزية (The Cleaving Asunder), كتابة عادية املائية بخط كبير عريض واضح</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\r\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\r\n</div>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n</script>\r\n<div class=\"card mt-3\">\r\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة الانفطار</a></h3>\r\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/082.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/082.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/082.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/082.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/082.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/082.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/082.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/082.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/082.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/082.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/082.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/082.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/082.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/082.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/082.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/082.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/082.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/082.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/082.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/082.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/082.mp3\">ياسر الدوسري</option></select></form>\r\n  <div class=\"card-body\">\r\n<audio id=\"player\" controls=\"controls\">\r\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/082.mp3\" type=\"audio/mpeg\">\r\nYour browser does not support the audio element.\r\n</audio>\r\n\r\n  </div>\r\n</div>\r\n\r\n     <br />\r\n<script>\r\n  function updateplayer() {\r\n    // 1. الحصول على رابط القارئ المختار\r\n    var newSourceUrl = document.getElementById('reciter_ayates').value;\r\n\r\n    // 2. الحصول على عنصر المصدر داخل المشغل (الذي يحمل الـ ID = mp3ppl)\r\n    var sourceElement = document.getElementById('mp3ppl');\r\n\r\n    // 3. تحديث خاصية src لهذا العنصر بالرابط الجديد\r\n    sourceElement.src = newSourceUrl;\r\n\r\n    // 4. الحصول على عنصر المشغل نفسه (الذي يحمل الـ ID = player)\r\n    var player = document.getElementById('player');\r\n\r\n    // 5. أمر المشغل بإعادة تحميل الملف الصوتي الجديد\r\n    player.load();\r\n\r\n    // 6. (اختياري) يمكنك إلغاء التعليق عن السطر التالي ليبدأ التشغيل تلقائياً\r\n    // player.play();\r\n  }\r\n</script>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">Al-Infitar ( The Cleaving ) - الانفطار</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082001.mp3');\">إِذَا السَّمَاءُ انفَطَرَتْ <span class=\"sora_name_by_sora\">الانفطار [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082001.mp3');\">When the sky breaks apart <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082002.mp3');\">وَإِذَا الْكَوَاكِبُ انتَثَرَتْ <span class=\"sora_name_by_sora\">الانفطار [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082002.mp3');\">And when the stars fall, scattering, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082003.mp3');\">وَإِذَا الْبِحَارُ فُجِّرَتْ <span class=\"sora_name_by_sora\">الانفطار [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082003.mp3');\">And when the seas are erupted <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082004.mp3');\">وَإِذَا الْقُبُورُ بُعْثِرَتْ <span class=\"sora_name_by_sora\">الانفطار [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082004.mp3');\">And when the [contents of] graves are scattered, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082005.mp3');\">عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ <span class=\"sora_name_by_sora\">الانفطار [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082005.mp3');\">A soul will [then] know what it has put forth and kept back. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082006.mp3');\">يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ <span class=\"sora_name_by_sora\">الانفطار [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082006.mp3');\">O mankind, what has deceived you concerning your Lord, the Generous, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082007.mp3');\">الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ <span class=\"sora_name_by_sora\">الانفطار [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082007.mp3');\">Who created you, proportioned you, and balanced you? <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082008.mp3');\">فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ <span class=\"sora_name_by_sora\">الانفطار [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082008.mp3');\">In whatever form He willed has He assembled you. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082009.mp3');\">كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ <span class=\"sora_name_by_sora\">الانفطار [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082009.mp3');\">No! But you deny the Recompense. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082010.mp3');\">وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ <span class=\"sora_name_by_sora\">الانفطار [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082010.mp3');\">And indeed, [appointed] over you are keepers, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082011.mp3');\">كِرَامًا كَاتِبِينَ <span class=\"sora_name_by_sora\">الانفطار [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082011.mp3');\">Noble and recording; <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082012.mp3');\">يَعْلَمُونَ مَا تَفْعَلُونَ <span class=\"sora_name_by_sora\">الانفطار [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082012.mp3');\">They know whatever you do. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082013.mp3');\">إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ <span class=\"sora_name_by_sora\">الانفطار [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082013.mp3');\">Indeed, the righteous will be in pleasure, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082014.mp3');\">وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ <span class=\"sora_name_by_sora\">الانفطار [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082014.mp3');\">And indeed, the wicked will be in Hellfire. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082015.mp3');\">يَصْلَوْنَهَا يَوْمَ الدِّينِ <span class=\"sora_name_by_sora\">الانفطار [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082015.mp3');\">They will [enter to] burn therein on the Day of Recompense, <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082016.mp3');\">وَمَا هُمْ عَنْهَا بِغَائِبِينَ <span class=\"sora_name_by_sora\">الانفطار [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082016.mp3');\">And never therefrom will they be absent. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082017.mp3');\">وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ <span class=\"sora_name_by_sora\">الانفطار [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082017.mp3');\">And what can make you know what is the Day of Recompense? <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082018.mp3');\">ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ <span class=\"sora_name_by_sora\">الانفطار [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082018.mp3');\">Then, what can make you know what is the Day of Recompense? <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/082019.mp3');\">يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ <span class=\"sora_name_by_sora\">الانفطار [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/082019.mp3');\">It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah. <span class=\"sora_name_by_sora\">Al-Infitar ( The Cleaving ) [19]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة الانفطار (Surah Infitar) | وهي السورة رقم 82 وعدد آياتها 19 &#8211; مكية &#8211; وتقع&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6671,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الانفطار مكتوبة بخط كبير",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-الانفطار-مكتوبة-بخط-كبير/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الانفطار مكتوبة بخط كبير",
+    "og_url": "https://quranbook.org/سورة-الانفطار-مكتوبة-بخط-كبير/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-06-27T22:17:40+00:00",
+    "og_image": [
+      {
+        "width": 603,
+        "height": 849,
+        "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة الانفطار مكتوبة بخط كبير",
+          "datePublished": "2025-06-27T22:17:40+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/"
+          },
+          "wordCount": 17,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/",
+          "name": "سورة الانفطار مكتوبة بخط كبير",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "datePublished": "2025-06-27T22:17:40+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "width": 603,
+          "height": 849,
+          "caption": "تحميل المصحف الشريف pdf مجانًا"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b7%d8%a7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة الانفطار مكتوبة بخط كبير"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

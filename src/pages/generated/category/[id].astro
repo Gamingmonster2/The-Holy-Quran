@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getTerms, getPosts } from '../../../lib/content.mjs';
+
+export function getStaticPaths() {
+  return getTerms('categories').map((term) => ({
+    params: { id: String(term.id) },
+    props: { term },
+  }));
+}
+
+const { term } = Astro.props;
+const posts = getPosts()
+  .filter((p) => p.categories.includes(term.id))
+  .sort((a, b) => (a.modified < b.modified ? 1 : -1));
+---
+
+<BaseLayout
+  title={`${term.name} — QuranBook`}
+  description={`مقالات مصنّفة تحت: ${term.name}`}
+  canonical={`https://quranbook.org${term.path}`}
+>
+  <div class="qb-list">
+    <h1>{term.name}</h1>
+    <p class="qb-meta">{posts.length} مقالة في هذا التصنيف</p>
+    {posts.map((p) => (
+      <a class="qb-card" href={p.path}>
+        <b>{p.title}</b>
+        <small>{p.modified}</small>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

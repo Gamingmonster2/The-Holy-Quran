@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getPosts } from '../../../lib/content.mjs';
+
+export function getStaticPaths() {
+  const PER_PAGE = 10;
+  const all = getPosts()
+    .filter((p) => p.path !== '/blog/')
+    .sort((a, b) => (a.modified < b.modified ? 1 : -1));
+  const total = Math.ceil(all.length / PER_PAGE);
+  const paths = [];
+  for (let page = 2; page <= total; page++) {
+    paths.push({
+      params: { page: String(page) },
+      props: {
+        posts: all.slice((page - 1) * PER_PAGE, page * PER_PAGE),
+        page,
+        total,
+      },
+    });
+  }
+  return paths;
+}
+
+const { posts, page, total } = Astro.props;
+---
+
+<BaseLayout title={`المقالات — صفحة ${page} — QuranBook`}>
+  <div class="qb-list">
+    <h1>المقالات — صفحة {page}</h1>
+    {posts.map((p) => (
+      <a class="qb-card" href={p.path}>
+        <b>{p.title}</b>
+        <small>{p.modified}</small>
+      </a>
+    ))}
+    {page > 2 && <a class="qb-card" href={`/blog/page/${page - 1}/`}><b>← السابق</b></a>}
+    {page < total && <a class="qb-card" href={`/blog/page/${page + 1}/`}><b>التالي →</b></a>}
+  </div>
+</BaseLayout>

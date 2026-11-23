@@ -1,0 +1,218 @@
+{
+  "id": 6648,
+  "date": "2024-09-06T14:46:34",
+  "modified": "2025-11-12T18:52:53",
+  "slug": "%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/",
+  "title": {
+    "rendered": "تحميل مصحف الجماهيرية برواية قالون"
+  },
+  "content": {
+    "rendered": "<p><br /><br /><br /><br /></p>\n<p><style>\n        @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap');</p>\n<p>        body {<br />\n            font-family: 'Cairo', sans-serif;<br />\n            background-color: #f9f9f9;<br />\n            color: #333;<br />\n            margin: 0;<br />\n            padding: 20px;<br />\n            line-height: 1.8;<br />\n            font-size: 16px;<br />\n        }</p>\n<p>        .container {<br />\n            max-width: 900px;<br />\n            margin: auto;<br />\n            background-color: #fff;<br />\n            padding: 30px;<br />\n            border-radius: 10px;<br />\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);<br />\n        }</p>\n<p>        .article-content h2 {<br />\n            font-size: 1.8em;<br />\n            color: #2E7D32; /* أخضر داكن */<br />\n            font-weight: 700;<br />\n            margin-top: 30px;<br />\n            margin-bottom: 15px;<br />\n            border-bottom: 2px solid #DDF0DD;<br />\n            padding-bottom: 10px;<br />\n        }</p>\n<p>        .article-content p {<br />\n            margin-bottom: 15px;<br />\n            text-align: justify;<br />\n        }</p>\n<p>        .article-content strong {<br />\n            color: #388E3C; /* أخضر أغمق */<br />\n            font-weight: 600;<br />\n        }</p>\n<p>        .article-content blockquote {<br />\n            border-right: 4px solid #81C784; /* أخضر فاتح */<br />\n            margin-right: 0;<br />\n            padding-right: 20px;<br />\n            font-style: italic;<br />\n            color: #555;<br />\n            background-color: #F1F8E9; /* أخضر فاتح جداً */<br />\n        }</p>\n<p>        /* حاوية لعرض الـ Iframe بشكل متجاوب */<br />\n        .iframe-container {<br />\n            position: relative;<br />\n            width: 100%;<br />\n            overflow: hidden;<br />\n            padding-top: 68.57%; /* نسبة 560/384 المذكورة = 1.45. العكس هو 384/560 = 0.6857 أو 68.57% */<br />\n            margin: 20px 0;<br />\n            border-radius: 10px;<br />\n            box-shadow: 0 4px 10px rgba(0,0,0,0.1);<br />\n        }</p>\n<p>        .iframe-container iframe {<br />\n            position: absolute;<br />\n            top: 0;<br />\n            left: 0;<br />\n            width: 100%;<br />\n            height: 100%;<br />\n            border: 0;<br />\n        }</p>\n<p>        .download-section {<br />\n            margin-top: 40px;<br />\n            padding: 30px 20px; /* تعديل الحشو ليتناسب مع التعليمات */<br />\n            border-radius: 15px;<br />\n            background: linear-gradient(135deg, #4CAF50, #2E7D32); /* تدرج أخضر */<br />\n            color: white;<br />\n            box-shadow: 0 8px 25px rgba(46, 125, 50, 0.2);<br />\n            text-align: center;<br />\n        }</p>\n<p>        .download-section h3 {<br />\n            font-size: 2.2em;<br />\n            margin-top: 0;<br />\n            margin-bottom: 15px;<br />\n            font-weight: 700;<br />\n        }</p>\n<p>        .download-section p {<br />\n            font-size: 1.1em;<br />\n            margin-bottom: 25px;<br />\n            max-width: 600px;<br />\n            margin-left: auto;<br />\n            margin-right: auto;<br />\n        }</p>\n<p>        /* --- هذا هو التعديل المطلوب على الزر --- */<br />\n        .download-button {<br />\n            display: block; /* يجعل الرابط يملأ العرض المخصص له */<br />\n            max-width: 500px; /* تحديد أقصى عرض للزر */<br />\n            margin: 25px auto 15px auto; /* توسيط الزر وإعطائه هوامش */<br />\n            text-decoration: none;<br />\n            color: #2E7D32; /* لون النص */<br />\n            background-color: #fff; /* لون الخلفية (أبيض) */<br />\n            padding: 20px 30px; /* حشو داخلي كبير ليصبح \"مستطيل كبير\" */<br />\n            border-radius: 10px; /* زوايا مستطيلة (ليست دائرية) */<br />\n            font-weight: 700;<br />\n            font-size: 1.6em; /* خط كبير جداً وواضح */<br />\n            transition: transform 0.2s ease, background-color 0.2s ease;<br />\n            box-shadow: 0 4px 15px rgba(0,0,0,0.2);<br />\n            text-align: center;<br />\n        }</p>\n<p>        .download-button:hover {<br />\n            transform: scale(1.03); /* تأثير بسيط عند التمرير */<br />\n            background-color: #C8E6C9; /* تغيير اللون عند التمرير */<br />\n        }</p>\n<p>        /* --- هذه هي فقرة التعليمات الجديدة --- */<br />\n        .download-instructions {<br />\n            font-size: 1em;<br />\n            color: #E8F5E9; /* لون فاتح مريح للعين */<br />\n            max-width: 650px; /* تحديد عرض النص */<br />\n            margin: 20px auto 0 auto; /* توسيط */<br />\n            line-height: 1.6;<br />\n            text-align: center;<br />\n        }<br />\n        .download-instructions strong {<br />\n            color: #fff; /* إبراز الكلمة الافتتاحية */<br />\n        }</p>\n</style></p>\n<p> </p>\n<div class=\"container\">\n<div class=\"article-content\">\n<p>لكل قارئ للقرآن ارتباطٌ خاص بالنسخة التي نشأ عليها؛ صوت القارئ الذي ألفه، ورسم المصحف الذي ارتاحَتْ له عينه. وفي ليبيا ومناطق واسعة من شمال أفريقيا، يمثل &#8220;مصحف الجماهيرية&#8221; حالة فريدة من هذا الارتباط. إنه ليس مجرد مصحف، بل هو جزء من الذاكرة السمعية والبصرية لجيل كامل. إن البحث عن **تحميل مصحف الجماهيرية** هو في جوهره بحث عن العودة إلى الطمأنينة، وقراءة القرآن بالرواية التي تتقنها وتألفها: **رواية قالون عن نافع**.</p>\n<p>هذه النسخة ليست كغيرها، فهي تتميز بدقة علمية فريدة، حيث كُتبت على الرسم الذي اختاره الإمام الكبير &#8220;أبو عمرو الداني&#8221;، وهو ما يمنحها قيمة تاريخية وعلمية تضاف إلى قيمتها الروحية. في هذا المقال، نوفر لك رابطًا مباشرًا لتحميل هذه النسخة النفيسة بصيغة PDF عالية الدقة، مع إمكانية تصفحها مباشرة قبل التحميل.</p>\n<h2>ما هو &#8220;مصحف الجماهيرية&#8221; ولماذا هو مميز؟</h2>\n<p>يُعد مصحف الجماهيرية، الذي طُبع في ليبيا، أحد أهم المصاحف المعتمدة في العالم الإسلامي لقراء رواية قالون. تم الإشراف عليه من قبل لجنة من كبار العلماء والمدققين لضمان خروجه بأعلى درجات الدقة والضبط.</p>\n<p>لكن الميزة الأبرز التي قد لا يعرفها الكثيرون هي اعتماده على **رسم الإمام أبي عمرو الداني**. فما معنى ذلك؟</p>\n<blockquote>\n<p>&#8220;الرسم القرآني&#8221; هو علم يهتم بكيفية كتابة كلمات القرآن الكريم كما كُتبت في المصاحف العثمانية الأولى. والإمام أبو عمرو الداني (المتوفى 444 هـ) هو من أعظم علماء هذا الفن، وكتابه &#8220;المُقنِع في معرفة مرسوم مصاحف أهل الأمصار&#8221; هو عمدة في هذا الباب.</p>\n</blockquote>\n<p>بينما تتبع كثير من المصاحف الحديثة اختيارات الإمام أبي داود سليمان بن نجاح (تلميذ الداني)، يتميز مصحف الجماهيرية بالرجوع إلى اختيارات الإمام الداني الأصلية في كتاب &#8220;المقنع&#8221;. هذا يجعله نسخة ذات قيمة علمية وتاريخية كبيرة، ومرجعًا للباحثين والدارسين في علم الرسم القرآني، فضلاً عن كونه المصحف المعتمد والمألوف لعامة القراء في تلك المنطقة.</p>\n<h2>رواية قالون عن نافع: صوت ليبيا والمغرب العربي</h2>\n<p>إن **تحميل مصحف الجماهيرية** يعني بالضرورة قراءة القرآن برواية الإمام قالون عن نافع المدني. هذه الرواية هي السائدة في ليبيا وتونس وأجزاء من الجزائر وموريتانيا. بالنسبة لمن نشأ على هذه الرواية، فإن قراءة القرآن برواية أخرى قد تشعره ببعض الغرابة، فالاختلافات في النطق والمدود والهمزات، وإن كانت كلها متواترة وصحيحة، إلا أن الأذن تألف ما سمعته أولاً.</p>\n<p>لذلك، فإن توفير هذا المصحف بصيغة PDF عالية الجودة هو خدمة جليلة لكل من:</p>\n<ul>\n<li><strong>أهل ليبيا والمغرب العربي:</strong> سواء داخل بلادهم أو خارجها، ليقرؤوا بالرواية التي يحبونها.</li>\n<li><strong>طلاب العلم:</strong> الذين يدرسون علم القراءات ويحتاجون إلى نسخة مرجعية لرواية قالون برسم الداني.</li>\n<li><strong>كل مسلم:</strong> يرغب في استكشاف ثراء القراءات القرآنية المتواترة.</li>\n</ul>\n<h2>تصفح المصحف مباشرة (إصدار أرشيف)</h2>\n<p>قبل التحميل، يمكنك أخذ نظرة سريعة على المصحف وتصفح صفحاته مباشرة من خلال هذا العارض التفاعلي المقدم من موقع أرشيف الإنترنت (Archive.org). هذا يمنحك فرصة للتأكد من جودة النسخة ومطابقتها لما تبحث عنه.</p>\n<div class=\"iframe-container\"><iframe loading=\"lazy\" src=\"https://archive.org/embed/sa71mir_gmail_20151126_0908\" width=\"560\" height=\"384\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</div>\n<div class=\"download-section\">\n<h3>تحميل مصحف الجماهيرية (PDF)</h3>\n<p>للاحتفاظ بنسختك الكاملة على جهازك، اتبع الخطوات التالية:</p>\n<p><a class=\"download-button\" href=\"https://dn790005.ca.archive.org/0/items/sa71mir_gmail_20151126_0908/%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%D9%8A%D8%A9%20%D8%A8%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A7%D9%84%D9%88%D9%86%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D8%B0%D9%8A%20%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A3%D8%A8%D9%88%20%D8%B9%D9%85%D8%B1%D9%88%20%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D9%8A.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><br />لتحميل المصحف من هنا<br /></a></p>\n<p class=\"download-instructions\"><strong>ملاحظة هامة:</strong> بالضغط على الزر، ستفتح لك صفحة جديدة من موقع &#8220;أرشيف الإنترنت&#8221; (Internet Archive). انتظر قليلاً حتى يكتمل تحميل الصفحة، ثم ابحث عن علامة التحميل (سهم لأسفل تحته خط ⬇) واضغط عليها لبدء تنزيل المصحف إلى هاتفك أو حاسوبك.</p>\n</div>\n</div>\n<p> </p>\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://quranbook.org/%d8%a7%d9%84%d8%af%d9%88%d9%83%d8%a7%d9%84%d9%8a-%d9%85%d8%ad%d9%85%d8%af/\" target=\"_blank\" rel=\"noreferrer noopener\">الاستماع الى الشيخ الدوكالى محمد العالم</a></h3>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>  لكل قارئ للقرآن ارتباطٌ خاص بالنسخة التي نشأ عليها؛ صوت القارئ الذي ألفه، ورسم المصحف&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6649,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "تحميل مصحف الجماهيرية",
+    "description": "تحميل مصحف الجماهيرية PDF برواية قالون. نسخة أصلية عالية الدقة على رسم الإمام أبي عمرو الداني. رابط مباشر وسريع. #مصحف_الجماهيرية #قالون",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/تحميل-مصحف-الجماهيرية-برواية-قالون/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تحميل مصحف الجماهيرية",
+    "og_description": "تحميل مصحف الجماهيرية PDF برواية قالون. نسخة أصلية عالية الدقة على رسم الإمام أبي عمرو الداني. رابط مباشر وسريع. #مصحف_الجماهيرية #قالون",
+    "og_url": "https://quranbook.org/تحميل-مصحف-الجماهيرية-برواية-قالون/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2024-09-06T14:46:34+00:00",
+    "article_modified_time": "2025-11-12T18:52:53+00:00",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 627,
+        "url": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Servant of Islam",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "Servant of Islam",
+      "وقت القراءة المُقدّر": "4 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/"
+          },
+          "author": {
+            "name": "Servant of Islam",
+            "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee"
+          },
+          "headline": "تحميل مصحف الجماهيرية برواية قالون",
+          "datePublished": "2024-09-06T14:46:34+00:00",
+          "dateModified": "2025-11-12T18:52:53+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/"
+          },
+          "wordCount": 7,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/",
+          "url": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/",
+          "name": "تحميل مصحف الجماهيرية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+          "datePublished": "2024-09-06T14:46:34+00:00",
+          "dateModified": "2025-11-12T18:52:53+00:00",
+          "description": "تحميل مصحف الجماهيرية PDF برواية قالون. نسخة أصلية عالية الدقة على رسم الإمام أبي عمرو الداني. رابط مباشر وسريع. #مصحف_الجماهيرية #قالون",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+          "width": 1200,
+          "height": 627,
+          "caption": "تحميل مصحف الجماهيرية برواية قالون"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d9%82%d8%a7%d9%84%d9%88%d9%86/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "تحميل مصحف الجماهيرية برواية قالون"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee",
+          "name": "Servant of Islam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "caption": "Servant of Islam"
+          },
+          "url": "https://quranbook.org/author/servant-of-islam/"
+        }
+      ]
+    }
+  }
+}

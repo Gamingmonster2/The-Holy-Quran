@@ -1,0 +1,158 @@
+{
+  "id": 7539,
+  "date": "2025-11-26T12:38:56",
+  "modified": "2025-11-26T12:38:58",
+  "slug": "the-quranic-library",
+  "status": "publish",
+  "link": "https://quranbook.org/the-quranic-library/",
+  "title": {
+    "rendered": "The Quranic Library"
+  },
+  "content": {
+    "rendered": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>The Quranic Archive</title>\n    <style>\n        :root {\n            --wood-dark: #3E2723;\n            --wood-medium: #5D4037;\n            --wood-light: #8D6E63;\n            --shelf-shadow: rgba(0, 0, 0, 0.6);\n            --gold: #FFD700;\n            --paper: #F5F5DC;\n            --text-dark: #2c1810;\n        }\n\n        * {\n            box-sizing: border-box;\n            margin: 0;\n            padding: 0;\n        }\n\n        body {\n            font-family: 'Georgia', 'Times New Roman', serif;\n            background-color: var(--wood-dark);\n            /* CSS Wood Texture */\n            background-image: \n                repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0px, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 12px),\n                repeating-linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0.2) 1px, transparent 1px, transparent 40px),\n                linear-gradient(to bottom, #2d1b18, #4e342e);\n            color: var(--paper);\n            min-height: 100vh;\n            overflow-x: hidden;\n        }\n\n        /* Ambient Lighting Vignette */\n        body::after {\n            content: \"\";\n            position: fixed;\n            top: 0; left: 0; width: 100%; height: 100%;\n            background: radial-gradient(circle at center, transparent 0%, rgba(0,0,0,0.6) 90%);\n            pointer-events: none;\n            z-index: 100;\n        }\n\n        header {\n            text-align: center;\n            padding: 40px 20px;\n            background: linear-gradient(to bottom, rgba(0,0,0,0.4), transparent);\n            border-bottom: 4px solid var(--wood-dark);\n            box-shadow: 0 4px 10px var(--shelf-shadow);\n            position: relative;\n            z-index: 101;\n        }\n\n        h1 {\n            font-size: 2.5rem;\n            color: var(--gold);\n            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);\n            margin-bottom: 10px;\n            letter-spacing: 2px;\n            text-transform: uppercase;\n        }\n\n        .controls {\n            max-width: 800px;\n            margin: 20px auto;\n            display: flex;\n            gap: 10px;\n            flex-wrap: wrap;\n            justify-content: center;\n            background: rgba(0,0,0,0.3);\n            padding: 15px;\n            border-radius: 8px;\n            border: 1px solid var(--wood-light);\n        }\n\n        input, select, button {\n            padding: 12px;\n            border-radius: 4px;\n            border: 1px solid var(--wood-dark);\n            font-family: inherit;\n            font-size: 1rem;\n        }\n\n        input {\n            flex: 1;\n            min-width: 200px;\n            background: var(--paper);\n            color: var(--text-dark);\n        }\n\n        select {\n            background: var(--wood-light);\n            color: var(--paper);\n            cursor: pointer;\n        }\n\n        button {\n            background: var(--gold);\n            color: var(--wood-dark);\n            font-weight: bold;\n            cursor: pointer;\n            transition: all 0.2s;\n            border: 1px solid #b8860b;\n        }\n\n        button:hover {\n            background: #fffacd;\n            transform: translateY(-2px);\n            box-shadow: 0 4px 8px rgba(0,0,0,0.3);\n        }\n\n        /* Shelf Display */\n        .library-container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 40px 20px;\n            position: relative;\n            z-index: 10;\n        }\n\n        .shelf {\n            display: grid;\n            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n            gap: 40px 20px; /* Vertical gap simulates shelf height */\n            padding-bottom: 40px;\n        }\n\n        /* The Book Card */\n        .book-card {\n            background: transparent;\n            perspective: 1000px;\n            height: 320px;\n            cursor: pointer;\n            transition: transform 0.3s ease;\n            position: relative;\n        }\n\n        .book-card:hover {\n            transform: translateY(-10px) scale(1.02);\n            z-index: 20;\n        }\n\n        /* Shelf styling under each row (simulated via book bottom) */\n        .book-card::after {\n            content: '';\n            position: absolute;\n            bottom: -25px;\n            left: -10px;\n            right: -10px;\n            height: 15px;\n            background: linear-gradient(to bottom, #2a1810, #1a0f0a);\n            border-top: 2px solid #5d4037;\n            box-shadow: 0 5px 10px rgba(0,0,0,0.5);\n            z-index: -1;\n            border-radius: 2px;\n        }\n\n        .book-inner {\n            position: relative;\n            width: 100%;\n            height: 100%;\n            text-align: center;\n            transition: transform 0.6s;\n            transform-style: preserve-3d;\n            box-shadow: -5px 5px 15px rgba(0,0,0,0.4);\n        }\n\n        /* CSS Generated Cover (Fallback) */\n        .book-cover {\n            position: absolute;\n            width: 100%;\n            height: 100%;\n            backface-visibility: hidden;\n            border-radius: 2px 6px 6px 2px;\n            display: flex;\n            flex-direction: column;\n            justify-content: space-between;\n            padding: 15px;\n            background-color: #4a3b32; /* Fallback color */\n            /* Leather texture */\n            background-image: radial-gradient(rgba(255,255,255,0.1) 1px, transparent 1px);\n            background-size: 10px 10px;\n            border-left: 8px solid rgba(0,0,0,0.2); /* Spine shadow */\n            overflow: hidden;\n        }\n\n        .book-cover img {\n            position: absolute;\n            top: 0; left: 0;\n            width: 100%; height: 100%;\n            object-fit: cover;\n            border-radius: 2px 6px 6px 2px;\n            z-index: 1;\n        }\n\n        .book-content-overlay {\n            position: relative;\n            z-index: 2;\n            height: 100%;\n            display: flex;\n            flex-direction: column;\n            justify-content: center;\n            background: rgba(0,0,0,0.6); /* Darken image for text */\n            padding: 10px;\n            border: 1px solid rgba(218, 165, 32, 0.3);\n            opacity: 1;\n            transition: opacity 0.3s;\n        }\n        \n        /* If we have a real image, hide the text overlay initially, show on hover */\n        .has-image .book-content-overlay {\n            opacity: 0;\n            background: rgba(62, 39, 35, 0.95);\n        }\n        .has-image:hover .book-content-overlay {\n            opacity: 1;\n        }\n\n        .book-title {\n            font-size: 1.1rem;\n            color: var(--gold);\n            margin-bottom: 10px;\n            font-weight: bold;\n            line-height: 1.3;\n        }\n\n        .book-author {\n            font-size: 0.9rem;\n            color: #e0e0e0;\n            font-style: italic;\n        }\n\n        .book-meta {\n            margin-top: auto;\n            font-size: 0.8rem;\n            color: #aaa;\n            border-top: 1px solid rgba(255,255,255,0.2);\n            padding-top: 8px;\n        }\n\n        .book-link {\n            display: inline-block;\n            margin-top: 10px;\n            padding: 6px 12px;\n            background: var(--gold);\n            color: var(--wood-dark);\n            text-decoration: none;\n            font-weight: bold;\n            border-radius: 3px;\n            font-size: 0.8rem;\n        }\n\n        .book-link:hover {\n            background: #fff;\n        }\n\n        /* Loading Spinner */\n        .loader {\n            border: 8px solid rgba(255,255,255,0.1);\n            border-top: 8px solid var(--gold);\n            border-radius: 50%;\n            width: 60px;\n            height: 60px;\n            animation: spin 1s linear infinite;\n            margin: 50px auto;\n            display: none;\n        }\n\n        @keyframes spin {\n            0% { transform: rotate(0deg); }\n            100% { transform: rotate(360deg); }\n        }\n\n        .source-badge {\n            position: absolute;\n            top: 5px;\n            right: 5px;\n            font-size: 0.7rem;\n            background: rgba(0,0,0,0.5);\n            padding: 2px 6px;\n            border-radius: 4px;\n            color: #fff;\n            z-index: 3;\n        }\n\n        /* Utility for random book colors */\n        .bg-red { background-color: #8B0000; }\n        .bg-green { background-color: #006400; }\n        .bg-blue { background-color: #191970; }\n        .bg-black { background-color: #2F4F4F; }\n        .bg-brown { background-color: #8B4513; }\n\n        @media (max-width: 600px) {\n            h1 { font-size: 1.8rem; }\n            .shelf { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }\n            .book-card { height: 240px; }\n            .book-title { font-size: 0.9rem; }\n        }\n    </style>\n</head>\n<body>\n\n    <header>\n        <h1>🏛️ The Quranic Library</h1>\n        <p style=\"color: #d7ccc8; font-style: italic; margin-bottom: 20px;\">Explore texts, translations, and tafsir.</p>\n        \n        <div class=\"controls\">\n            <input type=\"text\" id=\"searchInput\" placeholder=\"Search (e.g., 'English Translation', 'Tafsir')...\" value=\"Quran Translation\">\n            <select id=\"langFilter\">\n                <option value=\"all\">All Languages</option>\n                <option value=\"eng\">English</option>\n                <option value=\"ara\">Arabic</option>\n                <option value=\"urd\">Urdu</option>\n                <option value=\"fre\">French</option>\n                <option value=\"ind\">Indonesian</option>\n            </select>\n            <button onclick=\"performSearch()\">Search Library</button>\n        </div>\n    </header>\n\n    <div class=\"library-container\">\n        <div class=\"loader\" id=\"loader\"></div>\n        <div class=\"shelf\" id=\"bookShelf\">\n            <!-- Books will be injected here -->\n        </div>\n    </div>\n\n    <script>\n        const MAX_RESULTS = 30;\n        const DEFAULT_QUERY = \"Quran\";\n        \n        // Helper to get random book color class\n        const colors = ['bg-red', 'bg-green', 'bg-blue', 'bg-black', 'bg-brown'];\n        function getRandomColor() {\n            return colors[Math.floor(Math.random() * colors.length)];\n        }\n\n        // Initialize\n        window.onload = () => {\n            performSearch();\n        };\n\n        async function performSearch() {\n            const query = document.getElementById('searchInput').value || DEFAULT_QUERY;\n            const lang = document.getElementById('langFilter').value;\n            const shelf = document.getElementById('bookShelf');\n            const loader = document.getElementById('loader');\n\n            shelf.innerHTML = '';\n            loader.style.display = 'block';\n\n            try {\n                // Fetch from both sources in parallel\n                const [olData, iaData] = await Promise.all([\n                    fetchOpenLibrary(query),\n                    fetchInternetArchive(query)\n                ]);\n\n                // Merge and Process\n                let allBooks = [...olData, ...iaData];\n\n                // Deduplicate based on title similarity or ID\n                allBooks = deduplicateBooks(allBooks);\n\n                // Filter by Language if selected\n                if (lang !== 'all') {\n                    allBooks = allBooks.filter(book => \n                        book.language && book.language.toLowerCase().includes(lang)\n                    );\n                }\n\n                // Sort by Year (descending) or Title\n                allBooks.sort((a, b) => (b.year || 0) - (a.year || 0));\n\n                // Limit\n                const displayBooks = allBooks.slice(0, MAX_RESULTS);\n\n                loader.style.display = 'none';\n                renderBooks(displayBooks);\n\n            } catch (error) {\n                console.error(\"Search failed:\", error);\n                loader.style.display = 'none';\n                shelf.innerHTML = `<div style=\"grid-column: 1/-1; text-align: center; color: #fff;\">\n                    <h3>Could not retrieve books at this time.</h3>\n                    <p>Please check your connection and try again.</p>\n                </div>`;\n            }\n        }\n\n        // --- Open Library API ---\n        async function fetchOpenLibrary(query) {\n            try {\n                const url = `https://openlibrary.org/search.json?q=${encodeURIComponent(query)}&subject=quran&limit=20`;\n                const response = await fetch(url);\n                const data = await response.json();\n                \n                return data.docs.map(doc => ({\n                    title: doc.title,\n                    author: doc.author_name ? doc.author_name[0] : 'Unknown',\n                    year: doc.first_publish_year || doc.publish_year ? Math.min(...(doc.publish_year || [doc.first_publish_year])) : null,\n                    language: doc.language ? doc.language.join(',') : '',\n                    cover: doc.cover_i ? `https://covers.openlibrary.org/b/id/${doc.cover_i}-M.jpg` : null,\n                    link: `https://openlibrary.org${doc.key}`,\n                    source: 'Open Library',\n                    id: doc.key\n                }));\n            } catch (e) {\n                console.warn(\"OL Fetch Error\", e);\n                return [];\n            }\n        }\n\n        // --- Internet Archive API ---\n        async function fetchInternetArchive(query) {\n            try {\n                // Advanced search query construction\n                const q = `(${encodeURIComponent(query)}) AND (subject:Quran OR title:Quran)`;\n                const fields = '&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=date&fl[]=language';\n                const url = `https://archive.org/advancedsearch.php?q=${q}${fields}&output=json&rows=20`;\n                \n                const response = await fetch(url);\n                const data = await response.json();\n\n                return data.response.docs.map(doc => ({\n                    title: doc.title,\n                    author: Array.isArray(doc.creator) ? doc.creator[0] : (doc.creator || 'Unknown'),\n                    year: doc.date ? parseInt(doc.date.substring(0, 4)) : null,\n                    language: Array.isArray(doc.language) ? doc.language[0] : (doc.language || ''),\n                    cover: null, // IA covers are harder to predict reliably without extra calls, using CSS fallback\n                    link: `https://archive.org/details/${doc.identifier}`,\n                    source: 'Internet Archive',\n                    id: doc.identifier\n                }));\n            } catch (e) {\n                console.warn(\"IA Fetch Error\", e);\n                return [];\n            }\n        }\n\n        // --- Deduplication Logic ---\n        function deduplicateBooks(books) {\n            const seen = new Set();\n            return books.filter(book => {\n                // Create a simplified signature (Title + Author)\n                const sig = (book.title + (book.author || '')).toLowerCase().replace(/[^a-z0-9]/g, '');\n                if (seen.has(sig)) return false;\n                seen.add(sig);\n                return true;\n            });\n        }\n\n        // --- Render Logic ---\n        function renderBooks(books) {\n            const shelf = document.getElementById('bookShelf');\n            \n            if (books.length === 0) {\n                shelf.innerHTML = `<div style=\"grid-column: 1/-1; text-align: center; color: #d7ccc8;\">\n                    <h3>No books found.</h3>\n                    <p>Try a different keyword or check spelling.</p>\n                </div>`;\n                return;\n            }\n\n            books.forEach((book, index) => {\n                const card = document.createElement('div');\n                card.className = 'book-card';\n                card.style.animation = `fadeIn 0.5s ease forwards ${index * 0.05}s`;\n                card.style.opacity = '0'; // For animation\n\n                const hasImage = !!book.cover;\n                const colorClass = getRandomColor();\n                \n                // Determine display language\n                let langDisplay = book.language;\n                if(langDisplay.includes('eng')) langDisplay = \"English\";\n                else if(langDisplay.includes('ara')) langDisplay = \"Arabic\";\n                else if(langDisplay.includes('urd')) langDisplay = \"Urdu\";\n                \n                const imageHtml = hasImage \n                    ? `<img decoding=\"async\" src=\"${book.cover}\" alt=\"${book.title}\" onerror=\"this.style.display='none'; this.parentElement.classList.remove('has-image');\">` \n                    : '';\n\n                card.innerHTML = `\n                    <div class=\"book-inner\">\n                        <div class=\"book-cover ${colorClass} ${hasImage ? 'has-image' : ''}\">\n                            ${imageHtml}\n                            <div class=\"source-badge\">${book.source === 'Open Library' ? 'OL' : 'IA'}</div>\n                            \n                            <div class=\"book-content-overlay\">\n                                <div>\n                                    <div class=\"book-title\">${truncate(book.title, 60)}</div>\n                                    <div class=\"book-author\">${truncate(book.author, 30)}</div>\n                                </div>\n                                <div class=\"book-meta\">\n                                    <div>${book.year || 'N/A'} • ${langDisplay || 'Unknown'}</div>\n                                    <a href=\"${book.link}\" target=\"_blank\" class=\"book-link\">Read Book</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                `;\n                shelf.appendChild(card);\n            });\n        }\n\n        function truncate(str, n) {\n            return (str && str.length > n) ? str.substr(0, n-1) + '&hellip;' : str;\n        }\n\n        // Add keyframe animation dynamically\n        const styleSheet = document.createElement(\"style\");\n        styleSheet.innerText = `\n            @keyframes fadeIn {\n                from { opacity: 0; transform: translateY(20px); }\n                to { opacity: 1; transform: translateY(0); }\n            }\n        `;\n        document.head.appendChild(styleSheet);\n\n    </script>\n</body>\n</html>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Quranic Archive 🏛️ The Quranic Library Explore texts, translations, and tafsir. All LanguagesEnglishArabicUrduFrenchIndonesian Search Library</p>\n",
+    "protected": false
+  },
+  "featured_media": 7507,
+  "yoast_head_json": {
+    "title": "The Quranic Library - Quran Book",
+    "description": "المكتبة عبارة عن مجموعة ضخمة من الكتب المرتبطة بأرشيف الإنترنت؛ ويمكنك تصفح جميع النسخ المتوفرة مجانًا.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/the-quranic-library/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "The Quranic Library - Quran Book",
+    "og_description": "المكتبة عبارة عن مجموعة ضخمة من الكتب المرتبطة بأرشيف الإنترنت؛ ويمكنك تصفح جميع النسخ المتوفرة مجانًا.",
+    "og_url": "https://quranbook.org/the-quranic-library/",
+    "og_site_name": "Quran Book",
+    "article_modified_time": "2025-11-26T12:38:58+00:00",
+    "og_image": [
+      {
+        "width": 435,
+        "height": 594,
+        "url": "https://quranbook.org/wp-content/uploads/2025/11/q1.png",
+        "type": "image/png"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/the-quranic-library/",
+          "url": "https://quranbook.org/the-quranic-library/",
+          "name": "The Quranic Library - Quran Book",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/the-quranic-library/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/the-quranic-library/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/11/q1.png",
+          "datePublished": "2025-11-26T12:38:56+00:00",
+          "dateModified": "2025-11-26T12:38:58+00:00",
+          "description": "المكتبة عبارة عن مجموعة ضخمة من الكتب المرتبطة بأرشيف الإنترنت؛ ويمكنك تصفح جميع النسخ المتوفرة مجانًا.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/the-quranic-library/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/the-quranic-library/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/the-quranic-library/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/11/q1.png",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/11/q1.png",
+          "width": 435,
+          "height": 594,
+          "caption": "مصحف حفص المصحف الخاصThe Quranic Library"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/the-quranic-library/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "The Quranic Library"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  }
+}

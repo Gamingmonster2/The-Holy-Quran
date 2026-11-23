@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getPosts } from '../../lib/content.mjs';
+
+const all = getPosts()
+  .filter((p) => p.path !== '/blog/')
+  .sort((a, b) => (a.modified < b.modified ? 1 : -1));
+const PER_PAGE = 10;
+const posts = all.slice(0, PER_PAGE);
+const totalPages = Math.ceil(all.length / PER_PAGE);
+---
+
+<BaseLayout title="المقالات — QuranBook" description="كل مقالات مكتبة القرآن الكريم">
+  <div class="qb-list">
+    <h1>المقالات</h1>
+    <p class="qb-meta">{all.length} مقالة — الصفحة 1 من {totalPages}</p>
+    {posts.map((p) => (
+      <a class="qb-card" href={p.path}>
+        <b>{p.title}</b>
+        <small>{p.modified}</small>
+      </a>
+    ))}
+    {totalPages > 1 && <a class="qb-card" href="/blog/page/2/"><b>الصفحة التالية →</b></a>}
+  </div>
+</BaseLayout>

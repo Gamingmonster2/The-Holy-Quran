@@ -1,0 +1,226 @@
+{
+  "id": 5402,
+  "date": "2024-04-10T08:20:41",
+  "modified": "2024-04-30T21:04:16",
+  "slug": "the-noble-quran-in-english-al-fatihah-the-opening",
+  "status": "publish",
+  "link": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/",
+  "title": {
+    "rendered": "The Noble quran in English"
+  },
+  "content": {
+    "rendered": "<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">Al-Fatihah ( The Opening ) - الفاتحة</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001001.mp3');\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ <span class=\"sora_name_by_sora\">الفاتحة [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001001.mp3');\">In the name of Allah, the Entirely Merciful, the Especially Merciful. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001002.mp3');\">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ <span class=\"sora_name_by_sora\">الفاتحة [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001002.mp3');\">[All] praise is [due] to Allah, Lord of the worlds - <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001003.mp3');\">الرَّحْمَٰنِ الرَّحِيمِ <span class=\"sora_name_by_sora\">الفاتحة [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001003.mp3');\">The Entirely Merciful, the Especially Merciful, <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001004.mp3');\">مَالِكِ يَوْمِ الدِّينِ <span class=\"sora_name_by_sora\">الفاتحة [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001004.mp3');\">Sovereign of the Day of Recompense. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001005.mp3');\">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ <span class=\"sora_name_by_sora\">الفاتحة [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001005.mp3');\">It is You we worship and You we ask for help. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001006.mp3');\">اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ <span class=\"sora_name_by_sora\">الفاتحة [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001006.mp3');\">Guide us to the straight path - <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001007.mp3');\">صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ <span class=\"sora_name_by_sora\">الفاتحة [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001007.mp3');\">The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [7]</span></div></div></p>\n\n\n<p class=\"wp-block-paragraph\">The entire Qur’an is in Arabic with English translation</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Noble quran in English Sahih International &#8211; Al-Fatihah ( The Opening )</p>\n",
+    "protected": false
+  },
+  "featured_media": 5732,
+  "categories": [
+    1021
+  ],
+  "tags": [
+    1022
+  ],
+  "yoast_head_json": {
+    "title": "Quran in English",
+    "description": "Quran in English,The Noble quran in English ,The Noble quran, The entire Qur’an is in Arabic with English translation",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "Quran in English",
+    "og_description": "Quran in English,The Noble quran in English ,The Noble quran, The entire Qur’an is in Arabic with English translation",
+    "og_url": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2024-04-10T08:20:41+00:00",
+    "article_modified_time": "2024-04-30T21:04:16+00:00",
+    "og_image": [
+      {
+        "width": 683,
+        "height": 477,
+        "url": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "The Noble quran in English",
+          "datePublished": "2024-04-10T08:20:41+00:00",
+          "dateModified": "2024-04-30T21:04:16+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/"
+          },
+          "wordCount": 17,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+          "keywords": [
+            "The Noble quran in English"
+          ],
+          "articleSection": [
+            "The Noble quran in English"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/",
+          "url": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/",
+          "name": "Quran in English",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+          "datePublished": "2024-04-10T08:20:41+00:00",
+          "dateModified": "2024-04-30T21:04:16+00:00",
+          "description": "Quran in English,The Noble quran in English ,The Noble quran, The entire Qur’an is in Arabic with English translation",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+          "width": 683,
+          "height": 477,
+          "caption": "تحميل المصحف كامل مكتوب بخط كبير بدون نت pdf"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/the-noble-quran-in-english-al-fatihah-the-opening/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "The Noble quran in English"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

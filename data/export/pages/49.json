@@ -1,0 +1,125 @@
+{
+  "id": 49,
+  "date": "2024-03-12T05:55:02",
+  "modified": "2024-04-21T13:48:52",
+  "slug": "blog",
+  "status": "publish",
+  "link": "https://quranbook.org/blog/",
+  "title": {
+    "rendered": "Blog"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "featured_media": 0,
+  "yoast_head_json": {
+    "title": "muslim religion",
+    "description": "muslim religion Islam is a monotheistic religion, and its followers are Muslims. Our Master Muhammad is the last and most complete of God’s messengers, among whom are Adam, Abraham, Moses, Jesus, and others. The Holy Quran is the word of God.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/blog/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "muslim religion",
+    "og_description": "muslim religion Islam is a monotheistic religion, and its followers are Muslims. Our Master Muhammad is the last and most complete of God’s messengers, among whom are Adam, Abraham, Moses, Jesus, and others. The Holy Quran is the word of God.",
+    "og_url": "https://quranbook.org/blog/",
+    "og_site_name": "Quran Book",
+    "article_modified_time": "2024-04-21T13:48:52+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "WebPage",
+            "CollectionPage"
+          ],
+          "@id": "https://quranbook.org/blog/",
+          "url": "https://quranbook.org/blog/",
+          "name": "muslim religion",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "datePublished": "2024-03-12T05:55:02+00:00",
+          "dateModified": "2024-04-21T13:48:52+00:00",
+          "description": "muslim religion Islam is a monotheistic religion, and its followers are Muslims. Our Master Muhammad is the last and most complete of God’s messengers, among whom are Adam, Abraham, Moses, Jesus, and others. The Holy Quran is the word of God.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/blog/#breadcrumb"
+          },
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/blog/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  }
+}

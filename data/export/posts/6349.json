@@ -1,0 +1,223 @@
+{
+  "id": 6349,
+  "date": "2024-06-12T13:43:39",
+  "modified": "2026-03-26T15:56:19",
+  "slug": "pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+  "title": {
+    "rendered": "تنزيل سورة يس مكتوبة كاملة pdf"
+  },
+  "content": {
+    "rendered": "<p><!DOCTYPE html><br />\n<html lang=\"ar\" dir=\"rtl\"><br />\n<head><br />\n    <meta charset=\"UTF-8\"><br />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><br />\n    <meta name=\"description\" content=\"تحميل وقراءة سورة يس كاملة مكتوبة بصيغة PDF وصور عالية الجودة، مع إمكانية الاستماع لأشهر القراء. تصفح سورة يس بالرسم العثماني.\"><br />\n    <title>تحميل سورة يس كاملة مكتوبة PDF وصور &#8211; استمع واقرأ</title></p>\n<p>    <!-- Tailwind CSS --><br />\n    <script src=\"https://cdn.tailwindcss.com\"></script></p>\n<p>    <!-- Google Fonts: Cairo (Sans-serif for headings), Amiri (Serif for body) -->\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&#038;family=Cairo:wght@400;600;800&#038;display=swap\" rel=\"stylesheet\">\n<p>    <!-- FontAwesome for Icons -->\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">\n<style>\n        body {\n            font-family: 'Amiri', serif;\n            background-color: #fcfbf9;\n            color: #333;\n        }\n        h1, h2, h3, h4, h5, h6, .nav-font {\n            font-family: 'Cairo', sans-serif;\n        }\n        /* Reading Progress Bar */\n        .progress-container {\n            position: fixed;\n            top: 0;\n            z-index: 50;\n            width: 100%;\n            height: 5px;\n            background: #e2e8f0;\n        }\n        .progress-bar {\n            height: 5px;\n            background: #0d9488;\n            width: 0%;\n        }\n        /* Digital Book Image Styling */\n        .quran-page {\n            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);\n            border: 1px solid #e5e7eb;\n            border-radius: 4px;\n            margin-bottom: 2rem;\n            width: 100%;\n            max-width: 600px;\n            height: auto;\n            display: block;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        html {\n            scroll-behavior: smooth;\n        }\n    </style>\n<p></head><br />\n<body class=\"antialiased leading-relaxed\"></p>\n<p>    <!-- Reading Progress Bar --></p>\n<div class=\"progress-container\">\n<div class=\"progress-bar\" id=\"progressBar\"></div>\n</p></div>\n<p>    <!-- Header / Nav --></p>\n<header class=\"bg-white shadow-sm sticky top-0 z-40\">\n<div class=\"max-w-5xl mx-auto px-4 py-4 flex justify-between items-center nav-font\">\n            <a href=\"#\" class=\"text-2xl font-bold text-teal-700 flex items-center gap-2\"><br />\n                <i class=\"fa-solid fa-book-quran\"></i> موقع القرآن<br />\n            </a></p>\n<nav class=\"hidden md:flex gap-6 text-gray-600 font-semibold\">\n                <a href=\"#intro\" class=\"hover:text-teal-600 transition\">المقدمة</a><br />\n                <a href=\"#listen\" class=\"hover:text-teal-600 transition\">الاستماع</a><br />\n                <a href=\"#download\" class=\"hover:text-teal-600 transition\">التحميل</a><br />\n                <a href=\"#read\" class=\"hover:text-teal-600 transition\">القراءة المباشرة</a><br />\n            </nav>\n</p></div>\n</header>\n<p>    <!-- Main Content --><br />\n    <main class=\"max-w-4xl mx-auto px-4 py-10\"></p>\n<p>        <!-- Article Header --></p>\n<article>\n<header class=\"text-center mb-10\">\n<h1 class=\"text-4xl md:text-5xl font-extrabold text-gray-900 mb-4 leading-tight\">تحميل وقراءة سورة يس كاملة مكتوبة</h1>\n<p class=\"text-lg md:text-xl text-gray-600 nav-font max-w-2xl mx-auto\">تصفح سورة يس بالرسم العثماني برواية حفص عن عاصم، مع إمكانية التحميل بصيغة PDF والاستماع لأعذب الأصوات.</p>\n<p><script>\n  function updateplayer() {\n    // 1. الحصول على رابط القارئ المختار\n    var newSourceUrl = document.getElementById('reciter_ayates').value;</p>\n<p>    // 2. الحصول على عنصر المصدر داخل المشغل (الذي يحمل الـ ID = mp3ppl)\n    var sourceElement = document.getElementById('mp3ppl');</p>\n<p>    // 3. تحديث خاصية src لهذا العنصر بالرابط الجديد\n    sourceElement.src = newSourceUrl;</p>\n<p>    // 4. الحصول على عنصر المشغل نفسه (الذي يحمل الـ ID = player)\n    var player = document.getElementById('player');</p>\n<p>    // 5. أمر المشغل بإعادة تحميل الملف الصوتي الجديد\n    player.load();</p>\n<p>    // 6. (اختياري) يمكنك إلغاء التعليق عن السطر التالي ليبدأ التشغيل تلقائياً\n    // player.play();\n  }\n</script></p>\n<p>                <!-- Featured Image --></p>\n<div class=\"mt-8 rounded-xl overflow-hidden shadow-lg\">\n                    <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2024/06/Designer-1024x536.png\" alt=\"تحميل سورة يس كاملة مكتوبة\" class=\"w-full h-auto object-cover\">\n                </div>\n</header>\n<p>            <!-- Table of Contents --></p>\n<div class=\"bg-teal-50 border border-teal-100 rounded-lg p-6 mb-10 nav-font shadow-sm\">\n<h3 class=\"text-xl font-bold text-teal-800 mb-4\"><i class=\"fa-solid fa-list-ul ml-2\"></i> محتويات المقال:</h3>\n<ul class=\"space-y-2 text-teal-700 font-semibold list-inside list-disc\">\n<li><a href=\"#intro\" class=\"hover:text-teal-900 hover:underline\">مقدمة وفضل سورة يس</a></li>\n<li><a href=\"#listen\" class=\"hover:text-teal-900 hover:underline\">الاستماع إلى سورة يس بصوت أشهر القراء</a></li>\n<li><a href=\"#download\" class=\"hover:text-teal-900 hover:underline\">تحميل سورة يس بصيغة PDF</a></li>\n<li><a href=\"#read\" class=\"hover:text-teal-900 hover:underline\">الكتاب الإلكتروني: قراءة سورة يس مباشرة</a></li>\n</ul></div>\n<p>            <!-- Content Sections --></p>\n<div class=\"prose prose-lg prose-teal max-w-none text-gray-800\">\n<p>                <!-- Introduction --></p>\n<section id=\"intro\" class=\"mb-12\">\n<h2 class=\"text-3xl font-bold text-gray-900 mb-4 border-b-2 border-teal-500 pb-2 inline-block\">مقدمة</h2>\n<p class=\"text-xl leading-loose\">\n                        الحمد لله رب العالمين، والصلاة والسلام على نبينا محمد وعلى آله وصحبه أجمعين. أما بعد:<br />\n                        يسعدنا أن نقدم لكم في هذا المقال المبارك <strong>سورة يس كاملة مكتوبة بالرسم العثماني</strong>، وفقاً لرواية حفص عن عاصم. لقد قمنا بتوفير السورة الكريمة بصيغة PDF لتسهيل القراءة على الهواتف المحمولة وأجهزة الكمبيوتر، بالإضافة إلى توفيرها ككتاب إلكتروني مصور يمكن تصفحه مباشرة من خلال متصفحك.\n                    </p>\n</section>\n<p>                <!-- Audio Section --></p>\n<section id=\"listen\" class=\"mb-12 bg-white p-6 rounded-xl shadow-md border border-gray-100\">\n<h2 class=\"text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3\">\n                        <i class=\"fa-solid fa-headphones text-teal-600\"></i> الاستماع إلى سورة يس<br />\n                    </h2>\n<p class=\"mb-4 text-lg\">اختر القارئ المفضل لديك واستمع إلى تلاوة خاشعة لسورة يس:</p>\n<div class=\"flex flex-col md:flex-row gap-4 items-center mb-6\">\n                        <select id=\"reciter_ayates\" onchange=\"updatePlayer()\" class=\"w-full md:w-1/2 p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-teal-500 focus:border-teal-500 nav-font text-lg outline-none bg-gray-50\"><option value=\"https://archive.org/download/Ammar-Almulla/036.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/036.mp3\">أحمد بن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/036.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/036.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/036.mp3\">سعود الشريم</option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/036.mp3\">أبو بكر الشاطري</option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/036.mp3\">عبد الباسط عبد الصمد (مجود)</option><option value=\"https://server11.mp3quran.net/sds/036.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/036.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/036.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/036.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/036.mp3\">عمر القزابري (ورش)</option><option value=\"https://server8.mp3quran.net/frs_a/036.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/036.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/036.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/036.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/036.mp3\">مصطفى إسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/036.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/036.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/036.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/036.mp3\">ياسر الدوسري</option></select>\n                    </div>\n<div class=\"w-full bg-gray-50 rounded-lg p-2 border border-gray-200\">\n                        <audio id=\"player\" controls class=\"w-full\"><source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/036.mp3\" type=\"audio/mpeg\">متصفحك لا يدعم تشغيل الملفات الصوتية.</audio>\n                    </div>\n</section>\n<p>                <!-- PDF Download Section --></p>\n<section id=\"download\" class=\"mb-12 text-center\">\n<h2 class=\"text-3xl font-bold text-gray-900 mb-4 border-b-2 border-teal-500 pb-2 inline-block\">تحميل سورة يس PDF</h2>\n<p class=\"text-lg mb-6\">يمكنك الآن تحميل سورة يس كاملة بصيغة PDF برسم المصحف العثماني (رواية حفص عن عاصم) للاحتفاظ بها وقراءتها في أي وقت بدون إنترنت.</p>\n<p>                    <a href=\"https://surahquran.com/surah-pdf/pdf/036.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-700 text-white nav-font font-bold py-4 px-8 rounded-full text-xl transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1\"><br />\n                        <i class=\"fa-solid fa-file-pdf text-2xl\"></i><br />\n                        تحميل سورة يس PDF<br />\n                    </a><br />\n                </section>\n<p>                <!-- Digital Book (Images) Section --></p>\n<section id=\"read\" class=\"mb-12\">\n<div class=\"text-center mb-8\">\n<h2 class=\"text-3xl font-bold text-gray-900 mb-4 border-b-2 border-teal-500 pb-2 inline-block\">الكتاب الإلكتروني: تصفح سورة يس</h2>\n<p class=\"text-lg text-gray-600\">لقد قمنا بتحويل ملف الـ PDF إلى صور عالية الجودة لتتمكن من قراءة السورة مباشرة من متصفحك بكل احترافية ووضوح، وكأنك تقرأ من المصحف الشريف.</p>\n</p></div>\n<div class=\"bg-gray-100 p-4 md:p-8 rounded-xl shadow-inner\">\n                        <!-- Image 0 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/0.jpg\" alt=\"سورة يس الصفحة 1\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 1 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/1.jpg\" alt=\"سورة يس الصفحة 2\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 2 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/2.jpg\" alt=\"سورة يس الصفحة 3\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 3 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/3.jpg\" alt=\"سورة يس الصفحة 4\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 4 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/4.jpg\" alt=\"سورة يس الصفحة 5\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 5 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/5.jpg\" alt=\"سورة يس الصفحة 6\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 6 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/6.jpg\" alt=\"سورة يس الصفحة 7\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 7 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/7.jpg\" alt=\"سورة يس الصفحة 8\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 8 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/8.jpg\" alt=\"سورة يس الصفحة 9\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 9 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/9.jpg\" alt=\"سورة يس الصفحة 10\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 10 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/10.jpg\" alt=\"سورة يس الصفحة 11\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 11 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/11.jpg\" alt=\"سورة يس الصفحة 12\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 12 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/12.jpg\" alt=\"سورة يس الصفحة 13\" class=\"quran-page\" loading=\"lazy\"><br />\n                        <!-- Image 13 --><br />\n                        <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2026/03/13.jpg\" alt=\"سورة يس الصفحة 14\" class=\"quran-page\" loading=\"lazy\">\n                    </div>\n</section>\n<p>                <!-- Conclusion --></p>\n<section class=\"mb-12\">\n<h3 class=\"text-2xl font-bold text-gray-900 mb-3\">خاتمة</h3>\n<p class=\"text-lg\">\n                        نسأل الله العلي القدير أن ينفعنا وإياكم بالقرآن العظيم، وأن يجعله ربيع قلوبنا ونور صدورنا وجلاء أحزاننا. لا تترددوا في مشاركة هذه الصفحة مع عائلتكم وأصدقائكم لتعم الفائدة ويكتب لكم الأجر إن شاء الله.\n                    </p>\n</section></div>\n</article>\n<hr class=\"my-10 border-gray-200\">\n<p>        <!-- Author Bio Section --></p>\n<div class=\"bg-white p-6 rounded-xl shadow-sm border border-gray-100 flex flex-col md:flex-row items-center md:items-start gap-6 mb-10\">\n            <img decoding=\"async\" src=\"https://picsum.photos/seed/author/150/150\" alt=\"صورة الكاتب\" class=\"w-24 h-24 rounded-full object-cover shadow-md border-2 border-teal-100\"></p>\n<div class=\"text-center md:text-right\">\n<h4 class=\"text-xl font-bold text-gray-900 mb-2 nav-font\">فريق عمل موقع القرآن</h4>\n<p class=\"text-gray-600 leading-relaxed\">\n                    نحن فريق متخصص في تصميم وتطوير المحتوى الإسلامي الرقمي. نهدف إلى توفير القرآن الكريم وعلومه بأفضل جودة وأسهل طرق الوصول للمسلمين في جميع أنحاء العالم. نسأل الله القبول والتوفيق.\n                </p>\n</p></div>\n</p></div>\n<p>        <!-- Share Section --></p>\n<div class=\"text-center nav-font\">\n<h4 class=\"text-xl font-bold text-gray-800 mb-4\">شارك المقال واكسب الأجر:</h4>\n<div class=\"flex justify-center gap-4\">\n                <a href=\"#\" class=\"bg-blue-600 text-white w-12 h-12 rounded-full flex items-center justify-center text-xl hover:bg-blue-700 transition shadow-md\" title=\"شارك على فيسبوك\"><br />\n                    <i class=\"fa-brands fa-facebook-f\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"bg-sky-500 text-white w-12 h-12 rounded-full flex items-center justify-center text-xl hover:bg-sky-600 transition shadow-md\" title=\"شارك على تويتر\"><br />\n                    <i class=\"fa-brands fa-twitter\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"bg-green-500 text-white w-12 h-12 rounded-full flex items-center justify-center text-xl hover:bg-green-600 transition shadow-md\" title=\"شارك على واتساب\"><br />\n                    <i class=\"fa-brands fa-whatsapp\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"bg-gray-700 text-white w-12 h-12 rounded-full flex items-center justify-center text-xl hover:bg-gray-800 transition shadow-md\" title=\"نسخ الرابط\"><br />\n                    <i class=\"fa-solid fa-link\"></i><br />\n                </a>\n            </div>\n</p></div>\n<p>    </main></p>\n<p>    <!-- Footer --></p>\n<footer class=\"bg-gray-900 text-gray-300 py-8 text-center nav-font mt-10\">\n<div class=\"max-w-4xl mx-auto px-4\">\n<p>&copy; 2023 موقع القرآن. جميع الحقوق محفوظة.</p>\n<p class=\"text-sm mt-2 text-gray-500\">تم التصميم بعناية لتوفير أفضل تجربة قراءة إلكترونية.</p>\n</p></div>\n</footer>\n<p>    <!-- Scripts --><br />\n    <script>\n        // Reading Progress Bar Script\n        window.onscroll = function() { updateProgressBar() };</p>\n<p>        function updateProgressBar() {\n            var winScroll = document.body.scrollTop || document.documentElement.scrollTop;\n            var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;\n            var scrolled = (winScroll / height) * 100;\n            document.getElementById(\"progressBar\").style.width = scrolled + \"%\";\n        }</p>\n<p>        // Audio Player Script\n        function updatePlayer() {\n            // 1. Get the link to the selected reciter\n            var newSourceUrl = document.getElementById('reciter_ayates').value;</p>\n<p>            // 2. Get the source element within the player\n            var sourceElement = document.getElementById('mp3ppl');</p>\n<p>            // 3. Update the src property of this element with the new URL\n            sourceElement.src = newSourceUrl;</p>\n<p>            // 4. Get the player element itself\n            var player = document.getElementById('player');</p>\n<p>            // 5. Instruct the player to reload the new audio file\n            player.load();</p>\n<p>            // 6. Start playback automatically\n            player.play().catch(function(error) {\n                console.log(\"Auto-play prevented by browser. User interaction needed.\");\n            });\n        }\n    </script><br />\n</body><br />\n</html></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تحميل سورة يس كاملة مكتوبة PDF وصور &#8211; استمع واقرأ موقع القرآن المقدمة الاستماع التحميل القراءة&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6471,
+  "categories": [
+    1099
+  ],
+  "tags": [
+    1100
+  ],
+  "yoast_head_json": {
+    "title": "تنزيل سورة يس مكتوبة pdf",
+    "description": "تحميل سوره ياسين كامله مكتوبه جاهزه للقراءه وايضا امكانيه تحميل ملف pdf وسورة ياسين مكتوبة كاملة بالتشكيل, PDF تنزيل سورة يس مكتوبة كاملة.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/pdf-تنزيل-سورة-يس-مكتوبة-كاملة/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تنزيل سورة يس مكتوبة pdf",
+    "og_description": "تحميل سوره ياسين كامله مكتوبه جاهزه للقراءه وايضا امكانيه تحميل ملف pdf وسورة ياسين مكتوبة كاملة بالتشكيل, PDF تنزيل سورة يس مكتوبة كاملة.",
+    "og_url": "https://quranbook.org/pdf-تنزيل-سورة-يس-مكتوبة-كاملة/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2024-06-12T13:43:39+00:00",
+    "article_modified_time": "2026-03-26T15:56:19+00:00",
+    "og_image": [
+      {
+        "width": 1080,
+        "height": 1080,
+        "url": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Servant of Islam",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "Servant of Islam",
+      "وقت القراءة المُقدّر": "6 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+          },
+          "author": {
+            "name": "Servant of Islam",
+            "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee"
+          },
+          "headline": "تنزيل سورة يس مكتوبة كاملة pdf",
+          "datePublished": "2024-06-12T13:43:39+00:00",
+          "dateModified": "2026-03-26T15:56:19+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+          },
+          "wordCount": 11,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+          "keywords": [
+            "PDF تنزيل سورة يس مكتوبة كاملة"
+          ],
+          "articleSection": [
+            "PDF تنزيل سورة يس مكتوبة كاملة"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+          "url": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+          "name": "تنزيل سورة يس مكتوبة pdf",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+          "datePublished": "2024-06-12T13:43:39+00:00",
+          "dateModified": "2026-03-26T15:56:19+00:00",
+          "description": "تحميل سوره ياسين كامله مكتوبه جاهزه للقراءه وايضا امكانيه تحميل ملف pdf وسورة ياسين مكتوبة كاملة بالتشكيل, PDF تنزيل سورة يس مكتوبة كاملة.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+          "width": 1080,
+          "height": 1080,
+          "caption": "تنزيل سورة يس مكتوبة"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/pdf-%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "تنزيل سورة يس مكتوبة كاملة pdf"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee",
+          "name": "Servant of Islam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "caption": "Servant of Islam"
+          },
+          "url": "https://quranbook.org/author/servant-of-islam/"
+        }
+      ]
+    }
+  }
+}

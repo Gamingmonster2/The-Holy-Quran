@@ -1,0 +1,218 @@
+{
+  "id": 6675,
+  "date": "2026-04-24T12:43:09",
+  "modified": "2026-04-24T12:43:10",
+  "slug": "%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/",
+  "title": {
+    "rendered": "تحميل القرآن الكريم PDF بدون إنترنت"
+  },
+  "content": {
+    "rendered": "<p><!DOCTYPE html><br />\n<html lang=\"ar\" dir=\"rtl\"><br />\n<head><br />\n    <meta charset=\"UTF-8\"><br />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><br />\n    <meta name=\"description\" content=\"دليلك الشامل لتحميل القرآن الكريم بصيغة PDF بمختلف الروايات (حفص، ورش، قالون، شعبة) مع التفسير الميسر والتجويد بخطوط واضحة وكبيرة.\"><br />\n    <meta name=\"keywords\" content=\"تحميل القرآن الكريم, مصحف PDF, التفسير الميسر, رواية ورش, رواية حفص, مصحف بخط كبير, تحميل مصحف\"><br />\n    <meta name=\"author\" content=\"فريق التحرير\"><br />\n    <title>تحميل القرآن الكريم بصيغة PDF: مصاحف متعددة الروايات مع التفسير الميسر</title></p>\n<p>    <!-- Tailwind CSS --><br />\n    <script src=\"https://cdn.tailwindcss.com\"></script></p>\n<p>    <!-- Google Fonts: Amiri (Serif for body) & Cairo (Sans-serif for headings) -->\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&#038;family=Cairo:wght@400;600;700;800&#038;display=swap\" rel=\"stylesheet\">\n<p>    <!-- FontAwesome for Icons -->\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">\n<p>    <script>\n        tailwind.config = {\n            theme: {\n                extend: {\n                    fontFamily: {\n                        sans: ['Cairo', 'sans-serif'], // Headings\n                        serif: ['Amiri', 'serif'],     // Body text\n                    },\n                    colors: {\n                        primary: '#065f46', // Emerald 800\n                        secondary: '#10b981', // Emerald 500\n                        glass: 'rgba(255, 255, 255, 0.4)',\n                        glassBorder: 'rgba(255, 255, 255, 0.5)',\n                    }\n                }\n            }\n        }\n    </script></p>\n<style>\n        /* Smooth Scrolling */\n        html {\n            scroll-behavior: smooth;\n        }</p>\n<p>        /* Glassmorphism Utilities */\n        .glass-box {\n            background: rgba(255, 255, 255, 0.65);\n            backdrop-filter: blur(12px);\n            -webkit-backdrop-filter: blur(12px);\n            border: 1px solid rgba(255, 255, 255, 0.8);\n            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);\n        }</p>\n<p>        .glass-table tr:hover {\n            background: rgba(255, 255, 255, 0.8);\n            transition: all 0.3s ease;\n        }</p>\n<p>        /* Abstract Background Elements for Glassmorphism effect */\n        .bg-shape-1 {\n            position: fixed;\n            top: -10%;\n            right: -5%;\n            width: 300px;\n            height: 300px;\n            background: #34d399;\n            border-radius: 50%;\n            filter: blur(80px);\n            opacity: 0.4;\n            z-index: -1;\n        }\n        .bg-shape-2 {\n            position: fixed;\n            bottom: -10%;\n            left: -5%;\n            width: 400px;\n            height: 400px;\n            background: #6ee7b7;\n            border-radius: 50%;\n            filter: blur(100px);\n            opacity: 0.3;\n            z-index: -1;\n        }\n    </style>\n<p></head><br />\n<body class=\"bg-gray-50 text-gray-800 font-serif antialiased relative overflow-x-hidden text-lg leading-loose\"></p>\n<p>    <!-- Background Shapes --></p>\n<div class=\"bg-shape-1\"></div>\n<div class=\"bg-shape-2\"></div>\n<p>    <!-- Reading Progress Bar --></p>\n<div class=\"fixed top-0 left-0 w-full h-1.5 bg-gray-200 z-50\">\n<div id=\"progress-bar\" class=\"h-full bg-primary w-0 transition-all duration-150 ease-out\"></div>\n</p></div>\n<p>    <!-- Main Container --><br />\n    <main class=\"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12\"></p>\n<p>        <!-- Article Header --></p>\n<header class=\"mb-10 text-center\">\n<div class=\"mb-6 rounded-2xl overflow-hidden shadow-2xl relative h-64 md:h-96 w-full\">\n                <img decoding=\"async\" src=\"https://picsum.photos/seed/quran/1200/600\" alt=\"القرآن الكريم\" class=\"w-full h-full object-cover\"></p>\n<div class=\"absolute inset-0 bg-black bg-opacity-30\"></div>\n</p></div>\n<h1 class=\"font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-4 leading-tight\">تحميل القرآن الكريم بصيغة PDF: مصاحف متعددة الروايات مع التفسير</h1>\n<p class=\"font-sans text-xl text-gray-600 mb-6\">دليلك الشامل لتحميل وقراءة المصحف الشريف بمختلف الروايات وبجودة عالية، مع روابط مباشرة ومحدثة لضمان سهولة الوصول.</p>\n<p>            <!-- Author Bio --></p>\n<div class=\"flex items-center justify-center gap-4 mt-8 glass-box p-4 rounded-full max-w-lg mx-auto\">\n                <img decoding=\"async\" src=\"https://picsum.photos/seed/author1/100/100\" alt=\"الكاتب\" class=\"w-12 h-12 rounded-full border-2 border-primary object-cover\"></p>\n<div class=\"text-right\">\n<h3 class=\"font-sans font-bold text-gray-900 text-base\">فريق التحرير الإسلامي</h3>\n<p class=\"text-sm text-gray-500 font-sans\">متخصصون في توفير المصادر الإسلامية الرقمية الموثوقة.</p>\n</p></div>\n</p></div>\n</header>\n<p>        <!-- Table of Contents --></p>\n<nav class=\"glass-box p-6 rounded-2xl mb-12\">\n<h2 class=\"font-sans text-2xl font-bold text-primary mb-4 flex items-center gap-2\">\n                <i class=\"fas fa-list-ul\"></i> محتويات المقال<br />\n            </h2>\n<ul class=\"space-y-2 font-sans font-semibold text-gray-700\">\n<li><a href=\"#introduction\" class=\"hover:text-primary transition-colors duration-200\">1. مقدمة عن تحميل المصحف الشريف</a></li>\n<li><a href=\"#downloads\" class=\"hover:text-primary transition-colors duration-200\">2. روابط تحميل المصاحف (جميع الروايات والتفسير)</a></li>\n<li><a href=\"#large-font\" class=\"hover:text-primary transition-colors duration-200\">3. تحميل المصحف بخط كبير جداً</a></li>\n</ul>\n</nav>\n<p>        <!-- Article Content --></p>\n<article class=\"space-y-10\">\n<p>            <!-- Introduction Section --></p>\n<section id=\"introduction\">\n<h2 class=\"font-sans text-3xl font-bold text-gray-900 mb-6 border-r-4 border-primary pr-4\">مقدمة عن تحميل المصحف الشريف</h2>\n<p class=\"mb-4 text-justify\">\n                    الحمد لله الذي أنزل كتابه الكريم رحمة للعالمين، وجعله دستورًا للأمة يضيء دروبها، والصلاة والسلام على النبي الأمين الذي بيّن أحكامه وهديه القويم.\n                </p>\n<p class=\"mb-6 text-justify\">\n                    اليوم نوفر لكم <strong>تحميل مصحف مع هامش التفسير الميسر PDF</strong>، وهو مصحف مميز يجمع بين وضوح النص القرآني وتفسير مبسط للآيات يساعد القارئ على فهم المعاني بسهولة. هذه الطبعة تأتي بتصميم أنيق وجودة طباعة رائعة، مما يجعلها مثالية للقراءة والتدبر والتعلم.\n                </p>\n<figure class=\"my-8 rounded-xl overflow-hidden shadow-lg border border-gray-200\">\n                    <img decoding=\"async\" src=\"https://picsum.photos/seed/islamicart/800/400\" alt=\"تحميل المصحف كامل مكتوب بخط كبير pdf\" class=\"w-full h-auto object-cover\"><figcaption class=\"text-center text-sm text-gray-500 p-2 font-sans bg-white\">نموذج لصفحات المصحف الشريف</figcaption></figure>\n</section>\n<p>            <!-- Downloads Section (The Glass Box Table) --></p>\n<section id=\"downloads\">\n<h2 class=\"font-sans text-3xl font-bold text-gray-900 mb-6 border-r-4 border-primary pr-4\">روابط تحميل المصاحف (تحديث جديد)</h2>\n<p class=\"mb-6 text-gray-700\">لقد قمنا بتحديث جميع الروابط لضمان عملها بشكل ممتاز. يمكنك الآن تحميل النسخة التي تناسبك من الجدول التالي المنسق لراحتك:</p>\n<div class=\"glass-box rounded-2xl overflow-hidden shadow-xl\">\n<div class=\"overflow-x-auto\">\n<table class=\"w-full text-right glass-table\">\n<thead>\n<tr class=\"bg-primary bg-opacity-10 border-b border-primary border-opacity-20\">\n<th class=\"p-5 font-sans font-bold text-primary text-xl w-3/4\"><i class=\"fas fa-book-open ml-2\"></i> اسم المصحف / الكتاب</th>\n<th class=\"p-5 font-sans font-bold text-primary text-xl text-center\"><i class=\"fas fa-download ml-2\"></i> رابط التحميل</th>\n</tr>\n</thead>\n<tbody class=\"divide-y divide-gray-200 divide-opacity-50 font-sans font-semibold text-gray-800\">\n<tr>\n<td class=\"p-5\">القرآن الكريم المصحف الوسط (حفص عن عاصم)</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/download-quran-pdf/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20-%20%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%88%D8%B3%D8%B7.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم المصحف الجوامعي (حفص عن عاصم)</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/mushaf-quran-pdf-download/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20-%20%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%85%D8%B9%D9%8A.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم مصحف مع هامش التفسير الميسر PDF</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-tafsir-pdf-download/%D8%A7%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D9%8A%D8%B3%D8%B1.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">الميسر في غريب القرآن الكريم PDF</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-tafsir-pdf-download/%D8%A7%D9%84%D9%85%D9%8A%D8%B3%D8%B1%20%D9%81%D9%89%20%D8%BA%D8%B1%D9%8A%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">التجويد الميسر PDF</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-tafsir-pdf-download/%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D9%8A%D8%B3%D8%B1.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم برواية ورش عن نافع</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-warsh-pdf/%D9%85%D8%B5%D8%AD%D9%81%20%D9%88%D8%B1%D8%B4.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم رواية قالون عن نافع</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-qalon/%D9%85%D8%B5%D8%AD%D9%81%20%D9%82%D8%A7%D9%84%D9%88%D9%86.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم برواية شعبة عن عاصم</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-shuba/%D9%85%D8%B5%D8%AD%D9%81%20%D8%B4%D8%B9%D8%A8%D8%A9.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم مصحف برواية السوسي عن أبي عمرو</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-mushaf-alsusy/%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%8A.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n<tr>\n<td class=\"p-5\">القرآن الكريم رواية الدوري عن أبي عمرو</td>\n<td class=\"p-5 text-center\">\n                                        <a href=\"https://archive.org/download/quran-dury/%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A.pdf\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-block bg-primary text-white px-6 py-2 rounded-full hover:bg-secondary transition-colors shadow-md\">تحميل <i class=\"fas fa-cloud-arrow-down mr-1\"></i></a>\n                                    </td>\n</tr>\n</tbody>\n</table></div>\n</p></div>\n</section>\n<p>            <!-- Large Font Section --></p>\n<section id=\"large-font\">\n<h2 class=\"font-sans text-3xl font-bold text-gray-900 mb-6 border-r-4 border-primary pr-4\">تحميل المصحف بخط كبير</h2>\n<div class=\"bg-white p-8 rounded-2xl shadow-sm border border-gray-100 flex flex-col md:flex-row items-center gap-6\">\n<div class=\"flex-1\">\n<p class=\"mb-4 text-justify\">\n                            للباحثين عن الراحة أثناء القراءة، خاصة لكبار السن أو من يفضلون الخطوط الواضحة والكبيرة، يمكنك تحميل المصحف كامل مكتوب بصيغة PDF للقراءة المريحة والواضحة.\n                        </p>\n<p>                        <a href=\"https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-pdf/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"inline-flex items-center gap-2 text-primary font-sans font-bold text-lg hover:text-secondary transition-colors\"><br />\n                            <i class=\"fas fa-external-link-alt\"></i> اضغط هنا لتحميل المصحف بخط كبير جدًا PDF<br />\n                        </a>\n                    </div>\n<div class=\"w-full md:w-1/3\">\n                        <img decoding=\"async\" src=\"https://picsum.photos/seed/reading/400/300\" alt=\"قراءة القرآن\" class=\"rounded-xl shadow-md w-full h-auto\">\n                    </div>\n</p></div>\n</section>\n</article>\n<p>        <!-- Share Section --></p>\n<section class=\"mt-16 border-t border-gray-200 pt-8 text-center\">\n<h3 class=\"font-sans text-2xl font-bold text-gray-800 mb-6\">شارك الأجر وانشر المقطع</h3>\n<div class=\"flex justify-center gap-4\">\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#25D366] text-white hover:opacity-80 transition-opacity shadow-lg\" title=\"شارك عبر واتساب\"><br />\n                    <i class=\"fab fa-whatsapp text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#1DA1F2] text-white hover:opacity-80 transition-opacity shadow-lg\" title=\"شارك عبر تويتر\"><br />\n                    <i class=\"fab fa-twitter text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#1877F2] text-white hover:opacity-80 transition-opacity shadow-lg\" title=\"شارك عبر فيسبوك\"><br />\n                    <i class=\"fab fa-facebook-f text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-gray-700 text-white hover:opacity-80 transition-opacity shadow-lg\" title=\"نسخ الرابط\" onclick=\"navigator.clipboard.writeText(window.location.href); alert('تم نسخ الرابط!'); return false;\"><br />\n                    <i class=\"fas fa-link text-xl\"></i><br />\n                </a>\n            </div>\n</section>\n<p>    </main></p>\n<p>    <!-- Footer --></p>\n<footer class=\"bg-gray-900 text-gray-400 py-8 text-center font-sans mt-12\">\n<p>&copy; 2026 &#8211; تم إعداد هذه الصفحة لتيسير الوصول إلى كتاب الله. لا تنسونا من صالح دعائكم.</p>\n</footer>\n<p>    <!-- JavaScript for Reading Progress Bar --><br />\n    <script>\n        window.onscroll = function() {\n            let winScroll = document.body.scrollTop || document.documentElement.scrollTop;\n            let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;\n            let scrolled = (winScroll / height) * 100;\n            document.getElementById(\"progress-bar\").style.width = scrolled + \"%\";\n        };\n    </script><br />\n</body><br />\n</html></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تحميل القرآن الكريم بصيغة PDF: مصاحف متعددة الروايات مع التفسير الميسر تحميل القرآن الكريم بصيغة PDF:&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6686,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "تحميل القرآن الكريم PDF بدون إنترنت",
+    "description": "تحميل القرآن الكريم PDF بدون إنترنت مجانًا لتتمكن من قراءة المصحف الشريف في أي مكان وأي وقت بدون الحاجة إلى اتصال بالشبكة.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/تحميل-القرآن-الكريم-pdf-بدون-إنترنت/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تحميل القرآن الكريم PDF بدون إنترنت",
+    "og_description": "تحميل القرآن الكريم PDF بدون إنترنت مجانًا لتتمكن من قراءة المصحف الشريف في أي مكان وأي وقت بدون الحاجة إلى اتصال بالشبكة.",
+    "og_url": "https://quranbook.org/تحميل-القرآن-الكريم-pdf-بدون-إنترنت/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2026-04-24T12:43:09+00:00",
+    "article_modified_time": "2026-04-24T12:43:10+00:00",
+    "og_image": [
+      {
+        "width": 1088,
+        "height": 774,
+        "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Servant of Islam",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "Servant of Islam",
+      "وقت القراءة المُقدّر": "4 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/"
+          },
+          "author": {
+            "name": "Servant of Islam",
+            "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee"
+          },
+          "headline": "تحميل القرآن الكريم PDF بدون إنترنت",
+          "datePublished": "2026-04-24T12:43:09+00:00",
+          "dateModified": "2026-04-24T12:43:10+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/"
+          },
+          "wordCount": 11,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/",
+          "url": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/",
+          "name": "تحميل القرآن الكريم PDF بدون إنترنت",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+          "datePublished": "2026-04-24T12:43:09+00:00",
+          "dateModified": "2026-04-24T12:43:10+00:00",
+          "description": "تحميل القرآن الكريم PDF بدون إنترنت مجانًا لتتمكن من قراءة المصحف الشريف في أي مكان وأي وقت بدون الحاجة إلى اتصال بالشبكة.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+          "width": 1088,
+          "height": 774,
+          "caption": "تحميل القرآن الكريم PDF بدون إنترنت, تحميل المصحف كامل بدون نت PDF"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-pdf-%d8%a8%d8%af%d9%88%d9%86-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "تحميل القرآن الكريم PDF بدون إنترنت"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee",
+          "name": "Servant of Islam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "caption": "Servant of Islam"
+          },
+          "url": "https://quranbook.org/author/servant-of-islam/"
+        }
+      ]
+    }
+  }
+}

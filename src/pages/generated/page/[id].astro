@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getPages } from '../../../lib/content.mjs';
+
+export function getStaticPaths() {
+  return getPages().map((page) => ({
+    params: { id: String(page.id) },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+  title={page.seoTitle}
+  description={page.seoDescription}
+  canonical={page.canonical}
+  schema={page.schema}
+  robots={page.robots}
+>
+  <article class="qb-article">
+    <div set:html={page.html} />
+  </article>
+</BaseLayout>

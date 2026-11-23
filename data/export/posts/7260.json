@@ -1,0 +1,221 @@
+{
+  "id": 7260,
+  "date": "2025-07-18T13:59:08",
+  "modified": "2025-07-18T13:59:10",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+  "title": {
+    "rendered": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">سورة المطففين بصوت جميل، نص مكتوب بخط كبير وترجمة إنجليزية واضحة تجعل تجربة القراءة والاستماع مميزة</p>\n\n\n\n<script>\r\n\r\nfunction updateplayer() {\r\nvar sourceUrl = document.getElementById('reciter_ayates').value;\r\n//alert(sourceUrl);\r\n//var source = document​.​getElementById​(​\"mp3_src\"​)​;\r\n//source.src = sourceUrl;\r\n//document​.​getElementById​(​\"mp3ppl\"​)​.​src = sourceUrl;\r\ndocument.getElementById('desc').innerHTML = sourceUrl;\r\n\r\n}\r\n\r\n</script>\r\n<div class=\"card mt-3\">\r\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة المطففين</a></h3>\r\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/083.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/083.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/083.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/083.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/083.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/083.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/083.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/083.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/083.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/083.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/083.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/083.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/083.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/083.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/083.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/083.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/083.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/083.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/083.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/083.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/083.mp3\">ياسر الدوسري</option></select></form>\r\n  <div class=\"card-body\">\r\n<audio id=\"player\" controls=\"controls\">\r\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/083.mp3\" type=\"audio/mpeg\">\r\nYour browser does not support the audio element.\r\n</audio>\r\n\r\n  </div>\r\n</div>\r\n\r\n     <br />\r\n<script>\r\n  function updateplayer() {\r\n    // 1. الحصول على رابط القارئ المختار\r\n    var newSourceUrl = document.getElementById('reciter_ayates').value;\r\n\r\n    // 2. الحصول على عنصر المصدر داخل المشغل (الذي يحمل الـ ID = mp3ppl)\r\n    var sourceElement = document.getElementById('mp3ppl');\r\n\r\n    // 3. تحديث خاصية src لهذا العنصر بالرابط الجديد\r\n    sourceElement.src = newSourceUrl;\r\n\r\n    // 4. الحصول على عنصر المشغل نفسه (الذي يحمل الـ ID = player)\r\n    var player = document.getElementById('player');\r\n\r\n    // 5. أمر المشغل بإعادة تحميل الملف الصوتي الجديد\r\n    player.load();\r\n\r\n    // 6. (اختياري) يمكنك إلغاء التعليق عن السطر التالي ليبدأ التشغيل تلقائياً\r\n    // player.play();\r\n  }\r\n</script>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\r\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\r\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">Al-Mutaffifin (Those Who Deal in Fraud) - المطففين</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083001.mp3');\">وَيْلٌ لِّلْمُطَفِّفِينَ <span class=\"sora_name_by_sora\">المطففين [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083001.mp3');\">Woe to those who give less [than due], <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083002.mp3');\">الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ <span class=\"sora_name_by_sora\">المطففين [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083002.mp3');\">Who, when they take a measure from people, take in full. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083003.mp3');\">وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ <span class=\"sora_name_by_sora\">المطففين [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083003.mp3');\">But if they give by measure or by weight to them, they cause loss. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083004.mp3');\">أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُم مَّبْعُوثُونَ <span class=\"sora_name_by_sora\">المطففين [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083004.mp3');\">Do they not think that they will be resurrected <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083005.mp3');\">لِيَوْمٍ عَظِيمٍ <span class=\"sora_name_by_sora\">المطففين [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083005.mp3');\">For a tremendous Day - <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083006.mp3');\">يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ <span class=\"sora_name_by_sora\">المطففين [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083006.mp3');\">The Day when mankind will stand before the Lord of the worlds? <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083007.mp3');\">كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ <span class=\"sora_name_by_sora\">المطففين [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083007.mp3');\">No! Indeed, the record of the wicked is in sijjeen. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083008.mp3');\">وَمَا أَدْرَاكَ مَا سِجِّينٌ <span class=\"sora_name_by_sora\">المطففين [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083008.mp3');\">And what can make you know what is sijjeen? <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083009.mp3');\">كِتَابٌ مَّرْقُومٌ <span class=\"sora_name_by_sora\">المطففين [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083009.mp3');\">It is [their destination recorded in] a register inscribed. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083010.mp3');\">وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ <span class=\"sora_name_by_sora\">المطففين [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083010.mp3');\">Woe, that Day, to the deniers, <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083011.mp3');\">الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ <span class=\"sora_name_by_sora\">المطففين [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083011.mp3');\">Who deny the Day of Recompense. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083012.mp3');\">وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ <span class=\"sora_name_by_sora\">المطففين [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083012.mp3');\">And none deny it except every sinful transgressor. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083013.mp3');\">إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ <span class=\"sora_name_by_sora\">المطففين [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083013.mp3');\">When Our verses are recited to him, he says, \"Legends of the former peoples.\" <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083014.mp3');\">كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ <span class=\"sora_name_by_sora\">المطففين [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083014.mp3');\">No! Rather, the stain has covered their hearts of that which they were earning. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083015.mp3');\">كَلَّا إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ <span class=\"sora_name_by_sora\">المطففين [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083015.mp3');\">No! Indeed, from their Lord, that Day, they will be partitioned. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083016.mp3');\">ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ <span class=\"sora_name_by_sora\">المطففين [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083016.mp3');\">Then indeed, they will [enter and] burn in Hellfire. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083017.mp3');\">ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنتُم بِهِ تُكَذِّبُونَ <span class=\"sora_name_by_sora\">المطففين [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083017.mp3');\">Then it will be said [to them], \"This is what you used to deny.\" <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083018.mp3');\">كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ <span class=\"sora_name_by_sora\">المطففين [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083018.mp3');\">No! Indeed, the record of the righteous is in 'illiyyun. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083019.mp3');\">وَمَا أَدْرَاكَ مَا عِلِّيُّونَ <span class=\"sora_name_by_sora\">المطففين [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083019.mp3');\">And what can make you know what is 'illiyyun? <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083020.mp3');\">كِتَابٌ مَّرْقُومٌ <span class=\"sora_name_by_sora\">المطففين [20]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083020.mp3');\">It is [their destination recorded in] a register inscribed <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083021.mp3');\">يَشْهَدُهُ الْمُقَرَّبُونَ <span class=\"sora_name_by_sora\">المطففين [21]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083021.mp3');\">Which is witnessed by those brought near [to Allah]. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083022.mp3');\">إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ <span class=\"sora_name_by_sora\">المطففين [22]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083022.mp3');\">Indeed, the righteous will be in pleasure <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083023.mp3');\">عَلَى الْأَرَائِكِ يَنظُرُونَ <span class=\"sora_name_by_sora\">المطففين [23]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083023.mp3');\">On adorned couches, observing. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083024.mp3');\">تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ <span class=\"sora_name_by_sora\">المطففين [24]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083024.mp3');\">You will recognize in their faces the radiance of pleasure. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083025.mp3');\">يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ <span class=\"sora_name_by_sora\">المطففين [25]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083025.mp3');\">They will be given to drink [pure] wine [which was] sealed. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083026.mp3');\">خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ <span class=\"sora_name_by_sora\">المطففين [26]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083026.mp3');\">The last of it is musk. So for this let the competitors compete. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083027.mp3');\">وَمِزَاجُهُ مِن تَسْنِيمٍ <span class=\"sora_name_by_sora\">المطففين [27]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083027.mp3');\">And its mixture is of Tasneem, <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083028.mp3');\">عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ <span class=\"sora_name_by_sora\">المطففين [28]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083028.mp3');\">A spring from which those near [to Allah] drink. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083029.mp3');\">إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ <span class=\"sora_name_by_sora\">المطففين [29]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083029.mp3');\">Indeed, those who committed crimes used to laugh at those who believed. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [29]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083030.mp3');\">وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ <span class=\"sora_name_by_sora\">المطففين [30]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083030.mp3');\">And when they passed by them, they would exchange derisive glances. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [30]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083031.mp3');\">وَإِذَا انقَلَبُوا إِلَىٰ أَهْلِهِمُ انقَلَبُوا فَكِهِينَ <span class=\"sora_name_by_sora\">المطففين [31]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083031.mp3');\">And when they returned to their people, they would return jesting. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [31]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083032.mp3');\">وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ <span class=\"sora_name_by_sora\">المطففين [32]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083032.mp3');\">And when they saw them, they would say, \"Indeed, those are truly lost.\" <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [32]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083033.mp3');\">وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ <span class=\"sora_name_by_sora\">المطففين [33]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083033.mp3');\">But they had not been sent as guardians over them. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [33]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083034.mp3');\">فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ <span class=\"sora_name_by_sora\">المطففين [34]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083034.mp3');\">So Today those who believed are laughing at the disbelievers, <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [34]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083035.mp3');\">عَلَى الْأَرَائِكِ يَنظُرُونَ <span class=\"sora_name_by_sora\">المطففين [35]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083035.mp3');\">On adorned couches, observing. <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [35]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/083036.mp3');\">هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ <span class=\"sora_name_by_sora\">المطففين [36]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/083036.mp3');\">Have the disbelievers [not] been rewarded [this Day] for what they used to do? <span class=\"sora_name_by_sora\">Al-Mutaffifin (Those Who Deal in Fraud) [36]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة المطففين بصوت جميل، نص مكتوب بخط كبير وترجمة إنجليزية واضحة تجعل تجربة القراءة والاستماع مميزة&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7067,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر",
+    "description": "سورة المطففين صوت واضح، نص مكتوب بخط كبير وترجمة إنجليزية لتجربة روحانية متكاملة. #سورة_المطففين",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-المطففين-مكتوبة-بخط-كبير-مع-الترج/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر",
+    "og_description": "سورة المطففين صوت واضح، نص مكتوب بخط كبير وترجمة إنجليزية لتجربة روحانية متكاملة. #سورة_المطففين",
+    "og_url": "https://quranbook.org/سورة-المطففين-مكتوبة-بخط-كبير-مع-الترج/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-07-18T13:59:08+00:00",
+    "article_modified_time": "2025-07-18T13:59:10+00:00",
+    "og_image": [
+      {
+        "width": 600,
+        "height": 600,
+        "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر",
+          "datePublished": "2025-07-18T13:59:08+00:00",
+          "dateModified": "2025-07-18T13:59:10+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/"
+          },
+          "wordCount": 10,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "articleSection": [
+            "سور القران مع الترجمه الانجليزيه"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+          "name": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "datePublished": "2025-07-18T13:59:08+00:00",
+          "dateModified": "2025-07-18T13:59:10+00:00",
+          "description": "سورة المطففين صوت واضح، نص مكتوب بخط كبير وترجمة إنجليزية لتجربة روحانية متكاملة. #سورة_المطففين",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "width": 600,
+          "height": 600,
+          "caption": "سور القران مع الترجمه الانجليزيه"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%81%d9%81%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة المطففين مكتوبة بخط كبير مع الترجمة الإنجليزية والاستماع المباشر"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getPosts } from '../../../lib/content.mjs';
+
+export function getStaticPaths() {
+  return getPosts().map((post) => ({
+    params: { id: String(post.id) },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<BaseLayout
+  title={post.seoTitle}
+  description={post.seoDescription}
+  canonical={post.canonical}
+  ogImage={post.ogImage}
+  schema={post.schema}
+  robots={post.robots}
+>
+  <article class="qb-article">
+    <div class="qb-meta">آخر تحديث: {post.modified}</div>
+    <div set:html={post.html} />
+  </article>
+</BaseLayout>

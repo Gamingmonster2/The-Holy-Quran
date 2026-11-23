@@ -1,0 +1,185 @@
+{
+  "id": 460,
+  "date": "2019-12-03T14:22:00",
+  "modified": "2019-12-03T14:22:00",
+  "slug": "%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/",
+  "title": {
+    "rendered": "أحمد البليهد | الرقية الشرعية"
+  },
+  "content": {
+    "rendered": "<div dir=\"rtl\" style=\"text-align: right;\"><iframe loading=\"lazy\" align=\"center\" allowtransparency=\"1\" frameborder=\"0\" height=\"670\" scrolling=\"no\" src=\"https://www.tvquran.com/ar/selections/author/102/embeddable\" width=\"825\"></iframe></p>\n<p>أحمد بن سعود بن عبد الله البليهد من المملكة العربية السعودية&nbsp; لدى أحمد البلهيد الكثير من الدورات التطويرية التي لها علاقة بالطب البديل والشرعية من الكتاب والسنة.&nbsp; كما يتوفر على تسجيل للشرعية في موقع تي في قرآن.</p></div>\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>أحمد بن سعود بن عبد الله البليهد من المملكة العربية السعودية&nbsp; لدى أحمد البلهيد الكثير من&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    349
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "أحمد البليهد | الرقية الشرعية",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/أحمد-البليهد-الرقية-الشرعية/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "أحمد البليهد | الرقية الشرعية",
+    "og_url": "https://quranbook.org/أحمد-البليهد-الرقية-الشرعية/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2019-12-03T14:22:00+00:00",
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "أحمد البليهد | الرقية الشرعية",
+          "datePublished": "2019-12-03T14:22:00+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/"
+          },
+          "wordCount": 2,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "articleSection": [
+            "أحمد البليهد"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/",
+          "url": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/",
+          "name": "أحمد البليهد | الرقية الشرعية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "datePublished": "2019-12-03T14:22:00+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d8%af-%d8%a7%d9%84%d8%b1%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "أحمد البليهد | الرقية الشرعية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

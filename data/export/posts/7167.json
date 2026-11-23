@@ -1,0 +1,221 @@
+{
+  "id": 7167,
+  "date": "2025-05-07T05:45:12",
+  "modified": "2025-05-07T05:47:50",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/",
+  "title": {
+    "rendered": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">سورة النبأ (Surah An Naba) | وهي السورة رقم 78 وعدد آياتها 40 &#8211; مكية &#8211; وتقع في الصفحة رقم 582 من المصحف الشريف , و تعني بالانجليزية (The Great News), كتابة عادية املائية بخط كبير عريض واضح.</p>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<script>\n\nfunction updateplayer() {\nvar sourceUrl = document.getElementById('reciter_ayates').value;\n//alert(sourceUrl);\n//var source = document​.​getElementById​(​\"mp3_src\"​)​;\n//source.src = sourceUrl;\n//document​.​getElementById​(​\"mp3ppl\"​)​.​src = sourceUrl;\ndocument.getElementById('desc').innerHTML = sourceUrl;\n\n}\n\n</script>\n<div class=\"card mt-3\">\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة النبأ</a></h3>\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/078.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/078.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/078.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/078.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/078.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/078.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/078.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/078.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/078.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/078.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/078.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/078.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/078.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/078.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/078.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/078.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/078.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/078.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/078.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/078.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/078.mp3\">ياسر الدوسري</option></select></form>\n  <div class=\"card-body\">\n<audio id=\"player\" controls=\"controls\">\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/078.mp3\" type=\"audio/mpeg\">\nYour browser does not support the audio element.\n</audio>\n\n  </div>\n<script>\n  function updateplayer() {\n    // الحصول على عنصر القائمة المنسدلة\n    var reciterSelect = document.getElementById('reciter_ayates');\n    // الحصول على رابط ملف الصوت للقارئ المختار\n    var newSourceUrl = reciterSelect.value;\n    // الحصول على عنصر مشغل الصوت\n    var player = document.getElementById('player');\n    // الحصول على عنصر المصدر داخل مشغل الصوت\n    var sourceElement = document.getElementById('mp3ppl');\n\n    // تحديث خاصية src لعنصر المصدر بالرابط الجديد\n    sourceElement.src = newSourceUrl;\n    // إعادة تحميل مشغل الصوت ليستخدم المصدر الجديد\n    player.load();\n    // يمكنك إضافة السطر التالي إذا أردت أن يبدأ التشغيل تلقائياً بعد الاختيار\n    // player.play();\n  }\n</script>\n\n\n\n<div style=\"height:45px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">An-Naba' ( The Great News ) - النبأ</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078001.mp3');\">عَمَّ يَتَسَاءَلُونَ <span class=\"sora_name_by_sora\">النبأ [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078001.mp3');\">About what are they asking one another? <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078002.mp3');\">عَنِ النَّبَإِ الْعَظِيمِ <span class=\"sora_name_by_sora\">النبأ [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078002.mp3');\">About the great news - <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078003.mp3');\">الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ <span class=\"sora_name_by_sora\">النبأ [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078003.mp3');\">That over which they are in disagreement. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078004.mp3');\">كَلَّا سَيَعْلَمُونَ <span class=\"sora_name_by_sora\">النبأ [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078004.mp3');\">No! They are going to know. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078005.mp3');\">ثُمَّ كَلَّا سَيَعْلَمُونَ <span class=\"sora_name_by_sora\">النبأ [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078005.mp3');\">Then, no! They are going to know. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078006.mp3');\">أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا <span class=\"sora_name_by_sora\">النبأ [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078006.mp3');\">Have We not made the earth a resting place? <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078007.mp3');\">وَالْجِبَالَ أَوْتَادًا <span class=\"sora_name_by_sora\">النبأ [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078007.mp3');\">And the mountains as stakes? <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078008.mp3');\">وَخَلَقْنَاكُمْ أَزْوَاجًا <span class=\"sora_name_by_sora\">النبأ [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078008.mp3');\">And We created you in pairs <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078009.mp3');\">وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا <span class=\"sora_name_by_sora\">النبأ [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078009.mp3');\">And made your sleep [a means for] rest <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078010.mp3');\">وَجَعَلْنَا اللَّيْلَ لِبَاسًا <span class=\"sora_name_by_sora\">النبأ [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078010.mp3');\">And made the night as clothing <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078011.mp3');\">وَجَعَلْنَا النَّهَارَ مَعَاشًا <span class=\"sora_name_by_sora\">النبأ [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078011.mp3');\">And made the day for livelihood <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078012.mp3');\">وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا <span class=\"sora_name_by_sora\">النبأ [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078012.mp3');\">And constructed above you seven strong [heavens] <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078013.mp3');\">وَجَعَلْنَا سِرَاجًا وَهَّاجًا <span class=\"sora_name_by_sora\">النبأ [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078013.mp3');\">And made [therein] a burning lamp <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078014.mp3');\">وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا <span class=\"sora_name_by_sora\">النبأ [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078014.mp3');\">And sent down, from the rain clouds, pouring water <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078015.mp3');\">لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا <span class=\"sora_name_by_sora\">النبأ [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078015.mp3');\">That We may bring forth thereby grain and vegetation <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078016.mp3');\">وَجَنَّاتٍ أَلْفَافًا <span class=\"sora_name_by_sora\">النبأ [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078016.mp3');\">And gardens of entwined growth. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078017.mp3');\">إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا <span class=\"sora_name_by_sora\">النبأ [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078017.mp3');\">Indeed, the Day of Judgement is an appointed time - <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078018.mp3');\">يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا <span class=\"sora_name_by_sora\">النبأ [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078018.mp3');\">The Day the Horn is blown and you will come forth in multitudes <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078019.mp3');\">وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا <span class=\"sora_name_by_sora\">النبأ [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078019.mp3');\">And the heaven is opened and will become gateways <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078020.mp3');\">وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا <span class=\"sora_name_by_sora\">النبأ [20]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078020.mp3');\">And the mountains are removed and will be [but] a mirage. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078021.mp3');\">إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا <span class=\"sora_name_by_sora\">النبأ [21]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078021.mp3');\">Indeed, Hell has been lying in wait <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078022.mp3');\">لِّلطَّاغِينَ مَآبًا <span class=\"sora_name_by_sora\">النبأ [22]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078022.mp3');\">For the transgressors, a place of return, <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078023.mp3');\">لَّابِثِينَ فِيهَا أَحْقَابًا <span class=\"sora_name_by_sora\">النبأ [23]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078023.mp3');\">In which they will remain for ages [unending]. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078024.mp3');\">لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا <span class=\"sora_name_by_sora\">النبأ [24]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078024.mp3');\">They will not taste therein [any] coolness or drink <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078025.mp3');\">إِلَّا حَمِيمًا وَغَسَّاقًا <span class=\"sora_name_by_sora\">النبأ [25]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078025.mp3');\">Except scalding water and [foul] purulence - <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078026.mp3');\">جَزَاءً وِفَاقًا <span class=\"sora_name_by_sora\">النبأ [26]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078026.mp3');\">An appropriate recompense. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078027.mp3');\">إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا <span class=\"sora_name_by_sora\">النبأ [27]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078027.mp3');\">Indeed, they were not expecting an account <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078028.mp3');\">وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا <span class=\"sora_name_by_sora\">النبأ [28]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078028.mp3');\">And denied Our verses with [emphatic] denial. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078029.mp3');\">وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا <span class=\"sora_name_by_sora\">النبأ [29]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078029.mp3');\">But all things We have enumerated in writing. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [29]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078030.mp3');\">فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا <span class=\"sora_name_by_sora\">النبأ [30]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078030.mp3');\">\"So taste [the penalty], and never will We increase you except in torment.\" <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [30]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078031.mp3');\">إِنَّ لِلْمُتَّقِينَ مَفَازًا <span class=\"sora_name_by_sora\">النبأ [31]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078031.mp3');\">Indeed, for the righteous is attainment - <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [31]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078032.mp3');\">حَدَائِقَ وَأَعْنَابًا <span class=\"sora_name_by_sora\">النبأ [32]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078032.mp3');\">Gardens and grapevines <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [32]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078033.mp3');\">وَكَوَاعِبَ أَتْرَابًا <span class=\"sora_name_by_sora\">النبأ [33]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078033.mp3');\">And full-breasted [companions] of equal age <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [33]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078034.mp3');\">وَكَأْسًا دِهَاقًا <span class=\"sora_name_by_sora\">النبأ [34]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078034.mp3');\">And a full cup. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [34]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078035.mp3');\">لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا <span class=\"sora_name_by_sora\">النبأ [35]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078035.mp3');\">No ill speech will they hear therein or any falsehood - <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [35]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078036.mp3');\">جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا <span class=\"sora_name_by_sora\">النبأ [36]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078036.mp3');\">[As] reward from your Lord, [a generous] gift [made due by] account, <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [36]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078037.mp3');\">رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا <span class=\"sora_name_by_sora\">النبأ [37]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078037.mp3');\">[From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [37]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078038.mp3');\">يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا <span class=\"sora_name_by_sora\">النبأ [38]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078038.mp3');\">The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [38]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078039.mp3');\">ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا <span class=\"sora_name_by_sora\">النبأ [39]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078039.mp3');\">That is the True Day; so he who wills may take to his Lord a [way of] return. <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [39]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/078040.mp3');\">إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا <span class=\"sora_name_by_sora\">النبأ [40]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/078040.mp3');\">Indeed, We have warned you of a near punishment on the Day when a man will observe what his hands have put forth and the disbeliever will say, \"Oh, I wish that I were dust!\" <span class=\"sora_name_by_sora\">An-Naba' ( The Great News ) [40]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة النبأ (Surah An Naba) | وهي السورة رقم 78 وعدد آياتها 40 &#8211; مكية &#8211;&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7067,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+    "description": "سورة النبأ مكتوبة بخط واضح وكبير، مع إمكانية الاستماع والترجمة الإنجليزية لتدبر شامل. #سورة_النبأ #جزء_عم #القرآن",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-النبأ-مكتوبة-بخط-كبير-مع-خاصية-الا/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+    "og_description": "سورة النبأ مكتوبة بخط واضح وكبير، مع إمكانية الاستماع والترجمة الإنجليزية لتدبر شامل. #سورة_النبأ #جزء_عم #القرآن",
+    "og_url": "https://quranbook.org/سورة-النبأ-مكتوبة-بخط-كبير-مع-خاصية-الا/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-05-07T05:45:12+00:00",
+    "article_modified_time": "2025-05-07T05:47:50+00:00",
+    "og_image": [
+      {
+        "width": 600,
+        "height": 600,
+        "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+          "datePublished": "2025-05-07T05:45:12+00:00",
+          "dateModified": "2025-05-07T05:47:50+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/"
+          },
+          "wordCount": 18,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "articleSection": [
+            "سور القران مع الترجمه الانجليزيه"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/",
+          "name": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "datePublished": "2025-05-07T05:45:12+00:00",
+          "dateModified": "2025-05-07T05:47:50+00:00",
+          "description": "سورة النبأ مكتوبة بخط واضح وكبير، مع إمكانية الاستماع والترجمة الإنجليزية لتدبر شامل. #سورة_النبأ #جزء_عم #القرآن",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "width": 600,
+          "height": 600,
+          "caption": "سور القران مع الترجمه الانجليزيه"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

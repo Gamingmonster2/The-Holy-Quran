@@ -1,0 +1,218 @@
+{
+  "id": 7459,
+  "date": "2025-11-28T13:18:01",
+  "modified": "2025-11-12T17:41:24",
+  "slug": "7459-2",
+  "status": "publish",
+  "link": "https://quranbook.org/7459-2/",
+  "title": {
+    "rendered": "استمع إلى المصاحف المرتلة للقرآن الكريم"
+  },
+  "content": {
+    "rendered": "<p><!DOCTYPE html><br />\n<html lang=\"ar\" dir=\"rtl\"><br />\n<head><br />\n    <meta charset=\"UTF-8\"><br />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><br />\n    <title>التلاوات الصوتية (نسخة iFrame)</title></p>\n<style>\n        body {\n            /* خطوط النظام الحديثة */\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n            line-height: 1.7;\n            background-color: #f9f9f9; /* رمادي فاتح جداً */\n            color: #333;\n            margin: 0;\n            padding: 20px;\n        }\n        .container {\n            max-width: 900px;\n            margin: auto;\n            background-color: #ffffff; /* أبيض */\n            padding: 25px;\n            border-radius: 8px;\n            box-shadow: 0 4px 10px rgba(0,0,0,0.05);\n            border: 1px solid #eeeeee; /* رمادي فاتح */\n        }</p>\n<p>        /* عناوين باللون الأسود */\n        h1, h2, h3 {\n            color: #333333;\n            border-bottom: 2px solid #eeeeee;\n            padding-bottom: 10px;\n        }\n        p { font-size: 1.1em; }</p>\n<p>        /* تنسيق الروابط (الأيقونات) */\n        .qari-list {\n            list-style-type: none;\n            padding: 0;\n            margin-bottom: 20px;\n            /* لجعل الأزرار في شبكة مرنة */\n            display: flex;\n            flex-wrap: wrap;\n            gap: 10px; \n        }\n        .qari-item a {\n            flex-grow: 1; /* لجعل الأزرار تملأ السطر */\n            min-width: 200px; /* أقل عرض للزر */</p>\n<p>            background-color: #ffffff; /* أبيض */\n            border: 1px solid #eeeeee; /* رمادي فاتح */\n            padding: 10px 15px;\n            text-decoration: none;\n            color: #333333; /* أسود */\n            font-weight: bold;\n            border-radius: 5px;\n            text-align: center;\n            transition: background-color 0.3s, box-shadow 0.3s;\n        }\n        .qari-item a:hover {\n            background-color: #f9f9f9; /* رمادي فاتح عند المرور */\n            box-shadow: 0 1px 3px rgba(0,0,0,0.08);\n        }\n        .qari-item small {\n            display: block;\n            font-weight: normal;\n            color: #555555;\n            font-size: 0.8em;\n            margin-top: 4px;\n        }</p>\n<p>        /* تنسيق الـ iFrame (بالألوان المطلوبة) */\n        #qari_frame {\n            width: 100%;\n            height: 900px; \n            border: 2px solid #eeeeee; /* إطار رمادي فاتح */\n            border-radius: 5px;\n            background-color: #f9f9f9; /* خلفية رمادية للإطار */\n        }\n    </style>\n<p></head><br />\n<body></p>\n<div class=\"container\">\n<h1>التلاوات الصوتية</h1>\n<p>استمع إلى المصاحف المرتلة للقرآن الكريم لقراء المجمّع المعتمدين.</p>\n<h2>حقوق الاستخدام</h2>\n<p>حقوق الاستخدام متاحة من قبل مجمع الملك فهد.</p>\n<hr style=\"border: none; border-top: 1px solid #eee; margin: 25px 0;\">\n<h3>اختر القارئ (سيتم محاولة تحميله في الإطار بالأسفل):</h3>\n<ul class=\"qari-list\">\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-huthify\" target=\"qari_view_frame\"><br />\n                    الشيخ علي الحذيفي <small>(حفص)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-muaiqly\" target=\"qari_view_frame\"><br />\n                    الشيخ ماهر المعيقلي <small>(حفص)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-ayyoub\" target=\"qari_view_frame\"><br />\n                    الشيخ محمد أيوب <small>(حفص)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-muhanna\" target=\"qari_view_frame\"><br />\n                    الشيخ خالد المهنا <small>(حفص)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-akhdar\" target=\"qari_view_frame\"><br />\n                    الشيخ إبراهيم الأخضر <small>(حفص)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-shouba-huthify\" target=\"qari_view_frame\"><br />\n                    الشيخ علي الحذيفي <small>(شعبة)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-qaloon-huthify\" target=\"qari_view_frame\"><br />\n                    الشيخ علي الحذيفي <small>(قالون)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-sousi-sediki\" target=\"qari_view_frame\"><br />\n                    الشيخ د.عثمان الصديقي <small>(السوسي)</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-douri-juhani\" target=\"qari_view_frame\"><br />\n                    الشيخ د.عبدالله الجهني <small>(الدوري)</small><br />\n                </a>\n            </li>\n</ul>\n<p>        <iframe \n            id=\"qari_frame\" \n            name=\"qari_view_frame\" \n            src=\"https://qurancomplex.gov.sa/quran-audios/\" \n            title=\"صفحة القارئ\"><br />\n            عذراً، متصفحك لا يدعم الـ iFrame.<br />\n        </iframe></p>\n<p style=\"text-align: center; font-size: 0.9em; color: #777;\">\n            (ملاحظة: إذا كان الإطار أعلاه فارغاً، فذلك لأن موقع المجمع يمنع عرضه بهذه الطريقة لأسباب أمنية)\n        </p>\n</p></div>\n<p></body><br />\n</html></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>التلاوات الصوتية (نسخة iFrame) التلاوات الصوتية استمع إلى المصاحف المرتلة للقرآن الكريم لقراء المجمّع المعتمدين. حقوق&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7360,
+  "categories": [
+    1150
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "تلاوات القراء: الحذيفي، المعيقلي، والمزيد",
+    "description": "المصحف المرتل بروايات مختلفة (حفص، قالون، السوسي، الدوري)تلاوات صوتية نادرة: الشيخ محمد أيوب والشيخ إبراهيم الأخضر.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/7459-2/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تلاوات القراء: الحذيفي، المعيقلي، والمزيد",
+    "og_description": "المصحف المرتل بروايات مختلفة (حفص، قالون، السوسي، الدوري)تلاوات صوتية نادرة: الشيخ محمد أيوب والشيخ إبراهيم الأخضر.",
+    "og_url": "https://quranbook.org/7459-2/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-11-28T13:18:01+00:00",
+    "og_image": [
+      {
+        "width": 574,
+        "height": 883,
+        "url": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/7459-2/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/7459-2/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "استمع إلى المصاحف المرتلة للقرآن الكريم",
+          "datePublished": "2025-11-28T13:18:01+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/7459-2/"
+          },
+          "wordCount": 2,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/7459-2/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+          "articleSection": [
+            "استماع القرآن الكريم"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/7459-2/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/7459-2/",
+          "url": "https://quranbook.org/7459-2/",
+          "name": "تلاوات القراء: الحذيفي، المعيقلي، والمزيد",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/7459-2/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/7459-2/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+          "datePublished": "2025-11-28T13:18:01+00:00",
+          "description": "المصحف المرتل بروايات مختلفة (حفص، قالون، السوسي، الدوري)تلاوات صوتية نادرة: الشيخ محمد أيوب والشيخ إبراهيم الأخضر.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/7459-2/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/7459-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/7459-2/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+          "width": 574,
+          "height": 883,
+          "caption": "استماع القرآن الكريم"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/7459-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "استمع إلى المصاحف المرتلة للقرآن الكريم"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

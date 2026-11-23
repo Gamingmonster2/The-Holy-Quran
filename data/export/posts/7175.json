@@ -1,0 +1,221 @@
+{
+  "id": 7175,
+  "date": "2025-05-19T18:05:49",
+  "modified": "2025-05-19T18:44:07",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/",
+  "title": {
+    "rendered": "سورة عبس مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "\n<h2 class=\"wp-block-heading\"><a>سورة عبس كتابة عادية بخط واضح و كبير</a></h2>\n\n\n\n<p class=\"wp-block-paragraph\">سورة عبس (Surah Abasa) | وهي السورة رقم 80 وعدد آياتها 42 &#8211; مكية &#8211; وتقع في الصفحة رقم 585 من المصحف الشريف , و تعني بالانجليزية (He Frowned), كتابة عادية املائية بخط كبير عريض واضح.</p>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<script>\n\nfunction updateplayer() {\nvar sourceUrl = document.getElementById('reciter_ayates').value;\n//alert(sourceUrl);\n//var source = document​.​getElementById​(​\"mp3_src\"​)​;\n//source.src = sourceUrl;\n//document​.​getElementById​(​\"mp3ppl\"​)​.​src = sourceUrl;\ndocument.getElementById('desc').innerHTML = sourceUrl;\n\n}\n\n</script>\n<div class=\"card mt-3\">\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة عبس</a></h3>\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/080.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/080.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/080.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/080.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/080.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/080.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/080.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/080.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/080.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/080.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/080.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/080.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/080.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/080.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/080.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/080.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/080.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/080.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/080.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/080.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/080.mp3\">ياسر الدوسري</option></select></form>\n  <div class=\"card-body\">\n<audio id=\"player\" controls=\"controls\">\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/080.mp3\" type=\"audio/mpeg\">\nYour browser does not support the audio element.\n</audio>\n\n  </div>\n</div>\n<script>\n  function updateplayer() {\n    // 1. الحصول على رابط القارئ المختار\n    var newSourceUrl = document.getElementById('reciter_ayates').value;\n\n    // 2. الحصول على عنصر المصدر داخل المشغل (الذي يحمل الـ ID = mp3ppl)\n    var sourceElement = document.getElementById('mp3ppl');\n\n    // 3. تحديث خاصية src لهذا العنصر بالرابط الجديد\n    sourceElement.src = newSourceUrl;\n\n    // 4. الحصول على عنصر المشغل نفسه (الذي يحمل الـ ID = player)\n    var player = document.getElementById('player');\n\n    // 5. أمر المشغل بإعادة تحميل الملف الصوتي الجديد\n    player.load();\n\n    // 6. (اختياري) يمكنك إلغاء التعليق عن السطر التالي ليبدأ التشغيل تلقائياً\n    // player.play();\n  }\n</script>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">Abasa ( He frowned ) - عبس</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080001.mp3');\">عَبَسَ وَتَوَلَّىٰ <span class=\"sora_name_by_sora\">عبس [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080001.mp3');\">The Prophet frowned and turned away <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080002.mp3');\">أَن جَاءَهُ الْأَعْمَىٰ <span class=\"sora_name_by_sora\">عبس [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080002.mp3');\">Because there came to him the blind man, [interrupting]. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080003.mp3');\">وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ <span class=\"sora_name_by_sora\">عبس [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080003.mp3');\">But what would make you perceive, [O Muhammad], that perhaps he might be purified <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080004.mp3');\">أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ <span class=\"sora_name_by_sora\">عبس [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080004.mp3');\">Or be reminded and the remembrance would benefit him? <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080005.mp3');\">أَمَّا مَنِ اسْتَغْنَىٰ <span class=\"sora_name_by_sora\">عبس [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080005.mp3');\">As for he who thinks himself without need, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080006.mp3');\">فَأَنتَ لَهُ تَصَدَّىٰ <span class=\"sora_name_by_sora\">عبس [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080006.mp3');\">To him you give attention. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080007.mp3');\">وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ <span class=\"sora_name_by_sora\">عبس [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080007.mp3');\">And not upon you [is any blame] if he will not be purified. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080008.mp3');\">وَأَمَّا مَن جَاءَكَ يَسْعَىٰ <span class=\"sora_name_by_sora\">عبس [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080008.mp3');\">But as for he who came to you striving [for knowledge] <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080009.mp3');\">وَهُوَ يَخْشَىٰ <span class=\"sora_name_by_sora\">عبس [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080009.mp3');\">While he fears [Allah], <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080010.mp3');\">فَأَنتَ عَنْهُ تَلَهَّىٰ <span class=\"sora_name_by_sora\">عبس [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080010.mp3');\">From him you are distracted. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080011.mp3');\">كَلَّا إِنَّهَا تَذْكِرَةٌ <span class=\"sora_name_by_sora\">عبس [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080011.mp3');\">No! Indeed, these verses are a reminder; <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080012.mp3');\">فَمَن شَاءَ ذَكَرَهُ <span class=\"sora_name_by_sora\">عبس [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080012.mp3');\">So whoever wills may remember it. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080013.mp3');\">فِي صُحُفٍ مُّكَرَّمَةٍ <span class=\"sora_name_by_sora\">عبس [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080013.mp3');\">[It is recorded] in honored sheets, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080014.mp3');\">مَّرْفُوعَةٍ مُّطَهَّرَةٍ <span class=\"sora_name_by_sora\">عبس [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080014.mp3');\">Exalted and purified, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080015.mp3');\">بِأَيْدِي سَفَرَةٍ <span class=\"sora_name_by_sora\">عبس [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080015.mp3');\">[Carried] by the hands of messenger-angels, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080016.mp3');\">كِرَامٍ بَرَرَةٍ <span class=\"sora_name_by_sora\">عبس [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080016.mp3');\">Noble and dutiful. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080017.mp3');\">قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ <span class=\"sora_name_by_sora\">عبس [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080017.mp3');\">Cursed is man; how disbelieving is he. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080018.mp3');\">مِنْ أَيِّ شَيْءٍ خَلَقَهُ <span class=\"sora_name_by_sora\">عبس [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080018.mp3');\">From what substance did He create him? <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080019.mp3');\">مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ <span class=\"sora_name_by_sora\">عبس [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080019.mp3');\">From a sperm-drop He created him and destined for him; <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080020.mp3');\">ثُمَّ السَّبِيلَ يَسَّرَهُ <span class=\"sora_name_by_sora\">عبس [20]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080020.mp3');\">Then He eased the way for him; <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080021.mp3');\">ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ <span class=\"sora_name_by_sora\">عبس [21]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080021.mp3');\">Then He causes his death and provides a grave for him. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080022.mp3');\">ثُمَّ إِذَا شَاءَ أَنشَرَهُ <span class=\"sora_name_by_sora\">عبس [22]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080022.mp3');\">Then when He wills, He will resurrect him. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080023.mp3');\">كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ <span class=\"sora_name_by_sora\">عبس [23]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080023.mp3');\">No! Man has not yet accomplished what He commanded him. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080024.mp3');\">فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ <span class=\"sora_name_by_sora\">عبس [24]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080024.mp3');\">Then let mankind look at his food - <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080025.mp3');\">أَنَّا صَبَبْنَا الْمَاءَ صَبًّا <span class=\"sora_name_by_sora\">عبس [25]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080025.mp3');\">How We poured down water in torrents, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080026.mp3');\">ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا <span class=\"sora_name_by_sora\">عبس [26]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080026.mp3');\">Then We broke open the earth, splitting [it with sprouts], <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080027.mp3');\">فَأَنبَتْنَا فِيهَا حَبًّا <span class=\"sora_name_by_sora\">عبس [27]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080027.mp3');\">And caused to grow within it grain <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080028.mp3');\">وَعِنَبًا وَقَضْبًا <span class=\"sora_name_by_sora\">عبس [28]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080028.mp3');\">And grapes and herbage <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080029.mp3');\">وَزَيْتُونًا وَنَخْلًا <span class=\"sora_name_by_sora\">عبس [29]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080029.mp3');\">And olive and palm trees <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [29]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080030.mp3');\">وَحَدَائِقَ غُلْبًا <span class=\"sora_name_by_sora\">عبس [30]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080030.mp3');\">And gardens of dense shrubbery <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [30]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080031.mp3');\">وَفَاكِهَةً وَأَبًّا <span class=\"sora_name_by_sora\">عبس [31]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080031.mp3');\">And fruit and grass - <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [31]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080032.mp3');\">مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ <span class=\"sora_name_by_sora\">عبس [32]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080032.mp3');\">[As] enjoyment for you and your grazing livestock. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [32]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080033.mp3');\">فَإِذَا جَاءَتِ الصَّاخَّةُ <span class=\"sora_name_by_sora\">عبس [33]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080033.mp3');\">But when there comes the Deafening Blast <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [33]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080034.mp3');\">يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ <span class=\"sora_name_by_sora\">عبس [34]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080034.mp3');\">On the Day a man will flee from his brother <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [34]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080035.mp3');\">وَأُمِّهِ وَأَبِيهِ <span class=\"sora_name_by_sora\">عبس [35]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080035.mp3');\">And his mother and his father <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [35]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080036.mp3');\">وَصَاحِبَتِهِ وَبَنِيهِ <span class=\"sora_name_by_sora\">عبس [36]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080036.mp3');\">And his wife and his children, <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [36]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080037.mp3');\">لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ <span class=\"sora_name_by_sora\">عبس [37]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080037.mp3');\">For every man, that Day, will be a matter adequate for him. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [37]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080038.mp3');\">وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ <span class=\"sora_name_by_sora\">عبس [38]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080038.mp3');\">[Some] faces, that Day, will be bright - <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [38]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080039.mp3');\">ضَاحِكَةٌ مُّسْتَبْشِرَةٌ <span class=\"sora_name_by_sora\">عبس [39]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080039.mp3');\">Laughing, rejoicing at good news. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [39]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080040.mp3');\">وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ <span class=\"sora_name_by_sora\">عبس [40]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080040.mp3');\">And [other] faces, that Day, will have upon them dust. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [40]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080041.mp3');\">تَرْهَقُهَا قَتَرَةٌ <span class=\"sora_name_by_sora\">عبس [41]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080041.mp3');\">Blackness will cover them. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [41]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/080042.mp3');\">أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ <span class=\"sora_name_by_sora\">عبس [42]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/080042.mp3');\">Those are the disbelievers, the wicked ones. <span class=\"sora_name_by_sora\">Abasa ( He frowned ) [42]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة عبس كتابة عادية بخط واضح و كبير سورة عبس (Surah Abasa) | وهي السورة رقم&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7067,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة عبس مكتوبة – بخط كبير وترجمة إنجليزية",
+    "description": "سورة عبس مكتوبة بخط كبير مع الاستماع والترجمة الإنجليزية الواضحة. #سورة_عبس #جزء_عم #القرآن",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-عبس-مكتوبة-بخط-كبير-مع-خاصية-الاست/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة عبس مكتوبة – بخط كبير وترجمة إنجليزية",
+    "og_description": "سورة عبس مكتوبة بخط كبير مع الاستماع والترجمة الإنجليزية الواضحة. #سورة_عبس #جزء_عم #القرآن",
+    "og_url": "https://quranbook.org/سورة-عبس-مكتوبة-بخط-كبير-مع-خاصية-الاست/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-05-19T18:05:49+00:00",
+    "article_modified_time": "2025-05-19T18:44:07+00:00",
+    "og_image": [
+      {
+        "width": 600,
+        "height": 600,
+        "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقتان"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة عبس مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+          "datePublished": "2025-05-19T18:05:49+00:00",
+          "dateModified": "2025-05-19T18:44:07+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/"
+          },
+          "wordCount": 16,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "articleSection": [
+            "سور القران مع الترجمه الانجليزيه"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/",
+          "name": "سورة عبس مكتوبة – بخط كبير وترجمة إنجليزية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "datePublished": "2025-05-19T18:05:49+00:00",
+          "dateModified": "2025-05-19T18:44:07+00:00",
+          "description": "سورة عبس مكتوبة بخط كبير مع الاستماع والترجمة الإنجليزية الواضحة. #سورة_عبس #جزء_عم #القرآن",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "width": 600,
+          "height": 600,
+          "caption": "سور القران مع الترجمه الانجليزيه"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b9%d8%a8%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة عبس مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

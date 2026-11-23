@@ -1,0 +1,218 @@
+{
+  "id": 7608,
+  "date": "2026-02-18T00:15:24",
+  "modified": "2026-02-20T00:37:19",
+  "slug": "%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85",
+  "status": "publish",
+  "link": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/",
+  "title": {
+    "rendered": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني"
+  },
+  "content": {
+    "rendered": "\n<div dir=\"rtl\" style=\"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; border-left: 5px solid #065f46;\">\n  <h2 style=\"color: #2d3748;\">التميز التقني خلف منصة Kitab.ly</h2>\n  <p>خلف الواجهة البسيطة لموقع <strong>Kitab.ly</strong> تكمن تقنيات ويب متطورة تم توظيفها بذكاء:</p>\n  <code style=\"display: block; background: #eee; padding: 10px; direction: ltr; text-align: left; border-radius: 5px;\">\n    CSS: mix-blend-mode & CSS Filters <br>\n    Framework: Tailwind CSS <br>\n    Structure: Single Page Architecture (SPA)\n  </code>\n  <p style=\"margin-top: 15px;\">تم تطوير نظام الأوضاع البصرية ليقوم بمعالجة صور المصحف برمجياً، مما يسمح بتحويل &#8220;الوضع الأبيض&#8221; إلى &#8220;وضع ليلي&#8221; أو &#8220;ورقي&#8221; بلمسة زر واحدة، وهو ما يجعل الموقع يعمل بكفاءة التطبيقات الأصلية (Native Apps) ولكن داخل المتصفح.</p>\n  <p>للمعاينة التقنية: <a href=\"https://www.kitab.ly\" target=\"_blank\">زيارة الموقع الرسمي</a></p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>التميز التقني خلف منصة Kitab.ly خلف الواجهة البسيطة لموقع Kitab.ly تكمن تقنيات ويب متطورة تم توظيفها&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7610,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/كيف-تم-بناء-kitab-ly؟-دمج-تقنيات-css-الحديثة-لخدم/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني",
+    "og_url": "https://quranbook.org/كيف-تم-بناء-kitab-ly؟-دمج-تقنيات-css-الحديثة-لخدم/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2026-02-18T00:15:24+00:00",
+    "article_modified_time": "2026-02-20T00:37:19+00:00",
+    "og_image": [
+      {
+        "width": 586,
+        "height": 619,
+        "url": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني",
+          "datePublished": "2026-02-18T00:15:24+00:00",
+          "dateModified": "2026-02-20T00:37:19+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/"
+          },
+          "wordCount": 9,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/",
+          "url": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/",
+          "name": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+          "datePublished": "2026-02-18T00:15:24+00:00",
+          "dateModified": "2026-02-20T00:37:19+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+          "width": 586,
+          "height": 619,
+          "caption": "كيف تم بناء Kitab.ly"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d9%83%d9%8a%d9%81-%d8%aa%d9%85-%d8%a8%d9%86%d8%a7%d8%a1-kitab-ly%d8%9f-%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-css-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d9%84%d8%ae%d8%af%d9%85/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "كيف تم بناء Kitab.ly؟ دمج تقنيات CSS الحديثة لخدمة النص القرآني"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

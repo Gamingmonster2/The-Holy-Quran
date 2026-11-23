@@ -1,0 +1,223 @@
+{
+  "id": 7303,
+  "date": "2025-08-07T08:11:09",
+  "modified": "2025-10-31T21:50:38",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/",
+  "title": {
+    "rendered": "سورة البقرة mp3 تحميل واستماع"
+  },
+  "content": {
+    "rendered": "\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\">استماع و تحميل سورة البقرة (Al-Baqarahsurah ) بصوت أشهر قراء العالم الاسلامي تلاوات خاشعة و مرتلة للاستماع و التحميل بجودة عالية بصيغة صوتية , عدد آيايتها 286 &#8211; وهي سوره مدنية صفحتها في المصحف: 2</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<style>\n.quran-card {\n  background-color: #fff;\n  border: 2px solid #ccc;\n  border-radius: 20px;\n  padding: 25px;\n  max-width: 700px;\n  margin: 40px auto;\n  text-align: center;\n  box-shadow: 0 4px 10px rgba(0,0,0,0.1);\n}\n.quran-title {\n  color: #000;\n  font-size: 26px;\n  font-weight: bold;\n  margin-bottom: 20px;\n}\n.select-reciter {\n  width: 80%;\n  font-size: 18px;\n  padding: 10px;\n  border-radius: 15px;\n  border: 1px solid #888;\n  background-color: #fff;\n  color: #000;\n  margin-bottom: 15px;\n}\n#audio-player {\n  width: 100%;\n  margin-top: 15px;\n  border-radius: 15px;\n}\n.reciter-name {\n  margin-top: 15px;\n  font-size: 20px;\n  font-weight: bold;\n  color: #000;\n}\n.quran-info {\n  width: 80%;\n  margin: 0 auto 25px auto;\n  border-collapse: collapse;\n  background: #f8f8f8;\n  border-radius: 10px;\n  overflow: hidden;\n  box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n}\n.quran-info th {\n  background-color: #333;\n  color: #fff;\n  padding: 12px;\n  font-size: 18px;\n}\n.quran-info td {\n  padding: 10px;\n  border-top: 1px solid #ccc;\n  font-size: 18px;\n}\n</style>\n\n<div class=\"quran-card\">\n  <div class=\"quran-title\">📖 الاستماع لسورة البقرة</div>\n\n  <table class=\"quran-info\">\n    <tr>\n      <th>عدد الآيات</th>\n      <th>مكان النزول</th>\n    </tr>\n    <tr>\n      <td>286 آية</td>\n      <td>مدنية</td>\n    </tr>\n  </table>\n\n  <select class=\"select-reciter\" id=\"reciter_ayates\" onchange=\"updateplayer()\">\n    <option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/002.mp3\">عبد الباسط مجود</option>\n    <option value=\"https://server11.mp3quran.net/sds/002.mp3\">عبد الرحمن السديس</option>\n    <option value=\"https://server6.mp3quran.net/bsfr/002.mp3\">عبد الله بصفر</option>\n    <option value=\"https://server13.mp3quran.net/jhn/002.mp3\">عبد الله الجهني</option>\n    <option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/002.mp3\">أحمد العجمي</option>\n    <option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/002.mp3\">أبو بكر الشاطري</option>\n    <option value=\"https://archive.org/download/Ammar-Almulla/002.mp3\">عمار الملا علي</option>\n    <option value=\"https://server9.mp3quran.net/omar_warsh/002.mp3\">عمر القزابري ورش</option>\n    <option value=\"https://server10.mp3quran.net/jleel/002.mp3\">خالد الجليل</option>\n    <option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/002.mp3\">حسن صالح</option>\n    <option value=\"https://download.quranicaudio.com/quran/huthayfi/002.mp3\">علي الحذيفي</option>\n    <option value=\"https://server12.mp3quran.net/maher/002.mp3\">ماهر المعيقلي</option>\n    <option value=\"https://server10.mp3quran.net/minsh/002.mp3\">محمد صديق المنشاوي</option>\n    <option value=\"https://server13.mp3quran.net/husr/002.mp3\">محمود خليل الحصري</option>\n    <option value=\"https://server8.mp3quran.net/afs/002.mp3\">مشاري العفاسي</option>\n    <option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/002.mp3\">مصطفى إسماعيل</option>\n    <option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/002.mp3\">نورين محمد صديق</option>\n    <option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/002.mp3\">سعد الغامدي</option>\n    <option value=\"https://server7.mp3quran.net/shur/002.mp3\">سعود الشريم</option>\n    <option value=\"https://server8.mp3quran.net/frs_a/002.mp3\">فارس عباد</option>\n    <option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/002.mp3\">ياسر الدوسري</option>\n  </select>\n\n  <audio id=\"audio-player\" controls>\n    <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/002.mp3\" type=\"audio/mpeg\">\n  </audio>\n\n  <div class=\"reciter-name\" id=\"current-reciter-name\">الآن تستمع إلى: عمار الملا علي</div>\n</div>\n\n<script>\nfunction updateplayer() {\n  var reciterSelect = document.getElementById('reciter_ayates');\n  var newSourceUrl = reciterSelect.value;\n  var sourceElement = document.getElementById('mp3ppl');\n  sourceElement.src = newSourceUrl;\n  var player = document.getElementById('audio-player');\n  player.load();\n  var currentName = reciterSelect.options[reciterSelect.selectedIndex].text;\n  document.getElementById('current-reciter-name').innerText = \"الآن تستمع إلى: \" + currentName;\n}\n</script>\n\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><strong><mark style=\"background-color:var(--global-palette7)\" class=\"has-inline-color\"><a href=\"https://holyquran.net/cgi-bin/prepare.pl?ch=6\" target=\"_blank\" rel=\"noreferrer noopener\">سورة الأنعام &#8211; سورة 6 &#8211; عدد آياتها 165</a></mark></strong></p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a8%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d9%84%d9%84%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84/\">تحميل القرآن الكريم بالتشكيل الكامل للموبايل: روابط مباشرة للتنزيل</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>استماع و تحميل سورة البقرة (Al-Baqarahsurah ) بصوت أشهر قراء العالم الاسلامي تلاوات خاشعة و مرتلة&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7301,
+  "categories": [
+    1147,
+    1146
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة البقرة mp3",
+    "description": "سورة البقرة mp3 سماع سورة البقرة mp3 - سورة البقرة ماهر المعيقلي.استماع و تحميل سورة البقرة بصوت أشهر قراء العالم الاسلامي تلاوات خاشعة و مرتلة للاستماع",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-البقرة-mp3/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة البقرة mp3",
+    "og_description": "سورة البقرة mp3 سماع سورة البقرة mp3 - سورة البقرة ماهر المعيقلي.استماع و تحميل سورة البقرة بصوت أشهر قراء العالم الاسلامي تلاوات خاشعة و مرتلة للاستماع",
+    "og_url": "https://quranbook.org/سورة-البقرة-mp3/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-08-07T08:11:09+00:00",
+    "article_modified_time": "2025-10-31T21:50:38+00:00",
+    "og_image": [
+      {
+        "width": 300,
+        "height": 168,
+        "url": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقتان"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة البقرة mp3 تحميل واستماع",
+          "datePublished": "2025-08-07T08:11:09+00:00",
+          "dateModified": "2025-10-31T21:50:38+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/"
+          },
+          "wordCount": 5,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+          "articleSection": [
+            "سورة البقرة",
+            "قرآن كريم mp3"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/",
+          "name": "سورة البقرة mp3",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+          "datePublished": "2025-08-07T08:11:09+00:00",
+          "dateModified": "2025-10-31T21:50:38+00:00",
+          "description": "سورة البقرة mp3 سماع سورة البقرة mp3 - سورة البقرة ماهر المعيقلي.استماع و تحميل سورة البقرة بصوت أشهر قراء العالم الاسلامي تلاوات خاشعة و مرتلة للاستماع",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+          "width": 300,
+          "height": 168,
+          "caption": "البقرة"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-mp3/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة البقرة mp3 تحميل واستماع"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

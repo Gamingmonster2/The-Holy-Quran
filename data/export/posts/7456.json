@@ -1,0 +1,221 @@
+{
+  "id": 7456,
+  "date": "2025-11-10T13:16:03",
+  "modified": "2025-11-10T13:17:17",
+  "slug": "%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/",
+  "title": {
+    "rendered": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد"
+  },
+  "content": {
+    "rendered": "<p><!DOCTYPE html><br />\n<html lang=\"ar\" dir=\"rtl\"><br />\n<head><br />\n    <meta charset=\"UTF-8\"><br />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><br />\n    <title>التلاوات الصوتية &#8211; مجمع الملك فهد</title></p>\n<style>\n        body {\n            /* تم تغيير الخط لخطوط النظام الحديثة ليتناسب مع موقعك */\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n            line-height: 1.7;\n            background-color: #f9f9f9; /* خلفية رمادي فاتح جداً */\n            color: #333; /* لون النص الأساسي */\n            margin: 0;\n            padding: 20px;\n        }\n        .container {\n            max-width: 900px;\n            margin: auto;\n            background-color: #ffffff; /* خلفية المحتوى بيضاء */\n            padding: 25px;\n            border-radius: 8px;\n            box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* ظل خفيف */\n            border: 1px solid #eeeeee; /* إطار رمادي فاتح */\n        }</p>\n<p>        /* ألوان العناوين (أسود) */\n        h1, h2, h3 {\n            color: #333333;\n            border-bottom: 2px solid #eeeeee; /* خط فاصل رمادي فاتح */\n            padding-bottom: 10px;\n        }\n        p { \n            margin-bottom: 15px;\n            font-size: 1.1em;\n        }</p>\n<p>        /* تنسيق \"الأيقونات\" أو الأزرار الخاصة بالقراء (التصميم الجديد) */\n        .qari-list {\n            list-style-type: none;\n            padding: 0;\n        }\n        .qari-item a {\n            display: block;\n            background-color: #ffffff; /* خلفية الزر (أبيض) */\n            border: 1px solid #eeeeee; /* إطار الزر (رمادي فاتح) */\n            padding: 15px 20px;\n            margin-bottom: 10px;\n            text-decoration: none;\n            color: #333333; /* لون نص الزر (أسود) */\n            font-weight: bold;\n            font-size: 1.1em;\n            border-radius: 5px;\n            transition: background-color 0.3s, box-shadow 0.3s;\n        }</p>\n<p>        /* تنسيق الأزرار عند مرور الماوس */\n        .qari-item a:hover {\n            background-color: #f9f9f9; /* خلفية الزر عند المرور (رمادي فاتح) */\n            box-shadow: 0 1px 3px rgba(0,0,0,0.08);\n        }</p>\n<p>        /* تنسيق نص الرواية (الخط الصغير) */\n        .qari-item small {\n            display: block;\n            font-weight: normal;\n            color: #555555; /* لون رمادي متوسط */\n            font-size: 0.9em;\n            margin-top: 4px; /* إضافة مسافة بسيطة */\n        }\n    </style>\n<p></head><br />\n<body></p>\n<div class=\"container\">\n<h1>التلاوات الصوتية</h1>\n<p>استمع إلى المصاحف المرتلة للقرآن الكريم لقراء المجمّع المعتمدين. يمكن الاستماع إلى سور القرآن الكريم كاملةً حسب الرواية والقارئ.</p>\n<h2>حقوق الاستخدام</h2>\n<p>حقوق الاستخدام متاحة من قبل مجمع الملك فهد.</p>\n<hr style=\"border: none; border-top: 1px solid #eee; margin: 25px 0;\">\n<h3>قائمة التلاوات المتاحة</h3>\n<ul class=\"qari-list\">\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-huthify\" target=\"_blank\"><br />\n                    الشيخ علي الحذيفي<br />\n                    <small>رواية حفص عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-muaiqly\" target=\"_blank\"><br />\n                    الشيخ ماهر المعيقلي<br />\n                    <small>رواية حفص عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-ayyoub\" target=\"_blank\"><br />\n                    الشيخ محمد أيوب (رحمه الله)<br />\n                    <small>رواية حفص عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-muhanna\" target=\"_blank\"><br />\n                    الشيخ خالد المهنا<br />\n                    <small>رواية حفص عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-hafs-akhdar\" target=\"_blank\"><br />\n                    الشيخ إبراهيم الأخضر<br />\n                    <small>رواية حفص عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-shouba-huthify\" target=\"_blank\"><br />\n                    الشيخ علي الحذيفي<br />\n                    <small>رواية شعبة عن عاصم الكوفي</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-qaloon-huthify\" target=\"_blank\"><br />\n                    الشيخ علي الحذيفي<br />\n                    <small>رواية قالون عن نافع المدني</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-sousi-sediki\" target=\"_blank\"><br />\n                    الشيخ د.عثمان الصديقي<br />\n                    <small>رواية السوسي عن أبي عمرو البصري</small><br />\n                </a>\n            </li>\n<li class=\"qari-item\">\n                <a href=\"https://qurancomplex.gov.sa/quran-audio-douri-juhani\" target=\"_blank\"><br />\n                    الشيخ د.عبدالله بن عواد الجهني<br />\n                    <small>رواية الدوري عن أبي عمرو البصري</small><br />\n                </a>\n            </li>\n</ul></div>\n<p></body><br />\n</html></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>التلاوات الصوتية &#8211; مجمع الملك فهد التلاوات الصوتية استمع إلى المصاحف المرتلة للقرآن الكريم لقراء المجمّع&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7369,
+  "categories": [
+    1148
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد",
+    "description": "استمع لتلاوات القرآن الكريم المعتمدة من مجمع الملك فهد. مصاحف مرتلة كاملة للحذيفي، المعيقلي، محمد أيوب، وغيرهم بروايات مختلفة.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/استمع-إلى-تلاوات-القرآن-الكريم-المعتم/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد",
+    "og_description": "استمع لتلاوات القرآن الكريم المعتمدة من مجمع الملك فهد. مصاحف مرتلة كاملة للحذيفي، المعيقلي، محمد أيوب، وغيرهم بروايات مختلفة.",
+    "og_url": "https://quranbook.org/استمع-إلى-تلاوات-القرآن-الكريم-المعتم/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-11-10T13:16:03+00:00",
+    "article_modified_time": "2025-11-10T13:17:17+00:00",
+    "og_image": [
+      {
+        "width": 510,
+        "height": 350,
+        "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقتان"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد",
+          "datePublished": "2025-11-10T13:16:03+00:00",
+          "dateModified": "2025-11-10T13:17:17+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/"
+          },
+          "wordCount": 1,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+          "articleSection": [
+            "المصاحف الكامله"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/",
+          "url": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/",
+          "name": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+          "datePublished": "2025-11-10T13:16:03+00:00",
+          "dateModified": "2025-11-10T13:17:17+00:00",
+          "description": "استمع لتلاوات القرآن الكريم المعتمدة من مجمع الملك فهد. مصاحف مرتلة كاملة للحذيفي، المعيقلي، محمد أيوب، وغيرهم بروايات مختلفة.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+          "width": 510,
+          "height": 350,
+          "caption": "سورة البقرة مكتوبة بالتشكيل بخط كبير (قراءة مريحة)"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%a7%d8%b3%d8%aa%d9%85%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d9%84%d8%a7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%85/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "استمع إلى تلاوات القرآن الكريم المعتمدة من مجمع الملك فهد"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

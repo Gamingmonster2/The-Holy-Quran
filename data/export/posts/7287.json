@@ -1,0 +1,221 @@
+{
+  "id": 7287,
+  "date": "2025-08-09T21:49:36",
+  "modified": "2026-10-08T17:43:57",
+  "slug": "%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/",
+  "title": {
+    "rendered": "جزء عم كامل من مصحف التجويد &#8211; ملون"
+  },
+  "content": {
+    "rendered": "\n<meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>تحميل جزء عم كامل PDF | حفظ وتلاوة القرآن الكريم | موقع EAM</title>\n    <!-- Tailwind CSS -->\n    <script src=\"https://cdn.tailwindcss.com\"></script>\n    <!-- Google Fonts -->\n    <link href=\"https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;family=Cairo:wght@400;600;700;800&amp;display=swap\" rel=\"stylesheet\">\n    <!-- Font Awesome Icons -->\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css\">\n    <style>\n        body { font-family: 'Cairo', 'Libre Baskerville', serif; }\n        h1, h2, h3 { font-family: 'Cairo', sans-serif; }\n        .reading-progress {\n            position: fixed;\n            top: 0;\n            left: 0;\n            width: 0%;\n            height: 4px;\n            background: #059669;\n            z-index: 1000;\n            transition: width 0.1s ease-out;\n        }\n    </style>\n\n\n\n    <div class=\"reading-progress\" id=\"progressBar\"></div>\n\n    <article class=\"max-w-4xl mx-auto px-6 py-12\">\n        <!-- Top Badge -->\n        <div class=\"flex items-center justify-center gap-2 mb-6 text-emerald-800 bg-emerald-100/70 w-fit mx-auto px-4 py-1.5 rounded-full text-sm font-semibold\">\n            <i class=\"fa-solid fa-book-quran\"></i>\n            <span>القرآن الكريم &#8211; جزء عمّ</span>\n        </div>\n\n        <!-- Header -->\n        <header class=\"mb-12 text-center\">\n            <h1 class=\"text-3xl md:text-5xl font-extrabold text-emerald-950 mb-6 leading-tight\">رحلة حفظ القرآن: جزء عمّ بين يديك رقمياً وعملياً</h1>\n            <p class=\"text-lg md:text-xl text-stone-600 max-w-2xl mx-auto\">اكتشف الطريقة المثالية للحفظ والاستماع من خلال منصة EAM المتكاملة وبدعم من مكتبة المصحف الشريف.</p>\n        </header>\n\n        <!-- Main Image -->\n        <div class=\"relative overflow-hidden rounded-2xl shadow-xl mb-12 border border-stone-200\">\n            <img decoding=\"async\" src=\"https://images.unsplash.com/photo-1609599006353-e629aaabfeae?q=80&amp;w=1600\" alt=\"مصحف شريف مفتوح للقراءة والتلاوة\" class=\"w-full h-80 md:h-96 object-cover transform hover:scale-105 transition duration-500 ease-in-out\">\n        </div>\n\n        <!-- Introduction -->\n        <section class=\"prose prose-lg mx-auto mb-12 text-stone-700 leading-loose\">\n            <p class=\"text-lg\">\n                <i class=\"fa-solid fa-quote-right text-emerald-600 text-xl ml-2\"></i>\n                تعد رحلة حفظ القرآن الكريم من أشرف الغايات التي يسعى إليها المسلم. ومع تزايد الحاجة إلى أدوات تجمع بين الأصالة والتقنية الحديثة، يأتي موقع <strong><a href=\"https://eam.com.ly/\" class=\"text-emerald-700 hover:text-emerald-800 font-bold underline decoration-emerald-500\">eam.com.ly</a></strong> ليقدم حلاً متكاملاً يجمع بين التيسير الرقمي وروحانية الحفظ المتقن، مع توفير مصادر معتمدة لتحميل المصحف الشريف وجزء عم كاملاً بجودة فائقة.\n            </p>\n        </section>\n\n        <!-- Section 1 -->\n        <h2 class=\"text-2xl md:text-3xl font-bold text-emerald-900 mb-6 flex items-center gap-3\">\n            <i class=\"fa-solid fa-star-and-crescent text-emerald-600 text-2xl\"></i>\n            لماذا جزء عمّ هو نقطة الانطلاق؟\n        </h2>\n        <div class=\"grid md:grid-cols-2 gap-8 items-center mb-12\">\n            <p class=\"text-stone-700 leading-relaxed text-base md:text-lg\">\n                يتميز الجزء الثلاثون بقصر سوره وسلاسة آياته وقوة معانيه، مما يجعله المحطة الأولى والأنسب للأطفال والناشئة والمبتدئين في مسار الحفظ. يوفر الموقع نسخة <strong>PDF عالية الدقة</strong> مجهزة بخط عثماني واضح وكبير يسهل على العين استيعاب الكلمات وتثبيت صور الآيات في الذاكرة البصرية أثناء التكرار والمراجعة.\n            </p>\n            <div class=\"overflow-hidden rounded-xl shadow-md border border-stone-200\">\n                <img decoding=\"async\" src=\"https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?q=80&amp;w=800\" alt=\"تعلم قراءة القرآن الكريم وحفظه\" class=\"w-full h-64 object-cover\">\n            </div>\n        </div>\n\n        <!-- Section 2 -->\n        <h2 class=\"text-2xl md:text-3xl font-bold text-emerald-900 mb-6 flex items-center gap-3\">\n            <i class=\"fa-solid fa-headphones text-emerald-600 text-2xl\"></i>\n            تجربة الاستماع والحفظ التفاعلية\n        </h2>\n        <div class=\"bg-emerald-50/80 p-8 rounded-2xl mb-12 border-r-4 border-emerald-600 shadow-sm\">\n            <p class=\"text-lg font-medium text-emerald-950\">لم يعد الحفظ مقتصراً على الورق فقط. عبر موقعنا <strong>eam.com.ly</strong>، يمكنك الآن:</p>\n            <ul class=\"mt-4 space-y-3 text-stone-700\">\n                <li class=\"flex items-center gap-3\">\n                    <i class=\"fa-solid fa-circle-check text-emerald-600\"></i>\n                    <span>الاستماع إلى كبار القراء ومشاهير التلاوة لضبط مخارج الحروف وأحكام التجويد.</span>\n                </li>\n                <li class=\"flex items-center gap-3\">\n                    <i class=\"fa-solid fa-file-pdf text-emerald-600\"></i>\n                    <span>تحميل ملفات جزء عم بصيغة PDF للرجوع إليها في أي وقت دون الحاجة للاتصال بالإنترنت.</span>\n                </li>\n                <li class=\"flex items-center gap-3\">\n                    <i class=\"fa-solid fa-list-check text-emerald-600\"></i>\n                    <span>استخدام أدوات المراجعة والتقسيم الرقمي التي تساعدك على تقييم حفظك اليومي ذاتياً.</span>\n                </li>\n            </ul>\n        </div>\n\n        <!-- Section 3 -->\n        <h2 class=\"text-2xl md:text-3xl font-bold text-emerald-900 mb-6 flex items-center gap-3\">\n            <i class=\"fa-solid fa-lightbulb text-emerald-600 text-2xl\"></i>\n            كيف تستفيد من موقعنا؟\n        </h2>\n        <p class=\"mb-6 text-stone-700 leading-relaxed text-base md:text-lg\">\n            لقد تم تصميم الموقع ليكون رفيقك الدائم في رحلة التدبر والحفظ. يمكنك التصفح، الاستماع بجودة نقية، ثم تحميل المصحف والحفظ بكل سهولة. تم انتقاء الخطوط والصفحات بعناية فائقة لتناسب جميع الفئات العمرية، مع مراعاة راحة العين وتوزيع الصفحات بما يوافق المصحف المعتمد.\n        </p>\n\n        <!-- CTA Buttons -->\n        <div class=\"flex flex-wrap justify-center gap-4 my-10\">\n            <a href=\"https://eam.com.ly/\" class=\"inline-flex items-center gap-2 bg-emerald-700 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-emerald-800 shadow-md transition duration-200\">\n                <i class=\"fa-solid fa-arrow-left\"></i>\n                <span>ابدأ رحلتك الآن عبر EAM</span>\n            </a>\n            <a href=\"https://quranbook.org/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 bg-stone-800 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-stone-900 shadow-md transition duration-200\">\n                <i class=\"fa-solid fa-book-open\"></i>\n                <span>تصفح وتحميل المصحف كامل</span>\n            </a>\n        </div>\n\n        <!-- Images Grid -->\n        <div class=\"grid grid-cols-1 sm:grid-cols-2 gap-6 mb-12\">\n            <div class=\"overflow-hidden rounded-xl shadow-md border border-stone-200\">\n                <img decoding=\"async\" src=\"https://images.unsplash.com/photo-1585036156171-38416f08ffe7?q=80&amp;w=800\" alt=\"تجويد وتلاوة القرآن\" class=\"w-full h-56 object-cover hover:scale-105 transition duration-300\">\n            </div>\n            <div class=\"overflow-hidden rounded-xl shadow-md border border-stone-200\">\n                <img decoding=\"async\" src=\"https://images.unsplash.com/photo-1519817650390-64a93db51149?q=80&amp;w=800\" alt=\"آيات الذكر الحكيم في المصحف\" class=\"w-full h-56 object-cover hover:scale-105 transition duration-300\">\n            </div>\n        </div>\n\n        <!-- Footer Info & Credits -->\n        <footer class=\"border-t border-stone-200 pt-8 mt-12 text-stone-600 text-sm space-y-3\">\n            <div class=\"flex items-center gap-2\">\n                <i class=\"fa-solid fa-building text-emerald-700\"></i>\n                <p><strong>Published by:</strong> EAM Digital Services</p>\n            </div>\n            <div class=\"flex items-center gap-2\">\n                <i class=\"fa-solid fa-pen-nib text-emerald-700\"></i>\n                <p><strong>Author:</strong> فريق التحرير والتوثيق القرآني</p>\n            </div>\n            <div class=\"pt-4 border-t border-dashed border-stone-300 flex items-center gap-2 text-stone-700 font-semibold text-base\">\n                <i class=\"fa-solid fa-globe text-emerald-700\"></i>\n                <span>تم إنشاء هذه المقالة بواسطة فريق عمل هذا الموقع:</span>\n                <a href=\"https://quranbook.org/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-emerald-700 underline hover:text-emerald-900 transition\">https://quranbook.org/</a>\n            </div>\n        </footer>\n    </article>\n\n    <script>\n        window.onscroll = function() {\n            let winScroll = document.body.scrollTop || document.documentElement.scrollTop;\n            let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;\n            let scrolled = (winScroll / height) * 100;\n            document.getElementById(\"progressBar\").style.width = scrolled + \"%\";\n        };\n    </script>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تحميل جزء عم كامل PDF | حفظ وتلاوة القرآن الكريم | موقع EAM القرآن الكريم &#8211;&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7292,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "جزء عم كامل من مصحف التجويد - ملون",
+    "description": "لحفظ ومراجعة جزء عم كامل؟ نزّل أفضل نسخة PDF بخط كبير وواضح. مثالية للأطفال والمبتدئين في التحفيظ.#جزء_عم #تحفيظ_القرآن #قرآن",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/جزء-عم-كامل-من-مصحف-التجويد-ملون/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "جزء عم كامل من مصحف التجويد - ملون",
+    "og_description": "لحفظ ومراجعة جزء عم كامل؟ نزّل أفضل نسخة PDF بخط كبير وواضح. مثالية للأطفال والمبتدئين في التحفيظ.#جزء_عم #تحفيظ_القرآن #قرآن",
+    "og_url": "https://quranbook.org/جزء-عم-كامل-من-مصحف-التجويد-ملون/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-08-09T21:49:36+00:00",
+    "article_modified_time": "2026-10-08T17:43:57+00:00",
+    "og_image": [
+      {
+        "width": 545,
+        "height": 768,
+        "url": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "3 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "جزء عم كامل من مصحف التجويد &#8211; ملون",
+          "datePublished": "2025-08-09T21:49:36+00:00",
+          "dateModified": "2026-10-08T17:43:57+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/"
+          },
+          "wordCount": 23,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/",
+          "url": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/",
+          "name": "جزء عم كامل من مصحف التجويد - ملون",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+          "datePublished": "2025-08-09T21:49:36+00:00",
+          "dateModified": "2026-10-08T17:43:57+00:00",
+          "description": "لحفظ ومراجعة جزء عم كامل؟ نزّل أفضل نسخة PDF بخط كبير وواضح. مثالية للأطفال والمبتدئين في التحفيظ.#جزء_عم #تحفيظ_القرآن #قرآن",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+          "width": 545,
+          "height": 768,
+          "caption": "جزء عم كامل-تحميل جزء عم مكتوب بخط الكبير"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%ac%d8%b2%d8%a1-%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%86-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af-%d9%85%d9%84%d9%88%d9%86/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "جزء عم كامل من مصحف التجويد &#8211; ملون"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": 7240,
+  "date": "2025-07-01T21:21:45",
+  "modified": "2025-07-01T21:21:46",
+  "slug": "%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/",
+  "title": {
+    "rendered": "تحميل مصحف المدينة ومصحف التجويد"
+  },
+  "content": {
+    "rendered": "\n<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>تحميل مصحف المدينة والتجويد PDF</title>\n    <style>\n        @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap');\n\n        body {\n            font-family: 'Cairo', sans-serif;\n            background-color: #f9f9f9;\n            color: #333;\n            margin: 0;\n            padding: 20px;\n            line-height: 1.8;\n            font-size: 16px;\n        }\n\n        .container {\n            max-width: 900px;\n            margin: auto;\n            background-color: #fff;\n            padding: 30px;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n\n        .article-content h2 {\n            font-size: 1.8em;\n            color: #2E7D32;\n            font-weight: 700;\n            margin-top: 30px;\n            margin-bottom: 15px;\n            border-bottom: 2px solid #DDF0DD;\n            padding-bottom: 10px;\n        }\n        \n        .article-content p {\n            margin-bottom: 15px;\n            text-align: justify;\n        }\n\n        .article-content strong {\n            color: #388E3C;\n            font-weight: 600;\n        }\n        \n        .article-content blockquote {\n            border-right: 4px solid #A5D6A7;\n            margin-right: 0;\n            padding-right: 20px;\n            font-style: italic;\n            color: #555;\n        }\n\n        .quran-grid {\n            margin-top: 40px;\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 25px;\n        }\n\n        .quran-card {\n            color: white;\n            padding: 25px;\n            border-radius: 15px;\n            box-shadow: 0 5px 15px rgba(0,0,0,0.1);\n            transition: transform 0.3s ease, box-shadow 0.3s ease;\n        }\n\n        .quran-card:hover {\n            transform: translateY(-10px);\n            box-shadow: 0 12px 25px rgba(0,0,0,0.2);\n        }\n\n        .quran-card h3 {\n            font-size: 1.8em;\n            margin-top: 0;\n            margin-bottom: 15px;\n            font-weight: 700;\n            border-bottom: 2px solid rgba(255, 255, 255, 0.7);\n            padding-bottom: 10px;\n        }\n\n        .quran-card p {\n            font-size: 1em;\n            margin-bottom: 20px;\n            text-align: right;\n        }\n\n        .links {\n            display: flex;\n            justify-content: center;\n            gap: 15px;\n            flex-wrap: wrap;\n        }\n\n        .links a {\n            text-decoration: none;\n            color: #fff;\n            background-color: rgba(255, 255, 255, 0.2);\n            padding: 12px 25px;\n            border-radius: 8px;\n            font-weight: bold;\n            transition: background-color 0.3s ease;\n            border: 1px solid white;\n        }\n\n        .links a:hover {\n            background-color: rgba(255, 255, 255, 0.4);\n        }\n        \n        .card-1 { background: linear-gradient(135deg, #4CAF50, #388E3C); }\n        .card-2 { background: linear-gradient(135deg, #66BB6A, #43A047); }\n\n    </style>\n</head>\n<body>\n\n    <div class=\"container\">\n        \n        <div class=\"article-content\">\n            <p>في عصرنا الرقمي، أصبح الوصول إلى العلوم والمعارف أسهل من أي وقت مضى، ويأتي في مقدمة ما يحرص عليه المسلم هو علاقته بكتاب الله. يمثل **تحميل مصحف المدينة** بصيغة PDF خطوة مهمة نحو تسهيل هذه العلاقة، حيث يتيح للقارئ تلاوة القرآن الكريم وتدبره في أي وقت ومن أي مكان، دون الحاجة للاتصال بالإنترنت. إن وجود نسخة إلكترونية من المصحف الشريف على جهازك يفتح لك آفاقًا واسعة للمراجعة، والحفظ، وتعلم أحكام التلاوة الصحيحة. في هذا المقال، لن نكتفِ بتوفير رابط مباشر لتحميل مصحف المدينة النبوية الشهير فحسب، بل سنقدم أيضًا نسخة أخرى لا تقل أهمية، وهي مصحف التجويد، الذي يعد أداة تعليمية فريدة لتحسين النطق وإتقان التلاوة. انضم إلينا لنتعرف على خصائص كل مصحف وكيف يمكن لهذين المصحفين أن يكملا بعضهما البعض في رحلتك مع القرآن الكريم.</p>\n            \n            <blockquote>\n                إن توفر نسخ عالية الجودة من القرآن الكريم بشكل رقمي ومجاني هو من نعم الله العظيمة في هذا العصر، فهو يزيل الحواجز ويمكّن الملايين من الوصول إلى كلام الله بسهولة ويسر.\n            </blockquote>\n\n            <h2>مصحف المدينة النبوية: أيقونة الطباعة القرآنية</h2>\n            <p>عندما نتحدث عن المصاحف المطبوعة، فإن أول ما يتبادر إلى الذهن هو &#8220;مصحف المدينة النبوية&#8221;. هذه النسخة التي طبعت ملايين النسخ ووزعت في كافة أنحاء العالم، لم تكتسب شهرتها من فراغ. فهي نتاج عمل مؤسسي ضخم ودقيق يتم في <strong>مجمع الملك فهد لطباعة المصحف الشريف</strong> بالمدينة المنورة، والذي يعد أكبر مطبعة في العالم للقرآن الكريم.</p>\n            <p>تتميز هذه النسخة بجمال خطها الذي خطه الخطاط السوري العالمي <strong>عثمان طه</strong>، والذي كرس حياته لخدمة كتاب الله. يمتاز خطه بالوضوح الشديد، والاتساق، والجمال البصري الذي يريح عين القارئ ويساعده على التركيز والتأمل. تم اختيار رواية <strong>حفص عن عاصم</strong> لهذه النسخة لأنها الرواية الأكثر انتشارًا وقراءةً في معظم بلدان العالم الإسلامي، مما يجعلها مألوفة لدى الغالبية العظمى من المسلمين. إن عملية **تحميل مصحف المدينة** تمنحك نسخة رقمية مطابقة تمامًا للنسخة الورقية التي تثق بها وتحبها، بكل تفاصيلها الدقيقة من علامات الوقف وترقيم الآيات وتوزيع الصفحات.</p>\n\n            <h2>مصحف التجويد: دليلك المرئي لإتقان التلاوة</h2>\n            <p>بينما يمثل مصحف المدينة النص القياسي المعتمد، يأتي **مصحف التجويد** ليقدم بُعدًا تعليميًا عمليًا لا غنى عنه لكل من يسعى لتحسين تلاوته. فكرة هذا المصحف عبقرية في بساطتها؛ حيث يتم استخدام الألوان لتحديد الأحكام التجويدية مباشرة على كلمات القرآن. فبدلاً من دراسة القواعد النظرية بشكل منفصل ثم محاولة تطبيقها، يقوم هذا المصحف بتوجيه القارئ بصريًا أثناء التلاوة.</p>\n            <p>على سبيل المثال، قد تجد أن حروف الإخفاء ملونة بلون معين، وحروف الإدغام بلون آخر، والمدود المختلفة بدرجات لونية مميزة. هذا الترميز اللوني يحول عملية تطبيق أحكام التجويد من مجهود ذهني معقد إلى استجابة بصرية بسيطة. إنه أداة مثالية للمبتدئين الذين يجدون صعوبة في تذكر القواعد، كما أنه مفيد للمتقدمين الذين يرغبون في مراجعة وتدقيق تلاوتهم. النسخة التي نوفرها هنا تأتي بخلفية بيضاء نقية، مما يجعل الألوان التجويدية أكثر وضوحًا ويسهل القراءة لفترات طويلة دون إجهاد العين، كما أنها مثالية للطباعة لمن يرغب في نسخة ورقية للدراسة والمراجعة.</p>\n            <p>إن الجمع بين هذين المصحفين يمثل استراتيجية متكاملة للتعامل مع القرآن الكريم. يمكنك استخدام مصحف المدينة للقراءة اليومية والحفظ، وعندما تمر بآية تريد التأكد من تطبيق أحكامها، يمكنك الرجوع إلى مصحف التجويد كمرجع بصري فوري. وبهذا، تصبح عملية **تحميل مصحف المدينة** ليست مجرد الحصول على نص، بل هي بوابة للحصول على منظومة تعليمية متكاملة تضعها بين يديك.</p>\n        </div>\n\n        <div class=\"quran-grid\">\n            \n            <div class=\"quran-card card-1\">\n                <h3>مصحف المدينة النبوية</h3>\n                <p>النسخة الرسمية من مجمع الملك فهد، برواية حفص عن عاصم وخط عثمان طه. النسخة الأكثر شهرة وموثوقية في العالم، مثالية للقراءة والحفظ اليومي.</p>\n                <div class=\"links\">\n                    <a href=\"https://qurancomplex.gov.sa/isdarat-hafs/#flipbook-df_11311/1/\" target=\"_blank\">قراءة مباشرة</a>\n                    <a href=\"https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/mumtaz.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n            <div class=\"quran-card card-2\">\n                <h3>مصحف التجويد (خلفية بيضاء)</h3>\n                <p>مصحف تعليمي فريد يستخدم الألوان لتوضيح أحكام التجويد، مما يسهل على القارئ تطبيقها بشكل صحيح. مثالي للمبتدئين ولكل من يريد إتقان تلاوته.</p>\n                <div class=\"links\">\n                    <a href=\"https://dn790007.ca.archive.org/0/items/20200407_20200407_0508/%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%8A%D8%AF%20%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1%20%D9%85%D9%81%D9%87%D8%B1%D8%B3.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n        </div>\n\n    </div>\n\n</body>\n</html>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تحميل مصحف المدينة والتجويد PDF في عصرنا الرقمي، أصبح الوصول إلى العلوم والمعارف أسهل من أي&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7242,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "تحميل مصحف المدينة ومصحف التجويد",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/تحميل-مصحف-المدينة-ومصحف-التجويد/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تحميل مصحف المدينة ومصحف التجويد",
+    "og_url": "https://quranbook.org/تحميل-مصحف-المدينة-ومصحف-التجويد/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-07-01T21:21:45+00:00",
+    "article_modified_time": "2025-07-01T21:21:46+00:00",
+    "og_image": [
+      {
+        "width": 994,
+        "height": 712,
+        "url": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "5 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "تحميل مصحف المدينة ومصحف التجويد",
+          "datePublished": "2025-07-01T21:21:45+00:00",
+          "dateModified": "2025-07-01T21:21:46+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/"
+          },
+          "wordCount": 4,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/",
+          "url": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/",
+          "name": "تحميل مصحف المدينة ومصحف التجويد",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+          "datePublished": "2025-07-01T21:21:45+00:00",
+          "dateModified": "2025-07-01T21:21:46+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+          "width": 994,
+          "height": 712,
+          "caption": "تحميل مصحف المدينة"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%8a%d8%af/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "تحميل مصحف المدينة ومصحف التجويد"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

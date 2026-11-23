@@ -1,0 +1,131 @@
+{
+  "id": 7510,
+  "date": "2025-11-19T13:49:23",
+  "modified": "2025-11-19T13:50:46",
+  "slug": "%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/",
+  "title": {
+    "rendered": "مكتبة التفاسير والكتب الإسلامية"
+  },
+  "content": {
+    "rendered": "\n<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>المكتبة الشاملة للتفاسير والكتب الإسلامية | مجمع الملك فهد</title>\n    \n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&#038;family=Cairo:wght@400;600;800&#038;display=swap\" rel=\"stylesheet\">\n\n    <style>\n        /* المتغيرات اللونية */\n        :root {\n            --primary-green: #004d25;\n            --secondary-green: #006837;\n            --text-black: #1a1a1a;\n            --bg-light: #f4f7f6;\n            --white: #ffffff;\n            --border-color: #e0e0e0;\n        }\n\n        /* التنسيق العام */\n        body {\n            font-family: 'Cairo', sans-serif;\n            background-color: var(--bg-light);\n            margin: 0;\n            padding: 0;\n            color: var(--text-black);\n            line-height: 1.6;\n        }\n\n        /* الترويسة */\n        header {\n            background-color: var(--primary-green);\n            color: var(--white);\n            padding: 40px 20px;\n            text-align: center;\n            box-shadow: 0 4px 10px rgba(0,0,0,0.2);\n            border-bottom: 5px solid #000;\n        }\n\n        header h1 {\n            margin: 0;\n            font-size: 2.5rem;\n            font-family: 'Amiri', serif;\n        }\n\n        header p {\n            font-size: 1.1rem;\n            opacity: 0.9;\n            margin-top: 10px;\n        }\n\n        /* الحاوية الرئيسية */\n        .container {\n            max-width: 1000px;\n            margin: 40px auto;\n            padding: 0 20px;\n        }\n\n        /* عناوين الأقسام */\n        .section-title {\n            color: var(--primary-green);\n            font-family: 'Amiri', serif;\n            font-size: 2rem;\n            margin: 50px 0 30px 0;\n            border-bottom: 2px solid #ddd;\n            padding-bottom: 10px;\n            display: flex;\n            align-items: center;\n            gap: 15px;\n        }\n        \n        .section-title span {\n            background: var(--primary-green);\n            color: #fff;\n            padding: 5px 15px;\n            border-radius: 50px;\n            font-size: 1rem;\n            font-family: 'Cairo';\n            vertical-align: middle;\n        }\n\n        /* بطاقة الكتاب */\n        .book-card {\n            background: var(--white);\n            border-radius: 15px;\n            overflow: hidden;\n            box-shadow: 0 10px 25px rgba(0,0,0,0.08);\n            margin-bottom: 30px;\n            border: 1px solid var(--border-color);\n            transition: transform 0.3s ease;\n        }\n        \n        .book-card:hover {\n            transform: translateY(-5px);\n        }\n\n        /* رأس البطاقة */\n        .card-header {\n            background: var(--text-black);\n            color: var(--white);\n            padding: 15px 30px;\n            border-right: 8px solid var(--secondary-green);\n        }\n\n        .card-header h2 {\n            margin: 0;\n            font-size: 1.3rem;\n            font-family: 'Amiri', serif;\n        }\n\n        /* المقدمة النصية */\n        .card-intro {\n            background-color: #fdfdfd;\n            padding: 15px 30px;\n            border-bottom: 1px solid #eee;\n            color: #555;\n            font-size: 0.95rem;\n            line-height: 1.8;\n        }\n\n        /* منطقة الزر */\n        .action-wrapper {\n            padding: 20px;\n            background-color: #f4f4f4;\n            text-align: center;\n            background-image: url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23004d25' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\");\n        }\n\n        /* زر الانتقال */\n        .link-btn {\n            display: inline-flex;\n            align-items: center;\n            justify-content: center;\n            background-color: var(--primary-green);\n            color: white;\n            text-decoration: none;\n            padding: 12px 30px;\n            font-size: 1.1rem;\n            font-family: 'Cairo', sans-serif;\n            border-radius: 50px;\n            transition: all 0.3s ease;\n            box-shadow: 0 4px 15px rgba(0,77,37,0.3);\n            gap: 10px;\n        }\n\n        .link-btn:hover {\n            background-color: var(--secondary-green);\n            transform: scale(1.02);\n            box-shadow: 0 6px 20px rgba(0,77,37,0.4);\n        }\n        \n        .link-btn::after {\n            content: '←'; /* سهم لليسار */\n            font-size: 1.2rem;\n            font-weight: bold;\n        }\n\n        /* تذييل الصفحة */\n        footer {\n            text-align: center;\n            padding: 30px 20px;\n            background-color: var(--text-black);\n            color: var(--white);\n            margin-top: 50px;\n            border-top: 5px solid var(--primary-green);\n        }\n\n        footer a { color: #4CAF50; text-decoration: none; }\n        footer a:hover { text-decoration: underline; }\n    </style>\n</head>\n<body>\n\n    <header>\n        <h1>مكتبة التفاسير والكتب الإسلامية</h1>\n        <p>إصدارات مجمع الملك فهد لطباعة المصحف الشريف (الإصدارات المحدثة)</p>\n    </header>\n\n    <div class=\"container\">\n        <div style=\"background: #fff; padding: 20px; border-radius: 10px; border-right: 5px solid #004d25; margin-bottom: 40px; box-shadow: 0 2px 15px rgba(0,0,0,0.05);\">\n            <h3 style=\"color: #004d25; font-family: 'Amiri'; margin-top: 0;\">تحديث هام</h3>\n            <p style=\"color: #555;\">نظراً لتحديث موقع مجمع الملك فهد وهيكلته الجديدة، تم تحديث جميع الروابط في هذه الصفحة لضمان الوصول المباشر والآمن للإصدارات الأصلية. تم تقسيم المكتبة أدناه إلى قسمين رئيسيين لتسهيل التصفح.</p>\n        </div>\n    </div>\n\n    <main class=\"container\">\n\n        <h2 class=\"section-title\">كتب التفسير وعلوم القرآن <span>قسم جديد</span></h2>\n        \n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>سراج القارئ المبتدي وتذكار المقرئ المنتهي-1</h2></div>\n            <div class=\"card-intro\">الجزء الأول من الكتاب المتخصص في القراءات وعلوم القرآن، للمبتدئين والمنتهين.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>سراج القارئ المبتدي وتذكار المقرئ المنتهي-2</h2></div>\n            <div class=\"card-intro\">الجزء الثاني من المرجع الهام في علوم القراءات.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>سراج القارئ المبتدي وتذكار المقرئ المنتهي-3</h2></div>\n            <div class=\"card-intro\">الجزء الثالث والأخير من سلسلة سراج القارئ المعتمدة.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>التفسير الميسَّر</h2></div>\n            <div class=\"card-intro\">أحد أهم إصدارات المجمع، يتميز بوضوح العبارة وسهولة الأسلوب لفهم معاني القرآن الكريم.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>الميسَّر في غريب القرآن الكريم</h2></div>\n            <div class=\"card-intro\">يوضح معاني الكلمات القرآنية الغريبة أو الصعبة بأسلوب موجز وسهل.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>التجويد الميسَّر</h2></div>\n            <div class=\"card-intro\">دليل عملي مبسط لقواعد تجويد القرآن الكريم، يساعد القارئ على التلاوة الصحيحة.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/quran-interpretation-books/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n\n        <h2 class=\"section-title\">كتب العقيدة والأذكار والترجمات <span>قسم جديد</span></h2>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>كتاب أصول الإيمان في ضوء الكتاب والسنة</h2></div>\n            <div class=\"card-intro\">شرح وافٍ لأركان الإيمان وأصول العقيدة الإسلامية الصحيحة.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الإنجليزية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الإنجليزية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الكردية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الكردية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة المقدونية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة المقدونية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الأذرية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الأذرية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الأُكْرانية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الأوكرانية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الأنكو)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين بلغة الأنكو.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الروسية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الروسية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الصينية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الصينية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>أصول الإيمان (اللغة الفرنسية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب أصول الإيمان للناطقين باللغة الفرنسية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>كتاب الذكر والدعاء في ضوء الكتاب والسنة</h2></div>\n            <div class=\"card-intro\">كتاب جامع للأذكار والأدعية الصحيحة.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>كتاب الذكر والدعاء (اللغة الإنجليزية)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب الذكر والدعاء للغة الإنجليزية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n        <article class=\"book-card\">\n            <div class=\"card-header\"><h2>كتاب الذكر والدعاء (لغة الأردو)</h2></div>\n            <div class=\"card-intro\">ترجمة كتاب الذكر والدعاء للغة الأردية.</div>\n            <div class=\"action-wrapper\">\n                <a href=\"https://qurancomplex.gov.sa/kfgqpc-otherbooks/\" target=\"_blank\" class=\"link-btn\">تصفح الكتاب على موقع المجمع</a>\n            </div>\n        </article>\n\n    </main>\n\n    <footer>\n        <p>This is sponsored by the complex, and all rights are reserved for this website: <a href=\"https://quranbook.org/\" target=\"_blank\">https://quranbook.org/</a> | &copy; 2025</p>\n        <p style=\"font-family: 'Amiri'; font-size: 1rem; margin-top: 10px;\">هذا العمل برعاية المجمع، وجميع الحقوق محفوظة لهذا الموقع</p>\n    </footer>\n\n</body>\n</html>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>المكتبة الشاملة للتفاسير والكتب الإسلامية | مجمع الملك فهد مكتبة التفاسير والكتب الإسلامية إصدارات مجمع الملك فهد لطباعة المصحف الشريف (الإصدارات المحدثة) تحديث هام نظراً لتحديث موقع مجمع الملك فهد وهيكلته الجديدة، تم تحديث جميع الروابط في هذه الصفحة لضمان الوصول المباشر والآمن للإصدارات الأصلية. تم تقسيم المكتبة أدناه إلى قسمين رئيسيين لتسهيل التصفح. كتب&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "yoast_head_json": {
+    "title": "مكتبة التفاسير والكتب الإسلامية - Quran Book",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/مكتبة-التفاسير-والكتب-الإسلامية/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "مكتبة التفاسير والكتب الإسلامية - Quran Book",
+    "og_description": "المكتبة الشاملة للتفاسير والكتب الإسلامية | مجمع الملك فهد مكتبة التفاسير والكتب الإسلامية إصدارات مجمع الملك فهد لطباعة المصحف الشريف (الإصدارات المحدثة) تحديث هام نظراً لتحديث موقع مجمع الملك فهد وهيكلته الجديدة، تم تحديث جميع الروابط في هذه الصفحة لضمان الوصول المباشر والآمن للإصدارات الأصلية. تم تقسيم المكتبة أدناه إلى قسمين رئيسيين لتسهيل التصفح. كتب...",
+    "og_url": "https://quranbook.org/مكتبة-التفاسير-والكتب-الإسلامية/",
+    "og_site_name": "Quran Book",
+    "article_modified_time": "2025-11-19T13:50:46+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "وقت القراءة المُقدّر": "4 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/",
+          "url": "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/",
+          "name": "مكتبة التفاسير والكتب الإسلامية - Quran Book",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "datePublished": "2025-11-19T13:49:23+00:00",
+          "dateModified": "2025-11-19T13:50:46+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "مكتبة التفاسير والكتب الإسلامية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+  schema?: unknown;
+  robots?: string;
+  bodyClass?: string;
+}
+
+const {
+  title,
+  description = '',
+  canonical,
+  ogImage = '',
+  schema = null,
+  robots = '',
+  bodyClass = '',
+} = Astro.props;
+const site = Astro.site ? new URL(Astro.site).origin : 'https://quranbook.org';
+const canonicalUrl = canonical
+  ? (canonical.startsWith('http') ? canonical : site + canonical)
+  : site + Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonicalUrl} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    {robots && <meta name="robots" content={robots} />}
+    {schema && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(schema).replace(/</g, '\\u003c')}
+      />
+    )}
+    <link rel="alternate" type="application/rss+xml" title="quranbook.org" href="/feed.xml" />
+  </head>
+  <body class={bodyClass}>
+    <header class="qb-header">
+      <a class="qb-brand" href="/">📖 QuranBook</a>
+      <nav class="qb-nav">
+        <a href="/blog/">المقالات</a>
+        <a href="/quranonline/">القرآن أون لاين</a>
+        <a href="/category/">التصنيفات</a>
+        <a href="/tag/">الوسوم</a>
+      </nav>
+    </header>
+    <main class="qb-main">
+      <slot />
+    </main>
+    <footer class="qb-footer">
+      <p>مكتبة القرآن الكريم — مصاحف وتفاسير ومقالات</p>
+      <p><a href="/sitemap.xml">خريطة الموقع</a> · <a href="/robots.txt">robots.txt</a></p>
+    </footer>
+    <script>
+      (function () {
+        var els = document.querySelectorAll('.qb-fade');
+        if (!els.length) return;
+        if (!('IntersectionObserver' in window)) {
+          els.forEach(function (e) { e.classList.add('in'); });
+          return;
+        }
+        var observer = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('in');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.12 });
+        els.forEach(function (e) { observer.observe(e); });
+      })();
+    </script>
+  </body>
+</html>

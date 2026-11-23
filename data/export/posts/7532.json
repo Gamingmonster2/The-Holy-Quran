@@ -1,0 +1,215 @@
+{
+  "id": 7532,
+  "date": "2025-12-31T12:04:00",
+  "modified": "2025-11-23T12:07:42",
+  "slug": "%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+  "title": {
+    "rendered": "المصحف الممتاز (النسخة الكاملة)"
+  },
+  "content": {
+    "rendered": "\n<style>\n  /* الحاوية الرئيسية */\n  .quran-pro-container {\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n    max-width: 800px;\n    margin: 0 auto;\n    direction: rtl;\n    color: #333;\n  }\n\n  /* تنسيق القسم الرئيسي (المصحف الأول) */\n  .hero-quran-section {\n    background: #fff;\n    border: 1px solid #e0e0e0;\n    border-radius: 8px;\n    padding: 15px;\n    margin-bottom: 30px;\n    box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n  }\n\n  .hero-title {\n    font-size: 22px;\n    font-weight: bold;\n    color: #2c3e50;\n    margin-bottom: 10px;\n    border-bottom: 2px solid #eee;\n    padding-bottom: 10px;\n  }\n\n  /* زر الفتح في نافذة جديدة */\n  .open-new-window-btn {\n    display: block;\n    background-color: #f39c12; /* لون برتقالي مميز */\n    color: #fff;\n    text-align: center;\n    padding: 12px;\n    border-radius: 5px;\n    text-decoration: none;\n    font-weight: bold;\n    margin-bottom: 15px;\n    transition: background 0.3s;\n    font-size: 16px;\n  }\n\n  .open-new-window-btn:hover {\n    background-color: #e67e22;\n    color: #fff;\n  }\n  \n  .open-new-window-btn i {\n    margin-left: 5px;\n  }\n\n  /* حاوية الآي فريم المتجاوبة */\n  .iframe-container {\n    position: relative;\n    padding-bottom: 56.25%; /* نسبة 16:9 */\n    height: 0;\n    overflow: hidden;\n    border: 1px solid #ddd;\n    border-radius: 4px;\n  }\n\n  .iframe-container iframe {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    border: 0;\n  }\n\n  /* تنسيق قائمة المصاحف الأخرى */\n  .other-qurans-title {\n    font-size: 20px;\n    margin-bottom: 15px;\n    color: #34495e;\n    font-weight: bold;\n  }\n\n  .quran-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* شبكة متجاوبة */\n    gap: 10px;\n  }\n\n  .quran-link-card {\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    background: #f8f9fa;\n    border: 1px solid #dee2e6;\n    padding: 15px;\n    border-radius: 6px;\n    text-decoration: none;\n    color: #495057;\n    font-weight: 600;\n    transition: all 0.2s ease-in-out;\n  }\n\n  .quran-link-card:hover {\n    background: #fff;\n    border-color: #3498db;\n    color: #3498db;\n    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.15);\n    transform: translateY(-2px);\n  }\n\n  .icon-arrow {\n    font-size: 12px;\n    color: #adb5bd;\n  }\n</style>\n\n<div class=\"quran-pro-container\">\n\n  <div class=\"hero-quran-section\">\n    <div class=\"hero-title\">📖 المصحف الممتاز (النسخة الكاملة)</div>\n    \n    <a href=\"https://qurancomplex.gov.sa/quran-hafs/#flipbook-df_11311/1/\" target=\"_blank\" class=\"open-new-window-btn\">\n      ❐ اضغط هنا لفتح المصحف في نافذة جديدة (قراءة أوضح)\n    </a>\n\n    <div class=\"iframe-container\">\n      <iframe src=\"https://qurancomplex.gov.sa/quran-hafs/#flipbook-df_11311/1/\" title=\"المصحف الممتاز\"></iframe>\n    </div>\n  </div>\n\n  <div class=\"other-qurans-title\">📚 إصدارات أخرى للمصحف الشريف:</div>\n  <div id=\"quranGridList\" class=\"quran-grid\">\n    </div>\n\n</div>\n\n<script>\n  // قائمة المصاحف (بدون المصحف الأول لأنه معروض بالأعلى)\n  const quranList = [\n    { name: \"المصحف الخاص 1\", id: \"11309\" },\n    { name: \"المصحف الجوامعي\", id: \"11305\" },\n    { name: \"المصحف الجوامعي – 3\", id: \"11552\" },\n    { name: \"المصحف العادي\", id: \"11301\" },\n    { name: \"المصحف العادي – 3\", id: \"11299\" },\n    { name: \"المصحف الوسط\", id: \"11297\" },\n    { name: \"مصحف الجيب\", id: \"11295\" },\n    { name: \"المصحف الكفي\", id: \"11293\" },\n    { name: \"مصحف نسخ إندوباك\", id: \"11291\" },\n    { name: \"ربع يس\", id: \"11289\" },\n    { name: \"جزء قد سمع\", id: \"11286\" },\n    { name: \"جزء تبارك\", id: \"11284\" },\n    { name: \"الفاتحة وجزء عم\", id: \"11282\" }\n  ];\n\n  const gridContainer = document.getElementById('quranGridList');\n\n  quranList.forEach(item => {\n    const link = document.createElement('a');\n    link.href = `https://qurancomplex.gov.sa/quran-hafs/#flipbook-df_${item.id}/1/`;\n    link.className = 'quran-link-card';\n    link.target = '_blank';\n    link.rel = 'noopener noreferrer';\n    \n    link.innerHTML = `\n      <span>${item.name}</span>\n      <span class=\"icon-arrow\">فتح ↗</span>\n    `;\n\n    gridContainer.appendChild(link);\n  });\n</script>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>📖 المصحف الممتاز (النسخة الكاملة) ❐ اضغط هنا لفتح المصحف في نافذة جديدة (قراءة أوضح) 📚&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7376,
+  "categories": [
+    996
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "المصحف الممتاز (النسخة الكاملة)",
+    "description": "إصدارات أخرى للمصحف الشريف -المصحف بروايه حفص قراءه اون لاين مجموعه واسعه من المصاحف",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/المصحف-الممتاز-النسخة-الكاملة/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "المصحف الممتاز (النسخة الكاملة)",
+    "og_description": "إصدارات أخرى للمصحف الشريف -المصحف بروايه حفص قراءه اون لاين مجموعه واسعه من المصاحف",
+    "og_url": "https://quranbook.org/المصحف-الممتاز-النسخة-الكاملة/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-12-31T12:04:00+00:00",
+    "og_image": [
+      {
+        "width": 510,
+        "height": 350,
+        "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Servant of Islam",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "Servant of Islam",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+          },
+          "author": {
+            "name": "Servant of Islam",
+            "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee"
+          },
+          "headline": "المصحف الممتاز (النسخة الكاملة)",
+          "datePublished": "2025-12-31T12:04:00+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+          },
+          "wordCount": 0,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+          "articleSection": [
+            "pdf تحميل القران"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+          "url": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+          "name": "المصحف الممتاز (النسخة الكاملة)",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+          "datePublished": "2025-12-31T12:04:00+00:00",
+          "description": "إصدارات أخرى للمصحف الشريف -المصحف بروايه حفص قراءه اون لاين مجموعه واسعه من المصاحف",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+          "width": 510,
+          "height": 350,
+          "caption": "Quran Book"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المصحف الممتاز (النسخة الكاملة)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f3d3eb6e6b235e1238594c1d3cc825ee",
+          "name": "Servant of Islam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/eb0c1a3d639b88dda1d6c3dac0327b3e70d1d28f55053a6d0f6e26f33df36cbf?s=96&d=mm&r=g",
+            "caption": "Servant of Islam"
+          },
+          "url": "https://quranbook.org/author/servant-of-islam/"
+        }
+      ]
+    }
+  }
+}

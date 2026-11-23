@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPosts } from '../lib/content.mjs';
+
+const posts = getPosts()
+  .filter((p) => p.path !== '/blog/')
+  .sort((a, b) => (a.modified < b.modified ? 1 : -1))
+  .slice(0, 20);
+---
+
+<BaseLayout
+  title="QuranBook — مكتبة القرآن الكريم"
+  description="مصحف القرآن الكريم PDF، تفاسير، وروايات مصاحف — مكتبة عربية مجانية"
+>
+  <div class="qb-list">
+    <h1>مرحباً بكم في مكتبة القرآن الكريم</h1>
+    <p class="qb-meta">أحدث المقالات والمصاحف المضافة</p>
+    {posts.map((p) => (
+      <a class="qb-card" href={p.path}>
+        <b>{p.title}</b>
+        <small>{p.modified}</small>
+      </a>
+    ))}
+    <a class="qb-card" href="/blog/"><b>تصفح كل المقالات →</b></a>
+  </div>
+</BaseLayout>

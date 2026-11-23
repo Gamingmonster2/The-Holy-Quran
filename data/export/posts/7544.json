@@ -1,0 +1,189 @@
+{
+  "id": 7544,
+  "date": "2025-11-27T18:43:13",
+  "modified": "2025-11-27T19:28:15",
+  "slug": "%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/",
+  "title": {
+    "rendered": "المكتبة الصوتية القرآنية"
+  },
+  "content": {
+    "rendered": "\n<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>المكتبة الصوتية القرآنية | Archive.org</title>\n    <style>\n        @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap');\n\n        :root {\n            --primary: #2563eb;\n            --primary-dark: #1e40af;\n            --bg: #f3f4f6;\n            --card-bg: #ffffff;\n            --text: #1f2937;\n            --text-light: #6b7280;\n            --accent-1: linear-gradient(135deg, #ef4444, #991b1b);\n            --accent-2: linear-gradient(135deg, #8b5cf6, #5b21b6);\n            --accent-3: linear-gradient(135deg, #10b981, #047857);\n            --accent-4: linear-gradient(135deg, #f59e0b, #b45309);\n        }\n\n        * {\n            box-sizing: border-box;\n            margin: 0;\n            padding: 0;\n        }\n\n        body {\n            font-family: 'Tajawal', sans-serif;\n            background-color: var(--bg);\n            color: var(--text);\n            line-height: 1.6;\n            padding-bottom: 50px;\n        }\n\n        /* Header & Filters */\n        header {\n            background: white;\n            padding: 2rem 1rem;\n            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n            text-align: center;\n        }\n\n        h1 {\n            color: var(--primary-dark);\n            margin-bottom: 1.5rem;\n            font-size: 1.8rem;\n        }\n\n        .filter-container {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 10px;\n            justify-content: center;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n\n        .filter-btn {\n            background: #e5e7eb;\n            border: none;\n            padding: 8px 16px;\n            border-radius: 20px;\n            cursor: pointer;\n            font-family: 'Tajawal', sans-serif;\n            font-weight: 500;\n            transition: all 0.3s ease;\n            font-size: 0.95rem;\n            display: flex;\n            align-items: center;\n            gap: 5px;\n        }\n\n        .filter-btn:hover {\n            background: #d1d5db;\n            transform: translateY(-2px);\n        }\n\n        .filter-btn.active {\n            background: var(--primary);\n            color: white;\n            box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);\n        }\n\n        /* Grid Layout */\n        .results-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n            gap: 20px;\n            padding: 2rem;\n            max-width: 1400px;\n            margin: 0 auto;\n        }\n\n        /* Card Styles */\n        .card {\n            background: var(--card-bg);\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);\n            transition: transform 0.3s ease, box-shadow 0.3s ease;\n            display: flex;\n            flex-direction: column;\n            animation: fadeIn 0.5s ease-out;\n        }\n\n        .card:hover {\n            transform: translateY(-5px);\n            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);\n        }\n\n        /* Visual Header of Card (CSS generated waveform) */\n        .card-visual {\n            height: 140px;\n            position: relative;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            overflow: hidden;\n        }\n\n        /* Animated Waveform Bars */\n        .waveform {\n            display: flex;\n            align-items: center;\n            gap: 3px;\n            height: 60px;\n        }\n\n        .bar {\n            width: 4px;\n            background: rgba(255, 255, 255, 0.8);\n            border-radius: 2px;\n            animation: wave 1s infinite ease-in-out;\n        }\n\n        @keyframes wave {\n            0%, 100% { height: 10px; }\n            50% { height: 50px; }\n        }\n\n        /* Randomize animation delays via CSS :nth-child would be tedious, \n           so we use a simple set in JS or generic CSS */\n        .bar:nth-child(odd) { animation-duration: 0.8s; }\n        .bar:nth-child(even) { animation-duration: 1.2s; }\n        .bar:nth-child(3n) { animation-duration: 1.0s; }\n\n        .card-content {\n            padding: 1rem;\n            flex-grow: 1;\n            display: flex;\n            flex-direction: column;\n            justify-content: space-between;\n        }\n\n        .card-title {\n            font-size: 1.1rem;\n            font-weight: 700;\n            margin-bottom: 0.5rem;\n            color: var(--text);\n            display: -webkit-box;\n            -webkit-line-clamp: 2;\n            -webkit-box-orient: vertical;\n            overflow: hidden;\n        }\n\n        .card-meta {\n            font-size: 0.85rem;\n            color: var(--text-light);\n            margin-bottom: 1rem;\n            display: flex;\n            align-items: center;\n            gap: 5px;\n        }\n\n        /* Embed Container */\n        .embed-container {\n            width: 100%;\n            height: 40px; /* Compact player */\n            border: none;\n            background: #f8f9fa;\n            border-radius: 8px;\n            margin-top: auto;\n        }\n\n        /* Loading & States */\n        .loading {\n            text-align: center;\n            padding: 3rem;\n            font-size: 1.2rem;\n            color: var(--text-light);\n            grid-column: 1 / -1;\n        }\n\n        .spinner {\n            display: inline-block;\n            width: 40px;\n            height: 40px;\n            border: 4px solid rgba(0,0,0,0.1);\n            border-radius: 50%;\n            border-top-color: var(--primary);\n            animation: spin 1s ease-in-out infinite;\n            margin-bottom: 10px;\n        }\n\n        @keyframes spin {\n            to { transform: rotate(360deg); }\n        }\n\n        @keyframes fadeIn {\n            from { opacity: 0; transform: translateY(10px); }\n            to { opacity: 1; transform: translateY(0); }\n        }\n\n        .no-results {\n            text-align: center;\n            grid-column: 1 / -1;\n            padding: 2rem;\n            color: var(--text-light);\n        }\n\n        /* Footer */\n        footer {\n            text-align: center;\n            padding: 2rem;\n            color: var(--text-light);\n            font-size: 0.9rem;\n            margin-top: 2rem;\n            border-top: 1px solid #e5e7eb;\n        }\n\n    </style>\n</head>\n<body>\n\n    <header>\n        <h1>🎧 المكتبة الصوتية القرآنية</h1>\n        <!-- Filter Buttons Area -->\n        <div id=\"filter-container\" class=\"filter-container\">\n            <!-- Buttons injected by JS -->\n        </div>\n    </header>\n\n    <main>\n        <div id=\"results-container\" class=\"results-grid\">\n            <div class=\"loading\">\n                <div class=\"spinner\"></div>\n                <p>جاري جلب المصاحف والتلاوات&#8230;</p>\n            </div>\n        </div>\n    </main>\n\n    <footer>\n        تم التطوير بواسطة الوكيل الذكي • البيانات من Archive.org\n    </footer>\n\n    <script>\n        /**\n         * Configuration & State\n         */\n        const API_URL = \"https://archive.org/advancedsearch.php?q=(%D8%A7%D8%B6%D8%BA%D8%B7+%D8%B9%D9%84%D9%89+%D9%83%D9%84%D9%85%D8%A9%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&sort%5B%5D=publicdate+desc&output=json&rows=100\";\n        \n        let allData = []; // Global storage for fetched data\n        \n        // List of Sheikhs for Quick Filters\n        const sheikhs = [\n            \"عبد الباسط\",\n            \"السديس\",\n            \"العفاسي\",\n            \"المنشاوي\",\n            \"الشريم\",\n            \"الحصري\",\n            \"ماهر المعيقلي\",\n            \"سعد الغامدي\",\n            \"ياسر الدوسري\"\n        ];\n\n        // CSS Gradient presets for card visuals\n        const gradients = [\n            'linear-gradient(135deg, #ef4444, #991b1b)', // Red\n            'linear-gradient(135deg, #8b5cf6, #5b21b6)', // Purple\n            'linear-gradient(135deg, #10b981, #047857)', // Green\n            'linear-gradient(135deg, #3b82f6, #1d4ed8)', // Blue\n            'linear-gradient(135deg, #f59e0b, #b45309)'  // Orange\n        ];\n\n        /**\n         * Initialization\n         */\n        document.addEventListener('DOMContentLoaded', () => {\n            initFilters();\n            fetchData();\n        });\n\n        /**\n         * 1. Create Filter Buttons\n         */\n        function initFilters() {\n            const container = document.getElementById('filter-container');\n            \n            // \"Show All\" Button\n            const allBtn = document.createElement('button');\n            allBtn.className = 'filter-btn active';\n            allBtn.textContent = '📂 عرض الكل';\n            allBtn.onclick = () => {\n                setActiveButton(allBtn);\n                renderCards(allData);\n            };\n            container.appendChild(allBtn);\n\n            // Sheikh Buttons\n            sheikhs.forEach(name => {\n                const btn = document.createElement('button');\n                btn.className = 'filter-btn';\n                btn.textContent = `🎙️ ${name}`;\n                btn.onclick = () => {\n                    setActiveButton(btn);\n                    filterAndDisplay(name);\n                };\n                container.appendChild(btn);\n            });\n        }\n\n        function setActiveButton(clickedBtn) {\n            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));\n            clickedBtn.classList.add('active');\n        }\n\n        /**\n         * 2. Fetch Data from Archive.org\n         */\n        async function fetchData() {\n            try {\n                const response = await fetch(API_URL);\n                const data = await response.json();\n                \n                if (data && data.response && data.response.docs) {\n                    allData = data.response.docs;\n                    renderCards(allData);\n                } else {\n                    showError(\"لم يتم العثور على بيانات.\");\n                }\n            } catch (error) {\n                console.error(\"Error fetching data:\", error);\n                showError(\"حدث خطأ أثناء الاتصال بالأرشيف.\");\n            }\n        }\n\n        function showError(msg) {\n            const container = document.getElementById('results-container');\n            container.innerHTML = `<div class=\"no-results\">⚠️ ${msg}</div>`;\n        }\n\n        /**\n         * 3. Filter Logic\n         */\n        function filterAndDisplay(query) {\n            const normalizedQuery = query.toLowerCase();\n            \n            const filtered = allData.filter(item => {\n                const title = (item.title || \"\").toLowerCase();\n                const creator = (item.creator || \"\").toLowerCase(); // Sometimes creator is an array, but usually string in simple views\n                \n                // Check if creator is array or string\n                const creatorStr = Array.isArray(item.creator) ? item.creator.join(\" \") : creator;\n\n                return title.includes(normalizedQuery) || creatorStr.includes(normalizedQuery);\n            });\n\n            renderCards(filtered);\n        }\n\n        /**\n         * 4. Render Cards\n         */\n        function renderCards(data) {\n            const container = document.getElementById('results-container');\n            container.innerHTML = ''; // Clear loading or old results\n\n            if (data.length === 0) {\n                container.innerHTML = `<div class=\"no-results\">🚫 لا توجد نتائج لهذا الشيخ في القائمة الحالية.</div>`;\n                return;\n            }\n\n            data.forEach((item, index) => {\n                // Generate random gradient for visual variety\n                const randomGradient = gradients[index % gradients.length];\n                \n                // Create Card Element\n                const card = document.createElement('div');\n                card.className = 'card';\n\n                // Construct HTML\n                // Note: using iframe with /embed/identifier for the player\n                const identifier = item.identifier;\n                const title = item.title || \"بدون عنوان\";\n                //const date = item.publicdate ? new Date(item.publicdate).toLocaleDateString('ar-EG') : \"تاريخ غير معروف\";\n                \n                // Visual Waveform (CSS only)\n                const visualHTML = `\n                    <div class=\"card-visual\" style=\"background: ${randomGradient}\">\n                        <div class=\"waveform\">\n                            <div class=\"bar\"></div><div class=\"bar\"></div><div class=\"bar\"></div>\n                            <div class=\"bar\"></div><div class=\"bar\"></div><div class=\"bar\"></div>\n                            <div class=\"bar\"></div><div class=\"bar\"></div><div class=\"bar\"></div>\n                            <div class=\"bar\"></div><div class=\"bar\"></div><div class=\"bar\"></div>\n                        </div>\n                    </div>\n                `;\n\n                const contentHTML = `\n                    <div class=\"card-content\">\n                        <div>\n                            <div class=\"card-title\" title=\"${title}\">${title}</div>\n                            <div class=\"card-meta\">\n                                <span>📅</span>\n                                <span>${item.publicdate ? item.publicdate.substring(0, 10) : 'غير مؤرخ'}</span>\n                            </div>\n                        </div>\n                        <iframe \n                            class=\"embed-container\" \n                            src=\"https://archive.org/embed/${identifier}&#038;playlist=1&#038;autoplay=0\" \n                            frameborder=\"0\" \n                            webkitallowfullscreen=\"true\" \n                            mozallowfullscreen=\"true\" \n                            allowfullscreen \n                            loading=\"lazy\">\n                        </iframe>\n                    </div>\n                `;\n\n                card.innerHTML = visualHTML + contentHTML;\n                container.appendChild(card);\n            });\n        }\n    </script>\n</body>\n</html>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>المكتبة الصوتية القرآنية | Archive.org 🎧 المكتبة الصوتية القرآنية جاري جلب المصاحف والتلاوات&#8230; تم التطوير بواسطة&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "المكتبة الصوتية القرآنية",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/المكتبة-الصوتية-القرآنية/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "المكتبة الصوتية القرآنية",
+    "og_url": "https://quranbook.org/المكتبة-الصوتية-القرآنية/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-11-27T18:43:13+00:00",
+    "article_modified_time": "2025-11-27T19:28:15+00:00",
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "المكتبة الصوتية القرآنية",
+          "datePublished": "2025-11-27T18:43:13+00:00",
+          "dateModified": "2025-11-27T19:28:15+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/"
+          },
+          "wordCount": 4,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/",
+          "url": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/",
+          "name": "المكتبة الصوتية القرآنية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "datePublished": "2025-11-27T18:43:13+00:00",
+          "dateModified": "2025-11-27T19:28:15+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86%d9%8a%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المكتبة الصوتية القرآنية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

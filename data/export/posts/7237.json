@@ -1,0 +1,218 @@
+{
+  "id": 7237,
+  "date": "2025-07-01T21:04:02",
+  "modified": "2025-07-01T21:04:03",
+  "slug": "%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/",
+  "title": {
+    "rendered": "تنزيل القرآن الكريم كاملاً PDF بدون نت"
+  },
+  "content": {
+    "rendered": "\n\n\n<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>تنزيل القرآن الكريم كاملاً PDF بدون نت (للقراءة في أي وقت)</title>\n    <style>\n        @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');\n\n        body {\n            font-family: 'Cairo', sans-serif;\n            background-color: #f4f4f4;\n            color: #333;\n            margin: 0;\n            padding: 20px;\n            line-height: 1.6;\n        }\n\n        .container {\n            max-width: 900px;\n            margin: auto;\n            overflow: hidden;\n        }\n\n        .main-title {\n            color: #2E7D32;\n            text-align: center;\n            font-size: 2.5em;\n            margin-bottom: 20px;\n            font-weight: 700;\n        }\n\n        .intro {\n            text-align: center;\n            font-size: 1.2em;\n            margin-bottom: 40px;\n            color: #555;\n        }\n\n        .quran-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 25px;\n        }\n\n        .quran-card {\n            color: white;\n            padding: 25px;\n            border-radius: 15px;\n            box-shadow: 0 5px 15px rgba(0,0,0,0.1);\n            transition: transform 0.3s ease, box-shadow 0.3s ease;\n        }\n\n        .quran-card:hover {\n            transform: translateY(-10px);\n            box-shadow: 0 12px 25px rgba(0,0,0,0.2);\n        }\n\n        .quran-card h3 {\n            font-size: 1.8em;\n            margin-top: 0;\n            margin-bottom: 15px;\n            font-weight: 700;\n            border-bottom: 2px solid rgba(255, 255, 255, 0.7);\n            padding-bottom: 10px;\n        }\n\n        .quran-card p {\n            font-size: 1em;\n            margin-bottom: 20px;\n        }\n\n        .links {\n            display: flex;\n            justify-content: center;\n            gap: 15px;\n            flex-wrap: wrap;\n        }\n\n        .links a {\n            text-decoration: none;\n            color: #fff;\n            background-color: rgba(255, 255, 255, 0.2);\n            padding: 12px 25px;\n            border-radius: 8px;\n            font-weight: bold;\n            transition: background-color 0.3s ease;\n            border: 1px solid white;\n        }\n\n        .links a:hover {\n            background-color: rgba(255, 255, 255, 0.4);\n        }\n        \n        /* تدرج الألوان الخضراء */\n        .card-1 { background: linear-gradient(135deg, #66BB6A, #43A047); }\n        .card-2 { background: linear-gradient(135deg, #4CAF50, #388E3C); }\n        .card-3 { background: linear-gradient(135deg, #388E3C, #2E7D32); }\n        .card-4 { background: linear-gradient(135deg, #2E7D32, #1B5E20); }\n        .card-5 { background: linear-gradient(135deg, #81C784, #4CAF50); }\n        .card-6 { background: linear-gradient(135deg, #A5D6A7, #66BB6A); }\n        .card-7 { background: linear-gradient(135deg, #1B5E20, #004D40); }\n\n        .additional-links {\n            margin-top: 50px;\n            padding: 20px;\n            background-color: #fff;\n            border-radius: 15px;\n        }\n        .additional-links h2 {\n            text-align: center;\n            color: #2E7D32;\n        }\n        .additional-links ul {\n            list-style: none;\n            padding: 0;\n            display: flex;\n            flex-wrap: wrap;\n            justify-content: center;\n            gap: 15px;\n        }\n        .additional-links a {\n            display: block;\n            background-color: #E8F5E9;\n            color: #2E7D32;\n            padding: 10px 20px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: bold;\n            transition: background-color 0.3s, color 0.3s;\n        }\n        .additional-links a:hover {\n            background-color: #4CAF50;\n            color: #fff;\n        }\n\n    </style>\n</head>\n<body>\n\n    <div class=\"container\">\n        <h1 class=\"main-title\">تنزيل القرآن الكريم كاملاً PDF بدون نت</h1>\n        <p class=\"intro\">\n            هل تبحث عن طريقة سهلة وموثوقة لقراءة كلام الله في أي وقت ومكان؟ نوفر لك اليوم روابط مباشرة لتحميل المصحف الشريف بصيغة PDF عالية الجودة. الآن، يمكنك تلاوة القرآن الكريم وتدبر آياته العطرة مباشرة من هاتفك أو حاسوبك دون الحاجة لاتصال بالإنترنت. اختر النسخة التي تفضلها وابدأ رحلتك الإيمانية.\n        </p>\n\n        <div class=\"quran-grid\">\n            \n            <div class=\"quran-card card-1\">\n                <h3>مصحف المدينة النبوية &#8211; حفص عن عاصم</h3>\n                <p>النسخة الأشهر في العالم الإسلامي، مكتوبة بخط الفنان عثمان طه الذي يجمع بين الجمال والوضوح ليسهل عليك القراءة.</p>\n                <div class=\"links\">\n                    <a href=\"https://qurancomplex.gov.sa/isdarat-hafs/#flipbook-df_11311/1/\" target=\"_blank\">قراءة مباشرة</a>\n                    <a href=\"https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/mumtaz.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n            <div class=\"quran-card card-2\">\n                <h3>مصحف ورش عن نافع</h3>\n                <p>مصحف أهل المغرب العربي، يعتمد على رواية ورش عن نافع، وهي من القراءات العشر المتواترة عن النبي صلى الله عليه وسلم.</p>\n                <div class=\"links\">\n                    <a href=\"https://qurancomplex.gov.sa/isdarat-qiraat/#flipbook-df_11326/1/\" target=\"_blank\">قراءة مباشرة</a>\n                    <a href=\"https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/warsh39.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n            <div class=\"quran-card card-3\">\n                <h3>مصحف قالون عن نافع</h3>\n                <p>يشتهر هذا المصحف في ليبيا وتونس وبعض دول المغرب العربي، وهو برواية قالون عن الإمام نافع المدني.</p>\n                <div class=\"links\">\n                    <a href=\"https://qurancomplex.gov.sa/isdarat-qiraat/#flipbook-df_11322/1/\" target=\"_blank\">قراءة مباشرة</a>\n                    <a href=\"https://qurancomplex.gov.sa/wp-content/uploads/isdarat/qiraat/qaloun.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n            <div class=\"quran-card card-4\">\n                <h3>مصحف بتفسير الجلالين</h3>\n                <p>نسخة مميزة تجمع بين الآيات الكريمة وتفسير الجلالين بهامش الصفحة، وهو تفسير مختصر ومفيد لفهم معاني القرآن.</p>\n                <div class=\"links\">\n                    <a href=\"https://ia800509.us.archive.org/0/items/Quran25/Quran25.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n            \n            <div class=\"quran-card card-5\">\n                <h3>سورة الفاتحة وجزء عم</h3>\n                <p>نسخة خاصة بسورة الفاتحة والجزء الأخير من القرآن (جزء عم)، مثالية للحفظ والمراجعة السريعة للصغار والكبار.</p>\n                <div class=\"links\">\n                    <a href=\"https://qurancomplex.gov.sa/isdarat-hafs/#flipbook-df_11282/7/\" target=\"_blank\">قراءة مباشرة</a>\n                    <a href=\"https://qurancomplex.gov.sa/wp-content/uploads/isdarat/hafs/juzuamma.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n            <div class=\"quran-card card-6\">\n                <h3>مصحف التجويد بخلفية بيضاء</h3>\n                <p>مصحف ملون ومفهرس للمساعدة على تطبيق أحكام التجويد، مع خلفية بيضاء مريحة للعين ومناسبة للطباعة.</p>\n                <div class=\"links\">\n                    <a href=\"https://dn790007.ca.archive.org/0/items/20200407_20200407_0508/%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%8A%D8%AF%20%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1%20%D9%85%D9%81%D9%87%D8%B1%D8%B3.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n            \n             <div class=\"quran-card card-7\">\n                <h3>القرآن الكريم للموبايل</h3>\n                <p>نسخة مخصصة للهواتف الذكية بحجم مناسب وجودة عالية، لتجربة قراءة مثالية على الشاشات الصغيرة.</p>\n                <div class=\"links\">\n                    <a href=\"https://ia800601.us.archive.org/10/items/EQuran00003/E-Quran-00003.pdf\" target=\"_blank\">تحميل PDF</a>\n                </div>\n            </div>\n\n        </div>\n\n        <div class=\"additional-links\">\n            <h2>روابط تحميل إضافية لمصاحف متنوعة</h2>\n            <ul>\n                <li><a href=\"https://quranvoice.org/%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81-pdf/\" target=\"_blank\">مصحف المدينة (أخضر)</a></li>\n                <li><a href=\"https://archive.org/download/arabic-568335686835685363568q3an1/arabic-quran2.pdf\" target=\"_blank\">مصحف الجواميعي (أزرق)</a></li>\n                <li><a href=\"https://quranvoice.org/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-pdf/\" target=\"_blank\">مصحف المدينة (أزرق)</a></li>\n                <li><a href=\"https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a%d8%a9-pdf/\" target=\"_blank\">مصحف الجماهيرية</a></li>\n            </ul>\n        </div>\n\n    </div>\n\n</body>\n</html>\n&#8220;`\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تنزيل القرآن الكريم كاملاً PDF بدون نت (للقراءة في أي وقت) تنزيل القرآن الكريم كاملاً PDF&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6671,
+  "categories": [
+    441
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "تنزيل القرآن الكريم كاملاً PDF بدون نت",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/تنزيل-القرآن-الكريم-كاملاً-pdf-بدون-نت/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "تنزيل القرآن الكريم كاملاً PDF بدون نت",
+    "og_url": "https://quranbook.org/تنزيل-القرآن-الكريم-كاملاً-pdf-بدون-نت/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-07-01T21:04:02+00:00",
+    "article_modified_time": "2025-07-01T21:04:03+00:00",
+    "og_image": [
+      {
+        "width": 603,
+        "height": 849,
+        "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "3 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "تنزيل القرآن الكريم كاملاً PDF بدون نت",
+          "datePublished": "2025-07-01T21:04:02+00:00",
+          "dateModified": "2025-07-01T21:04:03+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/"
+          },
+          "wordCount": 12,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "articleSection": [
+            "quran"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/",
+          "url": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/",
+          "name": "تنزيل القرآن الكريم كاملاً PDF بدون نت",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "datePublished": "2025-07-01T21:04:02+00:00",
+          "dateModified": "2025-07-01T21:04:03+00:00",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+          "width": 603,
+          "height": 849,
+          "caption": "تحميل المصحف الشريف pdf مجانًا"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%a7%d9%85%d9%84%d8%a7%d9%8b-pdf-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%aa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "تنزيل القرآن الكريم كاملاً PDF بدون نت"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

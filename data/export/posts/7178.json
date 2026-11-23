@@ -1,0 +1,221 @@
+{
+  "id": 7178,
+  "date": "2025-05-19T18:59:54",
+  "modified": "2025-05-19T18:59:56",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/",
+  "title": {
+    "rendered": "سورة التكوير مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">سورة التكوير (Surah Takwir) | وهي السورة رقم 81 وعدد آياتها 29 &#8211; مكية &#8211; وتقع في الصفحة رقم 586 من المصحف الشريف , و تعني بالانجليزية (The Overthrowing), كتابة عادية املائية بخط كبير عريض واضح.</p>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<script>\n\nfunction updateplayer() {\nvar sourceUrl = document.getElementById('reciter_ayates').value;\n//alert(sourceUrl);\n//var source = document​.​getElementById​(​\"mp3_src\"​)​;\n//source.src = sourceUrl;\n//document​.​getElementById​(​\"mp3ppl\"​)​.​src = sourceUrl;\ndocument.getElementById('desc').innerHTML = sourceUrl;\n\n}\n\n</script>\n<div class=\"card mt-3\">\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة التكوير</a></h3>\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/081.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/081.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/081.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/081.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/081.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/081.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/081.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/081.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/081.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/081.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/081.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/081.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/081.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/081.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/081.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/081.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/081.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/081.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/081.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/081.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/081.mp3\">ياسر الدوسري</option></select></form>\n  <div class=\"card-body\">\n<audio id=\"player\" controls=\"controls\">\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/081.mp3\" type=\"audio/mpeg\">\nYour browser does not support the audio element.\n</audio>\n\n  </div>\n</div>\n\n     <br />\n<script>\n  function updateplayer() {\n    // 1. الحصول على رابط القارئ المختار\n    var newSourceUrl = document.getElementById('reciter_ayates').value;\n\n    // 2. الحصول على عنصر المصدر داخل المشغل (الذي يحمل الـ ID = mp3ppl)\n    var sourceElement = document.getElementById('mp3ppl');\n\n    // 3. تحديث خاصية src لهذا العنصر بالرابط الجديد\n    sourceElement.src = newSourceUrl;\n\n    // 4. الحصول على عنصر المشغل نفسه (الذي يحمل الـ ID = player)\n    var player = document.getElementById('player');\n\n    // 5. أمر المشغل بإعادة تحميل الملف الصوتي الجديد\n    player.load();\n\n    // 6. (اختياري) يمكنك إلغاء التعليق عن السطر التالي ليبدأ التشغيل تلقائياً\n    // player.play();\n  }\n</script>\n\n\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n<p> <script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">At-Takwir ( The Overthrowing ) - التكوير</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081001.mp3');\">إِذَا الشَّمْسُ كُوِّرَتْ <span class=\"sora_name_by_sora\">التكوير [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081001.mp3');\">When the sun is wrapped up [in darkness] <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081002.mp3');\">وَإِذَا النُّجُومُ انكَدَرَتْ <span class=\"sora_name_by_sora\">التكوير [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081002.mp3');\">And when the stars fall, dispersing, <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081003.mp3');\">وَإِذَا الْجِبَالُ سُيِّرَتْ <span class=\"sora_name_by_sora\">التكوير [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081003.mp3');\">And when the mountains are removed <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081004.mp3');\">وَإِذَا الْعِشَارُ عُطِّلَتْ <span class=\"sora_name_by_sora\">التكوير [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081004.mp3');\">And when full-term she-camels are neglected <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081005.mp3');\">وَإِذَا الْوُحُوشُ حُشِرَتْ <span class=\"sora_name_by_sora\">التكوير [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081005.mp3');\">And when the wild beasts are gathered <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081006.mp3');\">وَإِذَا الْبِحَارُ سُجِّرَتْ <span class=\"sora_name_by_sora\">التكوير [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081006.mp3');\">And when the seas are filled with flame <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081007.mp3');\">وَإِذَا النُّفُوسُ زُوِّجَتْ <span class=\"sora_name_by_sora\">التكوير [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081007.mp3');\">And when the souls are paired <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081008.mp3');\">وَإِذَا الْمَوْءُودَةُ سُئِلَتْ <span class=\"sora_name_by_sora\">التكوير [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081008.mp3');\">And when the girl [who was] buried alive is asked <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081009.mp3');\">بِأَيِّ ذَنبٍ قُتِلَتْ <span class=\"sora_name_by_sora\">التكوير [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081009.mp3');\">For what sin she was killed <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081010.mp3');\">وَإِذَا الصُّحُفُ نُشِرَتْ <span class=\"sora_name_by_sora\">التكوير [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081010.mp3');\">And when the pages are made public <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081011.mp3');\">وَإِذَا السَّمَاءُ كُشِطَتْ <span class=\"sora_name_by_sora\">التكوير [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081011.mp3');\">And when the sky is stripped away <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081012.mp3');\">وَإِذَا الْجَحِيمُ سُعِّرَتْ <span class=\"sora_name_by_sora\">التكوير [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081012.mp3');\">And when Hellfire is set ablaze <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081013.mp3');\">وَإِذَا الْجَنَّةُ أُزْلِفَتْ <span class=\"sora_name_by_sora\">التكوير [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081013.mp3');\">And when Paradise is brought near, <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081014.mp3');\">عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ <span class=\"sora_name_by_sora\">التكوير [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081014.mp3');\">A soul will [then] know what it has brought [with it]. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081015.mp3');\">فَلَا أُقْسِمُ بِالْخُنَّسِ <span class=\"sora_name_by_sora\">التكوير [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081015.mp3');\">So I swear by the retreating stars - <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081016.mp3');\">الْجَوَارِ الْكُنَّسِ <span class=\"sora_name_by_sora\">التكوير [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081016.mp3');\">Those that run [their courses] and disappear - <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081017.mp3');\">وَاللَّيْلِ إِذَا عَسْعَسَ <span class=\"sora_name_by_sora\">التكوير [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081017.mp3');\">And by the night as it closes in <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081018.mp3');\">وَالصُّبْحِ إِذَا تَنَفَّسَ <span class=\"sora_name_by_sora\">التكوير [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081018.mp3');\">And by the dawn when it breathes <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081019.mp3');\">إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ <span class=\"sora_name_by_sora\">التكوير [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081019.mp3');\">[That] indeed, the Qur'an is a word [conveyed by] a noble messenger <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081020.mp3');\">ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ <span class=\"sora_name_by_sora\">التكوير [20]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081020.mp3');\">[Who is] possessed of power and with the Owner of the Throne, secure [in position], <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081021.mp3');\">مُّطَاعٍ ثَمَّ أَمِينٍ <span class=\"sora_name_by_sora\">التكوير [21]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081021.mp3');\">Obeyed there [in the heavens] and trustworthy. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081022.mp3');\">وَمَا صَاحِبُكُم بِمَجْنُونٍ <span class=\"sora_name_by_sora\">التكوير [22]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081022.mp3');\">And your companion is not [at all] mad. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081023.mp3');\">وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ <span class=\"sora_name_by_sora\">التكوير [23]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081023.mp3');\">And he has already seen Gabriel in the clear horizon. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081024.mp3');\">وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ <span class=\"sora_name_by_sora\">التكوير [24]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081024.mp3');\">And Muhammad is not a withholder of [knowledge of] the unseen. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081025.mp3');\">وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ <span class=\"sora_name_by_sora\">التكوير [25]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081025.mp3');\">And the Qur'an is not the word of a devil, expelled [from the heavens]. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081026.mp3');\">فَأَيْنَ تَذْهَبُونَ <span class=\"sora_name_by_sora\">التكوير [26]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081026.mp3');\">So where are you going? <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081027.mp3');\">إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ <span class=\"sora_name_by_sora\">التكوير [27]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081027.mp3');\">It is not except a reminder to the worlds <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081028.mp3');\">لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ <span class=\"sora_name_by_sora\">التكوير [28]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081028.mp3');\">For whoever wills among you to take a right course. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/081029.mp3');\">وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ <span class=\"sora_name_by_sora\">التكوير [29]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/081029.mp3');\">And you do not will except that Allah wills - Lord of the worlds. <span class=\"sora_name_by_sora\">At-Takwir ( The Overthrowing ) [29]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة التكوير (Surah Takwir) | وهي السورة رقم 81 وعدد آياتها 29 &#8211; مكية &#8211; وتقع&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7067,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة التكوير بخط كبير – استماع وترجمة إنجليزية",
+    "description": "اكتشف سورة التكوير مكتوبة بخط واضح، استمع إليها وتفكر في الترجمة الإنجليزية. #سورة_التكوير #جزء_عم",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-التكوير-مكتوبة-بخط-كبير-مع-خاصية-ا/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة التكوير بخط كبير – استماع وترجمة إنجليزية",
+    "og_description": "اكتشف سورة التكوير مكتوبة بخط واضح، استمع إليها وتفكر في الترجمة الإنجليزية. #سورة_التكوير #جزء_عم",
+    "og_url": "https://quranbook.org/سورة-التكوير-مكتوبة-بخط-كبير-مع-خاصية-ا/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-05-19T18:59:54+00:00",
+    "article_modified_time": "2025-05-19T18:59:56+00:00",
+    "og_image": [
+      {
+        "width": 600,
+        "height": 600,
+        "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة التكوير مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+          "datePublished": "2025-05-19T18:59:54+00:00",
+          "dateModified": "2025-05-19T18:59:56+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/"
+          },
+          "wordCount": 16,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "articleSection": [
+            "سور القران مع الترجمه الانجليزيه"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/",
+          "name": "سورة التكوير بخط كبير – استماع وترجمة إنجليزية",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "datePublished": "2025-05-19T18:59:54+00:00",
+          "dateModified": "2025-05-19T18:59:56+00:00",
+          "description": "اكتشف سورة التكوير مكتوبة بخط واضح، استمع إليها وتفكر في الترجمة الإنجليزية. #سورة_التكوير #جزء_عم",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "width": 600,
+          "height": 600,
+          "caption": "سور القران مع الترجمه الانجليزيه"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة التكوير مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

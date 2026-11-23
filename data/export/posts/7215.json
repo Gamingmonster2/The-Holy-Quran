@@ -1,0 +1,221 @@
+{
+  "id": 7215,
+  "date": "2025-06-09T21:15:05",
+  "modified": "2025-11-07T12:53:34",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/",
+  "title": {
+    "rendered": "سورة الفاتحة مكتوبة مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">سورة الفاتحة هي السورة الأولى في القرآن الكريم، وتُعرف بأم الكتاب لكونها تجمع معاني الإيمان والتوحيد والرحمة. تُعد ركنًا أساسيًا في الصلاة، إذ تُتلى في كل ركعة، مما يبرز أهميتها الكبيرة. في هذا المقال، سنستعرض نص السورة مع ترجمتها الإنجليزية، </p>\n\n\n\n<style>\n.reciter-card {\n  background: #ffffff;\n  border: 2px solid #000;\n  border-radius: 10px;\n  padding: 20px;\n  width: 100%;\n  max-width: 700px;\n  margin: 25px auto;\n  text-align: center;\n  font-family: \"Arial\", sans-serif;\n  color: #000;\n}\n.reciter-title {\n  color: #000;\n  font-size: 26px;\n  font-weight: bold;\n  margin-bottom: 15px;\n}\n.surah-table {\n  width: 100%;\n  border-collapse: collapse;\n  margin-bottom: 20px;\n  font-size: 20px;\n  text-align: center;\n}\n.surah-table th, .surah-table td {\n  border: 1px solid #000;\n  padding: 10px;\n}\n.surah-table th {\n  background-color: #000;\n  color: #fff;\n  font-weight: bold;\n}\n.surah-table td {\n  font-weight: bold;\n  color: #000;\n}\n.select-reciter {\n  width: 80%;\n  font-size: 18px;\n  padding: 10px;\n  border-radius: 8px;\n  border: 1px solid #000;\n  margin-bottom: 15px;\n  color: #000;\n  background-color: #fff;\n}\n#audio-player {\n  width: 100%;\n  margin-top: 15px;\n}\n.reciter-name {\n  margin-top: 10px;\n  font-size: 20px;\n  font-weight: bold;\n  color: #000;\n}\n</style>\n\n<div class=\"reciter-card\">\n  <div class=\"reciter-title\">📖 سورة الفاتحة (Surah Al-Fatiha)</div>\n\n  <table class=\"surah-table\">\n    <tr>\n      <th>رقم السورة</th>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>عدد الآيات</th>\n      <td>7</td>\n    </tr>\n    <tr>\n      <th>نوع السورة</th>\n      <td>مكية</td>\n    </tr>\n    <tr>\n      <th>صفحة المصحف</th>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>المعنى بالإنجليزية</th>\n      <td><b>The Opening</b></td>\n    </tr>\n  </table>\n\n  <select class=\"select-reciter\" id=\"reciter_ayates\" onchange=\"updateplayer()\">\n    \n    <option value=\"https://archive.org/download/Ammar-Almulla/001.mp3\">عمار الملا علي</option>\n    <option value=\"https://server9.mp3quran.net/omar_warsh/001.mp3\">عمر القزابري</option>\n    <option value=\"https://server8.mp3quran.net/frs_a/001.mp3\">فارس عباد</option>\n    <option value=\"https://ia903403.us.archive.org/22/items/alfirdwsiy143NBVCXCRETYUTIUYIYITYTRE02_201712/001.mp3\">غسان الشوربجي</option>\n    <option value=\"https://server11.mp3quran.net/hatem/001.mp3\">حاتم فريد الواعر</option>\n    <option value=\"https://ia903208.us.archive.org/21/items/hassan_mohaed_saleh/001.mp3\">حسن صالح</option>\n    <option value=\"https://server10.mp3quran.net/jleel/001.mp3\">خالد الجليل</option>\n    <option value=\"https://server12.mp3quran.net/001.mp3\">خليفة الطنيجي</option>\n    <option value=\"https://ia601409.us.archive.org/34/items/alfirdwsiy1433_gmail_0356835683568568356856802/001.mp3\">بندر بليلة</option>\n    <option value=\"https://server8.mp3quran.net/bu_khtr/001.mp3\">صلاح بوخاطر</option>\n    <option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/001.mp3\">سعد الغامدي</option>\n    <option value=\"https://server7.mp3quran.net/shur/001.mp3\">سعود الشريم</option>\n    <option value=\"https://server11.mp3quran.net/shatri/001.mp3\">أبو بكر الشاطري</option>\n    <option value=\"https://server6.mp3quran.net/bsfr/001.mp3\">عبد الله بصفر</option>\n    <option value=\"https://server13.mp3quran.net/jhn/001.mp3\">عبد الله الجهني</option>\n    <option value=\"https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem/001.mp3\">عبد الله كامل</option>\n    <option value=\"https://ia801300.us.archive.org/30/items/AbdAlrahman-Al3osy/001.mp3\">عبد الرحمن العوسي</option>\n    <option value=\"https://server11.mp3quran.net/sds/001.mp3\">عبد الرحمن السديس</option>\n    <option value=\"https://ia601206.us.archive.org/24/items/way2sona_20151222_1438/001_2.mp3\">عبد الرشيد صوفي</option>\n    <option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/001.mp3\">عبد الباسط عبد الصمد</option>\n    <option value=\"https://server9.mp3quran.net/zahrani/001.mp3\">عبد العزيز الزهراني</option>\n    <option value=\"https://server10.mp3quran.net/ajm/001.mp3\">أحمد العجمي</option>\n    <option value=\"https://server9.mp3quran.net/hthfi/001.mp3\">علي الحذيفي</option>\n    <option value=\"https://server11.mp3quran.net/koshi/001.mp3\">العيون الكوشي</option>\n    <option value=\"https://ia801201.us.archive.org/30/items/way2sona_20151219_2128/001.mp3\">الشحات محمد أنور</option>\n    <option value=\"https://server8.mp3quran.net/bna/001.mp3\">محمود البنا</option>\n    <option value=\"https://server13.mp3quran.net/husr/001.mp3\">محمود خليل الحصري</option>\n    <option value=\"https://server11.mp3quran.net/mhsny/001.mp3\">محمد المحيسني</option>\n    <option value=\"https://server8.mp3quran.net/ayyub/001.mp3\">محمد أيوب</option>\n    <option value=\"https://ia802901.us.archive.org/27/items/www.elahmad.com_73/001.mp3\">محمد جبريل</option>\n    <option value=\"https://server10.mp3quran.net/minsh/001.mp3\">محمد صديق المنشاوي</option>\n    <option value=\"https://server12.mp3quran.net/maher/001.mp3\">ماهر المعيقلي</option>\n    <option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/001.mp3\">مصطفى إسماعيل</option>\n    <option value=\"https://server16.mp3quran.net/nourin_siddig/Rewayat-Aldori-A-n-Abi-Amr/001.mp3\">نورين محمد صديق</option>\n    <option value=\"https://server6.mp3quran.net/qtm/001.mp3\">ناصر القطامي</option>\n    <option value=\"https://server6.mp3quran.net/wdee3/001.mp3\">وديع اليمني</option>\n    <option value=\"https://server11.mp3quran.net/yasser/001.mp3\">ياسر الدوسري</option>\n    <option value=\"https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/001.mp3\">ياسين الجزائري</option>\n  </select>\n\n  <audio id=\"audio-player\" controls>\n    <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/001.mp3\" type=\"audio/mpeg\">\n  </audio>\n\n  <div class=\"reciter-name\" id=\"current-reciter-name\">الآن تستمع إلى: عمار الملا علي</div>\n</div>\n\n<script>\nfunction updateplayer() {\n  var reciterSelect = document.getElementById('reciter_ayates');\n  var newSourceUrl = reciterSelect.value;\n  var sourceElement = document.getElementById('mp3ppl');\n  sourceElement.src = newSourceUrl;\n  var player = document.getElementById('audio-player');\n  player.load();\n  var currentName = reciterSelect.options[reciterSelect.selectedIndex].text;\n  document.getElementById('current-reciter-name').innerText = \"الآن تستمع إلى: \" + currentName;\n}\n</script>\n\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">Al-Fatihah ( The Opening ) - الفاتحة</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001001.mp3');\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ <span class=\"sora_name_by_sora\">الفاتحة [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001001.mp3');\">In the name of Allah, the Entirely Merciful, the Especially Merciful. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001002.mp3');\">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ <span class=\"sora_name_by_sora\">الفاتحة [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001002.mp3');\">[All] praise is [due] to Allah, Lord of the worlds - <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001003.mp3');\">الرَّحْمَٰنِ الرَّحِيمِ <span class=\"sora_name_by_sora\">الفاتحة [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001003.mp3');\">The Entirely Merciful, the Especially Merciful, <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001004.mp3');\">مَالِكِ يَوْمِ الدِّينِ <span class=\"sora_name_by_sora\">الفاتحة [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001004.mp3');\">Sovereign of the Day of Recompense. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001005.mp3');\">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ <span class=\"sora_name_by_sora\">الفاتحة [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001005.mp3');\">It is You we worship and You we ask for help. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001006.mp3');\">اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ <span class=\"sora_name_by_sora\">الفاتحة [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001006.mp3');\">Guide us to the straight path - <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/001007.mp3');\">صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ <span class=\"sora_name_by_sora\">الفاتحة [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/001007.mp3');\">The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. <span class=\"sora_name_by_sora\">Al-Fatihah ( The Opening ) [7]</span></div></div></p>\n\n\n\n<div style=\"height:33px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-%d8%a3%d8%b9%d8%b8/\">سورة البقرة مع الترجمة الإنجليزية</a></h4>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>سورة الفاتحة هي السورة الأولى في القرآن الكريم، وتُعرف بأم الكتاب لكونها تجمع معاني الإيمان والتوحيد&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6603,
+  "categories": [
+    993
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الفاتحة مكتوبة",
+    "description": "اسورة الفاتحة مكتوبة مع الترجمة الإنجليزية، وفهم دلالاتها الروحية العميقة في الإسلام. #سورة_الفاتحة #ترجمة_القرآن",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-الفاتحة-مكتوبة/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الفاتحة مكتوبة",
+    "og_description": "اسورة الفاتحة مكتوبة مع الترجمة الإنجليزية، وفهم دلالاتها الروحية العميقة في الإسلام. #سورة_الفاتحة #ترجمة_القرآن",
+    "og_url": "https://quranbook.org/سورة-الفاتحة-مكتوبة/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-06-09T21:15:05+00:00",
+    "article_modified_time": "2025-11-07T12:53:34+00:00",
+    "og_image": [
+      {
+        "width": 263,
+        "height": 220,
+        "url": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقتان"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة الفاتحة مكتوبة مع الترجمة الإنجليزية",
+          "datePublished": "2025-06-09T21:15:05+00:00",
+          "dateModified": "2025-11-07T12:53:34+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/"
+          },
+          "wordCount": 6,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+          "articleSection": [
+            "Surah Al Fath"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/",
+          "name": "سورة الفاتحة مكتوبة",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+          "datePublished": "2025-06-09T21:15:05+00:00",
+          "dateModified": "2025-11-07T12:53:34+00:00",
+          "description": "اسورة الفاتحة مكتوبة مع الترجمة الإنجليزية، وفهم دلالاتها الروحية العميقة في الإسلام. #سورة_الفاتحة #ترجمة_القرآن",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+          "width": 263,
+          "height": 220,
+          "caption": "القرآن الكريم PDF مصحف المدينة"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d8%ad%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة الفاتحة مكتوبة مع الترجمة الإنجليزية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

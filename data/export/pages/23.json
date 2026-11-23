@@ -1,0 +1,133 @@
+{
+  "id": 23,
+  "date": "2024-03-12T05:53:44",
+  "modified": "2025-11-22T15:34:47",
+  "slug": "quranonline",
+  "status": "publish",
+  "link": "https://quranbook.org/quranonline/",
+  "title": {
+    "rendered": "Digital Quran Repository"
+  },
+  "content": {
+    "rendered": "\n<div style=\"height:57px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Digital Quran Repository | المستودع الرقمي للقرآن الكريم</title>\n    \n    <link href=\"https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&#038;family=Roboto:wght@300;400;700&#038;display=swap\" rel=\"stylesheet\">\n\n    <style>\n        :root {\n            --main-black: #111111;\n            --main-blue: #0056b3; /* Royal Blue */\n            --light-blue: #e6f2ff;\n            --white: #ffffff;\n        }\n\n        body {\n            font-family: 'Roboto', sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n            color: var(--main-black);\n        }\n\n        /* Header Styling */\n        header {\n            background-color: var(--main-black);\n            color: var(--white);\n            padding: 40px 20px;\n            text-align: center;\n            border-bottom: 5px solid var(--main-blue);\n        }\n\n        h1 {\n            margin: 0;\n            font-size: 2.5rem;\n            font-weight: 700;\n        }\n\n        .arabic-text {\n            font-family: 'Amiri', serif;\n            direction: rtl;\n        }\n\n        .subtitle {\n            color: var(--main-blue);\n            margin-top: 10px;\n            font-size: 1.2rem;\n        }\n\n        /* Container Styling */\n        .container {\n            max-width: 900px;\n            margin: 40px auto;\n            padding: 0 20px;\n        }\n\n        .info-card {\n            background: var(--white);\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n            text-align: center;\n            margin-bottom: 30px;\n            border-top: 4px solid var(--main-black);\n        }\n\n        .reciter-badge {\n            display: inline-block;\n            background-color: var(--main-blue);\n            color: var(--white);\n            padding: 8px 16px;\n            border-radius: 50px;\n            font-weight: bold;\n            margin: 15px 0;\n        }\n\n        /* Verse List Styling */\n        .verse-list {\n            list-style: none;\n            padding: 0;\n        }\n\n        .verse-item {\n            background-color: var(--white);\n            border: 1px solid #ddd;\n            border-left: 6px solid var(--main-blue);\n            margin-bottom: 20px;\n            padding: 20px;\n            border-radius: 8px;\n            cursor: pointer;\n            transition: all 0.3s ease;\n            display: flex;\n            flex-direction: column;\n            gap: 15px;\n        }\n\n        .verse-item:hover {\n            background-color: var(--light-blue);\n            transform: translateY(-3px);\n            box-shadow: 0 5px 15px rgba(0,86,179,0.2);\n        }\n\n        .verse-arabic {\n            font-family: 'Amiri', serif;\n            font-size: 1.8rem;\n            text-align: right;\n            color: var(--main-black);\n            line-height: 2.2rem;\n        }\n\n        .verse-english {\n            font-size: 1.1rem;\n            color: #555;\n            text-align: left;\n        }\n\n        /* Audio Controls Visuals */\n        .controls {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            border-top: 1px solid #eee;\n            padding-top: 15px;\n            margin-top: 10px;\n        }\n\n        .action-btn {\n            background: none;\n            border: 2px solid var(--main-blue);\n            color: var(--main-blue);\n            padding: 8px 15px;\n            border-radius: 5px;\n            cursor: pointer;\n            font-weight: bold;\n            font-size: 0.9rem;\n            transition: background 0.2s;\n        }\n\n        .action-btn:hover {\n            background-color: var(--main-blue);\n            color: var(--white);\n        }\n\n        /* Footer */\n        footer {\n            text-align: center;\n            padding: 20px;\n            background-color: var(--main-black);\n            color: #777;\n            font-size: 0.9rem;\n            margin-top: 50px;\n        }\n        \n        footer a {\n            color: var(--main-blue);\n            text-decoration: none;\n        }\n    </style>\n</head>\n<body>\n\n    <header>\n        <h1>Digital Quran Repository</h1>\n        <h1 class=\"arabic-text\">المستودع الرقمي للقرآن الكريم</h1>\n        <p class=\"subtitle\">Access Verses, Translations, and Guidance</p>\n    </header>\n\n    <div class=\"container\">\n        \n        <div class=\"info-card\">\n            <h2>Recitation Audio</h2>\n            <h2 class=\"arabic-text\">التلاوة الصوتية</h2>\n            \n            <div class=\"reciter-badge\">\n                Voice: Sheikh Mishary Al-Afasy | القارئ: الشيخ مشاري العفاسي\n            </div>\n            \n            <p>Click on any verse below to listen to the recitation or download the audio file.</p>\n            <p class=\"arabic-text\">اضغط على أي آية أدناه للاستماع إلى التلاوة أو تحميل الملف الصوتي.</p>\n        </div>\n\n        <ul class=\"verse-list\">\n            \n            <li class=\"verse-item\" onclick=\"playDemo('audio1')\">\n                <div class=\"verse-arabic\">\n                    بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\n                </div>\n                <div class=\"verse-english\">\n                    In the name of Allah, the Entirely Merciful, the Especially Merciful.\n                </div>\n                <div class=\"controls\">\n                    <span style=\"font-size: 0.9rem; color: #666;\">Surah Al-Fatiha [1:1]</span>\n                    <div>\n                        <button class=\"action-btn\">▶ Play / تشغيل</button>\n                        <button class=\"action-btn\">⬇ Download / تحميل</button>\n                    </div>\n                </div>\n            </li>\n\n            <li class=\"verse-item\" onclick=\"playDemo('audio2')\">\n                <div class=\"verse-arabic\">\n                    ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ\n                </div>\n                <div class=\"verse-english\">\n                    [All] praise is [due] to Allah, Lord of the worlds.\n                </div>\n                <div class=\"controls\">\n                    <span style=\"font-size: 0.9rem; color: #666;\">Surah Al-Fatiha [1:2]</span>\n                    <div>\n                        <button class=\"action-btn\">▶ Play / تشغيل</button>\n                        <button class=\"action-btn\">⬇ Download / تحميل</button>\n                    </div>\n                </div>\n            </li>\n\n        </ul>\n    </div>\n\n    <footer>\n        <p>&copy; 2025 Digital Quran Repository. All rights reserved.</p>\n        <p class=\"arabic-text\">جميع الحقوق محفوظة للمستودع الرقمي للقرآن الكريم</p>\n    </footer>\n\n    <script>\n        // Simple script to simulate interaction\n        function playDemo(id) {\n            console.log(\"Interaction detected on verse: \" + id);\n            // In a real application, this would trigger the HTML5 Audio player\n        }\n    </script>\n\n</body>\n</html>\n\n\n<p><div class=\"quran_gateway_sora_list\"><h2 class=\"sora_title\">The Noble Qur'an</h2><ul><li>1. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=1\">Al-Fatihah ( The Opening )</a></li><li>2. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=2\">Al-Baqarah ( The Cow )</a></li><li>3. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=3\">Al-Imran ( The Famiy of Imran )</a></li><li>4. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=4\">An-Nisa ( The Women )</a></li><li>5. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=5\">Al-Maidah ( The Table spread with Food )</a></li><li>6. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=6\">Al-An'am ( The Cattle )</a></li><li>7. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=7\">Al-A'raf (The Heights )</a></li><li>8. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=8\">Al-Anfal ( The Spoils of War )</a></li><li>9. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=9\">At-Taubah ( The Repentance )</a></li><li>10. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=10\">Yunus ( Jonah )</a></li><li>11. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=11\">Hud</a></li><li>12. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=12\">Yusuf (Joseph )</a></li><li>13. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=13\">Ar-Ra'd ( The Thunder )</a></li><li>14. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=14\">Ibrahim ( Abraham )</a></li><li>15. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=15\">Al-Hijr ( The Rocky Tract )</a></li><li>16. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=16\">An-Nahl ( The Bees )</a></li><li>17. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=17\">Al-Isra ( The Night Journey )</a></li><li>18. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=18\">Al-Kahf ( The Cave )</a></li><li>19. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=19\">Maryam ( Mary )</a></li><li>20. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=20\">Taha</a></li><li>21. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=21\">Al-Anbiya ( The Prophets )</a></li><li>22. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=22\">Al-Hajj ( The Pilgrimage )</a></li><li>23. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=23\">Al-Mu'minoon ( The Believers )</a></li><li>24. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=24\">An-Noor ( The Light )</a></li><li>25. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=25\">Al-Furqan (The Criterion )</a></li><li>26. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=26\">Ash-Shuara ( The Poets )</a></li><li>27. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=27\">An-Naml (The Ants )</a></li><li>28. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=28\">Al-Qasas ( The Stories )</a></li><li>29. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=29\">Al-Ankaboot ( The Spider )</a></li><li>30. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=30\">Ar-Room ( The Romans )</a></li><li>31. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=31\">Luqman</a></li><li>32. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=32\">As-Sajdah ( The Prostration )</a></li><li>33. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=33\">Al-Ahzab ( The Combined Forces )</a></li><li>34. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=34\">Saba ( Sheba )</a></li><li>35. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=35\">Fatir ( The Orignator )</a></li><li>36. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=36\">Ya-seen</a></li><li>37. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=37\">As-Saaffat ( Those Ranges in Ranks )</a></li><li>38. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=38\">Sad ( The Letter Sad )</a></li><li>39. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=39\">Az-Zumar ( The Groups )</a></li><li>40. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=40\">Ghafir ( The Forgiver God )</a></li><li>41. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=41\">Fussilat ( Explained in Detail )</a></li><li>42. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=42\">Ash-Shura (Consultation )</a></li><li>43. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=43\">Az-Zukhruf ( The Gold Adornment )</a></li><li>44. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=44\">Ad-Dukhan ( The Smoke )</a></li><li>45. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=45\">Al-Jathiya ( Crouching )</a></li><li>46. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=46\">Al-Ahqaf ( The Curved Sand-hills )</a></li><li>47. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=47\">Muhammad</a></li><li>48. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=48\">Al-Fath ( The Victory )</a></li><li>49. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=49\">Al-Hujurat ( The Dwellings )</a></li><li>50. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=50\">Qaf ( The Letter Qaf )</a></li><li>51. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=51\">Adh-Dhariyat ( The Wind that Scatter )</a></li><li>52. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=52\">At-Tur ( The Mount )</a></li><li>53. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=53\">An-Najm ( The Star )</a></li><li>54. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=54\">Al-Qamar ( The Moon )</a></li><li>55. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=55\">Ar-Rahman ( The Most Graciouse )</a></li><li>56. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=56\">Al-Waqi'ah ( The Event )</a></li><li>57. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=57\">Al-Hadid ( The Iron )</a></li><li>58. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=58\">Al-Mujadilah ( She That Disputeth )</a></li><li>59. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=59\">Al-Hashr ( The Gathering )</a></li><li>60. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=60\">Al-Mumtahanah ( The Woman to be examined )</a></li><li>61. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=61\">As-Saff ( The Row )</a></li><li>62. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=62\">Al-Jumu'ah ( Friday )</a></li><li>63. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=63\">Al-Munafiqoon ( The Hypocrites )</a></li><li>64. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=64\">At-Taghabun ( Mutual Loss &amp; Gain )</a></li><li>65. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=65\">At-Talaq ( The Divorce )</a></li><li>66. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=66\">At-Tahrim ( The Prohibition )</a></li><li>67. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=67\">Al-Mulk ( Dominion )</a></li><li>68. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=68\">Al-Qalam ( The Pen )</a></li><li>69. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=69\">Al-Haaqqah ( The Inevitable )</a></li><li>70. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=70\">Al-Ma'arij (The Ways of Ascent )</a></li><li>71. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=71\">Nooh</a></li><li>72. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=72\">Al-Jinn ( The Jinn )</a></li><li>73. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=73\">Al-Muzzammil (The One wrapped in Garments)</a></li><li>74. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=74\">Al-Muddaththir ( The One Enveloped )</a></li><li>75. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=75\">Al-Qiyamah ( The Resurrection )</a></li><li>76. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=76\">Al-Insan ( Man )</a></li><li>77. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=77\">Al-Mursalat ( Those sent forth )</a></li><li>78. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=78\">An-Naba' ( The Great News )</a></li><li>79. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=79\">An-Nazi'at ( Those who Pull Out )</a></li><li>80. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=80\">Abasa ( He frowned )</a></li><li>81. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=81\">At-Takwir ( The Overthrowing )</a></li><li>82. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=82\">Al-Infitar ( The Cleaving )</a></li><li>83. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=83\">Al-Mutaffifin (Those Who Deal in Fraud)</a></li><li>84. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=84\">Al-Inshiqaq (The Splitting Asunder)</a></li><li>85. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=85\">Al-Burooj ( The Big Stars )</a></li><li>86. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=86\">At-Tariq ( The Night-Comer )</a></li><li>87. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=87\">Al-A'la ( The Most High )</a></li><li>88. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=88\">Al-Ghashiya ( The Overwhelming )</a></li><li>89. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=89\">Al-Fajr ( The Dawn )</a></li><li>90. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=90\">Al-Balad ( The City )</a></li><li>91. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=91\">Ash-Shams ( The Sun )</a></li><li>92. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=92\">Al-Layl ( The Night )</a></li><li>93. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=93\">Ad-Dhuha ( The Forenoon )</a></li><li>94. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=94\">As-Sharh ( The Opening Forth)</a></li><li>95. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=95\">At-Tin ( The Fig )</a></li><li>96. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=96\">Al-'alaq ( The Clot )</a></li><li>97. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=97\">Al-Qadr ( The Night of Decree )</a></li><li>98. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=98\">Al-Bayyinah ( The Clear Evidence )</a></li><li>99. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=99\">Az-Zalzalah ( The Earthquake )</a></li><li>100. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=100\">Al-'adiyat ( Those That Run )</a></li><li>101. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=101\">Al-Qari'ah ( The Striking Hour )</a></li><li>102. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=102\">At-Takathur ( The piling Up )</a></li><li>103. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=103\">Al-Asr ( The Time )</a></li><li>104. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=104\">Al-Humazah ( The Slanderer )</a></li><li>105. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=105\">Al-Fil ( The Elephant )</a></li><li>106. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=106\">Quraish</a></li><li>107. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=107\">Al-Ma'un ( Small Kindnesses )</a></li><li>108. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=108\">Al-Kauther ( A River in Paradise)</a></li><li>109. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=109\">Al-Kafiroon ( The Disbelievers )</a></li><li>110. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=110\">An-Nasr ( The Help )</a></li><li>111. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=111\">Al-Masad ( The Palm Fibre )</a></li><li>112. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=112\">Al-Ikhlas ( Sincerity )</a></li><li>113. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=113\">Al-Falaq ( The Daybreak )</a></li><li>114. <a href=\"https://quranbook.org/quranonline/?language_id=1&sora_id=114\">An-Nas ( Mankind )</a></li></ul><div style=\"clear:both;\"></div></div></p>\n\n\n\n<div style=\"height:46px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div style=\"height:46px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\"  id=\"_ytid_42548\"  width=\"1290\" height=\"725\"  data-origwidth=\"1290\" data-origheight=\"725\" src=\"https://www.youtube.com/embed/vLe3gIceIMs?enablejsapi=1&#038;autoplay=0&#038;cc_load_policy=0&#038;cc_lang_pref=&#038;iv_load_policy=1&#038;loop=0&#038;rel=1&#038;fs=1&#038;playsinline=0&#038;autohide=2&#038;theme=dark&#038;color=red&#038;controls=1&#038;disablekb=0&#038;\" class=\"__youtube_prefs__  epyt-is-override  no-lazyload\" title=\"YouTube player\"  allow=\"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen data-no-lazy=\"1\" data-skipgform_ajax_framebjll=\"\"></iframe>\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Digital Quran Repository | المستودع الرقمي للقرآن الكريم Digital Quran Repository المستودع الرقمي للقرآن الكريم Access Verses, Translations, and Guidance Recitation Audio التلاوة الصوتية Voice: Sheikh Mishary Al-Afasy | القارئ: الشيخ مشاري العفاسي Click on any verse below to listen to the recitation or download the audio file. اضغط على أي آية أدناه للاستماع إلى&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "yoast_head_json": {
+    "title": "Quran online",
+    "description": "Discover the Quran Online: a digital repository of the Holy Quran. Access verses, translations and alquran on line guidance.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/quranonline/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "Quran online",
+    "og_description": "Discover the Quran Online: a digital repository of the Holy Quran. Access verses, translations and alquran on line guidance.",
+    "og_url": "https://quranbook.org/quranonline/",
+    "og_site_name": "Quran Book",
+    "article_modified_time": "2025-11-22T15:34:47+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/quranonline/",
+          "url": "https://quranbook.org/quranonline/",
+          "name": "Quran online",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "datePublished": "2024-03-12T05:53:44+00:00",
+          "dateModified": "2025-11-22T15:34:47+00:00",
+          "description": "Discover the Quran Online: a digital repository of the Holy Quran. Access verses, translations and alquran on line guidance.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/quranonline/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/quranonline/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/quranonline/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Digital Quran Repository"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  }
+}

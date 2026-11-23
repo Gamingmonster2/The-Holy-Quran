@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getTerms } from '../../lib/content.mjs';
+const terms = getTerms('categories');
+---
+
+<BaseLayout title="التصنيفات — QuranBook">
+  <div class="qb-list">
+    <h1>التصنيفات</h1>
+    {terms.map((t) => (
+      <a class="qb-card" href={t.path}><b>{t.name}</b><small>{t.count} مقالة</small></a>
+    ))}
+  </div>
+</BaseLayout>

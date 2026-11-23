@@ -1,0 +1,221 @@
+{
+  "id": 7154,
+  "date": "2025-05-03T22:47:19",
+  "modified": "2025-05-03T22:47:59",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/",
+  "title": {
+    "rendered": "سورة السجدة مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "\n<p class=\"wp-block-paragraph\">تركز سورة السجدة على الدعوة للتفكر في خلق الله والخضوع له بالسجود. هنا تجدها مكتوبة بخط واضح، مع خاصية الاستماع والترجمة الإنجليزية.</p>\n\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\r\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\r\n</div>\n\n\n\n<div style=\"height:54px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<script>\n\nfunction updateplayer() {\nvar sourceUrl = document.getElementById('reciter_ayates').value;\n//alert(sourceUrl);\n//var source = document​.​getElementById​(​\"mp3_src\"​)​;\n//source.src = sourceUrl;\n//document​.​getElementById​(​\"mp3ppl\"​)​.​src = sourceUrl;\ndocument.getElementById('desc').innerHTML = sourceUrl;\n\n}\n\n</script>\n<div class=\"card mt-3\">\n<h3 style = \"font-size: 21px;\" class=\"mt-20 mb-20\"><a id=\"mp3\" name=\"3\">الاستماع لسورة السجدة</a></h3>\n<form class=\"form\" role=\"form\"><select class=\"form-control\" id=\"reciter_ayates\" style=\"width:60%;\" onchange=\"updateplayer()\"><option value=\"https://archive.org/download/Ammar-Almulla/032.mp3\">عمار الملا علي</option><option value=\"https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/032.mp3\">احمد إبن علي العجمي</option><option value=\"https://ia803208.us.archive.org/21/items/hassan_mohaed_saleh/032.mp3\">حسن صالح</option><option value=\"https://server10.mp3quran.net/jleel/032.mp3\">خالد الجليل</option><option value=\"https://server7.mp3quran.net/shur/032.mp3\">سعود الشريم </option><option value=\"https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/032.mp3\">ابو بكر الشاطري </option><option value=\"https://download.quranicaudio.com/quran/abdulbaset_mujawwad/032.mp3\">عبد الباسط مجود</option><option value=\"https://server11.mp3quran.net/sds/032.mp3\">عبد الرحمن السديس</option><option value=\"https://server6.mp3quran.net/bsfr/032.mp3\">عبد الله بصفر</option><option value=\"https://server13.mp3quran.net/jhn/032.mp3\">عبد الله الجهني</option><option value=\"https://download.quranicaudio.com/quran/huthayfi/032.mp3\">علي الحذيفي</option><option value=\"https://server9.mp3quran.net/omar_warsh/032.mp3\">عمر القزابري ورش</option><option value=\"https://server8.mp3quran.net/frs_a/032.mp3\">فارس عباد</option><option value=\"https://server12.mp3quran.net/maher/032.mp3\">ماهر المعيقلي</option><option value=\"https://server10.mp3quran.net/minsh/032.mp3\">محمد صديق المنشاوي</option><option value=\"https://server13.mp3quran.net/husr/032.mp3\">محمود خليل الحصري</option><option value=\"https://ia801002.us.archive.org/14/items/golmami2005_yahoo_002_20180409_1406/032.mp3\">مصطفى اسماعيل</option><option value=\"https://ia803201.us.archive.org/8/items/noreen-sedeeq/032.mp3\">نورين محمد صديق</option><option value=\"https://server8.mp3quran.net/afs/032.mp3\">مشاري العفاسي</option><option value=\"https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/032.mp3\">سعد الغامدي</option><option value=\"https://download.quranicaudio.com/quran/yasser_ad-dussary/032.mp3\">ياسر الدوسري</option></select></form>\n  <div class=\"card-body\">\n<audio id=\"player\" controls=\"controls\">\n  <source id=\"mp3ppl\" src=\"https://archive.org/download/Ammar-Almulla/032.mp3\" type=\"audio/mpeg\">\nYour browser does not support the audio element.\n</audio>\n\n  </div>\n</div>\n\n     <br />\n<script>\n  function updateplayer() {\n    // الحصول على عنصر القائمة المنسدلة\n    var reciterSelect = document.getElementById('reciter_ayates');\n    // الحصول على رابط ملف الصوت للقارئ المختار\n    var newSourceUrl = reciterSelect.value;\n    // الحصول على عنصر مشغل الصوت\n    var player = document.getElementById('player');\n    // الحصول على عنصر المصدر داخل مشغل الصوت\n    var sourceElement = document.getElementById('mp3ppl');\n\n    // تحديث خاصية src لعنصر المصدر بالرابط الجديد\n    sourceElement.src = newSourceUrl;\n    // إعادة تحميل مشغل الصوت ليستخدم المصدر الجديد\n    player.load();\n    // يمكنك إضافة السطر التالي إذا أردت أن يبدأ التشغيل تلقائياً بعد الاختيار\n    // player.play();\n  }\n</script>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">Your browser does not support the audio element.</audio><br /><a href=\"'+ID+'\">Download this file</a></div>';\n  }\n</script><h2 class=\"sora_title\">As-Sajdah ( The Prostration ) - السجدة</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032001.mp3');\">الم <span class=\"sora_name_by_sora\">السجدة [1]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032001.mp3');\">Alif, Lam, Meem. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032002.mp3');\">تَنزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَالَمِينَ <span class=\"sora_name_by_sora\">السجدة [2]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032002.mp3');\">[This is] the revelation of the Book about which there is no doubt from the Lord of the worlds. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032003.mp3');\">أَمْ يَقُولُونَ افْتَرَاهُ ۚ بَلْ هُوَ الْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ <span class=\"sora_name_by_sora\">السجدة [3]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032003.mp3');\">Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muhammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032004.mp3');\">اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِيٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ <span class=\"sora_name_by_sora\">السجدة [4]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032004.mp3');\">It is Allah who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. You have not besides Him any protector or any intercessor; so will you not be reminded? <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032005.mp3');\">يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ <span class=\"sora_name_by_sora\">السجدة [5]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032005.mp3');\">He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032006.mp3');\">ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ <span class=\"sora_name_by_sora\">السجدة [6]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032006.mp3');\">That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful, <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032007.mp3');\">الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ <span class=\"sora_name_by_sora\">السجدة [7]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032007.mp3');\">Who perfected everything which He created and began the creation of man from clay. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032008.mp3');\">ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ مِّن مَّاءٍ مَّهِينٍ <span class=\"sora_name_by_sora\">السجدة [8]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032008.mp3');\">Then He made his posterity out of the extract of a liquid disdained. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032009.mp3');\">ثُمَّ سَوَّاهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ <span class=\"sora_name_by_sora\">السجدة [9]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032009.mp3');\">Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts; little are you grateful. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032010.mp3');\">وَقَالُوا أَإِذَا ضَلَلْنَا فِي الْأَرْضِ أَإِنَّا لَفِي خَلْقٍ جَدِيدٍ ۚ بَلْ هُم بِلِقَاءِ رَبِّهِمْ كَافِرُونَ <span class=\"sora_name_by_sora\">السجدة [10]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032010.mp3');\">And they say, \"When we are lost within the earth, will we indeed be [recreated] in a new creation?\" Rather, they are, in [the matter of] the meeting with their Lord, disbelievers. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032011.mp3');\">قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ <span class=\"sora_name_by_sora\">السجدة [11]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032011.mp3');\">Say, \"The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned.\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032012.mp3');\">وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا إِنَّا مُوقِنُونَ <span class=\"sora_name_by_sora\">السجدة [12]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032012.mp3');\">If you could but see when the criminals are hanging their heads before their Lord, [saying], \"Our Lord, we have seen and heard, so return us [to the world]; we will work righteousness. Indeed, we are [now] certain.\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032013.mp3');\">وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ <span class=\"sora_name_by_sora\">السجدة [13]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032013.mp3');\">And if we had willed, We could have given every soul its guidance, but the word from Me will come into effect [that] \"I will surely fill Hell with jinn and people all together. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032014.mp3');\">فَذُوقُوا بِمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا إِنَّا نَسِينَاكُمْ ۖ وَذُوقُوا عَذَابَ الْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ <span class=\"sora_name_by_sora\">السجدة [14]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032014.mp3');\">So taste [punishment] because you forgot the meeting of this, your Day; indeed, We have [accordingly] forgotten you. And taste the punishment of eternity for what you used to do.\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032015.mp3');\">إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩ <span class=\"sora_name_by_sora\">السجدة [15]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032015.mp3');\">Only those believe in Our verses who, when they are reminded by them, fall down in prostration and exalt [Allah] with praise of their Lord, and they are not arrogant. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032016.mp3');\">تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ <span class=\"sora_name_by_sora\">السجدة [16]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032016.mp3');\">They arise from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032017.mp3');\">فَلَا تَعْلَمُ نَفْسٌ مَّا أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ <span class=\"sora_name_by_sora\">السجدة [17]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032017.mp3');\">And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032018.mp3');\">أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُونَ <span class=\"sora_name_by_sora\">السجدة [18]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032018.mp3');\">Then is one who was a believer like one who was defiantly disobedient? They are not equal. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032019.mp3');\">أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ <span class=\"sora_name_by_sora\">السجدة [19]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032019.mp3');\">As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032020.mp3');\">وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ ۖ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ <span class=\"sora_name_by_sora\">السجدة [20]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032020.mp3');\">But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, \"Taste the punishment of the Fire which you used to deny.\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032021.mp3');\">وَلَنُذِيقَنَّهُم مِّنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ <span class=\"sora_name_by_sora\">السجدة [21]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032021.mp3');\">And we will surely let them taste the nearer punishment short of the greater punishment that perhaps they will repent. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032022.mp3');\">وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا ۚ إِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ <span class=\"sora_name_by_sora\">السجدة [22]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032022.mp3');\">And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032023.mp3');\">وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَلَا تَكُن فِي مِرْيَةٍ مِّن لِّقَائِهِ ۖ وَجَعَلْنَاهُ هُدًى لِّبَنِي إِسْرَائِيلَ <span class=\"sora_name_by_sora\">السجدة [23]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032023.mp3');\">And We certainly gave Moses the Scripture, so do not be in doubt over his meeting. And we made the Torah guidance for the Children of Israel. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032024.mp3');\">وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ وَكَانُوا بِآيَاتِنَا يُوقِنُونَ <span class=\"sora_name_by_sora\">السجدة [24]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032024.mp3');\">And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032025.mp3');\">إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ <span class=\"sora_name_by_sora\">السجدة [25]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032025.mp3');\">Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032026.mp3');\">أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ ۖ أَفَلَا يَسْمَعُونَ <span class=\"sora_name_by_sora\">السجدة [26]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032026.mp3');\">Has it not become clear to them how many generations We destroyed before them, [as] they walk among their dwellings? Indeed in that are signs; then do they not hear? <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032027.mp3');\">أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ <span class=\"sora_name_by_sora\">السجدة [27]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032027.mp3');\">Have they not seen that We drive the water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see? <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032028.mp3');\">وَيَقُولُونَ مَتَىٰ هَٰذَا الْفَتْحُ إِن كُنتُمْ صَادِقِينَ <span class=\"sora_name_by_sora\">السجدة [28]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032028.mp3');\">And they say, \"When will be this conquest, if you should be truthful?\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032029.mp3');\">قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ وَلَا هُمْ يُنظَرُونَ <span class=\"sora_name_by_sora\">السجدة [29]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032029.mp3');\">Say, [O Muhammad], \"On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved.\" <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [29]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/032030.mp3');\">فَأَعْرِضْ عَنْهُمْ وَانتَظِرْ إِنَّهُم مُّنتَظِرُونَ <span class=\"sora_name_by_sora\">السجدة [30]</span></div><div class=\"aya_en_by_sora\" onclick=\"changesoundy('http://www.qurantranslations.net/sound/versebyversequran/English_Translated_by_Sahih_International_Recited_by_Ibrahim_Walk/032030.mp3');\">So turn away from them and wait. Indeed, they are waiting. <span class=\"sora_name_by_sora\">As-Sajdah ( The Prostration ) [30]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>تركز سورة السجدة على الدعوة للتفكر في خلق الله والخضوع له بالسجود. هنا تجدها مكتوبة بخط&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 7067,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة السجدة بخط واضح – مع استماع وترجمة",
+    "description": "سورة السجدة متاحة بخط كبير وواضح، مع إمكانية الاستماع والترجمة الإنجليزية. السجدة,سورة السجدة,سورة السجدة مكتوبة,سورة السجدة مكتوبة كاملة,سورة السجدة مكتوبة بخط عريض,سورة السجدة مكتوبة كاملة بخط كبير,سورة السجدة مكتوبة بخط كبير,سورة السجدة مكتوبة كاملة بالتشكيل,سورة يس السجدة بالكامل بخط كبير,سورة السجدة بخط كبير,سورة السجدة مكتوبة كتابة عادية,سورة السجدة بخط واضح وكبير,سورة السجدة مكتوبة بخط واضح,سورة السجدة مكتوبة من المصحف,سورة السجدة مكتوبة بدون نت,سورة السجدة قراءة من المصحف,سوره السجدة مكتوبه وكاملة للقراءه,سوره السجدة قراءه.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/سورة-السجدة-مكتوبة-بخط-كبير-مع-خاصية-ال/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة السجدة بخط واضح – مع استماع وترجمة",
+    "og_description": "سورة السجدة متاحة بخط كبير وواضح، مع إمكانية الاستماع والترجمة الإنجليزية. السجدة,سورة السجدة,سورة السجدة مكتوبة,سورة السجدة مكتوبة كاملة,سورة السجدة مكتوبة بخط عريض,سورة السجدة مكتوبة كاملة بخط كبير,سورة السجدة مكتوبة بخط كبير,سورة السجدة مكتوبة كاملة بالتشكيل,سورة يس السجدة بالكامل بخط كبير,سورة السجدة بخط كبير,سورة السجدة مكتوبة كتابة عادية,سورة السجدة بخط واضح وكبير,سورة السجدة مكتوبة بخط واضح,سورة السجدة مكتوبة من المصحف,سورة السجدة مكتوبة بدون نت,سورة السجدة قراءة من المصحف,سوره السجدة مكتوبه وكاملة للقراءه,سوره السجدة قراءه.",
+    "og_url": "https://quranbook.org/سورة-السجدة-مكتوبة-بخط-كبير-مع-خاصية-ال/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-05-03T22:47:19+00:00",
+    "article_modified_time": "2025-05-03T22:47:59+00:00",
+    "og_image": [
+      {
+        "width": 600,
+        "height": 600,
+        "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+        "type": "image/webp"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "دقيقة واحدة"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "سورة السجدة مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+          "datePublished": "2025-05-03T22:47:19+00:00",
+          "dateModified": "2025-05-03T22:47:59+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/"
+          },
+          "wordCount": 10,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "articleSection": [
+            "سور القران مع الترجمه الانجليزيه"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/",
+          "url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/",
+          "name": "سورة السجدة بخط واضح – مع استماع وترجمة",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "datePublished": "2025-05-03T22:47:19+00:00",
+          "dateModified": "2025-05-03T22:47:59+00:00",
+          "description": "سورة السجدة متاحة بخط كبير وواضح، مع إمكانية الاستماع والترجمة الإنجليزية. السجدة,سورة السجدة,سورة السجدة مكتوبة,سورة السجدة مكتوبة كاملة,سورة السجدة مكتوبة بخط عريض,سورة السجدة مكتوبة كاملة بخط كبير,سورة السجدة مكتوبة بخط كبير,سورة السجدة مكتوبة كاملة بالتشكيل,سورة يس السجدة بالكامل بخط كبير,سورة السجدة بخط كبير,سورة السجدة مكتوبة كتابة عادية,سورة السجدة بخط واضح وكبير,سورة السجدة مكتوبة بخط واضح,سورة السجدة مكتوبة من المصحف,سورة السجدة مكتوبة بدون نت,سورة السجدة قراءة من المصحف,سوره السجدة مكتوبه وكاملة للقراءه,سوره السجدة قراءه.",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+          "width": 600,
+          "height": 600,
+          "caption": "سور القران مع الترجمه الانجليزيه"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d8%af%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b9-%d8%ae%d8%a7%d8%b5%d9%8a%d8%a9-%d8%a7%d9%84/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "سورة السجدة مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}

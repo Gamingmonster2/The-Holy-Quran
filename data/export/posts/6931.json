@@ -1,0 +1,232 @@
+{
+  "id": 6931,
+  "date": "2025-03-28T17:56:59",
+  "modified": "2026-03-21T02:31:56",
+  "slug": "%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2",
+  "status": "publish",
+  "link": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/",
+  "title": {
+    "rendered": "🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة"
+  },
+  "content": {
+    "rendered": "<p><!DOCTYPE html><br />\n<html lang=\"ar\" dir=\"rtl\"><br />\n<head><br />\n    <meta charset=\"UTF-8\"><br />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><br />\n    <title>🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة</title><br />\n    <meta name=\"description\" content=\"دليلك الشامل لتحميل مصحف التهجد الملون بخط كبير بصيغة PDF. تعرف على مميزات المصحف الملون وكيف يساعدك في قيام الليل وتلاوة القرآن الكريم بخشوع.\"></p>\n<p>    <!-- Tailwind CSS --><br />\n    <script src=\"https://cdn.tailwindcss.com\"></script></p>\n<p>    <!-- Google Fonts for Arabic (Amiri for Serif, Cairo for Sans-Serif) -->\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&#038;family=Cairo:wght@400;600;700;800&#038;display=swap\" rel=\"stylesheet\">\n<p>    <!-- FontAwesome -->\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">\n<p>    <script>\n        tailwind.config = {\n            theme: {\n                extend: {\n                    fontFamily: {\n                        'sans': ['Cairo', 'sans-serif'],\n                        'serif': ['Amiri', 'serif'],\n                    },\n                    colors: {\n                        brand: {\n                            50: '#f0fdfa',\n                            100: '#ccfbf1',\n                            500: '#14b8a6',\n                            600: '#0d9488',\n                            700: '#0f766e',\n                            900: '#134e4a',\n                        }\n                    }\n                }\n            }\n        }\n    </script></p>\n<style>\n        /* Reading Progress Bar */\n        .progress-container {\n            width: 100%;\n            height: 5px;\n            background: #e5e7eb;\n            position: fixed;\n            top: 0;\n            z-index: 1000;\n        }\n        .progress-bar {\n            height: 5px;\n            background: #0d9488; /* Tailwind brand-600 */\n            width: 0%;\n        }</p>\n<p>        /* Smooth Scrolling */\n        html { scroll-behavior: smooth; }</p>\n<p>        /* Editorial Typography */\n        .article-body p {\n            margin-bottom: 1.5rem;\n            line-height: 2;\n            font-size: 1.25rem;\n            color: #374151;\n        }\n        .article-body h2 {\n            font-family: 'Cairo', sans-serif;\n            font-size: 2rem;\n            font-weight: 700;\n            color: #111827;\n            margin-top: 3rem;\n            margin-bottom: 1.5rem;\n            border-right: 4px solid #0d9488;\n            padding-right: 1rem;\n        }\n        .article-body h3 {\n            font-family: 'Cairo', sans-serif;\n            font-size: 1.5rem;\n            font-weight: 600;\n            color: #1f2937;\n            margin-top: 2rem;\n            margin-bottom: 1rem;\n        }\n        .article-body ul {\n            list-style-type: disc;\n            margin-right: 2rem;\n            margin-bottom: 1.5rem;\n            font-size: 1.125rem;\n            line-height: 1.8;\n            color: #4b5563;\n        }\n        .article-body li { margin-bottom: 0.5rem; }\n    </style>\n<p></head><br />\n<body class=\"bg-gray-50 font-serif antialiased text-gray-800 selection:bg-brand-100 selection:text-brand-900\"></p>\n<p>    <!-- Reading Progress Bar --></p>\n<div class=\"progress-container\">\n<div class=\"progress-bar\" id=\"myBar\"></div>\n</p></div>\n<p>    <!-- Main Container --><br />\n    <main class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12\"></p>\n<p>        <!-- Article Header --></p>\n<header class=\"max-w-4xl mx-auto text-center mb-12\">\n<div class=\"mb-6 inline-block bg-brand-100 text-brand-700 px-4 py-1.5 rounded-full font-sans text-sm font-semibold tracking-wide\">\n                علوم القرآن والتجويد\n            </div>\n<h1 class=\"font-sans text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6\">\n                🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة<br />\n            </h1>\n<p class=\"font-sans text-xl text-gray-600 mb-8 max-w-2xl mx-auto\">\n                اكتشف روعة تلاوة القرآن الكريم في جوف الليل مع مصحف التهجد الملون. نوفر لك روابط تحميل مباشرة لنسخة عالية الجودة بخط كبير لتسهيل القراءة والتدبر.\n            </p>\n<p>            <!-- Author & Meta --></p>\n<div class=\"flex items-center justify-center space-x-4 space-x-reverse font-sans text-gray-500\">\n                <img decoding=\"async\" src=\"https://picsum.photos/seed/author/100/100\" alt=\"صورة الكاتب\" class=\"w-12 h-12 rounded-full border-2 border-white shadow-sm\"></p>\n<div class=\"text-right\">\n<p class=\"font-semibold text-gray-900\">فريق مكتبة القرآن</p>\n<p class=\"text-sm\"><i class=\"far fa-calendar-alt ml-1\"></i> تم التحديث:السبت 21 مارس 2026 </p>\n</p></div>\n<div class=\"pr-6 border-r border-gray-300\">\n<p class=\"text-sm\"><i class=\"far fa-clock ml-1\"></i> وقت القراءة: 5 دقائق</p>\n</p></div>\n</p></div>\n</header>\n<p>        <!-- Featured Image --></p>\n<div class=\"max-w-5xl mx-auto mb-16\">\n<figure class=\"relative rounded-2xl overflow-hidden shadow-2xl\">\n                <img decoding=\"async\" src=\"https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg\" alt=\"غلاف مصحف التهجد الملون\" class=\"w-full h-auto object-cover max-h-[600px]\"><figcaption class=\"absolute bottom-0 w-full bg-gradient-to-t from-black/70 to-transparent text-white p-4 text-center font-sans text-sm\">\n                    صورة غلاف مصحف التهجد الملون المخصص لقيام الليل<br />\n                </figcaption></figure>\n</p></div>\n<p>        <!-- Content Grid (Main Content + Sidebar) --></p>\n<div class=\"max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12\">\n<p>            <!-- Sidebar (Table of Contents) --></p>\n<aside class=\"lg:col-span-4 order-2 lg:order-1\">\n<div class=\"sticky top-8 bg-white rounded-2xl shadow-sm border border-gray-100 p-6\">\n<h3 class=\"font-sans text-xl font-bold text-gray-900 mb-4 border-b pb-2\"><i class=\"fas fa-list-ul ml-2 text-brand-600\"></i> محتويات المقال</h3>\n<ul class=\"font-sans space-y-3 text-gray-600\">\n<li><a href=\"#intro\" class=\"hover:text-brand-600 transition duration-200\">مقدمة عن مصحف التهجد</a></li>\n<li><a href=\"#details\" class=\"hover:text-brand-600 transition duration-200\">تفاصيل إصدار المصحف</a></li>\n<li><a href=\"#downloads\" class=\"hover:text-brand-600 transition duration-200 font-bold text-brand-700\">روابط التحميل (PDF وغيرها)</a></li>\n<li><a href=\"#large-font\" class=\"hover:text-brand-600 transition duration-200\">أهمية تحميل المصحف بخط كبير</a></li>\n<li><a href=\"#tips\" class=\"hover:text-brand-600 transition duration-200\">نصائح لقيام الليل</a></li>\n</ul>\n<p>                    <!-- Decorative Sidebar Image --></p>\n<div class=\"mt-8 rounded-xl overflow-hidden shadow-sm\">\n                        <img decoding=\"async\" src=\"https://picsum.photos/seed/quran/400/300\" alt=\"تلاوة القرآن\" class=\"w-full h-auto opacity-90 hover:opacity-100 transition duration-300\">\n                    </div>\n</p></div>\n</aside>\n<p>            <!-- Main Article Content --></p>\n<article class=\"lg:col-span-8 order-1 lg:order-2 article-body bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-gray-100\">\n<section id=\"intro\">\n<p class=\"text-2xl font-semibold text-brand-700 mb-6 font-sans\">\n                        إن تلاوة القرآن الكريم في جوف الليل (التهجد) هي من أعظم العبادات التي تقرب العبد من ربه. ولتسهيل هذه العبادة الجليلة، تم تصميم &#8220;مصحف التهجد الملون&#8221;.\n                    </p>\n<p>\n                        يتميز هذا المصحف بخصائص فريدة تجعله الرفيق الأمثل لكل مسلم يسعى لختم القرآن وتدبر آياته في صلاة قيام الليل. بفضل تنسيقه الملون وحجم خطه الواضح، يقلل هذا المصحف من إجهاد العين ويساعد على تطبيق أحكام التجويد بسهولة تامة حتى لغير المتخصصين.\n                    </p>\n</section>\n<section id=\"details\">\n<h2>تفاصيل نشر وإصدار مصحف التهجد</h2>\n<p>\n                        قبل الشروع في التحميل، من الجيد التعرف على تفاصيل النسخة التي نقدمها لكم اليوم. هذه النسخة موثقة ومراجعة، وتأتي بحجم مناسب وجودة عالية جداً للحفاظ على دقة الألوان ووضوح الخط.\n                    </p>\n<p>                    <!-- Details Table --></p>\n<div class=\"overflow-x-auto my-8\">\n<table class=\"w-full text-right font-sans border-collapse rounded-lg overflow-hidden shadow-sm\">\n<thead>\n<tr class=\"bg-gray-100 text-gray-700\">\n<th class=\"p-4 border-b-2 border-gray-200 font-bold w-1/3\">التفاصيل</th>\n<th class=\"p-4 border-b-2 border-gray-200 font-bold\">القيمة / المعلومات</th>\n</tr>\n</thead>\n<tbody class=\"text-gray-600\">\n<tr class=\"hover:bg-gray-50 transition duration-150 border-b border-gray-100\">\n<td class=\"p-4 font-semibold text-gray-800\"><i class=\"far fa-calendar-check ml-2 text-brand-500\"></i>تاريخ النشر</td>\n<td class=\"p-4\">1432 هـ</td>\n</tr>\n<tr class=\"hover:bg-gray-50 transition duration-150 border-b border-gray-100 bg-gray-50/50\">\n<td class=\"p-4 font-semibold text-gray-800\"><i class=\"fas fa-tags ml-2 text-brand-500\"></i>المواضيع</td>\n<td class=\"p-4\">D211.8, إسلام, تجويد, قرآن</td>\n</tr>\n<tr class=\"hover:bg-gray-50 transition duration-150 border-b border-gray-100\">\n<td class=\"p-4 font-semibold text-gray-800\"><i class=\"fas fa-layer-group ml-2 text-brand-500\"></i>المجموعة</td>\n<td class=\"p-4\" dir=\"ltr\">islamic_studies; additional_collections</td>\n</tr>\n<tr class=\"hover:bg-gray-50 transition duration-150 border-b border-gray-100 bg-gray-50/50\">\n<td class=\"p-4 font-semibold text-gray-800\"><i class=\"fas fa-language ml-2 text-brand-500\"></i>اللغة</td>\n<td class=\"p-4\">العربية (Arabic)</td>\n</tr>\n<tr class=\"hover:bg-gray-50 transition duration-150\">\n<td class=\"p-4 font-semibold text-gray-800\"><i class=\"fas fa-hdd ml-2 text-brand-500\"></i>حجم الملف</td>\n<td class=\"p-4 font-mono text-lg\">423.9 MB</td>\n</tr>\n</tbody>\n</table></div>\n</section>\n<section id=\"downloads\">\n<h2>خيارات وروابط التحميل المباشرة</h2>\n<p>\n                        نوفر لكم عبر موقع Archive.org روابط مباشرة وآمنة لتحميل المصحف بصيغ متعددة تناسب جميع الأجهزة، سواء كنت تستخدم حاسوباً، جهازاً لوحياً (آيباد)، أو هاتفاً ذكياً.\n                    </p>\n<p>                    <!-- Downloads Table --></p>\n<div class=\"overflow-x-auto my-8\">\n<table class=\"w-full text-right font-sans border-collapse rounded-lg overflow-hidden shadow-md border border-gray-200\">\n<thead>\n<tr class=\"bg-gray-800 text-white\">\n<th class=\"p-4 font-bold w-1/3\">نوع الملف</th>\n<th class=\"p-4 font-bold\">رابط التحميل المباشر</th>\n</tr>\n</thead>\n<tbody>\n                                <!-- PDF Highlighted Row --></p>\n<tr class=\"bg-brand-50 border-b-2 border-brand-200 transform scale-[1.02] shadow-sm relative z-10\">\n<td class=\"p-5 font-bold text-xl text-brand-900\">\n                                        <i class=\"fas fa-file-pdf text-red-500 ml-2 text-2xl align-middle\"></i> ملف PDF<br />\n                                        <span class=\"block text-sm font-normal text-brand-600 mt-1\">النسخة الأفضل للطباعة والقراءة</span>\n                                    </td>\n<td class=\"p-5\">\n                                        <a href=\"https://archive.org/download/Quran_Tahajud/Quran_Tahajud.pdf\" target=\"_blank\" class=\"inline-flex items-center justify-center w-full md:w-auto px-6 py-3 bg-brand-600 hover:bg-brand-700 text-white font-bold rounded-lg transition duration-300 shadow-md hover:shadow-lg\"><br />\n                                            <i class=\"fas fa-download ml-2\"></i> تحميل المصحف (PDF)<br />\n                                        </a>\n                                    </td>\n</tr>\n<p>                                <!-- Other Formats --></p>\n<tr class=\"hover:bg-gray-50 border-b border-gray-200\">\n<td class=\"p-4 font-semibold text-gray-700\">ABBYY GZ</td>\n<td class=\"p-4\"><a href=\"https://archive.org/download/Quran_Tahajud/Quran_Tahajud_abbyy.gz\" target=\"_blank\" class=\"text-blue-600 hover:text-blue-800 underline decoration-blue-300 underline-offset-4\">تحميل الملف</a></td>\n</tr>\n<tr class=\"hover:bg-gray-50 border-b border-gray-200 bg-gray-50/50\">\n<td class=\"p-4 font-semibold text-gray-700\">صورة الغلاف (JPEG)</td>\n<td class=\"p-4\"><a href=\"https://archive.org/download/Quran_Tahajud/cover.jpg\" target=\"_blank\" class=\"text-blue-600 hover:text-blue-800 underline decoration-blue-300 underline-offset-4\">تحميل الصورة</a></td>\n</tr>\n<tr class=\"hover:bg-gray-50 border-b border-gray-200\">\n<td class=\"p-4 font-semibold text-gray-700\">SINGLE PAGE PROCESSED JP2 ZIP</td>\n<td class=\"p-4\"><a href=\"https://archive.org/download/Quran_Tahajud/Quran_Tahajud_jp2.zip\" target=\"_blank\" class=\"text-blue-600 hover:text-blue-800 underline decoration-blue-300 underline-offset-4\">تحميل الملف المضغوط</a></td>\n</tr>\n<tr class=\"hover:bg-gray-50\">\n<td class=\"p-4 font-semibold text-gray-700\">TORRENT</td>\n<td class=\"p-4\"><a href=\"https://archive.org/download/Quran_Tahajud/Quran_Tahajud_archive.torrent\" target=\"_blank\" class=\"text-blue-600 hover:text-blue-800 underline decoration-blue-300 underline-offset-4\">تحميل ملف التورنت</a></td>\n</tr>\n</tbody>\n</table></div>\n<p>                    <!-- Additional Links --></p>\n<div class=\"bg-gray-100 p-6 rounded-xl text-center font-sans mt-6 border border-gray-200\">\n<h4 class=\"font-bold text-gray-800 mb-4\">خيارات تصفح إضافية للأرشيف:</h4>\n<div class=\"flex flex-wrap justify-center gap-4 text-sm md:text-base\">\n                            <a href=\"https://archive.org/download/Quran_Tahajud\" target=\"_blank\" class=\"px-4 py-2 bg-white text-gray-700 rounded shadow-sm hover:bg-gray-50 border border-gray-300 transition\"><i class=\"fas fa-folder-open ml-2 text-yellow-500\"></i>تحميل 12 ملف</a><br />\n                            <a href=\"https://archive.org/download/Quran_Tahajud\" target=\"_blank\" class=\"px-4 py-2 bg-white text-gray-700 rounded shadow-sm hover:bg-gray-50 border border-gray-300 transition\"><i class=\"fas fa-file-archive ml-2 text-blue-500\"></i>تحميل 7 ملفات أصلية</a><br />\n                            <a href=\"https://archive.org/download/Quran_Tahajud\" target=\"_blank\" class=\"px-4 py-2 bg-gray-800 text-white rounded shadow-sm hover:bg-gray-900 transition\"><i class=\"fas fa-external-link-alt ml-2\"></i>عرض الكل في الأرشيف</a>\n                        </div>\n</p></div>\n</section>\n<section id=\"large-font\">\n<h2>لماذا تبحث عن تحميل المصحف كامل بخط كبير pdf؟</h2>\n<p>\n                        الكثير من المسلمين، وخاصة كبار السن أو من يعانون من ضعف البصر، يبحثون باستمرار عن <strong>تحميل المصحف كامل بخط كبير pdf</strong>. وتكمن أهمية هذه النسخة في عدة نقاط جوهرية:\n                    </p>\n<ul>\n<li><strong>الوضوح التام:</strong> الخط الكبير يمنع تداخل الحروف والتشكيل، مما يضمن قراءة صحيحة خالية من الأخطاء.</li>\n<li><strong>التركيز والخشوع:</strong> عندما لا تجهد عينيك في محاولة فك رموز الكلمات الصغيرة، يتوجه كل تركيزك نحو تدبر المعاني والخشوع في الصلاة.</li>\n<li><strong>سهولة الاستخدام على الأجهزة:</strong> صيغة PDF تتيح لك تكبير الشاشة (Zoom) دون أن تفقد جودة النص أو تتبكسل الحروف.</li>\n<li><strong>ألوان التجويد:</strong> هذه النسخة ليست فقط بخط كبير، بل هي ملونة بألوان التجويد المتعارف عليها (الأحمر للمدود، الأخضر للغنة، الأزرق للقلقلة.. إلخ)، مما يجعله معلماً صامتاً لأحكام التلاوة.</li>\n</ul>\n<div class=\"my-8\">\n                        <img decoding=\"async\" src=\"https://picsum.photos/seed/islamic/800/400\" alt=\"صورة تعبيرية للمصحف\" class=\"w-full h-64 object-cover rounded-xl shadow-md\">\n                    </div>\n</section>\n<section id=\"tips\">\n<h2>نصائح للاستفادة القصوى من مصحف التهجد</h2>\n<p>\n                        بعد إتمام عملية التحميل، ننصحك بوضع الجهاز اللوحي على حامل مخصص للمصاحف (استاند) أمامك في الصلاة. اضبط إضاءة الشاشة لتكون مريحة للعين في الظلام (الوضع الليلي أو تقليل السطوع).\n                    </p>\n<p>\n                        ابدأ بقراءة مقدار يسير في كل ركعة، وركز على تطبيق الأحكام اللونية الموجودة في المصحف. مع مرور الوقت، ستجد أن قراءتك تحسنت بشكل ملحوظ، وأن حفظك لأماكن الآيات أصبح أقوى بفضل الذاكرة البصرية التي يعززها الخط الكبير والألوان.\n                    </p>\n</section>\n</article></div>\n<p>        <!-- Author Bio Section --></p>\n<section class=\"max-w-4xl mx-auto mt-16 bg-white p-8 rounded-2xl shadow-sm border border-gray-100 flex flex-col md:flex-row items-center md:items-start gap-6\">\n            <img decoding=\"async\" src=\"https://picsum.photos/seed/author/150/150\" alt=\"الكاتب\" class=\"w-24 h-24 rounded-full shadow-md border-4 border-brand-50\"></p>\n<div class=\"text-center md:text-right font-sans\">\n<h4 class=\"text-2xl font-bold text-gray-900 mb-2\">عن مكتبة القرآن</h4>\n<p class=\"text-gray-600 leading-relaxed\">\n                    منصة رقمية تهدف إلى توفير أفضل النسخ الإلكترونية من المصحف الشريف وكتب علوم القرآن والتفسير، لنجعل كلام الله في متناول الجميع بأعلى جودة وأسهل طرق التحميل. نسأل الله أن يجعل هذا العمل خالصاً لوجهه الكريم.\n                </p>\n</p></div>\n</section>\n<p>        <!-- Share Section --></p>\n<section class=\"max-w-4xl mx-auto mt-12 text-center font-sans border-t border-gray-200 pt-8\">\n<h4 class=\"text-xl font-bold text-gray-800 mb-6\">شارك الأجر وانشر المصحف</h4>\n<div class=\"flex justify-center gap-4\">\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#25D366] text-white hover:bg-[#128C7E] transition shadow-md hover:shadow-lg\" title=\"شارك عبر واتساب\"><br />\n                    <i class=\"fab fa-whatsapp text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#1DA1F2] text-white hover:bg-[#1a8cd8] transition shadow-md hover:shadow-lg\" title=\"شارك عبر تويتر\"><br />\n                    <i class=\"fab fa-twitter text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#0088cc] text-white hover:bg-[#0077b5] transition shadow-md hover:shadow-lg\" title=\"شارك عبر تيليجرام\"><br />\n                    <i class=\"fab fa-telegram-plane text-2xl\"></i><br />\n                </a><br />\n                <a href=\"#\" class=\"w-12 h-12 flex items-center justify-center rounded-full bg-[#1877F2] text-white hover:bg-[#166fe5] transition shadow-md hover:shadow-lg\" title=\"شارك عبر فيسبوك\"><br />\n                    <i class=\"fab fa-facebook-f text-xl\"></i><br />\n                </a>\n            </div>\n</section>\n<p>    </main></p>\n<p>    <!-- Footer --></p>\n<footer class=\"bg-gray-900 text-gray-400 py-8 text-center font-sans mt-12\">\n<p>© 2026 quranbook.org. جميع الحقوق محفوظة لخدمة كتاب الله.</p>\n</footer>\n<p>    <!-- Reading Progress Bar Script --><br />\n    <script>\n        window.onscroll = function() {myFunction()};</p>\n<p>        function myFunction() {\n            var winScroll = document.body.scrollTop || document.documentElement.scrollTop;\n            var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;\n            var scrolled = (winScroll / height) * 100;\n            document.getElementById(\"myBar\").style.width = scrolled + \"%\";\n        }\n    </script><br />\n</body><br />\n</html></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة علوم القرآن والتجويد 🌙 تحميل مصحف&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 6927,
+  "categories": [
+    1032,
+    975,
+    1033
+  ],
+  "tags": [
+    1126,
+    1127
+  ],
+  "yoast_head_json": {
+    "title": "مصحف التهجد الملون مع تفصيل موضوعي للآيات وترميز لوني مميز يسهل الفهم والتدبر.",
+    "description": "📥 حمل مصحف التهجد الملون 🌙 بترميز لوني مميز يساعدك في فهم القرآن بسهولة 💡. متوفر الآن بصيغ مختلفة! #قرآن_كريم #مصحف_ملون",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://quranbook.org/مصحف-التهجد-الملون-مع-تفصيل-موضوعي-للآ/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "مصحف التهجد الملون مع تفصيل موضوعي للآيات وترميز لوني مميز يسهل الفهم والتدبر.",
+    "og_description": "📥 حمل مصحف التهجد الملون 🌙 بترميز لوني مميز يساعدك في فهم القرآن بسهولة 💡. متوفر الآن بصيغ مختلفة! #قرآن_كريم #مصحف_ملون",
+    "og_url": "https://quranbook.org/مصحف-التهجد-الملون-مع-تفصيل-موضوعي-للآ/",
+    "og_site_name": "Quran Book",
+    "article_published_time": "2025-03-28T17:56:59+00:00",
+    "article_modified_time": "2026-03-21T02:31:56+00:00",
+    "og_image": [
+      {
+        "width": 377,
+        "height": 549,
+        "url": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "At God's door",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "كُتب بواسطة": "At God's door",
+      "وقت القراءة المُقدّر": "6 دقائق"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#article",
+          "isPartOf": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/"
+          },
+          "author": {
+            "name": "At God's door",
+            "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39"
+          },
+          "headline": "🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة",
+          "datePublished": "2025-03-28T17:56:59+00:00",
+          "dateModified": "2026-03-21T02:31:56+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/"
+          },
+          "wordCount": 27,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+          "keywords": [
+            "الترميز اللوني في التفسير",
+            "مصحف التهجد"
+          ],
+          "articleSection": [
+            "المصاحف الشريفة",
+            "المصحف كامل pdf",
+            "تحميل المصحف pdf"
+          ],
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/",
+          "url": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/",
+          "name": "مصحف التهجد الملون مع تفصيل موضوعي للآيات وترميز لوني مميز يسهل الفهم والتدبر.",
+          "isPartOf": {
+            "@id": "https://quranbook.org/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#primaryimage"
+          },
+          "image": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#primaryimage"
+          },
+          "thumbnailUrl": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+          "datePublished": "2025-03-28T17:56:59+00:00",
+          "dateModified": "2026-03-21T02:31:56+00:00",
+          "description": "📥 حمل مصحف التهجد الملون 🌙 بترميز لوني مميز يساعدك في فهم القرآن بسهولة 💡. متوفر الآن بصيغ مختلفة! #قرآن_كريم #مصحف_ملون",
+          "breadcrumb": {
+            "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#breadcrumb"
+          },
+          "inLanguage": "ar",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "ar",
+          "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#primaryimage",
+          "url": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+          "contentUrl": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+          "width": 377,
+          "height": 549,
+          "caption": "مصحف التهجد"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://quranbook.org/%d9%85%d8%b5%d8%ad%d9%81-%d8%a7%d9%84%d8%aa%d9%87%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86-%d9%85%d8%b9-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a-%d9%84%d9%84%d8%a2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://quranbook.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "🌙 تحميل مصحف التهجد الملون: دليلك لفهم القرآن الكريم بسهولة"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://quranbook.org/#website",
+          "url": "https://quranbook.org/",
+          "name": "Quran Book",
+          "description": "Clear Reading, Translation &amp; Audio",
+          "publisher": {
+            "@id": "https://quranbook.org/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://quranbook.org/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "ar"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://quranbook.org/#organization",
+          "name": "QuranBook.org",
+          "url": "https://quranbook.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://quranbook.org/#/schema/logo/image/",
+            "url": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "contentUrl": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+            "width": 500,
+            "height": 500,
+            "caption": "QuranBook.org"
+          },
+          "image": {
+            "@id": "https://quranbook.org/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://quranbook.org/#/schema/person/f921d1657900ffa93151447d302eed39",
+          "name": "At God's door",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "ar",
+            "@id": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/5803deb3abbfc4698936afd18c094da1ddbf11477c3eeb0d673f090a9b0ad8bf?s=96&d=mm&r=g",
+            "caption": "At God's door"
+          },
+          "sameAs": [
+            "https://quranbook.org"
+          ],
+          "url": "https://quranbook.org/author/admin/"
+        }
+      ]
+    }
+  }
+}
