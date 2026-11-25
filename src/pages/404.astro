@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="الصفحة غير موجودة | Quran Book"
+  description="لم نعثر على الصفحة المطلوبة في مكتبة القرآن الكريم."
+  canonical="/"
+  robots="noindex,follow"
+>
+  <section class="qb-section qb-not-found">
+    <span class="qb-eyebrow">404</span>
+    <h1>الصفحة غير موجودة</h1>
+    <p>ربما تغيّر الرابط أو أن الصفحة لم تُنشأ بعد. يمكنك العودة إلى الرئيسية أو البحث في المكتبة.</p>
+    <div class="qb-actions">
+      <a class="qb-btn qb-btn-primary" href="/">العودة إلى الرئيسية ←</a>
+      <a class="qb-btn qb-btn-outline" href="/blog/">تصفح المقالات</a>
+      <a class="qb-btn qb-btn-ghost" href="/sitemap.xml">خريطة الموقع</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .qb-not-found {
+    max-width: 720px;
+    margin: 60px auto;
+    padding: 42px 34px;
+    text-align: center;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    box-shadow: var(--shadow-soft);
+  }
+  .qb-not-found h1 { font-size: clamp(28px, 4vw, 40px); margin: 12px 0; color: var(--ink); }
+  .qb-not-found p { color: var(--ink-soft); line-height: 2; }
+  .qb-not-found .qb-actions { justify-content: center; }
+</style>

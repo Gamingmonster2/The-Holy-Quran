@@ -1,5 +1,8 @@
 ---
 import '../styles/global.css';
+import SearchBox from '../components/SearchBox.jsx';
+import ThemeToggle from '../components/ThemeToggle.jsx';
+import { resolveAsset } from '../lib/content.mjs';
 
 interface Props {
   title: string;
@@ -9,6 +12,7 @@ interface Props {
   schema?: unknown;
   robots?: string;
   bodyClass?: string;
+  wide?: boolean;
 }
 
 const {
@@ -19,71 +23,213 @@ const {
   schema = null,
   robots = '',
   bodyClass = '',
+  wide = false,
 } = Astro.props;
 const site = Astro.site ? new URL(Astro.site).origin : 'https://quranbook.org';
 const canonicalUrl = canonical
   ? (canonical.startsWith('http') ? canonical : site + canonical)
   : site + Astro.url.pathname;
+const logo = '/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif';
+const ogPath = resolveAsset(ogImage);
+const ogUrl = ogPath ? (ogPath.startsWith('/') ? site + ogPath : ogPath) : '';
+
+const primary = [
+  { label: 'القرآن الكريم', href: '/quranonline/' },
+  { label: 'المصحف والاستماع', href: '/quran/' },
+  { label: 'تلاوة', href: 'https://tilawatayat.blogspot.com/', external: true },
+  { label: 'مكتبة التفاسير والكتب الإسلامية', href: '/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/' },
+  { label: 'Blog', href: '/blog/' },
+];
+const footerSite = [
+  ['About', '/about/'], ['Blog', '/blog/'], ['Contact', '/contact/'],
+  ['Digital Quran Repository', '/quranonline/'], ['Quran Book', '/'],
+];
+const footerQuran = [
+  ['آية الكرسي', 'https://quran.com/ayatul-kursi'], ['سورة يس', 'https://quran.com/ya-sin'],
+  ['سورة الملك', 'https://quran.com/al-mulk'], ['سورة الرّحمن', 'https://quran.com/ar-rahman'],
+  ['سورة الواقعة', 'https://quran.com/al-waqiah'], ['سورة الكهف', 'https://quran.com/al-kahf'],
+  ['سورة المزّمّل', 'https://quran.com/al-muzzammil'],
+];
+const footerSources = [
+  ['QuranicAudio.com', 'https://quranicaudio.com/'], ['Salah.com', 'https://salah.com/'],
+  ['Sunnah.com', 'https://sunnah.com/'], ['Legacy.Quran.com', 'https://legacy.quran.com/'],
+  ['Corpus.Quran.com', 'https://corpus.quran.com/'], ['QuranReflect.com', 'https://quranreflect.com/'],
+  ['Tarteel.ai', 'https://www.tarteel.ai/'],
+];
 ---
 
 <!doctype html>
-<html lang="ar" dir="rtl">
+<html lang="ar" dir="rtl" data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonicalUrl} />
-    <meta property="og:type" content="article" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:url" content={canonicalUrl} />
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogUrl && <meta property="og:image" content={ogUrl} />}
     <meta name="twitter:card" content="summary_large_image" />
     {robots && <meta name="robots" content={robots} />}
-    {schema && (
-      <script
-        type="application/ld+json"
-        set:html={JSON.stringify(schema).replace(/</g, '\\u003c')}
-      />
-    )}
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g, '\\u003c')} />}
     <link rel="alternate" type="application/rss+xml" title="quranbook.org" href="/feed.xml" />
+    <!-- أصول إضافة Quran Gateway الأصلية (خط + تنسيق الآيات) -->
+    <link rel="stylesheet" href="/quran-gateway/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script is:inline>
+      (function(){try{var t=localStorage.getItem('qb-theme');if(!t)t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t;}catch(e){}})();
+    </script>
   </head>
-  <body class={bodyClass}>
-    <header class="qb-header">
-      <a class="qb-brand" href="/">📖 QuranBook</a>
-      <nav class="qb-nav">
-        <a href="/blog/">المقالات</a>
-        <a href="/quranonline/">القرآن أون لاين</a>
-        <a href="/category/">التصنيفات</a>
-        <a href="/tag/">الوسوم</a>
-      </nav>
+  <body class:list={['qb-body', bodyClass]}>
+    <a class="skip-link" href="#main">التجاوز إلى المحتوى</a>
+
+    <header class="site-header">
+      <div class:list={['header-inner', wide && 'header-wide']}>
+        <a class="brand" href="/" aria-label="الصفحة الرئيسية">
+          <img src={logo} alt="" width="46" height="46" loading="eager" />
+          <span><strong>مكتبة القرآن الكريم</strong><small>QuranBook.org</small></span>
+        </a>
+        <nav class="main-nav" aria-label="القائمة الرئيسية">
+          {primary.map((item) => (
+            <a href={item.href} {...(item.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{item.label}</a>
+          ))}
+        </nav>
+        <div class="header-tools">
+          <SearchBox client:idle />
+          <ThemeToggle client:load />
+        </div>
+        <details class="mobile-menu">
+          <summary aria-label="القائمة">☰</summary>
+          <div class="mobile-menu-panel">
+            {primary.map((item) => <a href={item.href}>{item.label}</a>)}
+            <a href="/category/">التصنيفات</a>
+            <a href="/tag/">الوسوم</a>
+          </div>
+        </details>
+      </div>
     </header>
-    <main class="qb-main">
+
+    <main id="main" class:list={['site-main', wide && 'site-main-wide']}>
       <slot />
     </main>
-    <footer class="qb-footer">
-      <p>مكتبة القرآن الكريم — مصاحف وتفاسير ومقالات</p>
-      <p><a href="/sitemap.xml">خريطة الموقع</a> · <a href="/robots.txt">robots.txt</a></p>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <img src={logo} alt="" width="52" height="52" loading="lazy" />
+          <h2>مكتبة القرآن الكريم</h2>
+          <p>مصحف وتفاسير ومقالات، بقراءة هادئة وتجربة مريحة للعين.</p>
+        </div>
+        <div class="footer-col">
+          <h3>الموقع</h3>
+          {footerSite.map(([label, href]) => <a href={href}>{label}</a>)}
+        </div>
+        <div class="footer-col">
+          <h3>القرآن الكريم</h3>
+          {footerQuran.map(([label, href]) => <a href={href} target="_blank" rel="noopener noreferrer">{label}</a>)}
+        </div>
+        <div class="footer-col">
+          <h3>مصادر مفيدة</h3>
+          {footerSources.map(([label, href]) => <a href={href} target="_blank" rel="noopener noreferrer">{label}</a>)}
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© QuranBook.org — Copyright is available to all Muslims</span>
+        <span><a href="/sitemap.xml">خريطة الموقع</a> · <a href="/robots.txt">robots.txt</a> · <a href="https://salah.com/" target="_blank" rel="noopener noreferrer">مواقيت الصلاة</a></span>
+      </div>
     </footer>
-    <script>
-      (function () {
-        var els = document.querySelectorAll('.qb-fade');
-        if (!els.length) return;
-        if (!('IntersectionObserver' in window)) {
-          els.forEach(function (e) { e.classList.add('in'); });
-          return;
-        }
-        var observer = new IntersectionObserver(function (entries) {
-          entries.forEach(function (entry) {
-            if (entry.isIntersecting) {
-              entry.target.classList.add('in');
-              observer.unobserve(entry.target);
-            }
-          });
-        }, { threshold: 0.12 });
-        els.forEach(function (e) { observer.observe(e); });
-      })();
-    </script>
+
+    <!-- حماية نهائية لمحتوى ووردبريس القديم: توضع بعد المحتوى لتفوق أنماط Kadence المضمنة -->
+    <style is:inline>
+      :root {
+        --global-palette1: #115c44;
+        --global-palette2: #f7f8f5;
+        --global-palette3: #16241f;
+        --global-palette4: #1c7b5b;
+        --global-palette5: #b8944c;
+        --global-palette6: #52645d;
+        --global-palette7: #eef2ee;
+        --global-palette8: #ffffff;
+        --global-palette9: #ffffff;
+      }
+      :root[data-theme='dark'] {
+        --global-palette1: #6fd0a8;
+        --global-palette2: #121d19;
+        --global-palette3: #e8eee9;
+        --global-palette4: #8be0bc;
+        --global-palette5: #e7d6ac;
+        --global-palette6: #b0c0b8;
+        --global-palette7: #192722;
+        --global-palette8: #15211c;
+        --global-palette9: #e8eee9;
+      }
+      .qb-original-home .kb-row-layout-wrap {
+        border-radius: 20px;
+        overflow: hidden;
+      }
+      .qb-original-home .quran_gateway_by_sora,
+      .quran_gateway_widget .quran_gateway_by_sora {
+        background: var(--surface-2);
+        border-color: var(--line);
+        border-radius: 14px;
+        padding: 14px 16px;
+      }
+      .qb-original-home .aya_ar_by_sora,
+      .qb-original-home .aya_en_by_sora,
+      .quran_gateway_widget .aya_ar,
+      .quran_gateway_widget .aya_en { color: var(--ink); }
+      .qb-original-home .sora_title { color: var(--green); }
+      .qb-original-home .sora_name_by_sora,
+      .quran_gateway_widget .sora_name { color: var(--gold); }
+      :root[data-theme='dark'] .qb-original-home .kb-row-layout-wrap,
+      :root[data-theme='dark'] .qb-original-home .kb-row-layout-wrap * {
+        color: var(--ink) !important;
+      }
+      :root[data-theme='dark'] .qb-original-home .kb-row-layout-wrap {
+        background-color: var(--surface) !important;
+        background-image: linear-gradient(135deg, var(--surface), var(--bg-soft)) !important;
+        border-color: var(--line) !important;
+      }
+      :root[data-theme='dark'] .qb-original-home .kt-row-layout-overlay {
+        background: transparent !important;
+        opacity: 0 !important;
+        mix-blend-mode: normal !important;
+      }
+      :root[data-theme='dark'] .qb-original-home .kt-row-layout-top-sep svg path,
+      :root[data-theme='dark'] .qb-original-home .kt-row-layout-bottom-sep svg path {
+        fill: var(--line-strong) !important;
+      }
+      :root[data-theme='dark'] .qb-original-home mark.has-inline-color,
+      :root[data-theme='dark'] .qb-original-home .has-inline-color {
+        color: var(--ink) !important;
+        background-color: transparent !important;
+      }
+      :root[data-theme='dark'] .qb-original-home .quran_gateway_by_sora,
+      :root[data-theme='dark'] .quran_gateway_widget .quran_gateway_by_sora {
+        background-color: var(--surface-2) !important;
+        border-color: var(--line) !important;
+      }
+      :root[data-theme='dark'] .qb-original-home .aya_ar_by_sora,
+      :root[data-theme='dark'] .qb-original-home .aya_en_by_sora,
+      :root[data-theme='dark'] .quran_gateway_widget .aya_ar,
+      :root[data-theme='dark'] .quran_gateway_widget .aya_en { color: var(--ink) !important; }
+      :root[data-theme='dark'] .qb-original-home .sora_title { color: var(--green) !important; }
+      :root[data-theme='dark'] .qb-original-home .sora_name_by_sora,
+      :root[data-theme='dark'] .quran_gateway_widget .sora_name { color: var(--gold) !important; }
+      :root[data-theme='dark'] .qb-original-home a { color: var(--green) !important; }
+      :root[data-theme='dark'] .qb-original-home .kt-testimonial-text-wrap,
+      :root[data-theme='dark'] .qb-original-home .kt-testimonial-name,
+      :root[data-theme='dark'] .qb-original-home .kt-testimonial-occupation {
+        background: var(--surface-2) !important;
+        color: var(--ink) !important;
+        border-color: var(--line) !important;
+      }
+    </style>
   </body>
 </html>

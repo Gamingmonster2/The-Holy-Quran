@@ -1,4 +1,13 @@
 /feed  /feed.xml  301
 /feed/ /feed.xml  301
+/comments/feed/ /feed.xml  301
+/wp-sitemap.xml /sitemap.xml  301
+/sitemap_index.xml /sitemap.xml  301
+/wp-login /  301
 /wp-login.php  /  301
-/wp-admin      /  301
+/wp-admin /  301
+/wp-admin/ /  301
+/wp-admin/* /  301
+/wp-json /  301
+/wp-json/* /  301
+/xmlrpc.php /  301

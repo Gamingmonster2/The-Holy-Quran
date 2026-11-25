@@ -1,14 +1,23 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getTerms } from '../../lib/content.mjs';
-const terms = getTerms('categories');
+const terms = getTerms('categories').slice().sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'ar'));
 ---
 
-<BaseLayout title="التصنيفات — QuranBook">
-  <div class="qb-list">
-    <h1>التصنيفات</h1>
+<BaseLayout title="التصنيفات — QuranBook" description="جميع تصنيفات مكتبة القرآن الكريم">
+  <div class="qb-term-header">
+    <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <span>التصنيفات</span></nav>
+    <h1 class="qb-term-title">التصنيفات</h1>
+    <p>{terms.length} تصنيفاً في المكتبة.</p>
+  </div>
+  <div class="qb-grid">
     {terms.map((t) => (
-      <a class="qb-card" href={t.path}><b>{t.name}</b><small>{t.count} مقالة</small></a>
+      <a class="qb-card" href={t.path}>
+        <div class="qb-card-body">
+          <h3 class="qb-card-title">{t.name}</h3>
+          <div class="qb-card-meta"><span>{t.count} مقالة</span></div>
+        </div>
+      </a>
     ))}
   </div>
 </BaseLayout>

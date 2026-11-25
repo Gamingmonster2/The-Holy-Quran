@@ -1,0 +1,1884 @@
+{
+  "downloaded": [
+    {
+      "url": "https://picsum.photos/seed/author/150/150",
+      "localPath": "/media/remote/13c70cacf2f122d1c6.jpg",
+      "bytes": 7102,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/author/100/100",
+      "localPath": "/media/remote/2a794270761a0a12cc.jpg",
+      "bytes": 3748,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/book3/1200/500",
+      "localPath": "/media/remote/3a03352bab69002dd1.jpg",
+      "bytes": 148336,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://archive.org/services/img/mos7f",
+      "localPath": "/media/remote/31735ebd78713a1120.jpg",
+      "bytes": 27977,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/045.mp3",
+      "localPath": "/media/remote/0f3e9719fd525dc2c2.mp3",
+      "bytes": 4251189,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/050.mp3",
+      "localPath": "/media/remote/42893524a584bb151f.mp3",
+      "bytes": 3243048,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/044.mp3",
+      "localPath": "/media/remote/937fa2bd5ff22ba161.mp3",
+      "bytes": 13635405,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/048.mp3",
+      "localPath": "/media/remote/8a517f96d240b0f47b.mp3",
+      "bytes": 20932583,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/051.mp3",
+      "localPath": "/media/remote/29fb497d4fab6166a8.mp3",
+      "bytes": 13772897,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/041.mp3",
+      "localPath": "/media/remote/cffa93f6f62a9c4de7.mp3",
+      "bytes": 31076438,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/043.mp3",
+      "localPath": "/media/remote/e83b12d709ccd829dd.mp3",
+      "bytes": 30418576,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/049.mp3",
+      "localPath": "/media/remote/5cadd085933cc0b3aa.mp3",
+      "bytes": 14088903,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/042.mp3",
+      "localPath": "/media/remote/d5d1edab97a25a1482.mp3",
+      "bytes": 30016098,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/046.mp3",
+      "localPath": "/media/remote/a8dec2455ba11bcd01.mp3",
+      "bytes": 21613016,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/052.mp3",
+      "localPath": "/media/remote/06c5ff6634de5bd7b2.mp3",
+      "bytes": 11736234,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/054.mp3",
+      "localPath": "/media/remote/9fd5ad2a0648d7c4a1.mp3",
+      "bytes": 14230600,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/047.mp3",
+      "localPath": "/media/remote/867966534f0adb2ef8.mp3",
+      "bytes": 19309611,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/053.mp3",
+      "localPath": "/media/remote/b56365a6f3ff8a4ead.mp3",
+      "bytes": 13154870,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/040.mp3",
+      "localPath": "/media/remote/724b81e34dd8b253e3.mp3",
+      "bytes": 44857818,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/062.mp3",
+      "localPath": "/media/remote/24cdecb9f90e1a60e7.mp3",
+      "bytes": 6507479,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/037.mp3",
+      "localPath": "/media/remote/11c81fae110e57365a.mp3",
+      "bytes": 37477527,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/056.mp3",
+      "localPath": "/media/remote/058cfd2cb6d8edfce9.mp3",
+      "bytes": 19771832,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/055.mp3",
+      "localPath": "/media/remote/b50e803d185bfeb05a.mp3",
+      "bytes": 16736070,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/065.mp3",
+      "localPath": "/media/remote/e1301008d69fbb34d8.mp3",
+      "bytes": 11392213,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/063.mp3",
+      "localPath": "/media/remote/8b6e931d92872a91cf.mp3",
+      "bytes": 7073352,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/060.mp3",
+      "localPath": "/media/remote/7e0af31c5649ec3661.mp3",
+      "bytes": 14376692,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/059.mp3",
+      "localPath": "/media/remote/1fb22e2f6b64519f6d.mp3",
+      "bytes": 17500429,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/064.mp3",
+      "localPath": "/media/remote/be098db9b3cf920eee.mp3",
+      "bytes": 8928583,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/066.mp3",
+      "localPath": "/media/remote/e48c4d69fd3bcfee57.mp3",
+      "bytes": 10920039,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/061.mp3",
+      "localPath": "/media/remote/39c70c14fe54b0130f.mp3",
+      "bytes": 8363541,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/057.mp3",
+      "localPath": "/media/remote/a91aa46d1b5f8187d7.mp3",
+      "bytes": 26254927,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/070.mp3",
+      "localPath": "/media/remote/bfe5e28ff1baff69ae.mp3",
+      "bytes": 10642034,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/075.mp3",
+      "localPath": "/media/remote/b3d683907ed22623d5.mp3",
+      "bytes": 7624622,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/073.mp3",
+      "localPath": "/media/remote/c767fca8a539339960.mp3",
+      "bytes": 8762619,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/067.mp3",
+      "localPath": "/media/remote/833cf392ed0cbfbff8.mp3",
+      "bytes": 12842954,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/068.mp3",
+      "localPath": "/media/remote/b5d0cf7c505d6d54be.mp3",
+      "bytes": 13422586,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/071.mp3",
+      "localPath": "/media/remote/9ec70e198ba1a45bf9.mp3",
+      "bytes": 10913153,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/077.mp3",
+      "localPath": "/media/remote/071084f164a7c954d5.mp3",
+      "bytes": 10171660,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/069.mp3",
+      "localPath": "/media/remote/d9aa68d25e1f0b875c.mp3",
+      "bytes": 12971394,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/080.mp3",
+      "localPath": "/media/remote/5e1a5219ca333e0bf2.mp3",
+      "bytes": 6741826,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/078.mp3",
+      "localPath": "/media/remote/079d50fd6e9c9be5cc.mp3",
+      "bytes": 9240804,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/082.mp3",
+      "localPath": "/media/remote/dbd8faf1408d36134c.mp3",
+      "bytes": 3734192,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/081.mp3",
+      "localPath": "/media/remote/1f6af356ca7beb97b5.mp3",
+      "bytes": 4756938,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/072.mp3",
+      "localPath": "/media/remote/2170180f52d846b940.mp3",
+      "bytes": 12158234,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/087.mp3",
+      "localPath": "/media/remote/4adbacc5a54440ae32.mp3",
+      "bytes": 900944,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/079.mp3",
+      "localPath": "/media/remote/a4a5d513bc9d681640.mp3",
+      "bytes": 8612611,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/086.mp3",
+      "localPath": "/media/remote/f21d02ec0fc7cc05ab.mp3",
+      "bytes": 3134838,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/084.mp3",
+      "localPath": "/media/remote/4403f067d465bd344e.mp3",
+      "bytes": 5220037,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/091.mp3",
+      "localPath": "/media/remote/f8265f83b2343f5c14.mp3",
+      "bytes": 2977686,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/074.mp3",
+      "localPath": "/media/remote/7a5121f66449eeba1a.mp3",
+      "bytes": 12165760,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/093.mp3",
+      "localPath": "/media/remote/a9f30e28406f4b6bc6.mp3",
+      "bytes": 2088686,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/094.mp3",
+      "localPath": "/media/remote/eb321a84078e7491ea.mp3",
+      "bytes": 1312118,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/095.mp3",
+      "localPath": "/media/remote/e1984d4116e04652a1.mp3",
+      "bytes": 1706254,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/097.mp3",
+      "localPath": "/media/remote/97e87db59c6dabc05c.mp3",
+      "bytes": 1475122,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/085.mp3",
+      "localPath": "/media/remote/a9f0e85c18e0e81322.mp3",
+      "bytes": 5287746,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/092.mp3",
+      "localPath": "/media/remote/c094f5afdfb20c35f3.mp3",
+      "bytes": 3847459,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/088.mp3",
+      "localPath": "/media/remote/0336085dd9efcd609c.mp3",
+      "bytes": 4350264,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/099.mp3",
+      "localPath": "/media/remote/029df709bcc602f1ac.mp3",
+      "bytes": 1868004,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/058.mp3",
+      "localPath": "/media/remote/b992e3156913a647f9.mp3",
+      "bytes": 18290236,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/102.mp3",
+      "localPath": "/media/remote/70bf1b1d363a5aa86b.mp3",
+      "bytes": 1485153,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/103.mp3",
+      "localPath": "/media/remote/323bcae711a68a80d0.mp3",
+      "bytes": 826868,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/090.mp3",
+      "localPath": "/media/remote/3483cbfe705a1715ce.mp3",
+      "bytes": 3871282,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/100.mp3",
+      "localPath": "/media/remote/f8880dcc4ec4de0743.mp3",
+      "bytes": 2002587,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/101.mp3",
+      "localPath": "/media/remote/302ed061ac310ecb1a.mp3",
+      "bytes": 1868004,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/104.mp3",
+      "localPath": "/media/remote/b0a41a1cdce0084c64.mp3",
+      "bytes": 1647740,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/106.mp3",
+      "localPath": "/media/remote/366124707951be57b4.mp3",
+      "bytes": 1036265,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/096.mp3",
+      "localPath": "/media/remote/bc81bf740562daf066.mp3",
+      "bytes": 3347997,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/105.mp3",
+      "localPath": "/media/remote/7d1b477557416a1dea.mp3",
+      "bytes": 1138665,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/108.mp3",
+      "localPath": "/media/remote/a45b6cc63cf0456972.mp3",
+      "bytes": 658012,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/111.mp3",
+      "localPath": "/media/remote/0e343ee439dac3e7d6.mp3",
+      "bytes": 1087256,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/098.mp3",
+      "localPath": "/media/remote/760cfe56f444a25802.mp3",
+      "bytes": 4550884,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/112.mp3",
+      "localPath": "/media/remote/0278c7983f812d4f0a.mp3",
+      "bytes": 579436,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/author3/100/100",
+      "localPath": "/media/remote/a662a791bcd5c37cf0.jpg",
+      "bytes": 1989,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/113.mp3",
+      "localPath": "/media/remote/7150b5ce2e9941f040.mp3",
+      "bytes": 909624,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/04/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D8%B1%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A-pdf2.png.webp",
+      "localPath": "/media/remote/bc4108272db0c39c96.webp",
+      "bytes": 44172,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/110.mp3",
+      "localPath": "/media/remote/82f16adb5d85978b73.mp3",
+      "bytes": 990708,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/107.mp3",
+      "localPath": "/media/remote/2fd46e64cd0b4171d9.mp3",
+      "bytes": 1266979,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/quran/1200/600",
+      "localPath": "/media/remote/0783ed15e5cbd5e270.jpg",
+      "bytes": 20330,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/114.mp3",
+      "localPath": "/media/remote/3750bd19d7c1710626.mp3",
+      "bytes": 988618,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/reading/400/300",
+      "localPath": "/media/remote/119f1db15f1853d294.jpg",
+      "bytes": 22262,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/089.mp3",
+      "localPath": "/media/remote/621b5d1d0b88f5da67.mp3",
+      "bytes": 6644024,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://quranislam.github.io/quranpdf/images/warsh.png",
+      "localPath": "/media/remote/b7fc2e8ac936c09832.png",
+      "bytes": 424900,
+      "type": "image/png"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/109.mp3",
+      "localPath": "/media/remote/ca11cb28570600b04a.mp3",
+      "bytes": 1377738,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/design-tools/800/400",
+      "localPath": "/media/remote/84985dc681d3d4b249.jpg",
+      "bytes": 65449,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/083.mp3",
+      "localPath": "/media/remote/f8188465f2f8248a9a.mp3",
+      "bytes": 8348043,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/author1/100/100",
+      "localPath": "/media/remote/8318c28d6426c93537.jpg",
+      "bytes": 2323,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/islamic-art/1200/600",
+      "localPath": "/media/remote/b42fdf0220e6c53378.jpg",
+      "bytes": 53617,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/islamicart/800/400",
+      "localPath": "/media/remote/4a07c9194057963b24.jpg",
+      "bytes": 53864,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/القران-1024x553.png",
+      "localPath": "/media/remote/a1fc8b6a34dd580b00.png",
+      "bytes": 99209,
+      "type": "image/png"
+    },
+    {
+      "url": "https://picsum.photos/seed/quran-vector/1200/600",
+      "localPath": "/media/remote/bb62a864a0b0b83377.jpg",
+      "bytes": 38644,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1519817650390-64a93db51149",
+      "localPath": "/media/remote/4cd5431c20d1e03657.jpg",
+      "bytes": 776812,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/warch.jpg.webp",
+      "localPath": "/media/remote/123280133095567751.webp",
+      "bytes": 178090,
+      "type": "image/webp"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Basmala.svg",
+      "localPath": "/media/remote/0b5c5fca0f04183742.svg",
+      "bytes": 13491,
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/076.mp3",
+      "localPath": "/media/remote/3b2002f46e1dba7ad3.mp3",
+      "bytes": 12915931,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1609599006353-e629aaabfeae",
+      "localPath": "/media/remote/3559b5c69eda3b61ae.jpg",
+      "bytes": 5546058,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/001.mp3",
+      "localPath": "/media/remote/f48e5f851263ae2627.mp3",
+      "bytes": 791049,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/082.mp3",
+      "localPath": "/media/remote/19992cb042e5290464.mp3",
+      "bytes": 1948641,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/081.mp3",
+      "localPath": "/media/remote/2afbe83bd2844bb8cb.mp3",
+      "bytes": 2587068,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f",
+      "localPath": "/media/remote/e967de5fe720ddfe20.jpg",
+      "bytes": 8146592,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/084.mp3",
+      "localPath": "/media/remote/4eb25be11cbbda771b.mp3",
+      "bytes": 2363556,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/083.mp3",
+      "localPath": "/media/remote/5f3af13b69dca4d937.mp3",
+      "bytes": 4438965,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/079.mp3",
+      "localPath": "/media/remote/e8592a03c48a2bd9f3.mp3",
+      "bytes": 4087851,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/078.mp3",
+      "localPath": "/media/remote/f1607bf4a3735f3cc6.mp3",
+      "bytes": 4502766,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/077.mp3",
+      "localPath": "/media/remote/fd1a5fa736a8ae1429.mp3",
+      "bytes": 4534458,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/029.mp3",
+      "localPath": "/media/remote/16309935484a0b933e.mp3",
+      "bytes": 20657346,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/id/1015/1200/600",
+      "localPath": "/media/remote/a587a379718de258bc.jpg",
+      "bytes": 137961,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/quran/400/300",
+      "localPath": "/media/remote/b09ad49448c21b5a49.jpg",
+      "bytes": 5714,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/032.mp3",
+      "localPath": "/media/remote/9b50a2054caa208c24.mp3",
+      "bytes": 7727427,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://picsum.photos/seed/islamic/800/400",
+      "localPath": "/media/remote/79ce4f722cffc9a68a.jpg",
+      "bytes": 72047,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/plugins/youtube-embed-plus/images/playhover.png",
+      "localPath": "/media/remote/02ec67de00497db83f.png",
+      "bytes": 3730,
+      "type": "image/png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/plugins/youtube-embed-plus/images/gallery-page-loader.gif",
+      "localPath": "/media/remote/d39ac46d9273db0dbd.gif",
+      "bytes": 723,
+      "type": "image/gif"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/080.mp3",
+      "localPath": "/media/remote/0ede5595d6fb737110.mp3",
+      "bytes": 3321405,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/030.mp3",
+      "localPath": "/media/remote/b1a2587797047b544a.mp3",
+      "bytes": 16347651,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/003.mp3",
+      "localPath": "/media/remote/a1801f96dae7cac465.mp3",
+      "bytes": 149386018,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/016.mp3",
+      "localPath": "/media/remote/0e33cac38e3ce6eb00.mp3",
+      "bytes": 38161338,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/028.mp3",
+      "localPath": "/media/remote/f9ede154b1171ce723.mp3",
+      "bytes": 28319721,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/031.mp3",
+      "localPath": "/media/remote/2a58a8a32cf3d0e518.mp3",
+      "bytes": 10568865,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/017.mp3",
+      "localPath": "/media/remote/c9354fdb03738a4c26.mp3",
+      "bytes": 30522732,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/003.mp3",
+      "localPath": "/media/remote/e7e6b6cebc160a35c3.mp3",
+      "bytes": 80783325,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/004.mp3",
+      "localPath": "/media/remote/ad6f27abbac65552c1.mp3",
+      "bytes": 75721362,
+      "type": "audio/mpeg"
+    }
+  ],
+  "existing": [
+    {
+      "url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86.jpg",
+      "localPath": "/media/remote/6c95505ceb834802b2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-3.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-3.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/PDF1-1.png",
+      "localPath": "/wp-content/uploads/2024/04/PDF1-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Designer-3-1024x536.png",
+      "localPath": "/wp-content/uploads/2024/07/Designer-3-1024x536.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/photo-of-people-gathered-at-kaaba-mecca-saudi-arabia-4346403-1024x683.jpg",
+      "localPath": "/wp-content/uploads/2024/06/photo-of-people-gathered-at-kaaba-mecca-saudi-arabia-4346403-1024x683.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/التقاط.png",
+      "localPath": "/wp-content/uploads/2025/10/التقاط.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png",
+      "localPath": "/wp-content/uploads/2025/10/pdf1-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/1_AUW28MAaKTuDWBVkyJcbwA.jpg",
+      "localPath": "/wp-content/uploads/2024/05/1_AUW28MAaKTuDWBVkyJcbwA.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/20200826_192008_1445x.jpg",
+      "localPath": "/wp-content/uploads/2024/05/20200826_192008_1445x.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/شيخ-أبو-بكر-الشاطري-1.jpg",
+      "localPath": "/wp-content/uploads/2024/03/شيخ-أبو-بكر-الشاطري-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png",
+      "localPath": "/wp-content/uploads/2024/06/Designer-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-11.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-11.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+      "localPath": "/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/05/close-up-of-the-quran-on-a-wooden-stand-symbolizing-islamic-spirituality.-8522570-scaled.jpg",
+      "localPath": "/wp-content/uploads/2025/05/close-up-of-the-quran-on-a-wooden-stand-symbolizing-islamic-spirituality.-8522570-scaled.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/images-1.jpeg",
+      "localPath": "/wp-content/uploads/2024/04/images-1.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/pdf-icon-9.png",
+      "localPath": "/wp-content/uploads/2025/03/pdf-icon-9.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2020/04/images.jpeg",
+      "localPath": "/wp-content/uploads/2020/04/images.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-2.jpg",
+      "localPath": "/wp-content/uploads/2024/07/Jaib01-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Designer-2.png",
+      "localPath": "/wp-content/uploads/2024/07/Designer-2.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Designer-1-1.png",
+      "localPath": "/wp-content/uploads/2024/07/Designer-1-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Designer.png",
+      "localPath": "/wp-content/uploads/2024/07/Designer.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/التقاط-3.jpg",
+      "localPath": "/wp-content/uploads/2025/03/التقاط-3.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/mobilepdf.jpg",
+      "localPath": "/wp-content/uploads/2025/03/mobilepdf.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/التقاط-2.jpg",
+      "localPath": "/wp-content/uploads/2025/03/التقاط-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/التقاط-1.jpg",
+      "localPath": "/wp-content/uploads/2025/03/التقاط-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-10.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-10.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/03/التقاط.jpg",
+      "localPath": "/wp-content/uploads/2025/03/التقاط.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/02/cover.jpg",
+      "localPath": "/wp-content/uploads/2025/02/cover.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+      "localPath": "/wp-content/uploads/2025/02/مصحف-التهجد.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/images-1.jpeg",
+      "localPath": "/wp-content/uploads/2024/07/images-1.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/12/Design-8.png",
+      "localPath": "/wp-content/uploads/2024/12/Design-8.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/12/سورة-آل-عمران-مكتوبة-كاملة-بخط-كبير.png",
+      "localPath": "/wp-content/uploads/2024/12/سورة-آل-عمران-مكتوبة-كاملة-بخط-كبير.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/12/سوره-البقرة-مكتوبة-كاملة-بالتشكيل-1.png",
+      "localPath": "/wp-content/uploads/2024/12/سوره-البقرة-مكتوبة-كاملة-بالتشكيل-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-11-2.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-11-2.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/12/تنزيل-القران-الكريم-pdf-كامل.png",
+      "localPath": "/wp-content/uploads/2024/12/تنزيل-القران-الكريم-pdf-كامل.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/11/Design-13.png",
+      "localPath": "/wp-content/uploads/2024/11/Design-13.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/JJJJ.jpg",
+      "localPath": "/wp-content/uploads/2024/06/JJJJ.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg",
+      "localPath": "/wp-content/uploads/2024/09/التقاط-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/11/Design-7-1.png",
+      "localPath": "/wp-content/uploads/2024/11/Design-7-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/11/Design-7-3.png",
+      "localPath": "/wp-content/uploads/2024/11/Design-7-3.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/download.jpeg",
+      "localPath": "/wp-content/uploads/2024/10/download.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-11-1.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-11-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/1506417775_IMG_0491.jpeg",
+      "localPath": "/wp-content/uploads/2024/10/1506417775_IMG_0491.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-11-5.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-11-5.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg",
+      "localPath": "/wp-content/uploads/2024/09/التقاط.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-9-1.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-9-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-4.jpg",
+      "localPath": "/wp-content/uploads/2024/09/التقاط-4.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-1.jpg",
+      "localPath": "/wp-content/uploads/2024/09/التقاط-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/Capture-1024x636.png",
+      "localPath": "/wp-content/uploads/2024/06/Capture-1024x636.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/مصحف-الجماهيرية-برواية-الإمام-قالون-بدقة-عالية.png",
+      "localPath": "/wp-content/uploads/2024/09/مصحف-الجماهيرية-برواية-الإمام-قالون-بدقة-عالية.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/مصحف-الجماهيرية-pdf.png",
+      "localPath": "/wp-content/uploads/2024/09/مصحف-الجماهيرية-pdf.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/08/download-2.png",
+      "localPath": "/wp-content/uploads/2024/08/download-2.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg",
+      "localPath": "/wp-content/uploads/2024/08/azraq.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/08/التقاط.jpg",
+      "localPath": "/wp-content/uploads/2024/08/التقاط.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Designer-5-1024x536.png",
+      "localPath": "/wp-content/uploads/2024/07/Designer-5-1024x536.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/08/التقاط2-1.jpg",
+      "localPath": "/wp-content/uploads/2024/08/التقاط2-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/04/easy-calligraphy-1781725291905.png",
+      "localPath": "/wp-content/uploads/2025/04/easy-calligraphy-1781725291905.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/التقاط-3.jpg",
+      "localPath": "/wp-content/uploads/2024/09/التقاط-3.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png",
+      "localPath": "/wp-content/uploads/2026/02/التقاط.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-3.jpg",
+      "localPath": "/wp-content/uploads/2024/07/Jaib01-3.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Jaib01.jpg",
+      "localPath": "/wp-content/uploads/2024/07/Jaib01.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-1.jpg",
+      "localPath": "/wp-content/uploads/2024/07/Jaib01-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/images.jpeg",
+      "localPath": "/wp-content/uploads/2024/07/images.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/0001.png",
+      "localPath": "/wp-content/uploads/2024/06/0001.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/jjkoo-1024x564.png",
+      "localPath": "/wp-content/uploads/2024/06/jjkoo-1024x564.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/Capturemmmmmmmmmm-1024x424.png",
+      "localPath": "/wp-content/uploads/2024/06/Capturemmmmmmmmmm-1024x424.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/Captureio9.png",
+      "localPath": "/wp-content/uploads/2024/06/Captureio9.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-scaled.jpg",
+      "localPath": "/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-scaled.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-quran-7300899-1024x684.jpg",
+      "localPath": "/wp-content/uploads/2024/05/pages-of-a-quran-7300899-1024x684.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-1024x684.jpg",
+      "localPath": "/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-1024x684.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/06/tttt.png",
+      "localPath": "/wp-content/uploads/2024/06/tttt.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/Capturehh.png",
+      "localPath": "/wp-content/uploads/2024/03/Capturehh.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/kkk.png",
+      "localPath": "/wp-content/uploads/2024/05/kkk.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+      "localPath": "/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/man-in-white-thobe-sitting-on-the-floor-praying-8164511-683x1024.jpg",
+      "localPath": "/wp-content/uploads/2024/05/man-in-white-thobe-sitting-on-the-floor-praying-8164511-683x1024.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/down-angle-photography-of-red-clouds-and-blue-sky-844297-1024x683.jpg",
+      "localPath": "/wp-content/uploads/2024/05/down-angle-photography-of-red-clouds-and-blue-sky-844297-1024x683.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/01/59ed8a2d987780b86dd1b99294ec3e41.png.jpg",
+      "localPath": "/wp-content/uploads/2023/01/59ed8a2d987780b86dd1b99294ec3e41.png.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/638250186804229543-1024x614.jpg",
+      "localPath": "/wp-content/uploads/2024/05/638250186804229543-1024x614.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/عبد-الرحمن-بنموسى.jpg",
+      "localPath": "/wp-content/uploads/2024/05/عبد-الرحمن-بنموسى.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/images-1.jpg",
+      "localPath": "/wp-content/uploads/2024/05/images-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/001.png",
+      "localPath": "/wp-content/uploads/2024/05/001.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/DALL·E-2024-05-20-11.18.14-An-animated-image-featuring-a-cheerful-young-boy-wearing-traditional-Omani-clothes-in-a-beautiful-green-landscape-with-flowers-and-butterflies.-The-ba.webp",
+      "localPath": "/wp-content/uploads/2024/05/DALL·E-2024-05-20-11.18.14-An-animated-image-featuring-a-cheerful-young-boy-wearing-traditional-Omani-clothes-in-a-beautiful-green-landscape-with-flowers-and-butterflies.-The-ba.webp"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/sddefault.jpg",
+      "localPath": "/wp-content/uploads/2024/05/sddefault.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-3-1.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-3-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-1-2.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-1-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-2-1.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-2-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-1-1.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-1-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2020/01/download.jpg",
+      "localPath": "/wp-content/uploads/2020/01/download.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/the-quran-religious-book-of-islam-12715782-1024x768.jpg",
+      "localPath": "/wp-content/uploads/2024/05/the-quran-religious-book-of-islam-12715782-1024x768.jpg"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/7b/42/3c/7b423c7f7962d522bcf1b953c55e5418.jpg",
+      "localPath": "/media/remote/258d2567b305b71c81.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/images.jpg",
+      "localPath": "/wp-content/uploads/2024/05/images.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/hqdefault.jpg",
+      "localPath": "/wp-content/uploads/2024/05/hqdefault.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/PDF1.png",
+      "localPath": "/wp-content/uploads/2024/04/PDF1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/Qaloun-1-2.jpg",
+      "localPath": "/wp-content/uploads/2024/04/Qaloun-1-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/images-1.png",
+      "localPath": "/wp-content/uploads/2024/04/images-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-2.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/05/download-1.jpg",
+      "localPath": "/wp-content/uploads/2024/05/download-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/quarn-12.png",
+      "localPath": "/wp-content/uploads/2024/03/quarn-12.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/Free-Close-Up-Shot-of-a-Book-Stock-Photo-5.jpg",
+      "localPath": "/wp-content/uploads/2024/03/Free-Close-Up-Shot-of-a-Book-Stock-Photo-5.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/big_cover.webp",
+      "localPath": "/wp-content/uploads/2024/03/big_cover.webp"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg",
+      "localPath": "/wp-content/uploads/2025/10/Qaloun.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/12/التقاط.png",
+      "localPath": "/wp-content/uploads/2025/12/التقاط.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg",
+      "localPath": "/wp-content/uploads/2025/10/Qaloun-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/11/q1.png",
+      "localPath": "/wp-content/uploads/2025/11/q1.png"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/quran-pdf.png",
+      "localPath": "/media/remote/fefaddfdc36b07cdce.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/btnAndroid.png",
+      "localPath": "/wp-content/uploads/2024/04/btnAndroid.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-5.jpg",
+      "localPath": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-5.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/12/Screenshot_20190821-163529_Gallery.jpg",
+      "localPath": "/wp-content/uploads/2023/12/Screenshot_20190821-163529_Gallery.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/open-quran-book-with-islamic-text-3272118-1024x683-1.jpg",
+      "localPath": "/wp-content/uploads/2024/03/open-quran-book-with-islamic-text-3272118-1024x683-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/dc79002b59d762d1da2bf4a67aedccb9.jpg",
+      "localPath": "/wp-content/uploads/2024/03/dc79002b59d762d1da2bf4a67aedccb9.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-6.jpg",
+      "localPath": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-6.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1-1.webp",
+      "localPath": "/wp-content/uploads/2024/04/pexels-photo-15105872-1-1.webp"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/Qaloun-1-1.jpg",
+      "localPath": "/wp-content/uploads/2024/04/Qaloun-1-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/m-img.jpg",
+      "localPath": "/wp-content/uploads/2024/03/m-img.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-7.jpg",
+      "localPath": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-7.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/maxresdefault.jpg",
+      "localPath": "/wp-content/uploads/2024/04/maxresdefault.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/desktopAr.jpg",
+      "localPath": "/wp-content/uploads/2024/04/desktopAr.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/Free-Pages-of-a-Holy-Book-Stock-Photo.jpg",
+      "localPath": "/wp-content/uploads/2024/03/Free-Pages-of-a-Holy-Book-Stock-Photo.jpg"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/42445d210510fab7c15b1865691bd2be.png.webp",
+      "localPath": "/media/remote/89c469124c0f1d60c9.webp"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/أحمد-ضرار.jpeg",
+      "localPath": "/media/remote/cc630c97ce5c6d683c.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/03/أحمد-ضرار.jpeg",
+      "localPath": "/wp-content/uploads/2024/03/أحمد-ضرار.jpeg"
+    },
+    {
+      "url": "https://tvquran.com/uploads/authors/images/%D8%A8%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A.jpeg",
+      "localPath": "/media/remote/f188a26b3acd0f13cc.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2022/04/D9-82-D8-B1-D8-A7-D9-86-20-D9-85-D8-B5-D8-AD-D9-81.jpg",
+      "localPath": "/wp-content/uploads/2022/04/D9-82-D8-B1-D8-A7-D9-86-20-D9-85-D8-B5-D8-AD-D9-81.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/01/D9-A2-D9-A0-D9-A2-D9-A3-D9-A0-D9-A1-D9-A1-D9-A5_-D9-A2-D9-A1-D9-A4-D9-A9-D9-A4-D9-A7.jpg",
+      "localPath": "/wp-content/uploads/2023/01/D9-A2-D9-A0-D9-A2-D9-A3-D9-A0-D9-A1-D9-A1-D9-A5_-D9-A2-D9-A1-D9-A4-D9-A9-D9-A4-D9-A7.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/01/books-library.net-1610802857-464.png",
+      "localPath": "/wp-content/uploads/2023/01/books-library.net-1610802857-464.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/01/0b5504bcc798ab7c7b5c48009ce83df3.png.jpg",
+      "localPath": "/wp-content/uploads/2023/01/0b5504bcc798ab7c7b5c48009ce83df3.png.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2023/08/download.png",
+      "localPath": "/wp-content/uploads/2023/08/download.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2019/12/images.jpg",
+      "localPath": "/wp-content/uploads/2019/12/images.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png",
+      "localPath": "/wp-content/uploads/2024/09/Design-6.png"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/jFUSDjgaJGo/hqdefault.jpg",
+      "localPath": "/media/remote/4a6c40a5d191717b69.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/Design-9-1-1.png",
+      "localPath": "/wp-content/uploads/2024/10/Design-9-1-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg",
+      "localPath": "/wp-content/uploads/2025/08/images.jpeg"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/الأمين-محمد-قنيوه.jpg",
+      "localPath": "/media/remote/45d552881f6ed0264a.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/01/an-open-quran-on-a-white-table-with-a-yellow-bookmark-photographed-in-a-studio-setting.-15105873-scaled.jpg",
+      "localPath": "/wp-content/uploads/2025/01/an-open-quran-on-a-white-table-with-a-yellow-bookmark-photographed-in-a-studio-setting.-15105873-scaled.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/Mumtaz_New.jpg",
+      "localPath": "/wp-content/uploads/2025/10/Mumtaz_New.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/Shuba.jpg",
+      "localPath": "/wp-content/uploads/2025/10/Shuba.jpg"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwm48uJsO_vDjaTMdOieuAHelgMI5VHW62zYEudG17OX125aiAyqI8KlyutuWJS8F6mohWMlYVna49vYRpXBtjarDv9AscRphO0nW0lYk0C7-d6UukjaTv5A4VKSpEfooEU9XZzPyHzfi/s200/%25D8%25B5%25D9%2588%25D8%25B1+%25D8%25B4%25D9%2587%25D8%25B1+%25D8%25B1%25D9%2585%25D8%25B6%25D8%25A7%25D9%25863.jpg",
+      "localPath": "/media/remote/e2737764db301bdc54.jpg"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdaSrhi3z1fn7yh2nfx-OBZUnRIQKMj0abOYuMaAoy0TdlQ_L0nA_L7gIM8szesdQkk5wMvVoXijiWTpws6Q5FHXoTJEXV319-SkV7M2Nurju-v-k3kdxCzefCj0K1wdnRqgGyQYikn7w/s200/%25D8%25B5%25D9%2588%25D8%25B1+%25D8%25B4%25D9%2587%25D8%25B1+%25D8%25B1%25D9%2585%25D8%25B6%25D8%25A7%25D9%25863.jpg",
+      "localPath": "/media/remote/08851e7c676b65f2f3.jpg"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHTxEVis530u2HUPxHHg6qeePRwkJ_1rrXhMInLdYObLH1M8SpUK-zZu8RdQqfjcRlWMOzFPDPA7_Y0NsRmv4Tl4I4E6YjgEbKu9uDUM6iRFVVr4CHu8G2lQb8_4SdV1PcIiSEkVTwC92/s320/ramadan-kareem-moon-arabic-calligraphy_10083-729.jpg",
+      "localPath": "/media/remote/6ad881dd146e356072.jpg"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRzbQcFsLXrcEUiHh8LHp1VOzSdEHrqH8Y9SCkgI9vZBhK5pKzTkWmCu7n9ppgWdoJwSCG9ctQwqinbBePv4Qzp-HWbjepn5C7Eqzi1Jt3F9-mfEK2KcFM8xwC1-2wwlPkn61pNtEFlEwt/s400/33.jpg",
+      "localPath": "/media/remote/1062e89f9f75ccda62.jpg"
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zJdtvRKJ6xZ70GPY0KlknNTE4KaYA3eooyFpF1QS4Q8UbjmCc_P6c_1S_6AHn190fElJg0it-EyyTUPqjy0qqekN_e-x235fhEk5q-DpPfahW8rFIVVbA4VC9u0WApaBiNhbcBd2J_G6/s200/ramadan-kareem-moon-arabic-calligraphy_10083-729.jpg",
+      "localPath": "/media/remote/aaea9ee2f187a250b1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/warsh.jpg",
+      "localPath": "/wp-content/uploads/2025/10/warsh.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/10/Douri_Final-PSD.jpg",
+      "localPath": "/wp-content/uploads/2025/10/Douri_Final-PSD.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/تحميل-مصحف-الحصري-المعلم-للاطفال-mp3.png",
+      "localPath": "/wp-content/uploads/2024/07/تحميل-مصحف-الحصري-المعلم-للاطفال-mp3.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/04/surah-yaseen-pdf.png",
+      "localPath": "/wp-content/uploads/2024/04/surah-yaseen-pdf.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/10/التقاط.png",
+      "localPath": "/wp-content/uploads/2024/10/التقاط.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/09/تحميل-القرآن-الكريم-pdf-جودة-عالية.png",
+      "localPath": "/wp-content/uploads/2025/09/تحميل-القرآن-الكريم-pdf-جودة-عالية.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/09/Design-6-1.png",
+      "localPath": "/wp-content/uploads/2024/09/Design-6-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg",
+      "localPath": "/wp-content/uploads/2025/08/التقاط-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/08/التقاط-2.jpg",
+      "localPath": "/wp-content/uploads/2025/08/التقاط-2.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/08/التقاط.jpg",
+      "localPath": "/wp-content/uploads/2025/08/التقاط.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/07/55-1.jpg",
+      "localPath": "/wp-content/uploads/2025/07/55-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/07/التقاط-1.jpg",
+      "localPath": "/wp-content/uploads/2025/07/التقاط-1.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/07/التقاط.jpg",
+      "localPath": "/wp-content/uploads/2025/07/التقاط.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/07/55.jpg",
+      "localPath": "/wp-content/uploads/2025/07/55.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+      "localPath": "/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/06/Design-20.png",
+      "localPath": "/wp-content/uploads/2025/06/Design-20.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2024/07/image_fx_design_a_sleek_logo_for_a_quran_website_fea-1.png",
+      "localPath": "/wp-content/uploads/2024/07/image_fx_design_a_sleek_logo_for_a_quran_website_fea-1.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2026/07/surah-17-featured.png",
+      "localPath": "/wp-content/uploads/2026/07/surah-17-featured.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2026/07/surah-16-featured.png",
+      "localPath": "/wp-content/uploads/2026/07/surah-16-featured.png"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/02/download-1.jpeg",
+      "localPath": "/wp-content/uploads/2025/02/download-1.jpeg"
+    },
+    {
+      "url": "https://quranbook.org/wp-content/uploads/2025/02/download.jpeg",
+      "localPath": "/wp-content/uploads/2025/02/download.jpeg"
+    },
+    {
+      "url": "https://archive.org/download/Ammar-Almulla/036.mp3",
+      "localPath": "/media/remote/e6b7096046b12c740c.mp3"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/04/images-1.png",
+      "localPath": "/media/remote/edd1c485c49026f0bb.png"
+    },
+    {
+      "url": "https://quranvoice.org/wp-content/uploads/2024/03/unnamed.png",
+      "localPath": "/media/remote/60c40796b197169fa1.png"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/001.mp3",
+      "localPath": "/media/remote/80e5e03c92bdd9bc41.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/002.mp3",
+      "localPath": "/media/remote/e561aaff79f84fc51e.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/003.mp3",
+      "localPath": "/media/remote/5acec9cafb79e9e965.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/004.mp3",
+      "localPath": "/media/remote/5ce81c7558ba946780.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/005.mp3",
+      "localPath": "/media/remote/e058504eef0058ff50.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/006.mp3",
+      "localPath": "/media/remote/f3aff2c48d6d24309a.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/007.mp3",
+      "localPath": "/media/remote/2ea297db2441645c88.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/008.mp3",
+      "localPath": "/media/remote/847d7d776d1d67b694.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/009.mp3",
+      "localPath": "/media/remote/65d76e414df2e06f90.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/010.mp3",
+      "localPath": "/media/remote/d2d68219c31ad96089.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/011.mp3",
+      "localPath": "/media/remote/f4f9db46f202c9122b.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/012.mp3",
+      "localPath": "/media/remote/89618e7f07e40eeb14.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/013.mp3",
+      "localPath": "/media/remote/e76587b0ece3c6e0ae.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/014.mp3",
+      "localPath": "/media/remote/d7f7a5066b38568d8a.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/015.mp3",
+      "localPath": "/media/remote/63d74ae64abfa4a07a.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/016.mp3",
+      "localPath": "/media/remote/ee6d56913b350ca603.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/017.mp3",
+      "localPath": "/media/remote/86be0df8dbd8506c31.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/018.mp3",
+      "localPath": "/media/remote/c6a9b66971be9dc229.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/019.mp3",
+      "localPath": "/media/remote/c71cfbc48e1d2db9ca.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/020.mp3",
+      "localPath": "/media/remote/dda0d5cad2614997f5.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/021.mp3",
+      "localPath": "/media/remote/b8f424b0d3d03499a4.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/022.mp3",
+      "localPath": "/media/remote/927ee050d74aa8e8c4.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/023.mp3",
+      "localPath": "/media/remote/8c36863f2a13a7cbab.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/024.mp3",
+      "localPath": "/media/remote/f46b6131b222c64951.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/025.mp3",
+      "localPath": "/media/remote/f07da8b7560aaa0093.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/026.mp3",
+      "localPath": "/media/remote/2aca8f36d992fd6e66.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/027.mp3",
+      "localPath": "/media/remote/da752df08f16fa8552.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/028.mp3",
+      "localPath": "/media/remote/2d882b57d4900b06a2.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/029.mp3",
+      "localPath": "/media/remote/ceb9865daca6fa0467.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/030.mp3",
+      "localPath": "/media/remote/f25e987a0692b8fc68.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/031.mp3",
+      "localPath": "/media/remote/4cb78f1d758e83ae98.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/032.mp3",
+      "localPath": "/media/remote/909c490ab87206ef46.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/033.mp3",
+      "localPath": "/media/remote/bfed7f23e77ef4b71d.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/034.mp3",
+      "localPath": "/media/remote/e2a70192c743b628bd.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/035.mp3",
+      "localPath": "/media/remote/67ffb6087bc3d94f5d.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/036.mp3",
+      "localPath": "/media/remote/1064436f810745f87b.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/038.mp3",
+      "localPath": "/media/remote/f227bbf80a07cd3eb4.mp3"
+    },
+    {
+      "url": "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/039.mp3",
+      "localPath": "/media/remote/fbe621e755b4cf6dee.mp3"
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images",
+      "localPath": "/media/remote/c565d968f66ea817af",
+      "error": "HTTP 404",
+      "fallback": "/wp-content/uploads/2024/03/man-hands-holding-smartphone-digital-quran-1024x683.jpeg"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1585036156171-38416f08ffe7",
+      "localPath": "/media/remote/4f9779fd01f2c53b57",
+      "error": "HTTP 404",
+      "fallback": "/wp-content/uploads/2024/03/high-angle-of-opened-koran-book-placed.jpeg"
+    }
+  ],
+  "manifest": {
+    "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86.jpg": "/media/remote/6c95505ceb834802b2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-3.jpg": "/wp-content/uploads/2024/05/download-3.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/PDF1-1.png": "/wp-content/uploads/2024/04/PDF1-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/07/Designer-3-1024x536.png": "/wp-content/uploads/2024/07/Designer-3-1024x536.png",
+    "https://quranbook.org/wp-content/uploads/2024/06/photo-of-people-gathered-at-kaaba-mecca-saudi-arabia-4346403-1024x683.jpg": "/wp-content/uploads/2024/06/photo-of-people-gathered-at-kaaba-mecca-saudi-arabia-4346403-1024x683.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/10/التقاط.png": "/wp-content/uploads/2025/10/التقاط.png",
+    "https://quranbook.org/wp-content/uploads/2025/10/pdf1-1.png": "/wp-content/uploads/2025/10/pdf1-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/05/1_AUW28MAaKTuDWBVkyJcbwA.jpg": "/wp-content/uploads/2024/05/1_AUW28MAaKTuDWBVkyJcbwA.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/20200826_192008_1445x.jpg": "/wp-content/uploads/2024/05/20200826_192008_1445x.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/شيخ-أبو-بكر-الشاطري-1.jpg": "/wp-content/uploads/2024/03/شيخ-أبو-بكر-الشاطري-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/06/Designer-1.png": "/wp-content/uploads/2024/06/Designer-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-11.png": "/wp-content/uploads/2024/10/Design-11.png",
+    "https://quranbook.org/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp": "/wp-content/uploads/2025/04/holy-quran-islamic-book-calligraphy-600nw-281022530.webp",
+    "https://quranbook.org/wp-content/uploads/2025/05/close-up-of-the-quran-on-a-wooden-stand-symbolizing-islamic-spirituality.-8522570-scaled.jpg": "/wp-content/uploads/2025/05/close-up-of-the-quran-on-a-wooden-stand-symbolizing-islamic-spirituality.-8522570-scaled.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/images-1.jpeg": "/wp-content/uploads/2024/04/images-1.jpeg",
+    "https://quranbook.org/wp-content/uploads/2025/03/pdf-icon-9.png": "/wp-content/uploads/2025/03/pdf-icon-9.png",
+    "https://quranbook.org/wp-content/uploads/2020/04/images.jpeg": "/wp-content/uploads/2020/04/images.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-2.jpg": "/wp-content/uploads/2024/07/Jaib01-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/Designer-2.png": "/wp-content/uploads/2024/07/Designer-2.png",
+    "https://quranbook.org/wp-content/uploads/2024/07/Designer-1-1.png": "/wp-content/uploads/2024/07/Designer-1-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/07/Designer.png": "/wp-content/uploads/2024/07/Designer.png",
+    "https://quranbook.org/wp-content/uploads/2025/03/التقاط-3.jpg": "/wp-content/uploads/2025/03/التقاط-3.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/03/mobilepdf.jpg": "/wp-content/uploads/2025/03/mobilepdf.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/03/التقاط-2.jpg": "/wp-content/uploads/2025/03/التقاط-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/03/التقاط-1.jpg": "/wp-content/uploads/2025/03/التقاط-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-10.png": "/wp-content/uploads/2024/10/Design-10.png",
+    "https://quranbook.org/wp-content/uploads/2025/03/التقاط.jpg": "/wp-content/uploads/2025/03/التقاط.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/02/cover.jpg": "/wp-content/uploads/2025/02/cover.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/02/مصحف-التهجد.jpg": "/wp-content/uploads/2025/02/مصحف-التهجد.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/images-1.jpeg": "/wp-content/uploads/2024/07/images-1.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/12/Design-8.png": "/wp-content/uploads/2024/12/Design-8.png",
+    "https://quranbook.org/wp-content/uploads/2024/12/سورة-آل-عمران-مكتوبة-كاملة-بخط-كبير.png": "/wp-content/uploads/2024/12/سورة-آل-عمران-مكتوبة-كاملة-بخط-كبير.png",
+    "https://quranbook.org/wp-content/uploads/2024/12/سوره-البقرة-مكتوبة-كاملة-بالتشكيل-1.png": "/wp-content/uploads/2024/12/سوره-البقرة-مكتوبة-كاملة-بالتشكيل-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-11-2.png": "/wp-content/uploads/2024/10/Design-11-2.png",
+    "https://quranbook.org/wp-content/uploads/2024/12/تنزيل-القران-الكريم-pdf-كامل.png": "/wp-content/uploads/2024/12/تنزيل-القران-الكريم-pdf-كامل.png",
+    "https://quranbook.org/wp-content/uploads/2024/11/Design-13.png": "/wp-content/uploads/2024/11/Design-13.png",
+    "https://quranbook.org/wp-content/uploads/2024/06/JJJJ.jpg": "/wp-content/uploads/2024/06/JJJJ.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/09/التقاط-2.jpg": "/wp-content/uploads/2024/09/التقاط-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/11/Design-7-1.png": "/wp-content/uploads/2024/11/Design-7-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/11/Design-7-3.png": "/wp-content/uploads/2024/11/Design-7-3.png",
+    "https://quranbook.org/wp-content/uploads/2024/10/download.jpeg": "/wp-content/uploads/2024/10/download.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-11-1.png": "/wp-content/uploads/2024/10/Design-11-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/10/1506417775_IMG_0491.jpeg": "/wp-content/uploads/2024/10/1506417775_IMG_0491.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-11-5.png": "/wp-content/uploads/2024/10/Design-11-5.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/التقاط.jpg": "/wp-content/uploads/2024/09/التقاط.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-9-1.png": "/wp-content/uploads/2024/10/Design-9-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/التقاط-4.jpg": "/wp-content/uploads/2024/09/التقاط-4.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/09/التقاط-1.jpg": "/wp-content/uploads/2024/09/التقاط-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/06/Capture-1024x636.png": "/wp-content/uploads/2024/06/Capture-1024x636.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/مصحف-الجماهيرية-برواية-الإمام-قالون-بدقة-عالية.png": "/wp-content/uploads/2024/09/مصحف-الجماهيرية-برواية-الإمام-قالون-بدقة-عالية.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/مصحف-الجماهيرية-pdf.png": "/wp-content/uploads/2024/09/مصحف-الجماهيرية-pdf.png",
+    "https://quranbook.org/wp-content/uploads/2024/08/download-2.png": "/wp-content/uploads/2024/08/download-2.png",
+    "https://quranbook.org/wp-content/uploads/2024/08/azraq.jpg": "/wp-content/uploads/2024/08/azraq.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/08/التقاط.jpg": "/wp-content/uploads/2024/08/التقاط.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/Designer-5-1024x536.png": "/wp-content/uploads/2024/07/Designer-5-1024x536.png",
+    "https://quranbook.org/wp-content/uploads/2024/08/التقاط2-1.jpg": "/wp-content/uploads/2024/08/التقاط2-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/04/easy-calligraphy-1781725291905.png": "/wp-content/uploads/2025/04/easy-calligraphy-1781725291905.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/التقاط-3.jpg": "/wp-content/uploads/2024/09/التقاط-3.jpg",
+    "https://quranbook.org/wp-content/uploads/2026/02/التقاط.png": "/wp-content/uploads/2026/02/التقاط.png",
+    "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-3.jpg": "/wp-content/uploads/2024/07/Jaib01-3.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/Jaib01.jpg": "/wp-content/uploads/2024/07/Jaib01.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/Jaib01-1.jpg": "/wp-content/uploads/2024/07/Jaib01-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/images.jpeg": "/wp-content/uploads/2024/07/images.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/06/0001.png": "/wp-content/uploads/2024/06/0001.png",
+    "https://quranbook.org/wp-content/uploads/2024/06/jjkoo-1024x564.png": "/wp-content/uploads/2024/06/jjkoo-1024x564.png",
+    "https://quranbook.org/wp-content/uploads/2024/06/Capturemmmmmmmmmm-1024x424.png": "/wp-content/uploads/2024/06/Capturemmmmmmmmmm-1024x424.png",
+    "https://quranbook.org/wp-content/uploads/2024/06/Captureio9.png": "/wp-content/uploads/2024/06/Captureio9.png",
+    "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-scaled.jpg": "/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-scaled.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-quran-7300899-1024x684.jpg": "/wp-content/uploads/2024/05/pages-of-a-quran-7300899-1024x684.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-1024x684.jpg": "/wp-content/uploads/2024/05/pages-of-a-holy-book-10336570-1024x684.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/06/tttt.png": "/wp-content/uploads/2024/06/tttt.png",
+    "https://quranbook.org/wp-content/uploads/2024/03/Capturehh.png": "/wp-content/uploads/2024/03/Capturehh.png",
+    "https://quranbook.org/wp-content/uploads/2024/05/kkk.png": "/wp-content/uploads/2024/05/kkk.png",
+    "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp": "/wp-content/uploads/2024/04/pexels-photo-15105872-1.webp",
+    "https://quranbook.org/wp-content/uploads/2024/05/man-in-white-thobe-sitting-on-the-floor-praying-8164511-683x1024.jpg": "/wp-content/uploads/2024/05/man-in-white-thobe-sitting-on-the-floor-praying-8164511-683x1024.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/down-angle-photography-of-red-clouds-and-blue-sky-844297-1024x683.jpg": "/wp-content/uploads/2024/05/down-angle-photography-of-red-clouds-and-blue-sky-844297-1024x683.jpg",
+    "https://quranbook.org/wp-content/uploads/2023/01/59ed8a2d987780b86dd1b99294ec3e41.png.jpg": "/wp-content/uploads/2023/01/59ed8a2d987780b86dd1b99294ec3e41.png.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/638250186804229543-1024x614.jpg": "/wp-content/uploads/2024/05/638250186804229543-1024x614.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/عبد-الرحمن-بنموسى.jpg": "/wp-content/uploads/2024/05/عبد-الرحمن-بنموسى.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/images-1.jpg": "/wp-content/uploads/2024/05/images-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/001.png": "/wp-content/uploads/2024/05/001.png",
+    "https://quranbook.org/wp-content/uploads/2024/05/DALL·E-2024-05-20-11.18.14-An-animated-image-featuring-a-cheerful-young-boy-wearing-traditional-Omani-clothes-in-a-beautiful-green-landscape-with-flowers-and-butterflies.-The-ba.webp": "/wp-content/uploads/2024/05/DALL·E-2024-05-20-11.18.14-An-animated-image-featuring-a-cheerful-young-boy-wearing-traditional-Omani-clothes-in-a-beautiful-green-landscape-with-flowers-and-butterflies.-The-ba.webp",
+    "https://quranbook.org/wp-content/uploads/2024/05/sddefault.jpg": "/wp-content/uploads/2024/05/sddefault.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-3-1.jpg": "/wp-content/uploads/2024/05/download-3-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-1-2.jpg": "/wp-content/uploads/2024/05/download-1-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download.jpg": "/wp-content/uploads/2024/05/download.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-2-1.jpg": "/wp-content/uploads/2024/05/download-2-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-1-1.jpg": "/wp-content/uploads/2024/05/download-1-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2020/01/download.jpg": "/wp-content/uploads/2020/01/download.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/the-quran-religious-book-of-islam-12715782-1024x768.jpg": "/wp-content/uploads/2024/05/the-quran-religious-book-of-islam-12715782-1024x768.jpg",
+    "https://i.pinimg.com/736x/7b/42/3c/7b423c7f7962d522bcf1b953c55e5418.jpg": "/media/remote/258d2567b305b71c81.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/images.jpg": "/wp-content/uploads/2024/05/images.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/hqdefault.jpg": "/wp-content/uploads/2024/05/hqdefault.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/PDF1.png": "/wp-content/uploads/2024/04/PDF1.png",
+    "https://quranbook.org/wp-content/uploads/2024/04/Qaloun-1-2.jpg": "/wp-content/uploads/2024/04/Qaloun-1-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/images-1.png": "/wp-content/uploads/2024/04/images-1.png",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-2.jpg": "/wp-content/uploads/2024/05/download-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/05/download-1.jpg": "/wp-content/uploads/2024/05/download-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/quarn-12.png": "/wp-content/uploads/2024/03/quarn-12.png",
+    "https://quranbook.org/wp-content/uploads/2024/03/Free-Close-Up-Shot-of-a-Book-Stock-Photo-5.jpg": "/wp-content/uploads/2024/03/Free-Close-Up-Shot-of-a-Book-Stock-Photo-5.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/big_cover.webp": "/wp-content/uploads/2024/03/big_cover.webp",
+    "https://quranbook.org/wp-content/uploads/2025/10/Qaloun.jpg": "/wp-content/uploads/2025/10/Qaloun.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/12/التقاط.png": "/wp-content/uploads/2025/12/التقاط.png",
+    "https://quranbook.org/wp-content/uploads/2025/10/Qaloun-1.jpg": "/wp-content/uploads/2025/10/Qaloun-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/11/q1.png": "/wp-content/uploads/2025/11/q1.png",
+    "https://quranvoice.org/wp-content/uploads/2024/03/quran-pdf.png": "/media/remote/fefaddfdc36b07cdce.png",
+    "https://quranbook.org/wp-content/uploads/2024/04/btnAndroid.png": "/wp-content/uploads/2024/04/btnAndroid.png",
+    "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-5.jpg": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-5.jpg",
+    "https://quranbook.org/wp-content/uploads/2023/12/Screenshot_20190821-163529_Gallery.jpg": "/wp-content/uploads/2023/12/Screenshot_20190821-163529_Gallery.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/open-quran-book-with-islamic-text-3272118-1024x683-1.jpg": "/wp-content/uploads/2024/03/open-quran-book-with-islamic-text-3272118-1024x683-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/dc79002b59d762d1da2bf4a67aedccb9.jpg": "/wp-content/uploads/2024/03/dc79002b59d762d1da2bf4a67aedccb9.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-6.jpg": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-6.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/pexels-photo-15105872-1-1.webp": "/wp-content/uploads/2024/04/pexels-photo-15105872-1-1.webp",
+    "https://quranbook.org/wp-content/uploads/2024/04/Qaloun-1-1.jpg": "/wp-content/uploads/2024/04/Qaloun-1-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/m-img.jpg": "/wp-content/uploads/2024/03/m-img.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-7.jpg": "/wp-content/uploads/2024/04/55dcc01df91e2d8ddcbc5b6edb6bef80-7.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/maxresdefault.jpg": "/wp-content/uploads/2024/04/maxresdefault.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/04/desktopAr.jpg": "/wp-content/uploads/2024/04/desktopAr.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/03/Free-Pages-of-a-Holy-Book-Stock-Photo.jpg": "/wp-content/uploads/2024/03/Free-Pages-of-a-Holy-Book-Stock-Photo.jpg",
+    "https://quranvoice.org/wp-content/uploads/2024/03/42445d210510fab7c15b1865691bd2be.png.webp": "/media/remote/89c469124c0f1d60c9.webp",
+    "https://quranvoice.org/wp-content/uploads/2024/03/أحمد-ضرار.jpeg": "/media/remote/cc630c97ce5c6d683c.jpeg",
+    "https://quranbook.org/wp-content/uploads/2024/03/أحمد-ضرار.jpeg": "/wp-content/uploads/2024/03/أحمد-ضرار.jpeg",
+    "https://tvquran.com/uploads/authors/images/%D8%A8%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A.jpeg": "/media/remote/f188a26b3acd0f13cc.jpeg",
+    "https://quranbook.org/wp-content/uploads/2022/04/D9-82-D8-B1-D8-A7-D9-86-20-D9-85-D8-B5-D8-AD-D9-81.jpg": "/wp-content/uploads/2022/04/D9-82-D8-B1-D8-A7-D9-86-20-D9-85-D8-B5-D8-AD-D9-81.jpg",
+    "https://quranbook.org/wp-content/uploads/2023/01/D9-A2-D9-A0-D9-A2-D9-A3-D9-A0-D9-A1-D9-A1-D9-A5_-D9-A2-D9-A1-D9-A4-D9-A9-D9-A4-D9-A7.jpg": "/wp-content/uploads/2023/01/D9-A2-D9-A0-D9-A2-D9-A3-D9-A0-D9-A1-D9-A1-D9-A5_-D9-A2-D9-A1-D9-A4-D9-A9-D9-A4-D9-A7.jpg",
+    "https://quranbook.org/wp-content/uploads/2023/01/books-library.net-1610802857-464.png": "/wp-content/uploads/2023/01/books-library.net-1610802857-464.png",
+    "https://quranbook.org/wp-content/uploads/2023/01/0b5504bcc798ab7c7b5c48009ce83df3.png.jpg": "/wp-content/uploads/2023/01/0b5504bcc798ab7c7b5c48009ce83df3.png.jpg",
+    "https://quranbook.org/wp-content/uploads/2023/08/download.png": "/wp-content/uploads/2023/08/download.png",
+    "https://quranbook.org/wp-content/uploads/2019/12/images.jpg": "/wp-content/uploads/2019/12/images.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/09/Design-6.png": "/wp-content/uploads/2024/09/Design-6.png",
+    "https://i.ytimg.com/vi/jFUSDjgaJGo/hqdefault.jpg": "/media/remote/4a6c40a5d191717b69.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/10/Design-9-1-1.png": "/wp-content/uploads/2024/10/Design-9-1-1.png",
+    "https://quranbook.org/wp-content/uploads/2025/08/images.jpeg": "/wp-content/uploads/2025/08/images.jpeg",
+    "https://quranvoice.org/wp-content/uploads/2024/03/الأمين-محمد-قنيوه.jpg": "/media/remote/45d552881f6ed0264a.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/01/an-open-quran-on-a-white-table-with-a-yellow-bookmark-photographed-in-a-studio-setting.-15105873-scaled.jpg": "/wp-content/uploads/2025/01/an-open-quran-on-a-white-table-with-a-yellow-bookmark-photographed-in-a-studio-setting.-15105873-scaled.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/10/Mumtaz_New.jpg": "/wp-content/uploads/2025/10/Mumtaz_New.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/10/Shuba.jpg": "/wp-content/uploads/2025/10/Shuba.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwm48uJsO_vDjaTMdOieuAHelgMI5VHW62zYEudG17OX125aiAyqI8KlyutuWJS8F6mohWMlYVna49vYRpXBtjarDv9AscRphO0nW0lYk0C7-d6UukjaTv5A4VKSpEfooEU9XZzPyHzfi/s200/%25D8%25B5%25D9%2588%25D8%25B1+%25D8%25B4%25D9%2587%25D8%25B1+%25D8%25B1%25D9%2585%25D8%25B6%25D8%25A7%25D9%25863.jpg": "/media/remote/e2737764db301bdc54.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdaSrhi3z1fn7yh2nfx-OBZUnRIQKMj0abOYuMaAoy0TdlQ_L0nA_L7gIM8szesdQkk5wMvVoXijiWTpws6Q5FHXoTJEXV319-SkV7M2Nurju-v-k3kdxCzefCj0K1wdnRqgGyQYikn7w/s200/%25D8%25B5%25D9%2588%25D8%25B1+%25D8%25B4%25D9%2587%25D8%25B1+%25D8%25B1%25D9%2585%25D8%25B6%25D8%25A7%25D9%25863.jpg": "/media/remote/08851e7c676b65f2f3.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHTxEVis530u2HUPxHHg6qeePRwkJ_1rrXhMInLdYObLH1M8SpUK-zZu8RdQqfjcRlWMOzFPDPA7_Y0NsRmv4Tl4I4E6YjgEbKu9uDUM6iRFVVr4CHu8G2lQb8_4SdV1PcIiSEkVTwC92/s320/ramadan-kareem-moon-arabic-calligraphy_10083-729.jpg": "/media/remote/6ad881dd146e356072.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRzbQcFsLXrcEUiHh8LHp1VOzSdEHrqH8Y9SCkgI9vZBhK5pKzTkWmCu7n9ppgWdoJwSCG9ctQwqinbBePv4Qzp-HWbjepn5C7Eqzi1Jt3F9-mfEK2KcFM8xwC1-2wwlPkn61pNtEFlEwt/s400/33.jpg": "/media/remote/1062e89f9f75ccda62.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zJdtvRKJ6xZ70GPY0KlknNTE4KaYA3eooyFpF1QS4Q8UbjmCc_P6c_1S_6AHn190fElJg0it-EyyTUPqjy0qqekN_e-x235fhEk5q-DpPfahW8rFIVVbA4VC9u0WApaBiNhbcBd2J_G6/s200/ramadan-kareem-moon-arabic-calligraphy_10083-729.jpg": "/media/remote/aaea9ee2f187a250b1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/10/warsh.jpg": "/wp-content/uploads/2025/10/warsh.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/10/Douri_Final-PSD.jpg": "/wp-content/uploads/2025/10/Douri_Final-PSD.jpg",
+    "https://quranbook.org/wp-content/uploads/2024/07/تحميل-مصحف-الحصري-المعلم-للاطفال-mp3.png": "/wp-content/uploads/2024/07/تحميل-مصحف-الحصري-المعلم-للاطفال-mp3.png",
+    "https://quranbook.org/wp-content/uploads/2024/04/surah-yaseen-pdf.png": "/wp-content/uploads/2024/04/surah-yaseen-pdf.png",
+    "https://quranbook.org/wp-content/uploads/2024/10/التقاط.png": "/wp-content/uploads/2024/10/التقاط.png",
+    "https://quranbook.org/wp-content/uploads/2025/09/تحميل-القرآن-الكريم-pdf-جودة-عالية.png": "/wp-content/uploads/2025/09/تحميل-القرآن-الكريم-pdf-جودة-عالية.png",
+    "https://quranbook.org/wp-content/uploads/2024/09/Design-6-1.png": "/wp-content/uploads/2024/09/Design-6-1.png",
+    "https://quranbook.org/wp-content/uploads/2025/08/التقاط-1.jpg": "/wp-content/uploads/2025/08/التقاط-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/08/التقاط-2.jpg": "/wp-content/uploads/2025/08/التقاط-2.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/08/التقاط.jpg": "/wp-content/uploads/2025/08/التقاط.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/07/55-1.jpg": "/wp-content/uploads/2025/07/55-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/07/التقاط-1.jpg": "/wp-content/uploads/2025/07/التقاط-1.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/07/التقاط.jpg": "/wp-content/uploads/2025/07/التقاط.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/07/55.jpg": "/wp-content/uploads/2025/07/55.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg": "/wp-content/uploads/2025/07/تحميل-مصحف-المدينة.jpg",
+    "https://quranbook.org/wp-content/uploads/2025/06/Design-20.png": "/wp-content/uploads/2025/06/Design-20.png",
+    "https://quranbook.org/wp-content/uploads/2024/07/image_fx_design_a_sleek_logo_for_a_quran_website_fea-1.png": "/wp-content/uploads/2024/07/image_fx_design_a_sleek_logo_for_a_quran_website_fea-1.png",
+    "https://quranbook.org/wp-content/uploads/2026/07/surah-17-featured.png": "/wp-content/uploads/2026/07/surah-17-featured.png",
+    "https://quranbook.org/wp-content/uploads/2026/07/surah-16-featured.png": "/wp-content/uploads/2026/07/surah-16-featured.png",
+    "https://quranbook.org/wp-content/uploads/2025/02/download-1.jpeg": "/wp-content/uploads/2025/02/download-1.jpeg",
+    "https://quranbook.org/wp-content/uploads/2025/02/download.jpeg": "/wp-content/uploads/2025/02/download.jpeg",
+    "https://archive.org/download/Ammar-Almulla/036.mp3": "/media/remote/e6b7096046b12c740c.mp3",
+    "https://quranvoice.org/wp-content/uploads/2024/04/images-1.png": "/media/remote/edd1c485c49026f0bb.png",
+    "https://quranvoice.org/wp-content/uploads/2024/03/unnamed.png": "/media/remote/60c40796b197169fa1.png",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/001.mp3": "/media/remote/80e5e03c92bdd9bc41.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/002.mp3": "/media/remote/e561aaff79f84fc51e.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/003.mp3": "/media/remote/5acec9cafb79e9e965.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/004.mp3": "/media/remote/5ce81c7558ba946780.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/005.mp3": "/media/remote/e058504eef0058ff50.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/006.mp3": "/media/remote/f3aff2c48d6d24309a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/007.mp3": "/media/remote/2ea297db2441645c88.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/008.mp3": "/media/remote/847d7d776d1d67b694.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/009.mp3": "/media/remote/65d76e414df2e06f90.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/010.mp3": "/media/remote/d2d68219c31ad96089.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/011.mp3": "/media/remote/f4f9db46f202c9122b.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/012.mp3": "/media/remote/89618e7f07e40eeb14.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/013.mp3": "/media/remote/e76587b0ece3c6e0ae.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/014.mp3": "/media/remote/d7f7a5066b38568d8a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/015.mp3": "/media/remote/63d74ae64abfa4a07a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/016.mp3": "/media/remote/ee6d56913b350ca603.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/017.mp3": "/media/remote/86be0df8dbd8506c31.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/018.mp3": "/media/remote/c6a9b66971be9dc229.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/019.mp3": "/media/remote/c71cfbc48e1d2db9ca.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/020.mp3": "/media/remote/dda0d5cad2614997f5.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/021.mp3": "/media/remote/b8f424b0d3d03499a4.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/022.mp3": "/media/remote/927ee050d74aa8e8c4.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/023.mp3": "/media/remote/8c36863f2a13a7cbab.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/024.mp3": "/media/remote/f46b6131b222c64951.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/025.mp3": "/media/remote/f07da8b7560aaa0093.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/026.mp3": "/media/remote/2aca8f36d992fd6e66.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/027.mp3": "/media/remote/da752df08f16fa8552.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/028.mp3": "/media/remote/2d882b57d4900b06a2.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/029.mp3": "/media/remote/ceb9865daca6fa0467.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/030.mp3": "/media/remote/f25e987a0692b8fc68.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/031.mp3": "/media/remote/4cb78f1d758e83ae98.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/032.mp3": "/media/remote/909c490ab87206ef46.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/033.mp3": "/media/remote/bfed7f23e77ef4b71d.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/034.mp3": "/media/remote/e2a70192c743b628bd.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/035.mp3": "/media/remote/67ffb6087bc3d94f5d.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/036.mp3": "/media/remote/1064436f810745f87b.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/038.mp3": "/media/remote/f227bbf80a07cd3eb4.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/039.mp3": "/media/remote/fbe621e755b4cf6dee.mp3",
+    "https://encrypted-tbn0.gstatic.com/images": "/wp-content/uploads/2024/03/man-hands-holding-smartphone-digital-quran-1024x683.jpeg",
+    "https://picsum.photos/seed/author/150/150": "/media/remote/13c70cacf2f122d1c6.jpg",
+    "https://picsum.photos/seed/author/100/100": "/media/remote/2a794270761a0a12cc.jpg",
+    "https://picsum.photos/seed/book3/1200/500": "/media/remote/3a03352bab69002dd1.jpg",
+    "https://archive.org/services/img/mos7f": "/media/remote/31735ebd78713a1120.jpg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/045.mp3": "/media/remote/0f3e9719fd525dc2c2.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/050.mp3": "/media/remote/42893524a584bb151f.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/044.mp3": "/media/remote/937fa2bd5ff22ba161.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/048.mp3": "/media/remote/8a517f96d240b0f47b.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/051.mp3": "/media/remote/29fb497d4fab6166a8.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/041.mp3": "/media/remote/cffa93f6f62a9c4de7.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/043.mp3": "/media/remote/e83b12d709ccd829dd.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/049.mp3": "/media/remote/5cadd085933cc0b3aa.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/042.mp3": "/media/remote/d5d1edab97a25a1482.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/046.mp3": "/media/remote/a8dec2455ba11bcd01.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/052.mp3": "/media/remote/06c5ff6634de5bd7b2.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/054.mp3": "/media/remote/9fd5ad2a0648d7c4a1.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/047.mp3": "/media/remote/867966534f0adb2ef8.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/053.mp3": "/media/remote/b56365a6f3ff8a4ead.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/040.mp3": "/media/remote/724b81e34dd8b253e3.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/062.mp3": "/media/remote/24cdecb9f90e1a60e7.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/037.mp3": "/media/remote/11c81fae110e57365a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/056.mp3": "/media/remote/058cfd2cb6d8edfce9.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/055.mp3": "/media/remote/b50e803d185bfeb05a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/065.mp3": "/media/remote/e1301008d69fbb34d8.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/063.mp3": "/media/remote/8b6e931d92872a91cf.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/060.mp3": "/media/remote/7e0af31c5649ec3661.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/059.mp3": "/media/remote/1fb22e2f6b64519f6d.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/064.mp3": "/media/remote/be098db9b3cf920eee.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/066.mp3": "/media/remote/e48c4d69fd3bcfee57.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/061.mp3": "/media/remote/39c70c14fe54b0130f.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/057.mp3": "/media/remote/a91aa46d1b5f8187d7.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/070.mp3": "/media/remote/bfe5e28ff1baff69ae.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/075.mp3": "/media/remote/b3d683907ed22623d5.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/073.mp3": "/media/remote/c767fca8a539339960.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/067.mp3": "/media/remote/833cf392ed0cbfbff8.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/068.mp3": "/media/remote/b5d0cf7c505d6d54be.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/071.mp3": "/media/remote/9ec70e198ba1a45bf9.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/077.mp3": "/media/remote/071084f164a7c954d5.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/069.mp3": "/media/remote/d9aa68d25e1f0b875c.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/080.mp3": "/media/remote/5e1a5219ca333e0bf2.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/078.mp3": "/media/remote/079d50fd6e9c9be5cc.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/082.mp3": "/media/remote/dbd8faf1408d36134c.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/081.mp3": "/media/remote/1f6af356ca7beb97b5.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/072.mp3": "/media/remote/2170180f52d846b940.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/087.mp3": "/media/remote/4adbacc5a54440ae32.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/079.mp3": "/media/remote/a4a5d513bc9d681640.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/086.mp3": "/media/remote/f21d02ec0fc7cc05ab.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/084.mp3": "/media/remote/4403f067d465bd344e.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/091.mp3": "/media/remote/f8265f83b2343f5c14.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/074.mp3": "/media/remote/7a5121f66449eeba1a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/093.mp3": "/media/remote/a9f30e28406f4b6bc6.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/094.mp3": "/media/remote/eb321a84078e7491ea.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/095.mp3": "/media/remote/e1984d4116e04652a1.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/097.mp3": "/media/remote/97e87db59c6dabc05c.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/085.mp3": "/media/remote/a9f0e85c18e0e81322.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/092.mp3": "/media/remote/c094f5afdfb20c35f3.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/088.mp3": "/media/remote/0336085dd9efcd609c.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/099.mp3": "/media/remote/029df709bcc602f1ac.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/058.mp3": "/media/remote/b992e3156913a647f9.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/102.mp3": "/media/remote/70bf1b1d363a5aa86b.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/103.mp3": "/media/remote/323bcae711a68a80d0.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/090.mp3": "/media/remote/3483cbfe705a1715ce.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/100.mp3": "/media/remote/f8880dcc4ec4de0743.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/101.mp3": "/media/remote/302ed061ac310ecb1a.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/104.mp3": "/media/remote/b0a41a1cdce0084c64.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/106.mp3": "/media/remote/366124707951be57b4.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/096.mp3": "/media/remote/bc81bf740562daf066.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/105.mp3": "/media/remote/7d1b477557416a1dea.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/108.mp3": "/media/remote/a45b6cc63cf0456972.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/111.mp3": "/media/remote/0e343ee439dac3e7d6.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/098.mp3": "/media/remote/760cfe56f444a25802.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/112.mp3": "/media/remote/0278c7983f812d4f0a.mp3",
+    "https://picsum.photos/seed/author3/100/100": "/media/remote/a662a791bcd5c37cf0.jpg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/113.mp3": "/media/remote/7150b5ce2e9941f040.mp3",
+    "https://quranvoice.org/wp-content/uploads/2024/04/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D8%B1%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A-pdf2.png.webp": "/media/remote/bc4108272db0c39c96.webp",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/110.mp3": "/media/remote/82f16adb5d85978b73.mp3",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/107.mp3": "/media/remote/2fd46e64cd0b4171d9.mp3",
+    "https://picsum.photos/seed/quran/1200/600": "/media/remote/0783ed15e5cbd5e270.jpg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/114.mp3": "/media/remote/3750bd19d7c1710626.mp3",
+    "https://picsum.photos/seed/reading/400/300": "/media/remote/119f1db15f1853d294.jpg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/089.mp3": "/media/remote/621b5d1d0b88f5da67.mp3",
+    "https://quranislam.github.io/quranpdf/images/warsh.png": "/media/remote/b7fc2e8ac936c09832.png",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/109.mp3": "/media/remote/ca11cb28570600b04a.mp3",
+    "https://picsum.photos/seed/design-tools/800/400": "/media/remote/84985dc681d3d4b249.jpg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/083.mp3": "/media/remote/f8188465f2f8248a9a.mp3",
+    "https://picsum.photos/seed/author1/100/100": "/media/remote/8318c28d6426c93537.jpg",
+    "https://picsum.photos/seed/islamic-art/1200/600": "/media/remote/b42fdf0220e6c53378.jpg",
+    "https://picsum.photos/seed/islamicart/800/400": "/media/remote/4a07c9194057963b24.jpg",
+    "https://quranvoice.org/wp-content/uploads/2024/03/القران-1024x553.png": "/media/remote/a1fc8b6a34dd580b00.png",
+    "https://picsum.photos/seed/quran-vector/1200/600": "/media/remote/bb62a864a0b0b83377.jpg",
+    "https://images.unsplash.com/photo-1519817650390-64a93db51149": "/media/remote/4cd5431c20d1e03657.jpg",
+    "https://quranvoice.org/wp-content/uploads/2024/03/warch.jpg.webp": "/media/remote/123280133095567751.webp",
+    "https://upload.wikimedia.org/wikipedia/commons/2/27/Basmala.svg": "/media/remote/0b5c5fca0f04183742.svg",
+    "https://images.unsplash.com/photo-1585036156171-38416f08ffe7": "/wp-content/uploads/2024/03/high-angle-of-opened-koran-book-placed.jpeg",
+    "https://server16.mp3quran.net/download/a_albishr/Rewayat-Hafs-A-n-Assem/076.mp3": "/media/remote/3b2002f46e1dba7ad3.mp3",
+    "https://images.unsplash.com/photo-1609599006353-e629aaabfeae": "/media/remote/3559b5c69eda3b61ae.jpg",
+    "https://archive.org/download/Ammar-Almulla/001.mp3": "/media/remote/f48e5f851263ae2627.mp3",
+    "https://archive.org/download/Ammar-Almulla/082.mp3": "/media/remote/19992cb042e5290464.mp3",
+    "https://archive.org/download/Ammar-Almulla/081.mp3": "/media/remote/2afbe83bd2844bb8cb.mp3",
+    "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f": "/media/remote/e967de5fe720ddfe20.jpg",
+    "https://archive.org/download/Ammar-Almulla/084.mp3": "/media/remote/4eb25be11cbbda771b.mp3",
+    "https://archive.org/download/Ammar-Almulla/083.mp3": "/media/remote/5f3af13b69dca4d937.mp3",
+    "https://archive.org/download/Ammar-Almulla/079.mp3": "/media/remote/e8592a03c48a2bd9f3.mp3",
+    "https://archive.org/download/Ammar-Almulla/078.mp3": "/media/remote/f1607bf4a3735f3cc6.mp3",
+    "https://archive.org/download/Ammar-Almulla/077.mp3": "/media/remote/fd1a5fa736a8ae1429.mp3",
+    "https://archive.org/download/Ammar-Almulla/029.mp3": "/media/remote/16309935484a0b933e.mp3",
+    "https://picsum.photos/id/1015/1200/600": "/media/remote/a587a379718de258bc.jpg",
+    "https://picsum.photos/seed/quran/400/300": "/media/remote/b09ad49448c21b5a49.jpg",
+    "https://archive.org/download/Ammar-Almulla/032.mp3": "/media/remote/9b50a2054caa208c24.mp3",
+    "https://picsum.photos/seed/islamic/800/400": "/media/remote/79ce4f722cffc9a68a.jpg",
+    "https://quranbook.org/wp-content/plugins/youtube-embed-plus/images/playhover.png": "/media/remote/02ec67de00497db83f.png",
+    "https://quranbook.org/wp-content/plugins/youtube-embed-plus/images/gallery-page-loader.gif": "/media/remote/d39ac46d9273db0dbd.gif",
+    "https://archive.org/download/Ammar-Almulla/080.mp3": "/media/remote/0ede5595d6fb737110.mp3",
+    "https://archive.org/download/Ammar-Almulla/030.mp3": "/media/remote/b1a2587797047b544a.mp3",
+    "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/003.mp3": "/media/remote/a1801f96dae7cac465.mp3",
+    "https://archive.org/download/Ammar-Almulla/016.mp3": "/media/remote/0e33cac38e3ce6eb00.mp3",
+    "https://archive.org/download/Ammar-Almulla/028.mp3": "/media/remote/f9ede154b1171ce723.mp3",
+    "https://archive.org/download/Ammar-Almulla/031.mp3": "/media/remote/2a58a8a32cf3d0e518.mp3",
+    "https://archive.org/download/Ammar-Almulla/017.mp3": "/media/remote/c9354fdb03738a4c26.mp3",
+    "https://archive.org/download/Ammar-Almulla/003.mp3": "/media/remote/e7e6b6cebc160a35c3.mp3",
+    "https://archive.org/download/Ammar-Almulla/004.mp3": "/media/remote/ad6f27abbac65552c1.mp3"
+  }
+}

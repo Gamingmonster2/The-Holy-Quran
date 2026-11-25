@@ -1,0 +1,398 @@
+[
+  {
+    "path": "/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/",
+      "parsed": {
+        "title": "Quran Book – Clear Reading, Translation &amp; Audio",
+        "description": "Explore the Noble Quran online with clear translation, smooth recitation, and easy-to-read text. Access word-by-word meaning, tafsir, and tools designed to help you connect deeply ",
+        "canonical": "https://quranbook.org/",
+        "jsonld": 1,
+        "h1": "Quran Book",
+        "images": 13,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/",
+      "parsed": {
+        "title": "Quran Book – Clear Reading, Translation &amp; Audio",
+        "description": "Explore the Noble Quran online with clear translation, smooth recitation, and easy-to-read text. Access word-by-word meaning, tafsir, and tools designed to help you connect deeply ",
+        "canonical": "https://quranbook.org/",
+        "jsonld": 1,
+        "h1": "اقرأ القرآن بوضوح، واستمع إليه باطمئنان",
+        "images": 16,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 47,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/blog/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/blog/",
+      "parsed": {
+        "title": "muslim religion",
+        "description": "muslim religion Islam is a monotheistic religion, and its followers are Muslims. Our Master Muhammad is the last and most complete of God’s messengers, among whom are Adam, Abraham",
+        "canonical": "https://quranbook.org/blog/",
+        "jsonld": 1,
+        "h1": "Blog",
+        "images": 17,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/blog/",
+      "parsed": {
+        "title": "muslim religion",
+        "description": "muslim religion Islam is a monotheistic religion, and its followers are Muslims. Our Master Muhammad is the last and most complete of God’s messengers, among whom are Adam, Abraham",
+        "canonical": "https://quranbook.org/blog/",
+        "jsonld": 1,
+        "h1": "Blog",
+        "images": 2,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 66,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/566-2/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/566-2/",
+      "parsed": {
+        "title": "Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/566-2/",
+        "jsonld": 1,
+        "h1": "",
+        "images": 9,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 3,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/566-2/",
+      "parsed": {
+        "title": "Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/566-2/",
+        "jsonld": 1,
+        "h1": "",
+        "images": 7,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 72,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/581-2/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/581-2/",
+      "parsed": {
+        "title": "Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/581-2/",
+        "jsonld": 1,
+        "h1": "",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 3,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/581-2/",
+      "parsed": {
+        "title": "Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/581-2/",
+        "jsonld": 1,
+        "h1": "",
+        "images": 7,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 72,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/%d8%b1%d8%a8%d8%ad-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d8%a7%d8%aa-%d8%a8%d8%a7%d9%81%d8%b6%d9%84-%d9%88%d8%a7%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d8%b7%d8%b1%d9%82/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/%d8%b1%d8%a8%d8%ad-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d8%a7%d8%aa-%d8%a8%d8%a7%d9%81%d8%b6%d9%84-%d9%88%d8%a7%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d8%b7%d8%b1%d9%82/",
+      "parsed": {
+        "title": "ربح ملايين الحسنات بافضل واسهل الطرق",
+        "description": "",
+        "canonical": "https://quranbook.org/ربح-ملايين-الحسنات-بافضل-واسهل-الطرق/",
+        "jsonld": 1,
+        "h1": "ربح ملايين الحسنات بافضل واسهل الطرق",
+        "images": 9,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 3,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/%d8%b1%d8%a8%d8%ad-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d8%a7%d8%aa-%d8%a8%d8%a7%d9%81%d8%b6%d9%84-%d9%88%d8%a7%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d8%b7%d8%b1%d9%82/",
+      "parsed": {
+        "title": "ربح ملايين الحسنات بافضل واسهل الطرق",
+        "description": "",
+        "canonical": "https://quranbook.org/ربح-ملايين-الحسنات-بافضل-واسهل-الطرق/",
+        "jsonld": 1,
+        "h1": "ربح ملايين الحسنات بافضل واسهل الطرق",
+        "images": 7,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 72,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9-%d9%88%d8%b3%d9%87%d9%84%d9%87-%d9%84%d8%ad%d9%81%d8%b8-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a8/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9-%d9%88%d8%b3%d9%87%d9%84%d9%87-%d9%84%d8%ad%d9%81%d8%b8-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a8/",
+      "parsed": {
+        "title": "طريقة عجيبة وسهله لحفظ القرآن الكريم بفضل الله",
+        "description": "",
+        "canonical": "https://quranbook.org/طريقة-عجيبة-وسهله-لحفظ-القرآن-الكريم-ب/",
+        "jsonld": 1,
+        "h1": "طريقة عجيبة وسهله لحفظ القرآن الكريم بفضل الله",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 3,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9-%d9%88%d8%b3%d9%87%d9%84%d9%87-%d9%84%d8%ad%d9%81%d8%b8-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d8%a8/",
+      "parsed": {
+        "title": "طريقة عجيبة وسهله لحفظ القرآن الكريم بفضل الله",
+        "description": "",
+        "canonical": "https://quranbook.org/طريقة-عجيبة-وسهله-لحفظ-القرآن-الكريم-ب/",
+        "jsonld": 1,
+        "h1": "طريقة عجيبة وسهله لحفظ القرآن الكريم بفضل الله",
+        "images": 7,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 72,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/category/%d8%a7%d9%84%d9%8a-%d9%85%d8%ad%d9%85%d8%af/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/category/%d8%a7%d9%84%d9%8a-%d9%85%d8%ad%d9%85%d8%af/",
+      "parsed": {
+        "title": ".الي محمد Archives - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/category/الي-محمد/",
+        "jsonld": 1,
+        "h1": ".الي محمد",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/category/%d8%a7%d9%84%d9%8a-%d9%85%d8%ad%d9%85%d8%af/",
+      "parsed": {
+        "title": ".الي محمد Archives - Quran Book",
+        "description": "مقالات مصنّفة تحت: .الي محمد",
+        "canonical": "https://quranbook.org/category/%d8%a7%d9%84%d9%8a-%d9%85%d8%ad%d9%85%d8%af/",
+        "jsonld": 0,
+        "h1": ".الي محمد",
+        "images": 3,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 69,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/category/ai-file%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d8%ac%d9%88%d8%af%d8%a9-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%ac%d8%af%d8%a7/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/category/ai-file%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d8%ac%d9%88%d8%af%d8%a9-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%ac%d8%af%d8%a7/",
+      "parsed": {
+        "title": "AI fileتحميل المصحف كامل جودة عالية جدا Archives - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/category/ai-fileتحميل-المصحف-كامل-جودة-عالية-جدا/",
+        "jsonld": 1,
+        "h1": "AI fileتحميل المصحف كامل جودة عالية جدا",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/category/ai-file%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d8%ac%d9%88%d8%af%d8%a9-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%ac%d8%af%d8%a7/",
+      "parsed": {
+        "title": "AI fileتحميل المصحف كامل جودة عالية جدا Archives - Quran Book",
+        "description": "مقالات مصنّفة تحت: AI fileتحميل المصحف كامل جودة عالية جدا",
+        "canonical": "https://quranbook.org/category/ai-file%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d8%ac%d9%88%d8%af%d8%a9-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%ac%d8%af%d8%a7/",
+        "jsonld": 0,
+        "h1": "AI fileتحميل المصحف كامل جودة عالية جدا",
+        "images": 3,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 69,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/tag/1442/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/tag/1442/",
+      "parsed": {
+        "title": "1442 Archives - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/tag/1442/",
+        "jsonld": 1,
+        "h1": "1442",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/tag/1442/",
+      "parsed": {
+        "title": "1442 Archives - Quran Book",
+        "description": "مقالات موسومة بـ: 1442",
+        "canonical": "https://quranbook.org/tag/1442/",
+        "jsonld": 0,
+        "h1": "1442",
+        "images": 3,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 69,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/tag/2020/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/tag/2020/",
+      "parsed": {
+        "title": "2020 Archives - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/tag/2020/",
+        "jsonld": 1,
+        "h1": "2020",
+        "images": 8,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/tag/2020/",
+      "parsed": {
+        "title": "2020 Archives - Quran Book",
+        "description": "مقالات موسومة بـ: 2020",
+        "canonical": "https://quranbook.org/tag/2020/",
+        "jsonld": 0,
+        "h1": "2020",
+        "images": 3,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 69,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/contact/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/contact/",
+      "parsed": {
+        "title": "Contact - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/contact/",
+        "jsonld": 1,
+        "h1": "",
+        "images": 11,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 3,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/contact/",
+      "parsed": {
+        "title": "Contact - Quran Book",
+        "description": "",
+        "canonical": "https://quranbook.org/contact/",
+        "jsonld": 1,
+        "h1": "Contact",
+        "images": 5,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 66,
+        "arabic": true
+      }
+    }
+  },
+  {
+    "path": "/about/",
+    "old": {
+      "status": 200,
+      "final": "https://quranbook.org/about/",
+      "parsed": {
+        "title": "About - Quran Book",
+        "description": "We ask God to help us to make this site serve the book of the Holy Qur’an,making the Holy Quran accessible to All the muslims.",
+        "canonical": "https://quranbook.org/about/",
+        "jsonld": 1,
+        "h1": "About",
+        "images": 18,
+        "firstImage": "https://quranbook.org/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333.avif",
+        "internalLinks": 2,
+        "arabic": true
+      }
+    },
+    "new": {
+      "status": 200,
+      "final": "https://23c155a8.quranbook-test.pages.dev/about/",
+      "parsed": {
+        "title": "About - Quran Book",
+        "description": "We ask God to help us to make this site serve the book of the Holy Qur’an,making the Holy Quran accessible to All the muslims.",
+        "canonical": "https://quranbook.org/about/",
+        "jsonld": 1,
+        "h1": "About",
+        "images": 12,
+        "firstImage": "/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif",
+        "internalLinks": 66,
+        "arabic": true
+      }
+    }
+  }
+]

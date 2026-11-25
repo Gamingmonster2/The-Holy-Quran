@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { getPosts } from '../../../lib/content.mjs';
+import MagicCard from '../../../components/MagicCard.jsx';
+import { getPosts, getCover, getSummary } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
   const PER_PAGE = 10;
@@ -13,7 +14,13 @@ export function getStaticPaths() {
     paths.push({
       params: { page: String(page) },
       props: {
-        posts: all.slice((page - 1) * PER_PAGE, page * PER_PAGE),
+        posts: all.slice((page - 1) * PER_PAGE, page * PER_PAGE).map((p) => ({
+          title: p.title,
+          href: p.path,
+          cover: getCover(p),
+          summary: getSummary(p),
+          date: (p.modified || p.date || '').slice(0, 10),
+        })),
         page,
         total,
       },
@@ -26,15 +33,20 @@ const { posts, page, total } = Astro.props;
 ---
 
 <BaseLayout title={`المقالات — صفحة ${page} — QuranBook`}>
-  <div class="qb-list">
-    <h1>المقالات — صفحة {page}</h1>
-    {posts.map((p) => (
-      <a class="qb-card" href={p.path}>
-        <b>{p.title}</b>
-        <small>{p.modified}</small>
-      </a>
-    ))}
-    {page > 2 && <a class="qb-card" href={`/blog/page/${page - 1}/`}><b>← السابق</b></a>}
-    {page < total && <a class="qb-card" href={`/blog/page/${page + 1}/`}><b>التالي →</b></a>}
+  <div class="qb-content qb-content-wide">
+    <div class="qb-term-header">
+      <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <a href="/blog/">المقالات</a> / <span>صفحة {page}</span></nav>
+      <h1 class="qb-term-title">المقالات — صفحة {page}</h1>
+      <p>الصفحة {page} من {total}</p>
+    </div>
+    <div class="qb-glass-grid">
+      {posts.map((p, i) => <MagicCard client:visible {...p} index={i} />)}
+    </div>
+    <nav class="qb-pagination" aria-label="صفحات المقالات">
+      <a href="/blog/">1</a>
+      {page > 2 && <a href={`/blog/page/${page - 1}/`}>← السابق</a>}
+      <span class="current">{page}</span>
+      {page < total && <a href={`/blog/page/${page + 1}/`}>التالي ←</a>}
+    </nav>
   </div>
 </BaseLayout>

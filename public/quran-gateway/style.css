@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'KFGQPC Uthman Taha Naskh';
+  src: url(fonts/UthmanTN1_Ver10/UthmanTN1_Ver10.otf);
+  font-weight: bold;
+}
+
+/* ألوان متوافقة مع الوضع الليلي دون تغيير بنية الإضافة الأصلية */
+:root {
+  --qg-surface: var(--qg-surface);
+  --qg-line: var(--qg-line);
+  --qg-title: #2196f3;
+  --qg-accent: #2e7d32;
+  --qg-code: #b71c1c;
+}
+:root[data-theme='dark'] {
+  --qg-surface: #192722;
+  --qg-line: rgba(180, 220, 200, 0.16);
+  --qg-title: #6fd0a8;
+  --qg-accent: #e7d6ac;
+  --qg-code: #e8a79a;
+}
+
+.quran_gateway_widget { margin:0; padding:0; }
+.quran_gateway_widget div.aya_ar { padding:0 0 10px 0; margin:0 0 15px 0; font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; font-size:25px; line-height:38px; direction:rtl; text-align:right; border-bottom:1px dotted var(--qg-line); }
+.quran_gateway_widget div.aya_en { direction:ltr; text-align:left; margin:10px 0 0 0; font-size:16px; }
+.quran_gateway_widget span.sora_name { font-size:14px; color:var(--qg-accent); }
+
+.quran_gateway { margin:10px; padding:10px; background-color:var(--qg-surface); border:1px solid var(--qg-line); -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.aya_ar { font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; font-size:28px; line-height:38px; direction:rtl; text-align:right; padding:0; margin:7px 0 15px 0; }
+.aya_en { direction:ltr; text-align:left; margin:10px 0 0 0; font-size:16px; line-height:25px; }
+.sora_name { font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; font-size:17px; color:var(--qg-accent); }
+
+.quran_gateway_by_sora { margin:0 0 10px 0; padding:10px; background-color:var(--qg-surface); border-bottom:1px dotted var(--qg-line); -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.aya_ar_by_sora { font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; font-size:28px; line-height:38px; direction:rtl; text-align:right; padding:0; margin:0 0 15px 0; }
+.aya_en_by_sora { direction:ltr; text-align:left; margin:10px 0 0 0; font-size:16px; line-height:25px; }
+.sora_name_by_sora { font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; font-size:17px; color:var(--qg-accent); }
+
+.sora_title { color:var(--qg-title); font-family: 'KFGQPC Uthman Taha Naskh', Arial, Tahoma; }
+.sora_short_code { margin::0 0 15px 0; }
+.sora_short_code code { color:var(--qg-code); }
+
+#quran_player { text-align:center; }
+#quran_player_by_sora { text-align:center; margin-bottom:10px; }
+#quran_sound { text-align:center; }
+
+.quran_gateway_sora_list { padding: 0px; margin: 0px; }
+.quran_gateway_sora_list ul { list-style-type: none; padding: 0px; margin: 0px; }
+.quran_gateway_sora_list ul li { float:left; width:46%; padding:5px; margin:0 0 10px 10px; border-bottom:1px dotted var(--qg-line); }
+/* rules for iPad in landscape orientation */
+@media only screen and (device-width: 768px) and (orientation: landscape) {
+.quran_gateway_sora_list ul li { display:block; width:100%; padding:0 0 10px 0; margin:0 0 10px 0; }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.quran_gateway_sora_list ul li { display:block; width:100%; padding:0 0 10px 0; margin:0 0 10px 0; }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.quran_gateway_sora_list ul li { display:block; width:100%; padding:0 0 10px 0; margin:0 0 10px 0; }
+}
+
+@media only screen and (min-width: 240px) and (max-width: 320px) {
+.quran_gateway_sora_list ul li { display:block; width:100%; padding:0 0 10px 0; margin:0 0 10px 0; }
+}
+
+@media only screen and (max-width: 240px) {
+.quran_gateway_sora_list ul li { display:block; width:100%; padding:0 0 10px 0; margin:0 0 10px 0; }
+}
+
+:root[data-theme='dark'] .quran_gateway,
+:root[data-theme='dark'] .quran_gateway_widget,
+:root[data-theme='dark'] .quran_gateway_by_sora,
+:root[data-theme='dark'] .aya_ar,
+:root[data-theme='dark'] .aya_en,
+:root[data-theme='dark'] .aya_ar_by_sora,
+:root[data-theme='dark'] .aya_en_by_sora { color: #e8eee9; }

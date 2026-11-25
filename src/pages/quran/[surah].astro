@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AudioPlayer from '../../components/AudioPlayer.jsx';
+import QuranGateway from '../../components/QuranGateway.jsx';
+import { loadQuranManifest, loadQuranSurah } from '../../lib/quran-manifest.mjs';
+
+export function getStaticPaths() {
+  return loadQuranManifest().map((surah) => ({
+    params: { surah: String(surah.number) },
+    props: { surah },
+  }));
+}
+
+const manifest = loadQuranManifest();
+const { surah } = Astro.props;
+const number = surah.number;
+const verses = loadQuranSurah(number);
+const prev = manifest[number - 2];
+const next = manifest[number];
+const title = `سورة ${surah.nameAr} – القرآن الكريم مع الترجمة والصوت | Quran Book`;
+const description = `اقرأ سورة ${surah.nameAr} كاملة (${surah.verses} آية) مع التلاوة الصوتية آية بآية، والترجمة إلى الإنجليزية والفرنسية والألمانية في صفحة واحدة.`;
+const canonical = `/quran/${number}/`;
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'الرئيسية', item: 'https://quranbook.org/' },
+    { '@type': 'ListItem', position: 2, name: 'المصحف الكامل', item: 'https://quranbook.org/quran/' },
+    { '@type': 'ListItem', position: 3, name: `سورة ${surah.nameAr}`, item: `https://quranbook.org/quran/${number}/` },
+  ],
+};
+---
+
+<BaseLayout
+  wide
+  title={title}
+  description={description}
+  canonical={canonical}
+  schema={schema}
+>
+  <nav class="qb-crumbs" aria-label="مسار التنقل">
+    <a href="/">الرئيسية</a><span>/</span><a href="/quran/">المصحف الكامل</a><span>/</span><span>سورة {surah.nameAr}</span>
+  </nav>
+
+  <section class="qb-surah-hero">
+    <span class="qb-eyebrow">📖 سورة {number} من 114</span>
+    <h1>سورة {surah.nameAr}</h1>
+    <p class="qb-surah-en" lang="en">{surah.nameEn}</p>
+    <p class="qb-surah-meta">{surah.verses} آية · قراءة كاملة · تلاوة صوتية · ترجمات</p>
+    <div class="qb-surah-nav">
+      {prev && <a class="qb-btn qb-btn-outline" href={`/quran/${prev.number}/`}>← سورة {prev.nameAr}</a>}
+      <a class="qb-btn qb-btn-ghost" href="/quran/">فهرس السور</a>
+      {next && <a class="qb-btn qb-btn-outline" href={`/quran/${next.number}/`}>سورة {next.nameAr} →</a>}
+    </div>
+  </section>
+
+  <section class="qb-section quran-page">
+    <div class="qb-section-head">
+      <div>
+        <h2 class="qb-section-title">القراءة والاستماع</h2>
+        <p class="qb-section-sub">استمع إلى السورة كاملة، ثم تصفّح الآيات مع الترجمة والتلاوة آية بآية.</p>
+      </div>
+    </div>
+    <AudioPlayer client:visible surah={number} linkSurahs />
+    <QuranGateway client:visible surah={number} initialData={verses} />
+  </section>
+
+  <section class="qb-section">
+    <div class="qb-notice">
+      <strong>مصادر إضافية:</strong>
+      <a href={`/blog/?q=${encodeURIComponent(surah.nameAr)}`}>مقالات عن سورة {surah.nameAr}</a>
+      <span> · </span>
+      <a href="/category/">تصفح التصنيفات</a>
+      <span> · </span>
+      <a href="/quran/">كل السور</a>
+    </div>
+  </section>
+</BaseLayout>

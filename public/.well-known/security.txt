@@ -1,0 +1,3 @@
+Contact: https://quranbook.org/contact/
+Canonical: https://quranbook.org/
+Preferred-Languages: ar, en

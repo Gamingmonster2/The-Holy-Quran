@@ -1,26 +1,135 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getPosts } from '../lib/content.mjs';
+import PostCard from '../components/PostCard.astro';
+import AudioPlayer from '../components/AudioPlayer.jsx';
+import QuranNavigator from '../components/QuranNavigator.jsx';
+import BlurFade from '../components/BlurFade.jsx';
+import { getPages, getPosts, getTerms, getCover, getSummary } from '../lib/content.mjs';
 
+const home = getPages().find((p) => p.path === '/');
 const posts = getPosts()
   .filter((p) => p.path !== '/blog/')
-  .sort((a, b) => (a.modified < b.modified ? 1 : -1))
-  .slice(0, 20);
+  .sort((a, b) => (a.modified < b.modified ? 1 : -1));
+const featured = posts[0];
+const latest = posts.slice(1, 9);
+const categories = getTerms('categories').slice().sort((a, b) => b.count - a.count).slice(0, 12);
+const cover = featured ? getCover(featured) : '';
+const summary = featured ? getSummary(featured, 220) : '';
 ---
 
 <BaseLayout
-  title="QuranBook — مكتبة القرآن الكريم"
-  description="مصحف القرآن الكريم PDF، تفاسير، وروايات مصاحف — مكتبة عربية مجانية"
+  wide
+  title={home?.seoTitle || 'Quran Book – Clear Reading, Translation & Audio'}
+  description={home?.seoDescription || 'مصحف القرآن الكريم PDF، تفاسير، وروايات مصاحف — مكتبة عربية مجانية'}
+  canonical={home?.canonical || 'https://quranbook.org/'}
+  ogImage={home?.ogImage}
+  schema={home?.schema}
+  robots={home?.robots}
 >
-  <div class="qb-list">
-    <h1>مرحباً بكم في مكتبة القرآن الكريم</h1>
-    <p class="qb-meta">أحدث المقالات والمصاحف المضافة</p>
-    {posts.map((p) => (
-      <a class="qb-card" href={p.path}>
-        <b>{p.title}</b>
-        <small>{p.modified}</small>
-      </a>
-    ))}
-    <a class="qb-card" href="/blog/"><b>تصفح كل المقالات →</b></a>
-  </div>
+  <section class="qb-hero">
+    <span class="qb-eyebrow">📖 مكتبة القرآن الكريم</span>
+    <h1>اقرأ القرآن بوضوح، واستمع إليه باطمئنان</h1>
+    <p>مصحف وقراءات وتفاسير ومقالات، جمعتها مكتبة QuranBook في مكان هادئ يليق بكلام الله، مع واجهة مريحة للعين وروابط محفوظة كما كانت.</p>
+    <div class="qb-hero-actions">
+      <a class="qb-btn qb-btn-primary" href="#quran-gateway">تصفح المصحف ←</a>
+      <a class="qb-btn qb-btn-ghost" href="/blog/">المقالات والتفاسير</a>
+    </div>
+    <AudioPlayer client:visible surah={1} />
+  </section>
+
+  <section class="qb-section">
+    <BlurFade client:visible delay={0.05}>
+      <div class="qb-section-head">
+        <div>
+          <h2 class="qb-section-title">تنقّل في القرآن الكريم</h2>
+          <p class="qb-section-sub">السور، الأجزاء، والروايات — بانتقالات هادئة وبلا إزعاج بصري.</p>
+        </div>
+      </div>
+    </BlurFade>
+    <QuranNavigator client:visible />
+  </section>
+
+  {home && (
+    <section class="qb-section" id="quran-gateway">
+      <BlurFade client:visible delay={0.06}>
+        <div class="qb-section-head">
+          <div>
+            <h2 class="qb-section-title">المصحف والتلاوة</h2>
+            <p class="qb-section-sub">محتوى الصفحة الأصلي محفوظ كما هو، داخل واجهة مريحة للقراءة.</p>
+          </div>
+          <span class="qb-chip">المحتوى الأصلي</span>
+        </div>
+      </BlurFade>
+      <div class="qb-article">
+        <div class="prose-quran qb-original-home" set:html={home.html} />
+      </div>
+    </section>
+  )}
+
+  {featured && (
+    <section class="qb-section">
+      <BlurFade client:visible delay={0.08}>
+        <div class="qb-section-head">
+          <div>
+            <h2 class="qb-section-title">من المكتبة</h2>
+            <p class="qb-section-sub">أحدث ما أضفناه من مقالات ومصاحف.</p>
+          </div>
+          <a class="qb-btn qb-btn-outline" href={featured.path}>اقرأ المقال ←</a>
+        </div>
+      </BlurFade>
+      <div class="qb-feature">
+        <div class="qb-feature-media"><img src={cover} data-original-src={featured.ogImage || ''} alt="" loading="lazy" /></div>
+        <div class="qb-feature-body">
+          <span class="qb-chip">مقال مختار</span>
+          <h2>{featured.title}</h2>
+          <p>{summary}</p>
+          <div><a class="qb-btn qb-btn-outline" href={featured.path}>اقرأ المقال ←</a></div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="qb-section">
+    <BlurFade client:visible delay={0.05}>
+      <div class="qb-section-head">
+        <div>
+          <h2 class="qb-section-title">أحدث المقالات</h2>
+          <p class="qb-section-sub">مختارات من {posts.length} مقالة في المكتبة.</p>
+        </div>
+        <a href="/blog/">كل المقالات ←</a>
+      </div>
+    </BlurFade>
+    <div class="qb-grid">
+      {latest.map((p) => <PostCard post={p} />)}
+    </div>
+  </section>
+
+  <section class="qb-section">
+    <BlurFade client:visible delay={0.05}>
+      <div class="qb-section-head">
+        <div>
+          <h2 class="qb-section-title">التصنيفات</h2>
+          <p class="qb-section-sub">ابدأ من الموضوع الذي يهمك.</p>
+        </div>
+        <a href="/category/">كل التصنيفات ←</a>
+      </div>
+    </BlurFade>
+    <div class="qb-grid">
+      {categories.map((c) => (
+        <a class="qb-card" href={c.path}>
+          <div class="qb-card-body">
+            <h3 class="qb-card-title">{c.name}</h3>
+            <div class="qb-card-meta"><span>{c.count} مقالة</span></div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="qb-section">
+    <div class="qb-notice">
+      جميع روابط الموقع الأصلي محفوظة كما هي، وخريطة الموقع تحتوي على 1968 رابطاً.
+      <a href="/sitemap.xml">اطّلع على خريطة الموقع ←</a>
+    </div>
+  </section>
 </BaseLayout>

@@ -1,25 +1,43 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getPosts } from '../../lib/content.mjs';
+import MagicCard from '../../components/MagicCard.jsx';
+import BlurFade from '../../components/BlurFade.jsx';
+import { getPosts, getCover, getSummary } from '../../lib/content.mjs';
 
 const all = getPosts()
   .filter((p) => p.path !== '/blog/')
   .sort((a, b) => (a.modified < b.modified ? 1 : -1));
 const PER_PAGE = 10;
-const posts = all.slice(0, PER_PAGE);
+const posts = all.slice(0, PER_PAGE).map((p) => ({
+  title: p.title,
+  href: p.path,
+  cover: getCover(p),
+  summary: getSummary(p),
+  date: (p.modified || p.date || '').slice(0, 10),
+}));
 const totalPages = Math.ceil(all.length / PER_PAGE);
 ---
 
 <BaseLayout title="المقالات — QuranBook" description="كل مقالات مكتبة القرآن الكريم">
-  <div class="qb-list">
-    <h1>المقالات</h1>
-    <p class="qb-meta">{all.length} مقالة — الصفحة 1 من {totalPages}</p>
-    {posts.map((p) => (
-      <a class="qb-card" href={p.path}>
-        <b>{p.title}</b>
-        <small>{p.modified}</small>
-      </a>
-    ))}
-    {totalPages > 1 && <a class="qb-card" href="/blog/page/2/"><b>الصفحة التالية →</b></a>}
+  <div class="qb-content qb-content-wide">
+    <BlurFade client:visible>
+      <div class="qb-term-header">
+        <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <span>المقالات</span></nav>
+        <h1 class="qb-term-title">المقالات</h1>
+        <p>{all.length} مقالة — الصفحة 1 من {totalPages}. استخدم البحث في الأعلى للوصول السريع.</p>
+      </div>
+    </BlurFade>
+    <div class="qb-glass-grid">
+      {posts.map((p, i) => <MagicCard client:visible {...p} index={i} />)}
+    </div>
+    {totalPages > 1 && (
+      <nav class="qb-pagination" aria-label="صفحات المقالات">
+        <span class="current">1</span>
+        {Array.from({ length: Math.min(totalPages - 1, 12) }, (_, i) => (
+          <a href={`/blog/page/${i + 2}/`}>{i + 2}</a>
+        ))}
+        <a href="/blog/page/2/">التالية ←</a>
+      </nav>
+    )}
   </div>
 </BaseLayout>

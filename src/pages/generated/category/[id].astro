@@ -1,6 +1,9 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { getTerms, getPosts } from '../../../lib/content.mjs';
+import PostCard from '../../../components/PostCard.astro';
+import Sidebar from '../../../components/Sidebar.astro';
+import BlurFade from '../../../components/BlurFade.jsx';
+import { getTerms, postsInTerm } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
   return getTerms('categories').map((term) => ({
@@ -10,9 +13,7 @@ export function getStaticPaths() {
 }
 
 const { term } = Astro.props;
-const posts = getPosts()
-  .filter((p) => p.categories.includes(term.id))
-  .sort((a, b) => (a.modified < b.modified ? 1 : -1));
+const posts = postsInTerm('categories', term.id, 24);
 ---
 
 <BaseLayout
@@ -20,14 +21,20 @@ const posts = getPosts()
   description={`مقالات مصنّفة تحت: ${term.name}`}
   canonical={`https://quranbook.org${term.path}`}
 >
-  <div class="qb-list">
-    <h1>{term.name}</h1>
-    <p class="qb-meta">{posts.length} مقالة في هذا التصنيف</p>
-    {posts.map((p) => (
-      <a class="qb-card" href={p.path}>
-        <b>{p.title}</b>
-        <small>{p.modified}</small>
-      </a>
-    ))}
+  <div class="qb-layout">
+    <div class="qb-content">
+      <BlurFade client:visible>
+        <div class="qb-term-header">
+          <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <a href="/category/">التصنيفات</a> / <span>{term.name}</span></nav>
+          <h1 class="qb-term-title">{term.name}</h1>
+          <p>مقالات مصنّفة تحت: {term.name} — {posts.length} مقالة</p>
+        </div>
+      </BlurFade>
+      <div class="qb-grid">
+        {posts.map((p) => <PostCard post={p} />)}
+      </div>
+      <p class="qb-panel-note">لعرض المزيد استخدم البحث في أعلى الصفحة أو تصفح <a href="/blog/">كل المقالات</a>.</p>
+    </div>
+    <Sidebar />
   </div>
 </BaseLayout>

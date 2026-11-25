@@ -1,0 +1,48 @@
+---
+import { getPosts, getTerms, plainText } from '../lib/content.mjs';
+import FontControls from './FontControls.jsx';
+
+interface Props { showReader?: boolean; }
+const { showReader = false } = Astro.props;
+const posts = getPosts()
+  .filter((p) => p.path !== '/blog/')
+  .sort((a, b) => (a.modified < b.modified ? 1 : -1))
+  .slice(0, 6);
+const categories = getTerms('categories').slice().sort((a, b) => b.count - a.count).slice(0, 14);
+const tags = getTerms('tags').slice().sort((a, b) => b.count - a.count).slice(0, 24);
+---
+
+<aside class="qb-sidebar" aria-label="الشريط الجانبي">
+  <div class="qb-quran-box">
+    <h3>القرآن الكريم</h3>
+    <p>مصحف وتلاوة وفهارس، في صفحة واحدة هادئة.</p>
+    <a class="qb-btn qb-btn-ghost" href="/quranonline/">افتح المستودع الرقمي</a>
+  </div>
+
+  {showReader && (
+    <div class="qb-widget">
+      <h3 class="qb-widget-title">إعدادات القراءة</h3>
+      <FontControls client:idle />
+    </div>
+  )}
+
+  <div class="qb-widget">
+    <h3 class="qb-widget-title">أحدث المقالات</h3>
+    <div class="qb-mini-list">
+      {posts.map((p) => <a href={p.path}>{p.title}</a>)}
+    </div>
+  </div>
+
+  <div class="qb-widget">
+    <h3 class="qb-widget-title">التصنيفات</h3>
+    <div class="qb-mini-list">
+      {categories.map((c) => <a href={c.path}>{c.name} <span class="qb-chip">{c.count}</span></a>)}
+    </div>
+    <a href="/category/" style="display:inline-block;margin-top:10px;font-size:13px;">كل التصنيفات ←</a>
+  </div>
+
+  <div class="qb-widget">
+    <h3 class="qb-widget-title">الوسوم</h3>
+    <div>{tags.map((t) => <span class="qb-chip" style="margin:3px;"><a href={t.path}>{t.name}</a></span>)}</div>
+  </div>
+</aside>

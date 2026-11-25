@@ -70,8 +70,11 @@ let moved = 0;
 const missing = [];
 const occupied = new Set();
 for (const move of moves) {
-  // /blog/ هي صفحة الأرشيف، لا نسمح للقالب بالكتابة فوقها
-  if (move.target === '/blog/' && move.kind === 'post') continue;
+  // /blog/ هي صفحة الأرشيف؛ صفحة ووردبريس بالمعرّف 49 فارغة المحتوى،
+  // لذلك نبقي قائمة المقالات التي يبنيها Astro ولا نسمح للقالب بالكتابة فوقها.
+  if (move.target === '/blog/' && (move.kind === 'post' || move.kind === 'page')) continue;
+  // الصفحة الرئيسية تُبنى في index.astro مع إبقاء محتواها الأصلي داخل التصميم الجديد
+  if (move.target === '/' && move.kind === 'page') continue;
   if (!fs.existsSync(move.from)) {
     missing.push(`${move.kind}/${move.id}`);
     continue;
@@ -118,9 +121,23 @@ const sitemap =
     .join('\n') +
   '\n</urlset>\n';
 fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sitemap, 'utf8');
+
+// خريطة منفصلة لصفحات السور المستقلة؛ خريطة الـ1968 رابطاً الأصلية تبقى كما هي
+const quranManifest = JSON.parse(
+  fs.readFileSync(path.join(DIST, 'quran-gateway', 'manifest.json'), 'utf8'),
+);
+const quranSitemap =
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+  quranManifest
+    .map((s) => `  <url><loc>https://quranbook.org/quran/${s.number}/</loc></url>`)
+    .join('\n') +
+  '\n  <url><loc>https://quranbook.org/quran/</loc></url>\n' +
+  '</urlset>\n';
+fs.writeFileSync(path.join(DIST, 'quran-sitemap.xml'), quranSitemap, 'utf8');
 fs.writeFileSync(
   path.join(DIST, 'robots.txt'),
-  'User-agent: *\nAllow: /\nSitemap: https://quranbook.org/sitemap.xml\n',
+  'User-agent: *\nAllow: /\nSitemap: https://quranbook.org/sitemap.xml\nSitemap: https://quranbook.org/quran-sitemap.xml\n',
   'utf8',
 );
 

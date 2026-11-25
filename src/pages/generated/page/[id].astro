@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Sidebar from '../../../components/Sidebar.astro';
 import { getPages } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
@@ -19,7 +20,14 @@ const { page } = Astro.props;
   schema={page.schema}
   robots={page.robots}
 >
-  <article class="qb-article">
-    <div set:html={page.html} />
-  </article>
+  <div class="qb-layout">
+    <div class="qb-content">
+      <article class="qb-article">
+        <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <span>{page.title}</span></nav>
+        <header class="qb-article-header"><h1>{page.title}</h1></header>
+        <div class="prose-quran" set:html={page.html} />
+      </article>
+    </div>
+    <Sidebar />
+  </div>
 </BaseLayout>

@@ -1,0 +1,26 @@
+---
+import { getCover, getSummary, getCategoryNames } from '../lib/content.mjs';
+
+interface Props {
+  post: any;
+  summary?: boolean;
+}
+
+const { post, summary = true } = Astro.props;
+const cover = getCover(post);
+const excerpt = getSummary(post);
+const categories = getCategoryNames(post).slice(0, 2);
+const date = (post.modified || post.date || '').slice(0, 10);
+---
+
+<a class="qb-card" href={post.path}>
+  <div class="qb-card-media">
+    <img src={cover} data-original-src={post.ogImage || ''} alt="" loading="lazy" decoding="async" />
+  </div>
+  <div class="qb-card-body">
+    {categories.length > 0 && <div>{categories.map((c) => <span class="qb-chip">{c}</span>)}</div>}
+    <h3 class="qb-card-title">{post.title}</h3>
+    {summary && excerpt && <p class="qb-card-summary">{excerpt}</p>}
+    <div class="qb-card-meta"><span>{date}</span><span>قراءة المقال ←</span></div>
+  </div>
+</a>
