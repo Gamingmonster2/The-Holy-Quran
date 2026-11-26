@@ -81,7 +81,9 @@ export function rewriteHtml(html) {
   let out = String(html).replace(
     /<(img|source|video|audio)\b([^>]*?)src=(["'])([^"']+)\3([^>]*)>/gi,
     (full, tag, before, quote, src, after) => {
-      const local = localAsset(src);
+      // بعض المقالات القديمة كتبت مسار الصورة نسبياً img/... فيُرفع إلى جذر الموقع
+      const source = /^(?:img|wp-content)\//i.test(src) ? `/${src}` : src;
+      const local = localAsset(source);
       if (!local) return full;
       const token = `QBORIGINAL${originals.length}QB`;
       originals.push(src);
