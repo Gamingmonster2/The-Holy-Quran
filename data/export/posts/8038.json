@@ -1,0 +1,62 @@
+{
+  "id": 8038,
+  "date": "2026-11-25T22:37:00+00:00",
+  "modified": "2026-11-25T22:37:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+  "title": {
+    "rendered": "سورة نوح مكتوبة بخط كبير: 28 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة نوح مكتوبة بخط كبير، وعدد آياتها 28، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة نوح</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071001.mp3');\">إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ <span class=\"sora_name_by_sora\">نوح [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071002.mp3');\">قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ <span class=\"sora_name_by_sora\">نوح [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071003.mp3');\">أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ <span class=\"sora_name_by_sora\">نوح [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071004.mp3');\">يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ <span class=\"sora_name_by_sora\">نوح [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071005.mp3');\">قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا <span class=\"sora_name_by_sora\">نوح [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071006.mp3');\">فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا <span class=\"sora_name_by_sora\">نوح [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071007.mp3');\">وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا <span class=\"sora_name_by_sora\">نوح [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071008.mp3');\">ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا <span class=\"sora_name_by_sora\">نوح [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071009.mp3');\">ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا <span class=\"sora_name_by_sora\">نوح [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071010.mp3');\">فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا <span class=\"sora_name_by_sora\">نوح [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071011.mp3');\">يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا <span class=\"sora_name_by_sora\">نوح [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071012.mp3');\">وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا <span class=\"sora_name_by_sora\">نوح [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071013.mp3');\">مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا <span class=\"sora_name_by_sora\">نوح [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071014.mp3');\">وَقَدْ خَلَقَكُمْ أَطْوَارًا <span class=\"sora_name_by_sora\">نوح [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071015.mp3');\">أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا <span class=\"sora_name_by_sora\">نوح [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071016.mp3');\">وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا <span class=\"sora_name_by_sora\">نوح [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071017.mp3');\">وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا <span class=\"sora_name_by_sora\">نوح [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071018.mp3');\">ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا <span class=\"sora_name_by_sora\">نوح [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071019.mp3');\">وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا <span class=\"sora_name_by_sora\">نوح [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071020.mp3');\">لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا <span class=\"sora_name_by_sora\">نوح [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071021.mp3');\">قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا <span class=\"sora_name_by_sora\">نوح [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071022.mp3');\">وَمَكَرُوا مَكْرًا كُبَّارًا <span class=\"sora_name_by_sora\">نوح [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071023.mp3');\">وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا <span class=\"sora_name_by_sora\">نوح [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071024.mp3');\">وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا <span class=\"sora_name_by_sora\">نوح [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071025.mp3');\">مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا <span class=\"sora_name_by_sora\">نوح [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071026.mp3');\">وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا <span class=\"sora_name_by_sora\">نوح [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071027.mp3');\">إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا <span class=\"sora_name_by_sora\">نوح [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/071028.mp3');\">رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا <span class=\"sora_name_by_sora\">نوح [28]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة نوح مكتوبة بخط كبير، وعدد آياتها 28، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة نوح مكتوبة بخط كبير: 28 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة نوح مكتوبة بخط كبير، وعدد آياتها 28، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة نوح مكتوبة بخط كبير: 28 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة نوح مكتوبة بخط كبير، وعدد آياتها 28، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-02.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة نوح مكتوبة بخط كبير: 28 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:37:00+00:00",
+      "dateModified": "2026-11-25T22:37:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-02.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 71
+}

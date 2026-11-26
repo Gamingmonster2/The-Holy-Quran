@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PostCard from '../../../components/PostCard.astro';
 import Sidebar from '../../../components/Sidebar.astro';
 import BlurFade from '../../../components/BlurFade.jsx';
+import { t } from '../../../lib/i18n.mjs';
 import { getTerms, postsInTerm } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
@@ -14,27 +15,29 @@ export function getStaticPaths() {
 
 const { term } = Astro.props;
 const posts = postsInTerm('tags', term.id, 24);
+const lang = /[\u0600-\u06FF]/.test(term.name) ? 'ar' : 'en';
 ---
 
 <BaseLayout
   title={`${term.name} Archives - Quran Book`}
-  description={`مقالات موسومة بـ: ${term.name}`}
+  description={lang === 'ar' ? `مقالات موسومة بـ: ${term.name}` : `Articles tagged with: ${term.name}`}
   canonical={`https://quranbook.org${term.path}`}
+  lang={lang}
 >
   <div class="qb-layout">
     <div class="qb-content">
       <BlurFade client:visible>
         <div class="qb-term-header">
-          <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <a href="/tag/">الوسوم</a> / <span>{term.name}</span></nav>
+          <nav class="breadcrumbs"><a href="/">{t(lang, 'home')}</a> / <a href="/tag/">{t(lang, 'tags')}</a> / <span>{term.name}</span></nav>
           <h1 class="qb-term-title">{term.name}</h1>
-          <p>مقالات موسومة بـ: {term.name} — {posts.length} مقالة</p>
+          <p>{lang === 'ar' ? `مقالات موسومة بـ: ${term.name}` : `${t(lang, 'taggedWith')}: ${term.name}`} — {posts.length} {lang === 'ar' ? 'مقالة' : 'articles'}</p>
         </div>
       </BlurFade>
       <div class="qb-grid">
-        {posts.map((p) => <PostCard post={p} />)}
+        {posts.map((p) => <PostCard post={p} lang={lang} />)}
       </div>
-      <p class="qb-panel-note">لعرض المزيد استخدم البحث في أعلى الصفحة أو تصفح <a href="/blog/">كل المقالات</a>.</p>
+      <p class="qb-panel-note">{t(lang, 'moreHint')} <a href="/blog/">{t(lang, 'allArticles')}</a>.</p>
     </div>
-    <Sidebar />
+    <Sidebar lang={lang} />
   </div>
 </BaseLayout>

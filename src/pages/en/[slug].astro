@@ -1,0 +1,15 @@
+---
+import PostPage from '../../components/PostPage.astro';
+import { getEnglishPosts } from '../../lib/content.mjs';
+
+export function getStaticPaths() {
+  return getEnglishPosts().map((post) => ({
+    params: { slug: post.path.replace(/^\/en\//, '').replace(/\/$/, '') },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+---
+
+<PostPage post={post} lang="en" />

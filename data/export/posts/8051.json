@@ -1,0 +1,62 @@
+{
+  "id": 8051,
+  "date": "2026-11-25T22:50:00+00:00",
+  "modified": "2026-11-25T22:50:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+  "title": {
+    "rendered": "سورة الليل مكتوبة بخط كبير: 21 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الليل مكتوبة بخط كبير، وعدد آياتها 21، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الليل</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092001.mp3');\">وَاللَّيْلِ إِذَا يَغْشَىٰ <span class=\"sora_name_by_sora\">الليل [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092002.mp3');\">وَالنَّهَارِ إِذَا تَجَلَّىٰ <span class=\"sora_name_by_sora\">الليل [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092003.mp3');\">وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ <span class=\"sora_name_by_sora\">الليل [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092004.mp3');\">إِنَّ سَعْيَكُمْ لَشَتَّىٰ <span class=\"sora_name_by_sora\">الليل [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092005.mp3');\">فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ <span class=\"sora_name_by_sora\">الليل [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092006.mp3');\">وَصَدَّقَ بِالْحُسْنَىٰ <span class=\"sora_name_by_sora\">الليل [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092007.mp3');\">فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ <span class=\"sora_name_by_sora\">الليل [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092008.mp3');\">وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ <span class=\"sora_name_by_sora\">الليل [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092009.mp3');\">وَكَذَّبَ بِالْحُسْنَىٰ <span class=\"sora_name_by_sora\">الليل [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092010.mp3');\">فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ <span class=\"sora_name_by_sora\">الليل [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092011.mp3');\">وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ <span class=\"sora_name_by_sora\">الليل [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092012.mp3');\">إِنَّ عَلَيْنَا لَلْهُدَىٰ <span class=\"sora_name_by_sora\">الليل [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092013.mp3');\">وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ <span class=\"sora_name_by_sora\">الليل [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092014.mp3');\">فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ <span class=\"sora_name_by_sora\">الليل [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092015.mp3');\">لَا يَصْلَاهَا إِلَّا الْأَشْقَى <span class=\"sora_name_by_sora\">الليل [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092016.mp3');\">الَّذِي كَذَّبَ وَتَوَلَّىٰ <span class=\"sora_name_by_sora\">الليل [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092017.mp3');\">وَسَيُجَنَّبُهَا الْأَتْقَى <span class=\"sora_name_by_sora\">الليل [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092018.mp3');\">الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ <span class=\"sora_name_by_sora\">الليل [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092019.mp3');\">وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ <span class=\"sora_name_by_sora\">الليل [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092020.mp3');\">إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ <span class=\"sora_name_by_sora\">الليل [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/092021.mp3');\">وَلَسَوْفَ يَرْضَىٰ <span class=\"sora_name_by_sora\">الليل [21]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الليل مكتوبة بخط كبير، وعدد آياتها 21، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الليل مكتوبة بخط كبير: 21 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الليل مكتوبة بخط كبير، وعدد آياتها 21، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الليل مكتوبة بخط كبير: 21 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الليل مكتوبة بخط كبير، وعدد آياتها 21، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-03.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الليل مكتوبة بخط كبير: 21 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:50:00+00:00",
+      "dateModified": "2026-11-25T22:50:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-03.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 92
+}

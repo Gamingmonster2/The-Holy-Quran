@@ -1,0 +1,867 @@
+{
+  "generatedAt": "2026-11-26T12:51:13.789Z",
+  "category": 1134,
+  "postsInCategory": 118,
+  "coveredSurahs": [
+    {
+      "number": 1,
+      "title": "The Noble quran in English",
+      "inTargetCategory": false
+    },
+    {
+      "number": 2,
+      "title": "The Noble quran in English &#8211; Al-Baqarah ( The Cow )",
+      "inTargetCategory": true
+    },
+    {
+      "number": 3,
+      "title": "The Noble quran in English &#8211; Al-Imran ( The Famiy of Imran )",
+      "inTargetCategory": true
+    },
+    {
+      "number": 4,
+      "title": "The Noble quran in English &#8211; An-Nisa ( The Women )",
+      "inTargetCategory": true
+    },
+    {
+      "number": 5,
+      "title": "The Noble quran in English &#8211; Al-Maidah ( The Table spread with Food )",
+      "inTargetCategory": false
+    },
+    {
+      "number": 6,
+      "title": "The Noble quran in English &#8211; Al-An&#8217;am ( The Cattle )",
+      "inTargetCategory": false
+    },
+    {
+      "number": 7,
+      "title": "The Noble quran in English &#8211; Al-A&#8217;raf (The Heights )",
+      "inTargetCategory": false
+    },
+    {
+      "number": 8,
+      "title": "The Noble quran in English &#8211; Al-Anfal ( The Spoils of War )",
+      "inTargetCategory": false
+    },
+    {
+      "number": 9,
+      "title": "At-Taubah ( The Repentance ) &#8211; التوبة",
+      "inTargetCategory": false
+    },
+    {
+      "number": 10,
+      "title": "القرآن الكريم باللغة الإنجليزية &#8211; سورة يونس",
+      "inTargetCategory": true
+    },
+    {
+      "number": 11,
+      "title": "سورة هود مكتوبة بخط كبير: الصبر على الدعوة",
+      "inTargetCategory": true
+    },
+    {
+      "number": 12,
+      "title": "سورة يوسف مكتوبة بخط كبير: أجمل القصص في القرآن",
+      "inTargetCategory": true
+    },
+    {
+      "number": 13,
+      "title": "سورة الرعد مكتوبة بخط كبير: آيات التوحيد وقدرة الله",
+      "inTargetCategory": true
+    },
+    {
+      "number": 14,
+      "title": "سورة إبراهيم مكتوبة بخط كبير: دعوة التوحيد عبر العصور",
+      "inTargetCategory": true
+    },
+    {
+      "number": 15,
+      "title": "سورة الحجر مكتوبة بخط كبير: التحذير من التكذيب بالرسل",
+      "inTargetCategory": true
+    },
+    {
+      "number": 16,
+      "title": "سورة النحل مكتوبة بخط كبير: نعم الله على عباده",
+      "inTargetCategory": true
+    },
+    {
+      "number": 17,
+      "title": "سورة الإسراء مكتوبة بخط كبير: معجزة الإسراء والنهي عن الظلم",
+      "inTargetCategory": true
+    },
+    {
+      "number": 18,
+      "title": "قراءة سورة الكهف مكتوبة كاملة مع الترجمه الانجليزيه",
+      "inTargetCategory": false
+    },
+    {
+      "number": 19,
+      "title": "سورة مريم مكتوبة بخط كبير",
+      "inTargetCategory": true
+    },
+    {
+      "number": 20,
+      "title": "سورة طه مكتوبة بخط كبير",
+      "inTargetCategory": true
+    },
+    {
+      "number": 21,
+      "title": "سورة الأنبياء مكتوبة بخط كبير",
+      "inTargetCategory": true
+    },
+    {
+      "number": 22,
+      "title": "سورة الحج مكتوبة بخط كبير: مع خاصيه الاستماع والترجمه الانجليزيه",
+      "inTargetCategory": true
+    },
+    {
+      "number": 23,
+      "title": "سورة المؤمنون مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية: صفات أهل الإيمان الحقيقي",
+      "inTargetCategory": true
+    },
+    {
+      "number": 24,
+      "title": "سورة النور مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية: الطهارة والآداب الاجتماعية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 25,
+      "title": "سورة الفرقان مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية: تمييز الحق من الباطل",
+      "inTargetCategory": true
+    },
+    {
+      "number": 26,
+      "title": "The Noble quran in English &#8211; Ash-Shuara ( The Poets )",
+      "inTargetCategory": false
+    },
+    {
+      "number": 27,
+      "title": "سورة النمل مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية: حكم سليمان وعجائب مملكته",
+      "inTargetCategory": true
+    },
+    {
+      "number": 28,
+      "title": "سورة القصص مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 29,
+      "title": "سورة العنكبوت مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 30,
+      "title": "سورة الروم مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 31,
+      "title": "سورة لقمان مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 32,
+      "title": "سورة السجدة مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 48,
+      "title": "Surah Al Fath",
+      "inTargetCategory": false
+    },
+    {
+      "number": 77,
+      "title": "سورة المرسلات مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 78,
+      "title": "سورة النبأ مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 79,
+      "title": "سورة النازعات مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 80,
+      "title": "سورة عبس مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 81,
+      "title": "سورة التكوير مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 82,
+      "title": "سورة الانفطار مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": false
+    },
+    {
+      "number": 83,
+      "title": "سورة المطففين مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 84,
+      "title": "سورة الانشقاق مكتوبة بخط كبير مع خاصية الاستماع والترجمة الإنجليزية",
+      "inTargetCategory": true
+    },
+    {
+      "number": 112,
+      "title": "سورة الإخلاص",
+      "inTargetCategory": false
+    }
+  ],
+  "generated": [
+    {
+      "id": 8001,
+      "surah": 33,
+      "nameAr": "الأحزاب",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-73-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-ahzab-written-in-large-font-73-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-73-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-ahzab-written-in-large-font-73-verses-with-english-translation/"
+    },
+    {
+      "id": 8002,
+      "surah": 34,
+      "nameAr": "سبأ",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%b3%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-54-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85",
+      "enSlug": "surah-saba-written-in-large-font-54-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b3%d8%a8%d8%a3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-54-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+      "enUrl": "/en/surah-saba-written-in-large-font-54-verses-with-english-translation/"
+    },
+    {
+      "id": 8003,
+      "surah": 35,
+      "nameAr": "فاطر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%81%d8%a7%d8%b7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-45-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-fatir-written-in-large-font-45-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%81%d8%a7%d8%b7%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-45-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-fatir-written-in-large-font-45-verses-with-english-translation/"
+    },
+    {
+      "id": 8004,
+      "surah": 36,
+      "nameAr": "يس",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-83-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9",
+      "enSlug": "surah-ya-seen-written-in-large-font-83-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%8a%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-83-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "enUrl": "/en/surah-ya-seen-written-in-large-font-83-verses-with-english-translation/"
+    },
+    {
+      "id": 8005,
+      "surah": 37,
+      "nameAr": "الصافات",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%a7%d9%81%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-182-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-as-saaffat-written-in-large-font-182-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%a7%d9%81%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-182-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-as-saaffat-written-in-large-font-182-verses-with-english-translation/"
+    },
+    {
+      "id": 8006,
+      "surah": 38,
+      "nameAr": "ص",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%b5-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-88-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7",
+      "enSlug": "surah-sad-written-in-large-font-88-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%b5-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-88-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7/",
+      "enUrl": "/en/surah-sad-written-in-large-font-88-verses-with-english-translation/"
+    },
+    {
+      "id": 8007,
+      "surah": 39,
+      "nameAr": "الزمر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%85%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-75-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-az-zumar-written-in-large-font-75-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%85%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-75-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-az-zumar-written-in-large-font-75-verses-with-english-translation/"
+    },
+    {
+      "id": 8008,
+      "surah": 40,
+      "nameAr": "غافر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%ba%d8%a7%d9%81%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-85-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-ghafir-written-in-large-font-85-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%ba%d8%a7%d9%81%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-85-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-ghafir-written-in-large-font-85-verses-with-english-translation/"
+    },
+    {
+      "id": 8009,
+      "surah": 41,
+      "nameAr": "فصلت",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%81%d8%b5%d9%84%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-54-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-fussilat-written-in-large-font-54-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%81%d8%b5%d9%84%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-54-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-fussilat-written-in-large-font-54-verses-with-english-translation/"
+    },
+    {
+      "id": 8010,
+      "surah": 42,
+      "nameAr": "الشورى",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-53-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-ash-shura-written-in-large-font-53-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-53-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-ash-shura-written-in-large-font-53-verses-with-english-translation/"
+    },
+    {
+      "id": 8011,
+      "surah": 43,
+      "nameAr": "الزخرف",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d8%ae%d8%b1%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-89-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-az-zukhruf-written-in-large-font-89-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d8%ae%d8%b1%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-89-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-az-zukhruf-written-in-large-font-89-verses-with-english-translation/"
+    },
+    {
+      "id": 8012,
+      "surah": 44,
+      "nameAr": "الدخان",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%ae%d8%a7%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-59-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-ad-dukhan-written-in-large-font-59-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%ae%d8%a7%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-59-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-ad-dukhan-written-in-large-font-59-verses-with-english-translation/"
+    },
+    {
+      "id": 8013,
+      "surah": 45,
+      "nameAr": "الجاثية",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d8%ab%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-37-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-jathiya-written-in-large-font-37-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d8%ab%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-37-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-jathiya-written-in-large-font-37-verses-with-english-translation/"
+    },
+    {
+      "id": 8014,
+      "surah": 46,
+      "nameAr": "الأحقاف",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d9%82%d8%a7%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-35-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-ahqaf-written-in-large-font-35-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d9%82%d8%a7%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-35-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-ahqaf-written-in-large-font-35-verses-with-english-translation/"
+    },
+    {
+      "id": 8015,
+      "surah": 47,
+      "nameAr": "محمد",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%85%d8%ad%d9%85%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-38-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-muhammad-written-in-large-font-38-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%85%d8%ad%d9%85%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-38-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-muhammad-written-in-large-font-38-verses-with-english-translation/"
+    },
+    {
+      "id": 8016,
+      "surah": 49,
+      "nameAr": "الحجرات",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-18-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-hujurat-written-in-large-font-18-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-18-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-hujurat-written-in-large-font-18-verses-with-english-translation/"
+    },
+    {
+      "id": 8017,
+      "surah": 50,
+      "nameAr": "ق",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-45-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7",
+      "enSlug": "surah-qaf-written-in-large-font-45-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-45-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7/",
+      "enUrl": "/en/surah-qaf-written-in-large-font-45-verses-with-english-translation/"
+    },
+    {
+      "id": 8018,
+      "surah": 51,
+      "nameAr": "الذاريات",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-60-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7",
+      "enSlug": "surah-adh-dhariyat-written-in-large-font-60-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-60-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7/",
+      "enUrl": "/en/surah-adh-dhariyat-written-in-large-font-60-verses-with-english-translation/"
+    },
+    {
+      "id": 8019,
+      "surah": 52,
+      "nameAr": "الطور",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-49-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-at-tur-written-in-large-font-49-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-49-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-at-tur-written-in-large-font-49-verses-with-english-translation/"
+    },
+    {
+      "id": 8020,
+      "surah": 53,
+      "nameAr": "النجم",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-62-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-an-najm-written-in-large-font-62-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-62-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-an-najm-written-in-large-font-62-verses-with-english-translation/"
+    },
+    {
+      "id": 8021,
+      "surah": 54,
+      "nameAr": "القمر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%85%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-55-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-qamar-written-in-large-font-55-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%85%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-55-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-qamar-written-in-large-font-55-verses-with-english-translation/"
+    },
+    {
+      "id": 8022,
+      "surah": 55,
+      "nameAr": "الرحمن",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-78-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-ar-rahman-written-in-large-font-78-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-78-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-ar-rahman-written-in-large-font-78-verses-with-english-translation/"
+    },
+    {
+      "id": 8023,
+      "surah": 56,
+      "nameAr": "الواقعة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-96-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-waqi-ah-written-in-large-font-96-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-96-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-waqi-ah-written-in-large-font-96-verses-with-english-translation/"
+    },
+    {
+      "id": 8024,
+      "surah": 57,
+      "nameAr": "الحديد",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-29-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-hadid-written-in-large-font-29-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-29-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-hadid-written-in-large-font-29-verses-with-english-translation/"
+    },
+    {
+      "id": 8025,
+      "surah": 58,
+      "nameAr": "المجادلة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%af%d9%84%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-22-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7",
+      "enSlug": "surah-al-mujadilah-written-in-large-font-22-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%af%d9%84%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-22-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7/",
+      "enUrl": "/en/surah-al-mujadilah-written-in-large-font-22-verses-with-english-translation/"
+    },
+    {
+      "id": 8026,
+      "surah": 59,
+      "nameAr": "الحشر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%b4%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-24-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-hashr-written-in-large-font-24-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%b4%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-24-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-hashr-written-in-large-font-24-verses-with-english-translation/"
+    },
+    {
+      "id": 8027,
+      "surah": 60,
+      "nameAr": "الممتحنة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%ad%d9%86%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-13-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7",
+      "enSlug": "surah-al-mumtahanah-written-in-large-font-13-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%ad%d9%86%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-13-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7/",
+      "enUrl": "/en/surah-al-mumtahanah-written-in-large-font-13-verses-with-english-translation/"
+    },
+    {
+      "id": 8028,
+      "surah": 61,
+      "nameAr": "الصف",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-14-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-as-saff-written-in-large-font-14-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d9%81-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-14-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-as-saff-written-in-large-font-14-verses-with-english-translation/"
+    },
+    {
+      "id": 8029,
+      "surah": 62,
+      "nameAr": "الجمعة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-jumu-ah-written-in-large-font-11-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-jumu-ah-written-in-large-font-11-verses-with-english-translation/"
+    },
+    {
+      "id": 8030,
+      "surah": 63,
+      "nameAr": "المنافقون",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d9%82%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9",
+      "enSlug": "surah-al-munafiqoon-written-in-large-font-11-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d9%82%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9/",
+      "enUrl": "/en/surah-al-munafiqoon-written-in-large-font-11-verses-with-english-translation/"
+    },
+    {
+      "id": 8031,
+      "surah": 64,
+      "nameAr": "التغابن",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ba%d8%a7%d8%a8%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-18-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-at-taghabun-written-in-large-font-18-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ba%d8%a7%d8%a8%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-18-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-at-taghabun-written-in-large-font-18-verses-with-english-translation/"
+    },
+    {
+      "id": 8032,
+      "surah": 65,
+      "nameAr": "الطلاق",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-12-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-at-talaq-written-in-large-font-12-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-12-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-at-talaq-written-in-large-font-12-verses-with-english-translation/"
+    },
+    {
+      "id": 8033,
+      "surah": 66,
+      "nameAr": "التحريم",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-12-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-at-tahrim-written-in-large-font-12-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-12-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-at-tahrim-written-in-large-font-12-verses-with-english-translation/"
+    },
+    {
+      "id": 8034,
+      "surah": 67,
+      "nameAr": "الملك",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-mulk-written-in-large-font-30-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-mulk-written-in-large-font-30-verses-with-english-translation/"
+    },
+    {
+      "id": 8035,
+      "surah": 68,
+      "nameAr": "القلم",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%84%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-52-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-qalam-written-in-large-font-52-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%84%d9%85-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-52-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-qalam-written-in-large-font-52-verses-with-english-translation/"
+    },
+    {
+      "id": 8036,
+      "surah": 69,
+      "nameAr": "الحاقة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d9%82%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-52-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-haaqqah-written-in-large-font-52-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d9%82%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-52-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-haaqqah-written-in-large-font-52-verses-with-english-translation/"
+    },
+    {
+      "id": 8037,
+      "surah": 70,
+      "nameAr": "المعارج",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%ac-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-44-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-ma-arij-written-in-large-font-44-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%ac-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-44-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-ma-arij-written-in-large-font-44-verses-with-english-translation/"
+    },
+    {
+      "id": 8038,
+      "surah": 71,
+      "nameAr": "نوح",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85",
+      "enSlug": "surah-nooh-written-in-large-font-28-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%86%d9%88%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85/",
+      "enUrl": "/en/surah-nooh-written-in-large-font-28-verses-with-english-translation/"
+    },
+    {
+      "id": 8039,
+      "surah": 72,
+      "nameAr": "الجن",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-al-jinn-written-in-large-font-28-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ac%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-28-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-al-jinn-written-in-large-font-28-verses-with-english-translation/"
+    },
+    {
+      "id": 8040,
+      "surah": 73,
+      "nameAr": "المزمل",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b2%d9%85%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-20-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-muzzammil-written-in-large-font-20-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b2%d9%85%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-20-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-muzzammil-written-in-large-font-20-verses-with-english-translation/"
+    },
+    {
+      "id": 8041,
+      "surah": 74,
+      "nameAr": "المدثر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-56-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-muddaththir-written-in-large-font-56-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-56-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-muddaththir-written-in-large-font-56-verses-with-english-translation/"
+    },
+    {
+      "id": 8042,
+      "surah": 75,
+      "nameAr": "القيامة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d9%85%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-40-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-qiyamah-written-in-large-font-40-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d9%85%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-40-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-qiyamah-written-in-large-font-40-verses-with-english-translation/"
+    },
+    {
+      "id": 8043,
+      "surah": 76,
+      "nameAr": "الإنسان",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-31-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-insan-written-in-large-font-31-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-31-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-insan-written-in-large-font-31-verses-with-english-translation/"
+    },
+    {
+      "id": 8044,
+      "surah": 85,
+      "nameAr": "البروج",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d8%ac-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-22-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-burooj-written-in-large-font-22-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d8%ac-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-22-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-burooj-written-in-large-font-22-verses-with-english-translation/"
+    },
+    {
+      "id": 8045,
+      "surah": 86,
+      "nameAr": "الطارق",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-at-tariq-written-in-large-font-17-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-at-tariq-written-in-large-font-17-verses-with-english-translation/"
+    },
+    {
+      "id": 8046,
+      "surah": 87,
+      "nameAr": "الأعلى",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-a-la-written-in-large-font-19-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-a-la-written-in-large-font-19-verses-with-english-translation/"
+    },
+    {
+      "id": 8047,
+      "surah": 88,
+      "nameAr": "الغاشية",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-ghashiya-written-in-large-font-26-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-ghashiya-written-in-large-font-26-verses-with-english-translation/"
+    },
+    {
+      "id": 8048,
+      "surah": 89,
+      "nameAr": "الفجر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-fajr-written-in-large-font-30-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-fajr-written-in-large-font-30-verses-with-english-translation/"
+    },
+    {
+      "id": 8049,
+      "surah": 90,
+      "nameAr": "البلد",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%84%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-20-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-balad-written-in-large-font-20-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%84%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-20-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-balad-written-in-large-font-20-verses-with-english-translation/"
+    },
+    {
+      "id": 8050,
+      "surah": 91,
+      "nameAr": "الشمس",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%85%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-15-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-ash-shams-written-in-large-font-15-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d9%85%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-15-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-ash-shams-written-in-large-font-15-verses-with-english-translation/"
+    },
+    {
+      "id": 8051,
+      "surah": 92,
+      "nameAr": "الليل",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-layl-written-in-large-font-21-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-21-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-layl-written-in-large-font-21-verses-with-english-translation/"
+    },
+    {
+      "id": 8052,
+      "surah": 93,
+      "nameAr": "الضحى",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-ad-dhuha-written-in-large-font-11-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-ad-dhuha-written-in-large-font-11-verses-with-english-translation/"
+    },
+    {
+      "id": 8053,
+      "surah": 94,
+      "nameAr": "الشرح",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-as-sharh-written-in-large-font-8-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%ad-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-as-sharh-written-in-large-font-8-verses-with-english-translation/"
+    },
+    {
+      "id": 8054,
+      "surah": 95,
+      "nameAr": "التين",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-at-tin-written-in-large-font-8-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-at-tin-written-in-large-font-8-verses-with-english-translation/"
+    },
+    {
+      "id": 8055,
+      "surah": 96,
+      "nameAr": "العلق",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-alaq-written-in-large-font-19-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-alaq-written-in-large-font-19-verses-with-english-translation/"
+    },
+    {
+      "id": 8056,
+      "surah": 97,
+      "nameAr": "القدر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-qadr-written-in-large-font-5-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-qadr-written-in-large-font-5-verses-with-english-translation/"
+    },
+    {
+      "id": 8057,
+      "surah": 98,
+      "nameAr": "البينة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d9%86%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-bayyinah-written-in-large-font-8-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d9%86%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-bayyinah-written-in-large-font-8-verses-with-english-translation/"
+    },
+    {
+      "id": 8058,
+      "surah": 99,
+      "nameAr": "الزلزلة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d9%84%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-az-zalzalah-written-in-large-font-8-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d9%84%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-az-zalzalah-written-in-large-font-8-verses-with-english-translation/"
+    },
+    {
+      "id": 8059,
+      "surah": 100,
+      "nameAr": "العاديات",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7",
+      "enSlug": "surah-al-adiyat-written-in-large-font-11-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d8%a7%d8%aa-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7/",
+      "enUrl": "/en/surah-al-adiyat-written-in-large-font-11-verses-with-english-translation/"
+    },
+    {
+      "id": 8060,
+      "surah": 101,
+      "nameAr": "القارعة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-qari-ah-written-in-large-font-11-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d8%b9%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-qari-ah-written-in-large-font-11-verses-with-english-translation/"
+    },
+    {
+      "id": 8061,
+      "surah": 102,
+      "nameAr": "التكاثر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d8%a7%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-at-takathur-written-in-large-font-8-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d8%a7%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-8-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-at-takathur-written-in-large-font-8-verses-with-english-translation/"
+    },
+    {
+      "id": 8062,
+      "surah": 103,
+      "nameAr": "العصر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b5%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-asr-written-in-large-font-3-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b5%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-asr-written-in-large-font-3-verses-with-english-translation/"
+    },
+    {
+      "id": 8063,
+      "surah": 104,
+      "nameAr": "الهمزة",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d9%85%d8%b2%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-9-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-humazah-written-in-large-font-9-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d9%85%d8%b2%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-9-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-humazah-written-in-large-font-9-verses-with-english-translation/"
+    },
+    {
+      "id": 8064,
+      "surah": 105,
+      "nameAr": "الفيل",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-fil-written-in-large-font-5-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%8a%d9%84-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-fil-written-in-large-font-5-verses-with-english-translation/"
+    },
+    {
+      "id": 8065,
+      "surah": 106,
+      "nameAr": "قريش",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d9%82%d8%b1%d9%8a%d8%b4-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-4-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac",
+      "enSlug": "surah-quraish-written-in-large-font-4-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d9%82%d8%b1%d9%8a%d8%b4-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-4-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac/",
+      "enUrl": "/en/surah-quraish-written-in-large-font-4-verses-with-english-translation/"
+    },
+    {
+      "id": 8066,
+      "surah": 107,
+      "nameAr": "الماعون",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d8%b9%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-7-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+      "enSlug": "surah-al-ma-un-written-in-large-font-7-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d8%b9%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-7-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "enUrl": "/en/surah-al-ma-un-written-in-large-font-7-verses-with-english-translation/"
+    },
+    {
+      "id": 8067,
+      "surah": 108,
+      "nameAr": "الكوثر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d9%88%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+      "enSlug": "surah-al-kauther-written-in-large-font-3-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d9%88%d8%ab%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "enUrl": "/en/surah-al-kauther-written-in-large-font-3-verses-with-english-translation/"
+    },
+    {
+      "id": 8068,
+      "surah": 109,
+      "nameAr": "الكافرون",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-6-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7",
+      "enSlug": "surah-al-kafiroon-written-in-large-font-6-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1%d9%88%d9%86-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-6-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7/",
+      "enUrl": "/en/surah-al-kafiroon-written-in-large-font-6-verses-with-english-translation/"
+    },
+    {
+      "id": 8069,
+      "surah": 110,
+      "nameAr": "النصر",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-an-nasr-written-in-large-font-3-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-3-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-an-nasr-written-in-large-font-3-verses-with-english-translation/"
+    },
+    {
+      "id": 8070,
+      "surah": 111,
+      "nameAr": "المسد",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-masad-written-in-large-font-5-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%af-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-masad-written-in-large-font-5-verses-with-english-translation/"
+    },
+    {
+      "id": 8071,
+      "surah": 113,
+      "nameAr": "الفلق",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-al-falaq-written-in-large-font-5-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-al-falaq-written-in-large-font-5-verses-with-english-translation/"
+    },
+    {
+      "id": 8072,
+      "surah": 114,
+      "nameAr": "الناس",
+      "arSlug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a7%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-6-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+      "enSlug": "surah-an-nas-written-in-large-font-6-verses-with-english-translation",
+      "arUrl": "/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%a7%d8%b3-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-6-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "enUrl": "/en/surah-an-nas-written-in-large-font-6-verses-with-english-translation/"
+    }
+  ]
+}

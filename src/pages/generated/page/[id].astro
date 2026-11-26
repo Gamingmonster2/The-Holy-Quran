@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Sidebar from '../../../components/Sidebar.astro';
+import { t } from '../../../lib/i18n.mjs';
 import { getPages } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
@@ -11,23 +12,26 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
+const lang = page.lang;
 ---
 
 <BaseLayout
   title={page.seoTitle}
   description={page.seoDescription}
   canonical={page.canonical}
+  ogImage={page.ogImage}
   schema={page.schema}
   robots={page.robots}
+  lang={lang}
 >
   <div class="qb-layout">
     <div class="qb-content">
       <article class="qb-article">
-        <nav class="breadcrumbs"><a href="/">الرئيسية</a> / <span>{page.title}</span></nav>
+        <nav class="breadcrumbs"><a href="/">{t(lang, 'home')}</a> / <span>{page.title}</span></nav>
         <header class="qb-article-header"><h1>{page.title}</h1></header>
         <div class="prose-quran" set:html={page.html} />
       </article>
     </div>
-    <Sidebar />
+    <Sidebar lang={lang} />
   </div>
 </BaseLayout>

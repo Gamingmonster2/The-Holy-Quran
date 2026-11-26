@@ -1,0 +1,62 @@
+{
+  "id": 8046,
+  "date": "2026-11-25T22:45:00+00:00",
+  "modified": "2026-11-25T22:45:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+  "title": {
+    "rendered": "سورة الأعلى مكتوبة بخط كبير: 19 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الأعلى مكتوبة بخط كبير، وعدد آياتها 19، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الأعلى</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087001.mp3');\">سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى <span class=\"sora_name_by_sora\">الأعلى [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087002.mp3');\">الَّذِي خَلَقَ فَسَوَّىٰ <span class=\"sora_name_by_sora\">الأعلى [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087003.mp3');\">وَالَّذِي قَدَّرَ فَهَدَىٰ <span class=\"sora_name_by_sora\">الأعلى [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087004.mp3');\">وَالَّذِي أَخْرَجَ الْمَرْعَىٰ <span class=\"sora_name_by_sora\">الأعلى [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087005.mp3');\">فَجَعَلَهُ غُثَاءً أَحْوَىٰ <span class=\"sora_name_by_sora\">الأعلى [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087006.mp3');\">سَنُقْرِئُكَ فَلَا تَنسَىٰ <span class=\"sora_name_by_sora\">الأعلى [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087007.mp3');\">إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ <span class=\"sora_name_by_sora\">الأعلى [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087008.mp3');\">وَنُيَسِّرُكَ لِلْيُسْرَىٰ <span class=\"sora_name_by_sora\">الأعلى [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087009.mp3');\">فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ <span class=\"sora_name_by_sora\">الأعلى [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087010.mp3');\">سَيَذَّكَّرُ مَن يَخْشَىٰ <span class=\"sora_name_by_sora\">الأعلى [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087011.mp3');\">وَيَتَجَنَّبُهَا الْأَشْقَى <span class=\"sora_name_by_sora\">الأعلى [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087012.mp3');\">الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ <span class=\"sora_name_by_sora\">الأعلى [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087013.mp3');\">ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ <span class=\"sora_name_by_sora\">الأعلى [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087014.mp3');\">قَدْ أَفْلَحَ مَن تَزَكَّىٰ <span class=\"sora_name_by_sora\">الأعلى [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087015.mp3');\">وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ <span class=\"sora_name_by_sora\">الأعلى [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087016.mp3');\">بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا <span class=\"sora_name_by_sora\">الأعلى [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087017.mp3');\">وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ <span class=\"sora_name_by_sora\">الأعلى [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087018.mp3');\">إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ <span class=\"sora_name_by_sora\">الأعلى [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/087019.mp3');\">صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ <span class=\"sora_name_by_sora\">الأعلى [19]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الأعلى مكتوبة بخط كبير، وعدد آياتها 19، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الأعلى مكتوبة بخط كبير: 19 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الأعلى مكتوبة بخط كبير، وعدد آياتها 19، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الأعلى مكتوبة بخط كبير: 19 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الأعلى مكتوبة بخط كبير، وعدد آياتها 19، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-08.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الأعلى مكتوبة بخط كبير: 19 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:45:00+00:00",
+      "dateModified": "2026-11-25T22:45:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-19-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-08.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 87
+}

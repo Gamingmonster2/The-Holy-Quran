@@ -1,11 +1,6 @@
 ---
-import BaseLayout from '../../../layouts/BaseLayout.astro';
-import Sidebar from '../../../components/Sidebar.astro';
-import PostCard from '../../../components/PostCard.astro';
-import FontControls from '../../../components/FontControls.jsx';
-import {
-  getPosts, getCover, getCategoryNames, getTagNames, relatedPosts, plainText, getIntro,
-} from '../../../lib/content.mjs';
+import PostPage from '../../../components/PostPage.astro';
+import { getPosts } from '../../../lib/content.mjs';
 
 export function getStaticPaths() {
   return getPosts().map((post) => ({
@@ -15,74 +10,6 @@ export function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const cover = getCover(post);
-const categories = getCategoryNames(post);
-const tags = getTagNames(post);
-const related = relatedPosts(post, 4);
-const intro = getIntro(post);
-const words = plainText(post.html).split(/\s+/).filter(Boolean).length;
-const reading = Math.max(1, Math.round(words / 220));
 ---
 
-<BaseLayout
-  title={post.seoTitle}
-  description={post.seoDescription}
-  canonical={post.canonical}
-  ogImage={post.ogImage || cover}
-  schema={post.schema}
-  robots={post.robots}
->
-  <div class="qb-layout">
-    <div class="qb-content">
-      <article class="qb-article">
-        <nav class="breadcrumbs">
-          <a href="/">الرئيسية</a> /
-          <a href="/blog/">المقالات</a> /
-          {categories[0] && <span>{categories[0]}</span>}
-        </nav>
-        <header class="qb-article-header">
-          <h1>{post.title}</h1>
-          <div class="qb-article-meta">
-            <span>آخر تحديث: {(post.modified || post.date || '').slice(0, 10)}</span>
-            {categories.map((c) => <span class="qb-chip">{c}</span>)}
-            <span>قراءة ≈ {reading} دقيقة</span>
-          </div>
-        </header>
-
-        <div class="qb-article-cover"><img src={cover} data-original-src={post.ogImage || ''} alt="" loading="eager" /></div>
-
-        <div class="qb-actions">
-          <div class="qb-font-controls"><FontControls client:idle /></div>
-        </div>
-
-        {intro && (
-          <div class="qb-article-intro">
-            <span class="qb-intro-label">مقدمة</span>
-            <p>{intro}</p>
-          </div>
-        )}
-
-        <div class="prose-quran" set:html={post.html} />
-
-        {tags.length > 0 && (
-          <div class="qb-tags">
-            {tags.map((t) => <span class="qb-chip">{t}</span>)}
-          </div>
-        )}
-      </article>
-
-      {related.length > 0 && (
-        <section class="qb-section">
-          <div class="qb-section-head">
-            <div><h2 class="qb-section-title">مقالات ذات صلة</h2></div>
-            <a href="/blog/">كل المقالات ←</a>
-          </div>
-          <div class="qb-grid">
-            {related.map((p) => <PostCard post={p} summary={false} />)}
-          </div>
-        </section>
-      )}
-    </div>
-    <Sidebar showReader={true} />
-  </div>
-</BaseLayout>
+<PostPage post={post} lang={post.lang || 'ar'} />

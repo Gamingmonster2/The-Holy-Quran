@@ -3,6 +3,7 @@ import '../styles/global.css';
 import SearchBox from '../components/SearchBox.jsx';
 import ThemeToggle from '../components/ThemeToggle.jsx';
 import { resolveAsset } from '../lib/content.mjs';
+import { t, translations } from '../lib/i18n.mjs';
 
 interface Props {
   title: string;
@@ -13,6 +14,8 @@ interface Props {
   robots?: string;
   bodyClass?: string;
   wide?: boolean;
+  lang?: 'ar' | 'en';
+  alternates?: Array<{ lang: string; href: string }>;
 }
 
 const {
@@ -24,58 +27,54 @@ const {
   robots = '',
   bodyClass = '',
   wide = false,
+  lang = 'ar',
+  alternates = [],
 } = Astro.props;
+const ui = translations(lang);
 const site = Astro.site ? new URL(Astro.site).origin : 'https://quranbook.org';
 const canonicalUrl = canonical
   ? (canonical.startsWith('http') ? canonical : site + canonical)
   : site + Astro.url.pathname;
+const finalDescription = String(description || '').trim()
+  || `${String(title || '').replace(/<[^>]+>/g, '').trim()} — ${ui.siteName}`.trim();
+const pageSchema = schema || {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: String(title || '').replace(/<[^>]+>/g, '').trim(),
+  description: finalDescription,
+  url: canonicalUrl,
+  inLanguage: lang,
+  isPartOf: { '@type': 'WebSite', name: ui.siteName, url: site + '/' },
+};
 const logo = '/wp-content/uploads/2025/10/image_fx_create_an_elegant_and_simple_logo_for_a_qura33333333333-150x150.avif';
-const ogPath = resolveAsset(ogImage);
+const ogPath = resolveAsset(ogImage || logo);
 const ogUrl = ogPath ? (ogPath.startsWith('/') ? site + ogPath : ogPath) : '';
 
-const primary = [
-  { label: 'القرآن الكريم', href: '/quranonline/' },
-  { label: 'المصحف والاستماع', href: '/quran/' },
-  { label: 'تلاوة', href: 'https://tilawatayat.blogspot.com/', external: true },
-  { label: 'مكتبة التفاسير والكتب الإسلامية', href: '/%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/' },
-  { label: 'Blog', href: '/blog/' },
-];
-const footerSite = [
-  ['About', '/about/'], ['Blog', '/blog/'], ['Contact', '/contact/'],
-  ['Digital Quran Repository', '/quranonline/'], ['Quran Book', '/'],
-];
-const footerQuran = [
-  ['آية الكرسي', 'https://quran.com/ayatul-kursi'], ['سورة يس', 'https://quran.com/ya-sin'],
-  ['سورة الملك', 'https://quran.com/al-mulk'], ['سورة الرّحمن', 'https://quran.com/ar-rahman'],
-  ['سورة الواقعة', 'https://quran.com/al-waqiah'], ['سورة الكهف', 'https://quran.com/al-kahf'],
-  ['سورة المزّمّل', 'https://quran.com/al-muzzammil'],
-];
-const footerSources = [
-  ['QuranicAudio.com', 'https://quranicaudio.com/'], ['Salah.com', 'https://salah.com/'],
-  ['Sunnah.com', 'https://sunnah.com/'], ['Legacy.Quran.com', 'https://legacy.quran.com/'],
-  ['Corpus.Quran.com', 'https://corpus.quran.com/'], ['QuranReflect.com', 'https://quranreflect.com/'],
-  ['Tarteel.ai', 'https://www.tarteel.ai/'],
-];
+const primary = ui.nav.map(([label, href, external]) => ({ label, href, external: Boolean(external) }));
+const footerSite = ui.footerSite;
+const footerQuran = ui.footerQuran;
+const footerSources = ui.footerSources;
 ---
 
 <!doctype html>
-<html lang="ar" dir="rtl" data-theme="light">
+<html lang={lang} dir={lang === 'en' ? 'ltr' : 'rtl'} data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
-    {description && <meta name="description" content={description} />}
+    <meta name="description" content={finalDescription} />
     <link rel="canonical" href={canonicalUrl} />
+    {alternates.map((alt) => <link rel="alternate" hreflang={alt.lang} href={alt.href.startsWith('http') ? alt.href : site + alt.href} />)}
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
-    {description && <meta property="og:description" content={description} />}
+    <meta property="og:description" content={finalDescription} />
     <meta property="og:url" content={canonicalUrl} />
     {ogUrl && <meta property="og:image" content={ogUrl} />}
     <meta name="twitter:card" content="summary_large_image" />
     {robots && <meta name="robots" content={robots} />}
-    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g, '\\u003c')} />}
+    <script type="application/ld+json" set:html={JSON.stringify(pageSchema).replace(/</g, '\\u003c')} />
     <link rel="alternate" type="application/rss+xml" title="quranbook.org" href="/feed.xml" />
     <!-- أصول إضافة Quran Gateway الأصلية (خط + تنسيق الآيات) -->
     <link rel="stylesheet" href="/quran-gateway/style.css" />
@@ -87,29 +86,34 @@ const footerSources = [
     </script>
   </head>
   <body class:list={['qb-body', bodyClass]}>
-    <a class="skip-link" href="#main">التجاوز إلى المحتوى</a>
+    <a class="skip-link" href="#main">{t(lang, 'skip')}</a>
 
     <header class="site-header">
       <div class:list={['header-inner', wide && 'header-wide']}>
-        <a class="brand" href="/" aria-label="الصفحة الرئيسية">
+        <a class="brand" href="/" aria-label={t(lang, 'homeAria')}>
           <img src={logo} alt="" width="46" height="46" loading="eager" />
-          <span><strong>مكتبة القرآن الكريم</strong><small>QuranBook.org</small></span>
+          <span><strong>{ui.siteName}</strong><small>{ui.siteDomain}</small></span>
         </a>
-        <nav class="main-nav" aria-label="القائمة الرئيسية">
+        <nav class="main-nav" aria-label={t(lang, 'navAria')}>
           {primary.map((item) => (
             <a href={item.href} {...(item.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{item.label}</a>
           ))}
         </nav>
         <div class="header-tools">
-          <SearchBox client:idle />
+          {alternates.length > 0 && (
+            <a class="qb-lang-switch" href={alternates.find((a) => a.lang !== lang)?.href} hreflang={alternates.find((a) => a.lang !== lang)?.lang}>
+              {lang === 'ar' ? t(lang, 'languageEn') : t(lang, 'languageAr')}
+            </a>
+          )}
+          <SearchBox client:idle lang={lang} />
           <ThemeToggle client:load />
         </div>
         <details class="mobile-menu">
-          <summary aria-label="القائمة">☰</summary>
+          <summary aria-label={t(lang, 'menuAria')}>☰</summary>
           <div class="mobile-menu-panel">
             {primary.map((item) => <a href={item.href}>{item.label}</a>)}
-            <a href="/category/">التصنيفات</a>
-            <a href="/tag/">الوسوم</a>
+            <a href="/category/">{t(lang, 'categories')}</a>
+            <a href="/tag/">{t(lang, 'tags')}</a>
           </div>
         </details>
       </div>
@@ -123,25 +127,25 @@ const footerSources = [
       <div class="footer-inner">
         <div class="footer-brand">
           <img src={logo} alt="" width="52" height="52" loading="lazy" />
-          <h2>مكتبة القرآن الكريم</h2>
-          <p>مصحف وتفاسير ومقالات، بقراءة هادئة وتجربة مريحة للعين.</p>
+          <h2>{ui.siteName}</h2>
+          <p>{ui.siteDescription}</p>
         </div>
         <div class="footer-col">
-          <h3>الموقع</h3>
+          <h3>{t(lang, 'footerSiteHeading')}</h3>
           {footerSite.map(([label, href]) => <a href={href}>{label}</a>)}
         </div>
         <div class="footer-col">
-          <h3>القرآن الكريم</h3>
+          <h3>{t(lang, 'footerQuranHeading')}</h3>
           {footerQuran.map(([label, href]) => <a href={href} target="_blank" rel="noopener noreferrer">{label}</a>)}
         </div>
         <div class="footer-col">
-          <h3>مصادر مفيدة</h3>
+          <h3>{t(lang, 'footerSourcesHeading')}</h3>
           {footerSources.map(([label, href]) => <a href={href} target="_blank" rel="noopener noreferrer">{label}</a>)}
         </div>
       </div>
       <div class="footer-bottom">
-        <span>© QuranBook.org — Copyright is available to all Muslims</span>
-        <span><a href="/sitemap.xml">خريطة الموقع</a> · <a href="/robots.txt">robots.txt</a> · <a href="https://salah.com/" target="_blank" rel="noopener noreferrer">مواقيت الصلاة</a></span>
+        <span>{t(lang, 'copyright')}</span>
+        <span><a href="/sitemap.xml">{t(lang, 'sitemap')}</a> · <a href="/robots.txt">{lang === 'ar' ? 'ملف الروبوت' : 'robots.txt'}</a> · <a href="https://salah.com/" target="_blank" rel="noopener noreferrer">{t(lang, 'prayerTimes')}</a></span>
       </div>
     </footer>
 

@@ -1,0 +1,62 @@
+{
+  "id": 8071,
+  "date": "2026-11-25T23:10:00+00:00",
+  "modified": "2026-11-25T23:10:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+  "title": {
+    "rendered": "سورة الفلق مكتوبة بخط كبير: 5 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الفلق مكتوبة بخط كبير، وعدد آياتها 5، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الفلق</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/113001.mp3');\">قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ <span class=\"sora_name_by_sora\">الفلق [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/113002.mp3');\">مِن شَرِّ مَا خَلَقَ <span class=\"sora_name_by_sora\">الفلق [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/113003.mp3');\">وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ <span class=\"sora_name_by_sora\">الفلق [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/113004.mp3');\">وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ <span class=\"sora_name_by_sora\">الفلق [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/113005.mp3');\">وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ <span class=\"sora_name_by_sora\">الفلق [5]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الفلق مكتوبة بخط كبير، وعدد آياتها 5، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الفلق مكتوبة بخط كبير: 5 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الفلق مكتوبة بخط كبير، وعدد آياتها 5، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الفلق مكتوبة بخط كبير: 5 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الفلق مكتوبة بخط كبير، وعدد آياتها 5، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-04.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الفلق مكتوبة بخط كبير: 5 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T23:10:00+00:00",
+      "dateModified": "2026-11-25T23:10:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%84%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-5-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-04.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 113
+}

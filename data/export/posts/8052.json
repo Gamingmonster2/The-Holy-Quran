@@ -1,0 +1,62 @@
+{
+  "id": 8052,
+  "date": "2026-11-25T22:51:00+00:00",
+  "modified": "2026-11-25T22:51:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+  "title": {
+    "rendered": "سورة الضحى مكتوبة بخط كبير: 11 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الضحى مكتوبة بخط كبير، وعدد آياتها 11، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الضحى</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093001.mp3');\">وَالضُّحَىٰ <span class=\"sora_name_by_sora\">الضحى [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093002.mp3');\">وَاللَّيْلِ إِذَا سَجَىٰ <span class=\"sora_name_by_sora\">الضحى [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093003.mp3');\">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ <span class=\"sora_name_by_sora\">الضحى [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093004.mp3');\">وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ <span class=\"sora_name_by_sora\">الضحى [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093005.mp3');\">وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ <span class=\"sora_name_by_sora\">الضحى [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093006.mp3');\">أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ <span class=\"sora_name_by_sora\">الضحى [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093007.mp3');\">وَوَجَدَكَ ضَالًّا فَهَدَىٰ <span class=\"sora_name_by_sora\">الضحى [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093008.mp3');\">وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ <span class=\"sora_name_by_sora\">الضحى [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093009.mp3');\">فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ <span class=\"sora_name_by_sora\">الضحى [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093010.mp3');\">وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ <span class=\"sora_name_by_sora\">الضحى [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/093011.mp3');\">وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ <span class=\"sora_name_by_sora\">الضحى [11]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الضحى مكتوبة بخط كبير، وعدد آياتها 11، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الضحى مكتوبة بخط كبير: 11 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الضحى مكتوبة بخط كبير، وعدد آياتها 11، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الضحى مكتوبة بخط كبير: 11 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الضحى مكتوبة بخط كبير، وعدد آياتها 11، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-04.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الضحى مكتوبة بخط كبير: 11 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:51:00+00:00",
+      "dateModified": "2026-11-25T22:51:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b6%d8%ad%d9%89-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-11-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-04.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 93
+}

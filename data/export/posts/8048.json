@@ -1,0 +1,62 @@
+{
+  "id": 8048,
+  "date": "2026-11-25T22:47:00+00:00",
+  "modified": "2026-11-25T22:47:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+  "title": {
+    "rendered": "سورة الفجر مكتوبة بخط كبير: 30 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الفجر مكتوبة بخط كبير، وعدد آياتها 30، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الفجر</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089001.mp3');\">وَالْفَجْرِ <span class=\"sora_name_by_sora\">الفجر [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089002.mp3');\">وَلَيَالٍ عَشْرٍ <span class=\"sora_name_by_sora\">الفجر [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089003.mp3');\">وَالشَّفْعِ وَالْوَتْرِ <span class=\"sora_name_by_sora\">الفجر [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089004.mp3');\">وَاللَّيْلِ إِذَا يَسْرِ <span class=\"sora_name_by_sora\">الفجر [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089005.mp3');\">هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ <span class=\"sora_name_by_sora\">الفجر [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089006.mp3');\">أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ <span class=\"sora_name_by_sora\">الفجر [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089007.mp3');\">إِرَمَ ذَاتِ الْعِمَادِ <span class=\"sora_name_by_sora\">الفجر [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089008.mp3');\">الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ <span class=\"sora_name_by_sora\">الفجر [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089009.mp3');\">وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ <span class=\"sora_name_by_sora\">الفجر [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089010.mp3');\">وَفِرْعَوْنَ ذِي الْأَوْتَادِ <span class=\"sora_name_by_sora\">الفجر [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089011.mp3');\">الَّذِينَ طَغَوْا فِي الْبِلَادِ <span class=\"sora_name_by_sora\">الفجر [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089012.mp3');\">فَأَكْثَرُوا فِيهَا الْفَسَادَ <span class=\"sora_name_by_sora\">الفجر [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089013.mp3');\">فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ <span class=\"sora_name_by_sora\">الفجر [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089014.mp3');\">إِنَّ رَبَّكَ لَبِالْمِرْصَادِ <span class=\"sora_name_by_sora\">الفجر [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089015.mp3');\">فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ <span class=\"sora_name_by_sora\">الفجر [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089016.mp3');\">وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ <span class=\"sora_name_by_sora\">الفجر [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089017.mp3');\">كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ <span class=\"sora_name_by_sora\">الفجر [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089018.mp3');\">وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ <span class=\"sora_name_by_sora\">الفجر [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089019.mp3');\">وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا <span class=\"sora_name_by_sora\">الفجر [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089020.mp3');\">وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا <span class=\"sora_name_by_sora\">الفجر [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089021.mp3');\">كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا <span class=\"sora_name_by_sora\">الفجر [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089022.mp3');\">وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا <span class=\"sora_name_by_sora\">الفجر [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089023.mp3');\">وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ <span class=\"sora_name_by_sora\">الفجر [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089024.mp3');\">يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي <span class=\"sora_name_by_sora\">الفجر [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089025.mp3');\">فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ <span class=\"sora_name_by_sora\">الفجر [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089026.mp3');\">وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ <span class=\"sora_name_by_sora\">الفجر [26]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089027.mp3');\">يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ <span class=\"sora_name_by_sora\">الفجر [27]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089028.mp3');\">ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً <span class=\"sora_name_by_sora\">الفجر [28]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089029.mp3');\">فَادْخُلِي فِي عِبَادِي <span class=\"sora_name_by_sora\">الفجر [29]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/089030.mp3');\">وَادْخُلِي جَنَّتِي <span class=\"sora_name_by_sora\">الفجر [30]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الفجر مكتوبة بخط كبير، وعدد آياتها 30، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الفجر مكتوبة بخط كبير: 30 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الفجر مكتوبة بخط كبير، وعدد آياتها 30، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الفجر مكتوبة بخط كبير: 30 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الفجر مكتوبة بخط كبير، وعدد آياتها 30، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-10.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الفجر مكتوبة بخط كبير: 30 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:47:00+00:00",
+      "dateModified": "2026-11-25T22:47:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-30-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-10.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 89
+}

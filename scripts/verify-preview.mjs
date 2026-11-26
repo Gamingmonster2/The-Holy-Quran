@@ -48,6 +48,11 @@ const canonical = (html) => {
   return m ? m[1] : '';
 };
 
+// المقالات الستة بلا نص مرئي حُذفت وعُيّنت إعادة توجيه 301 إلى الرئيسية.
+const EXPECTED_REDIRECTS = new Set([
+  '/562-2/', '/563-2/', '/564-2/', '/565-2/', '/566-2/', '/581-2/',
+]);
+
 let i = 0;
 const failures = [];
 const t0 = Date.now();
@@ -59,6 +64,7 @@ async function check(p) {
     try {
       const res = await fetch(BASE + p, { redirect: 'manual', signal: AbortSignal.timeout(30000) });
       const html = await res.text();
+      if (res.status === 301 && EXPECTED_REDIRECTS.has(p)) return;
       if (res.status !== 200) {
         last = { path: p, status: res.status, attempt };
       } else if (!STATUS_ONLY && want && !/author-sitemap/.test(want.sitemap)) {

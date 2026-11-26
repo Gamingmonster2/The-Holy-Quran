@@ -1,0 +1,62 @@
+{
+  "id": 8047,
+  "date": "2026-11-25T22:46:00+00:00",
+  "modified": "2026-11-25T22:46:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+  "title": {
+    "rendered": "سورة الغاشية مكتوبة بخط كبير: 26 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الغاشية مكتوبة بخط كبير، وعدد آياتها 26، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الغاشية</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088001.mp3');\">هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ <span class=\"sora_name_by_sora\">الغاشية [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088002.mp3');\">وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ <span class=\"sora_name_by_sora\">الغاشية [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088003.mp3');\">عَامِلَةٌ نَّاصِبَةٌ <span class=\"sora_name_by_sora\">الغاشية [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088004.mp3');\">تَصْلَىٰ نَارًا حَامِيَةً <span class=\"sora_name_by_sora\">الغاشية [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088005.mp3');\">تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ <span class=\"sora_name_by_sora\">الغاشية [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088006.mp3');\">لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ <span class=\"sora_name_by_sora\">الغاشية [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088007.mp3');\">لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ <span class=\"sora_name_by_sora\">الغاشية [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088008.mp3');\">وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ <span class=\"sora_name_by_sora\">الغاشية [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088009.mp3');\">لِّسَعْيِهَا رَاضِيَةٌ <span class=\"sora_name_by_sora\">الغاشية [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088010.mp3');\">فِي جَنَّةٍ عَالِيَةٍ <span class=\"sora_name_by_sora\">الغاشية [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088011.mp3');\">لَّا تَسْمَعُ فِيهَا لَاغِيَةً <span class=\"sora_name_by_sora\">الغاشية [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088012.mp3');\">فِيهَا عَيْنٌ جَارِيَةٌ <span class=\"sora_name_by_sora\">الغاشية [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088013.mp3');\">فِيهَا سُرُرٌ مَّرْفُوعَةٌ <span class=\"sora_name_by_sora\">الغاشية [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088014.mp3');\">وَأَكْوَابٌ مَّوْضُوعَةٌ <span class=\"sora_name_by_sora\">الغاشية [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088015.mp3');\">وَنَمَارِقُ مَصْفُوفَةٌ <span class=\"sora_name_by_sora\">الغاشية [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088016.mp3');\">وَزَرَابِيُّ مَبْثُوثَةٌ <span class=\"sora_name_by_sora\">الغاشية [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088017.mp3');\">أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ <span class=\"sora_name_by_sora\">الغاشية [17]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088018.mp3');\">وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ <span class=\"sora_name_by_sora\">الغاشية [18]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088019.mp3');\">وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ <span class=\"sora_name_by_sora\">الغاشية [19]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088020.mp3');\">وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ <span class=\"sora_name_by_sora\">الغاشية [20]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088021.mp3');\">فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ <span class=\"sora_name_by_sora\">الغاشية [21]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088022.mp3');\">لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ <span class=\"sora_name_by_sora\">الغاشية [22]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088023.mp3');\">إِلَّا مَن تَوَلَّىٰ وَكَفَرَ <span class=\"sora_name_by_sora\">الغاشية [23]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088024.mp3');\">فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ <span class=\"sora_name_by_sora\">الغاشية [24]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088025.mp3');\">إِنَّ إِلَيْنَا إِيَابَهُمْ <span class=\"sora_name_by_sora\">الغاشية [25]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/088026.mp3');\">ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم <span class=\"sora_name_by_sora\">الغاشية [26]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الغاشية مكتوبة بخط كبير، وعدد آياتها 26، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الغاشية مكتوبة بخط كبير: 26 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الغاشية مكتوبة بخط كبير، وعدد آياتها 26، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الغاشية مكتوبة بخط كبير: 26 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الغاشية مكتوبة بخط كبير، وعدد آياتها 26، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-09.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الغاشية مكتوبة بخط كبير: 26 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:46:00+00:00",
+      "dateModified": "2026-11-25T22:46:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%b4%d9%8a%d8%a9-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-26-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-09.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 88
+}

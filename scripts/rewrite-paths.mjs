@@ -103,6 +103,9 @@ for (const url of authorUrls) {
   fs.writeFileSync(
     dest,
     '<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8">' +
+      '<meta name="description" content="صفحة المؤلف في مكتبة القرآن الكريم">' +
+      `<link rel="canonical" href="${xmlEscape(url)}">` +
+      '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"المؤلف","inLanguage":"ar"}</script>' +
       '<meta name="robots" content="noindex,follow"><title>المؤلف</title></head>' +
       '<body><h1>صفحة المؤلف</h1><p><a href="/blog/">العودة إلى المقالات</a></p></body></html>',
     'utf8',
@@ -135,17 +138,74 @@ const quranSitemap =
   '\n  <url><loc>https://quranbook.org/quran/</loc></url>\n' +
   '</urlset>\n';
 fs.writeFileSync(path.join(DIST, 'quran-sitemap.xml'), quranSitemap, 'utf8');
+
+// النسخ الإنجليزية للمقالات المختلطة في خريطة مستقلة؛ خريطة الـ1968 لا تتغير.
+const translationsFile = path.join(ROOT, 'data', 'translations.json');
+const translations = fs.existsSync(translationsFile) ? readJson(translationsFile) : { posts: {} };
+const englishEntries = Object.values(translations.posts || {})
+  .filter((p) => p.englishSlug && !p.series)
+  .map((p) => {
+    const enUrl = `https://quranbook.org/en/${p.englishSlug}/`;
+    const arUrl = `https://quranbook.org${p.originalPath || ''}`;
+    return (
+      `  <url><loc>${xmlEscape(enUrl)}</loc>` +
+      `<xhtml:link rel="alternate" hreflang="en" href="${xmlEscape(enUrl)}" />` +
+      `<xhtml:link rel="alternate" hreflang="ar" href="${xmlEscape(arUrl)}" /></url>`
+    );
+  });
+const englishSitemap =
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' +
+  englishEntries.join('\n') +
+  '\n</urlset>\n';
+fs.writeFileSync(path.join(DIST, 'sitemap-en.xml'), englishSitemap, 'utf8');
+
+// سلسلة السور المكتوبة بخط كبير: خريطتان منفصلتان لا تغيّران الخرائط الأصلية.
+const seriesPosts = Object.entries(translations.posts || {}).filter(([, p]) => p.series);
+const seriesArSitemap =
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+  seriesPosts
+    .map(([, p]) => `  <url><loc>https://quranbook.org${xmlEscape(p.originalPath || '')}</loc></url>`)
+    .join('\n') +
+  '\n</urlset>\n';
+const seriesEnSitemap =
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' +
+  seriesPosts
+    .map(([, p]) => {
+      const enUrl = `https://quranbook.org/en/${p.englishSlug}/`;
+      const arUrl = `https://quranbook.org${p.originalPath || ''}`;
+      return (
+        `  <url><loc>${xmlEscape(enUrl)}</loc>` +
+        `<xhtml:link rel="alternate" hreflang="en" href="${xmlEscape(enUrl)}" />` +
+        `<xhtml:link rel="alternate" hreflang="ar" href="${xmlEscape(arUrl)}" /></url>`
+      );
+    })
+    .join('\n') +
+  '\n</urlset>\n';
+fs.writeFileSync(path.join(DIST, 'sitemap-series.xml'), seriesArSitemap, 'utf8');
+fs.writeFileSync(path.join(DIST, 'sitemap-series-en.xml'), seriesEnSitemap, 'utf8');
+
 fs.writeFileSync(
   path.join(DIST, 'robots.txt'),
-  'User-agent: *\nAllow: /\nSitemap: https://quranbook.org/sitemap.xml\nSitemap: https://quranbook.org/quran-sitemap.xml\n',
+  'User-agent: *\nAllow: /\n' +
+    'Sitemap: https://quranbook.org/sitemap.xml\n' +
+    'Sitemap: https://quranbook.org/sitemap-en.xml\n' +
+    'Sitemap: https://quranbook.org/sitemap-series.xml\n' +
+    'Sitemap: https://quranbook.org/sitemap-series-en.xml\n' +
+    'Sitemap: https://quranbook.org/quran-sitemap.xml\n',
   'utf8',
 );
 
 // 6) خلاصة RSS من أحدث 50 مقالة
 const postsForFeed = [];
+const EMPTY_POST_IDS = new Set([562, 563, 564, 565, 566, 581]);
 for (const file of fs.readdirSync(path.join(EXPORT, 'posts'))) {
   if (!file.endsWith('.json')) continue;
-  postsForFeed.push(readJson(path.join(EXPORT, 'posts', file)));
+  const post = readJson(path.join(EXPORT, 'posts', file));
+  if (EMPTY_POST_IDS.has(Number(post.id))) continue;
+  postsForFeed.push(post);
 }
 postsForFeed.sort((a, b) => (a.date < b.date ? 1 : -1));
 const feedItems = postsForFeed.slice(0, 50).map((p) => {

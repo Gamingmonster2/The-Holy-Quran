@@ -1,0 +1,62 @@
+{
+  "id": 8045,
+  "date": "2026-11-25T22:44:00+00:00",
+  "modified": "2026-11-25T22:44:00+00:00",
+  "slug": "%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa",
+  "status": "publish",
+  "link": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+  "title": {
+    "rendered": "سورة الطارق مكتوبة بخط كبير: 17 آية مع الترجمة الإنجليزية"
+  },
+  "content": {
+    "rendered": "<p class=\"wp-block-paragraph\">نقدم سورة الطارق مكتوبة بخط كبير، وعدد آياتها 17، مع تلاوة صوتية آية بآية.</p>\n\n\n<div style=\"background-color: #EAEAEA; padding: 15px; text-align: center;\">\n    <h2 style=\"color: #000000; font-family: 'Traditional Arabic', Arial, sans-serif; margin: 0;\">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>\n</div>\n\n\n<p><script type=\"text/javascript\">\n  function changesoundy(ID) {\n    var sound_id = document.getElementById(\"quran_player_by_sora\");\n    sound_id.innerHTML = '<div style=\"margin-top:15px;\"><audio controls autoplay><source src=\"'+ID+'\" type=\"audio/mpeg\">متصفحك لا يدعم عنصر الصوت</audio><br /><a href=\"'+ID+'\">تنزيل الملف</a></div>';\n  }\n</script><h2 class=\"sora_title\">سورة الطارق</h2><div id=\"quran_player_by_sora\"></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086001.mp3');\">وَالسَّمَاءِ وَالطَّارِقِ <span class=\"sora_name_by_sora\">الطارق [1]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086002.mp3');\">وَمَا أَدْرَاكَ مَا الطَّارِقُ <span class=\"sora_name_by_sora\">الطارق [2]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086003.mp3');\">النَّجْمُ الثَّاقِبُ <span class=\"sora_name_by_sora\">الطارق [3]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086004.mp3');\">إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ <span class=\"sora_name_by_sora\">الطارق [4]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086005.mp3');\">فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ <span class=\"sora_name_by_sora\">الطارق [5]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086006.mp3');\">خُلِقَ مِن مَّاءٍ دَافِقٍ <span class=\"sora_name_by_sora\">الطارق [6]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086007.mp3');\">يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ <span class=\"sora_name_by_sora\">الطارق [7]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086008.mp3');\">إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ <span class=\"sora_name_by_sora\">الطارق [8]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086009.mp3');\">يَوْمَ تُبْلَى السَّرَائِرُ <span class=\"sora_name_by_sora\">الطارق [9]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086010.mp3');\">فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ <span class=\"sora_name_by_sora\">الطارق [10]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086011.mp3');\">وَالسَّمَاءِ ذَاتِ الرَّجْعِ <span class=\"sora_name_by_sora\">الطارق [11]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086012.mp3');\">وَالْأَرْضِ ذَاتِ الصَّدْعِ <span class=\"sora_name_by_sora\">الطارق [12]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086013.mp3');\">إِنَّهُ لَقَوْلٌ فَصْلٌ <span class=\"sora_name_by_sora\">الطارق [13]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086014.mp3');\">وَمَا هُوَ بِالْهَزْلِ <span class=\"sora_name_by_sora\">الطارق [14]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086015.mp3');\">إِنَّهُمْ يَكِيدُونَ كَيْدًا <span class=\"sora_name_by_sora\">الطارق [15]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086016.mp3');\">وَأَكِيدُ كَيْدًا <span class=\"sora_name_by_sora\">الطارق [16]</span></div></div><div class=\"quran_gateway_by_sora\"><div class=\"aya_ar_by_sora\" onclick=\"changesoundy('https://www.qurantranslations.net/sound/versebyversequran/Arabic_Alafasy/086017.mp3');\">فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا <span class=\"sora_name_by_sora\">الطارق [17]</span></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>نقدم سورة الطارق مكتوبة بخط كبير، وعدد آياتها 17، مع تلاوة صوتية آية بآية.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "categories": [
+    1134
+  ],
+  "tags": [],
+  "yoast_head_json": {
+    "title": "سورة الطارق مكتوبة بخط كبير: 17 آية مع الترجمة الإنجليزية",
+    "description": "اقرأ سورة الطارق مكتوبة بخط كبير، وعدد آياتها 17، مع تلاوة صوتية آية بآية.",
+    "canonical": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+    "og_locale": "ar_AR",
+    "og_type": "article",
+    "og_title": "سورة الطارق مكتوبة بخط كبير: 17 آية مع الترجمة الإنجليزية",
+    "og_description": "اقرأ سورة الطارق مكتوبة بخط كبير، وعدد آياتها 17، مع تلاوة صوتية آية بآية.",
+    "og_url": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+    "og_site_name": "Quran Book",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 630,
+        "url": "https://quranbook.org/img/quran-covers/quran-07.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "سورة الطارق مكتوبة بخط كبير: 17 آية مع الترجمة الإنجليزية",
+      "datePublished": "2026-11-25T22:44:00+00:00",
+      "dateModified": "2026-11-25T22:44:00+00:00",
+      "mainEntityOfPage": "https://quranbook.org/%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%82-%d9%85%d9%83%d8%aa%d9%88%d8%a8%d8%a9-%d8%a8%d8%ae%d8%b7-%d9%83%d8%a8%d9%8a%d8%b1-17-%d8%a2%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%aa/",
+      "inLanguage": "ar",
+      "image": "https://quranbook.org/img/quran-covers/quran-07.jpg",
+      "articleSection": [
+        "سور القران مع الترجمه الانجليزيه"
+      ]
+    }
+  },
+  "qbSeriesSurah": 86
+}

@@ -1,0 +1,246 @@
+{
+  "generatedAt": "2026-11-26T12:56:09.994Z",
+  "built": {
+    "htmlFiles": 2329,
+    "arabicPostPages": 856,
+    "mixedArabicPostPages": 0,
+    "seriesPostPages": 72,
+    "englishPostPages": 72,
+    "emptyPostsBuilt": []
+  },
+  "sitemaps": {
+    "main": 1968,
+    "quran": 115,
+    "english": 0,
+    "series": 72,
+    "seriesEn": 72
+  },
+  "robots": {
+    "sitemapEn": true,
+    "seriesSitemaps": true,
+    "quranSitemap": true
+  },
+  "langFiles": {
+    "ar": 1968,
+    "en": 361,
+    "other": 0
+  },
+  "seo": {
+    "files": 2329,
+    "missingDescription": 0,
+    "missingJsonLd": 0,
+    "missingCanonical": 0,
+    "multipleH1": 0
+  },
+  "purity": {
+    "englishPages": [
+      {
+        "path": "7459-2/index.html",
+        "ar": 438,
+        "la": 6
+      },
+      {
+        "path": "99-names-of-allah-pdf/index.html",
+        "ar": 3685,
+        "la": 7737
+      },
+      {
+        "path": "a-fascinating-journey-through-surat-al-kahaf-with-sheikh-afif-moh-taj/index.html",
+        "ar": 2,
+        "la": 232
+      },
+      {
+        "path": "best-soothing-quran-recitation-for-easy-restful-sleep-discover-the-ultimate-sleeping-aid-with-curiosity/index.html",
+        "ar": 2,
+        "la": 263
+      },
+      {
+        "path": "calm-quran-recitation-for-a-peaceful-sleep-💤-mental-relaxation-🎧-soothing-serenity-💚-nerve-calming-effects-😴-listen-now-for-a-beautifully-tranquil-experienc/index.html",
+        "ar": 157,
+        "la": 420
+      },
+      {
+        "path": "category/al-anfal/index.html",
+        "ar": 69,
+        "la": 1549
+      },
+      {
+        "path": "category/al-quran-and-translation-in-english/index.html",
+        "ar": 69,
+        "la": 1729
+      },
+      {
+        "path": "category/baqarah/index.html",
+        "ar": 380,
+        "la": 1572
+      },
+      {
+        "path": "category/blogging/index.html",
+        "ar": 69,
+        "la": 1552
+      },
+      {
+        "path": "category/braille/index.html",
+        "ar": 288,
+        "la": 1792
+      },
+      {
+        "path": "category/fares-abbad-quran/index.html",
+        "ar": 395,
+        "la": 1653
+      },
+      {
+        "path": "category/https-www-youtube-com-watchvta6bnize1g4listplfg6ydf89f5hlulc-sakbbqylgr2mlusk/index.html",
+        "ar": 69,
+        "la": 1720
+      },
+      {
+        "path": "category/kitab-sunan-an-nasai-pdf/index.html",
+        "ar": 69,
+        "la": 1714
+      },
+      {
+        "path": "category/names-of-allah/index.html",
+        "ar": 133,
+        "la": 1796
+      },
+      {
+        "path": "category/quran/index.html",
+        "ar": 5380,
+        "la": 2577
+      },
+      {
+        "path": "category/quran-book-pdf/index.html",
+        "ar": 756,
+        "la": 1763
+      },
+      {
+        "path": "category/quran-in-english/al-anam/index.html",
+        "ar": 69,
+        "la": 1655
+      },
+      {
+        "path": "category/quran-in-english/al-anfal-quran-in-english/index.html",
+        "ar": 69,
+        "la": 1685
+      },
+      {
+        "path": "category/quran-in-english/al-araf/index.html",
+        "ar": 69,
+        "la": 1657
+      },
+      {
+        "path": "category/quran-in-english/al-fatihah/index.html",
+        "ar": 176,
+        "la": 1713
+      },
+      {
+        "path": "category/quran-in-english/al-maidah/index.html",
+        "ar": 69,
+        "la": 1707
+      },
+      {
+        "path": "category/quran-in-english/at-taubah/index.html",
+        "ar": 75,
+        "la": 1667
+      },
+      {
+        "path": "category/quran-in-english/index.html",
+        "ar": 111,
+        "la": 2210
+      },
+      {
+        "path": "category/quran-in-english/surah-al-kahf-in-english/index.html",
+        "ar": 69,
+        "la": 1707
+      },
+      {
+        "path": "category/quran-karim/index.html",
+        "ar": 69,
+        "la": 1675
+      },
+      {
+        "path": "category/quran-recitations-with-translatios-english/index.html",
+        "ar": 92,
+        "la": 1789
+      },
+      {
+        "path": "category/quran-with-urdu-translation/index.html",
+        "ar": 69,
+        "la": 1779
+      },
+      {
+        "path": "category/surah-al-fath/index.html",
+        "ar": 342,
+        "la": 1698
+      },
+      {
+        "path": "category/surah-al-imran/index.html",
+        "ar": 148,
+        "la": 1599
+      },
+      {
+        "path": "category/surah-yaseen-pdf/index.html",
+        "ar": 164,
+        "la": 1708
+      },
+      {
+        "path": "category/surat-pdf/index.html",
+        "ar": 69,
+        "la": 1664
+      },
+      {
+        "path": "category/the-letter-a/index.html",
+        "ar": 69,
+        "la": 1655
+      },
+      {
+        "path": "category/the-noble-quran-in-english/index.html",
+        "ar": 69,
+        "la": 1708
+      },
+      {
+        "path": "category/uncategorized/index.html",
+        "ar": 69,
+        "la": 1567
+      },
+      {
+        "path": "complete-recitation-of-surah-al-baqara-by-the-talented-qari-islam-sobhi-a-must-listen-for-curious-minds/index.html",
+        "ar": 228,
+        "la": 428
+      },
+      {
+        "path": "discover-the-captivating-recitation-of-surah-al-baqarah-by-meshary-alafasy-from-the-holy-quran-ad-free/index.html",
+        "ar": 2,
+        "la": 260
+      },
+      {
+        "path": "experience-surat-al-baqarah-recited-by-sheikh-abdul-basit-abdul-samad-in-the-holy-quran-live-explore-the-beauty-and-power-of-this-sacred-recitation/index.html",
+        "ar": 253,
+        "la": 490
+      },
+      {
+        "path": "experience-the-intriguing-recitation-of-surat-al-baqarah-by-sheikh-abdul-basit-abdul-samad-live-quranique-reading/index.html",
+        "ar": 252,
+        "la": 412
+      },
+      {
+        "path": "experience-the-magnificence-of-makkah-live-tv-explore-the-beauty-of-masjid-al-haram-and-quranic-recitations-in-hd-streaming-now-🕋/index.html",
+        "ar": 193,
+        "la": 455
+      },
+      {
+        "path": "explore-the-beautiful-recitation-of-surat-al-baqarah-by-sheikh-abdul-basit-abdul-samad-live-quranic-experience/index.html",
+        "ar": 252,
+        "la": 409
+      }
+    ],
+    "mixedArabicPages": [],
+    "englishWithArabic": 277,
+    "mixedArabicWithLatin": 0
+  },
+  "redirects": {
+    "total": 19,
+    "emptyPostRedirects": 6
+  }
+}

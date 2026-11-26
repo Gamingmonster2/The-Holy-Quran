@@ -1,8 +1,11 @@
 import React from 'react';
 import { useEffect, useRef, useState } from 'react';
 import { Search, X } from 'lucide-react';
+import { translations } from '../lib/i18n.mjs';
 
-export default function SearchBox({ placeholder = 'ابحث في المكتبة...' }) {
+export default function SearchBox({ lang = 'ar' }) {
+  const ui = translations(lang);
+  const placeholder = ui.searchPlaceholder;
   const [q, setQ] = useState('');
   const [items, setItems] = useState([]);
   const [open, setOpen] = useState(false);
@@ -55,11 +58,11 @@ export default function SearchBox({ placeholder = 'ابحث في المكتبة.
         type="search"
         value={q}
         placeholder={placeholder}
-        aria-label="البحث في الموقع"
+        aria-label={ui.searchAria}
         onFocus={() => q && setOpen(true)}
         onChange={(e) => change(e.target.value)}
       />
-      {q && <button type="button" className="qb-search-clear" onClick={() => change('')} aria-label="مسح البحث"><X size={14} /></button>}
+      {q && <button type="button" className="qb-search-clear" onClick={() => change('')} aria-label={ui.searchClear}><X size={14} /></button>}
       {open && (
         <div className="qb-search-results" role="listbox">
           {items.length ? items.map((x) => (
@@ -67,7 +70,7 @@ export default function SearchBox({ placeholder = 'ابحث في المكتبة.
               <strong>{x.title}</strong>
               {x.summary && <small>{x.summary.slice(0, 90)}</small>}
             </a>
-          )) : <p className="qb-search-empty">لا توجد نتائج مطابقة</p>}
+          )) : <p className="qb-search-empty">{ui.noResults}</p>}
         </div>
       )}
     </div>
